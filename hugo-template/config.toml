@@ -19,6 +19,9 @@ enableEmoji = true
   tagline = "SITE_TAGLINE"
   primary_color = "SITE_COLOR"
   cloudflare_analytics = "CF_ANALYTICS_TOKEN"
+  # Impact affiliate network (Chewy / Petco via impact.com)
+  impact_verification = "ea93f336-7adb-49e5-a468-1bfbdcf21f54"
+  impact_tracking_id  = "P-A7320106-846b-4e82-afb3-a9bf88c2dd1e1"
 
 [taxonomies]
   category = "categories"
