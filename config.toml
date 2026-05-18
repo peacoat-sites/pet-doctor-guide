@@ -10,9 +10,9 @@ enableEmoji = true
   description = "Practical pet health guides covering symptoms, vet visits, nutrition, and preventive care for dogs and cats."
   niche = "Pet Health & Vet Advice"
   adsense_id = "ca-pub-3466203197759215"
-  adsense_slot_header = "SLOT_PET_HEADER"
-  adsense_slot_incontent = "SLOT_PET_INCONTENT"
-  adsense_slot_sidebar = "SLOT_PET_SIDEBAR"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
   image_query = "pet dog cat health veterinarian clinic care"
   author = "Pet Doctor Guide Editorial Team"
   logo_text = "Pet Doctor Guide"
@@ -20,12 +20,24 @@ enableEmoji = true
   primary_color = "#8b4513"
   cloudflare_analytics = ""
 
+  # Authority theme
+  hero_color_1 = "#1c0d00"
+  hero_color_2 = "#7c2d12"
+  hero_color_3 = "#c2410c"
+  hero_color_4 = "#0f172a"
+  monthly_readers = 34000
+  research_hours  = 290
+  satisfaction    = 96
+  trust_extra     = "Veterinarian-reviewed content"
+  impact_verification = "ea93f336-7adb-49e5-a468-1bfbdcf21f54"
+  impact_tracking_id  = "P-A7320106-846b-4e82-afb3-a9bf88c2dd1e1" 
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
 
 [sitemap]
@@ -37,6 +49,10 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
 
 [permalinks]
   posts = "/:slug/"
