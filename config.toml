@@ -1,0 +1,42 @@
+baseURL = "https://petdoctorguide.com/"
+languageCode = "en-us"
+title = "Pet Doctor Guide"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Practical pet health guides covering symptoms, vet visits, nutrition, and preventive care for dogs and cats."
+  niche = "Pet Health & Vet Advice"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "SLOT_PET_HEADER"
+  adsense_slot_incontent = "SLOT_PET_INCONTENT"
+  adsense_slot_sidebar = "SLOT_PET_SIDEBAR"
+  image_query = "pet dog cat health veterinarian clinic care"
+  author = "Pet Doctor Guide Editorial Team"
+  logo_text = "Pet Doctor Guide"
+  tagline = "Keep your pets healthy — vet-reviewed guidance for dogs, cats, and more"
+  primary_color = "#8b4513"
+  cloudflare_analytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
