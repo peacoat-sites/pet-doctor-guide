@@ -29,8 +29,8 @@ enableEmoji = true
   research_hours  = 290
   satisfaction    = 96
   trust_extra     = "Veterinarian-reviewed content"
-  impact_verification = "ea93f336-7adb-49e5-a468-1bfbdcf21f54"
-  impact_tracking_id  = "P-A7320106-846b-4e82-afb3-a9bf88c2dd1e1" 
+  impact_verification = ""
+  impact_tracking_id   = "" 
 
 [taxonomies]
   category = "categories"
