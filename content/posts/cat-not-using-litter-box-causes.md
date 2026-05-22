@@ -3,7 +3,7 @@ title: "Cat Not Using Litter Box Causes"
 date: 2026-05-20T00:34:55.884792+00:00
 draft: false
 description: "Discover the most common reasons your cat is avoiding the litter box and learn simple, effective solutions to solve the problem and restore good litter habits f"
-image: "https://images.pexels.com/photos/6235017/pexels-photo-6235017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32830896/pexels-photo-32830896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Behavior"]
 tags: ["using", "litter", "causes"]
 author: "Karen Briggs"
