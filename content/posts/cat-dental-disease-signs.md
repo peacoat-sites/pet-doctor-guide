@@ -3,7 +3,7 @@ title: "Cat Dental Disease Signs"
 date: 2026-05-20T04:10:14.413340+00:00
 draft: false
 description: "Spot the early signs of cat dental disease before pain sets in. Learn what to look for, from bad breath to red gums, to protect your cat's oral health."
-image: "https://images.pexels.com/photos/6560385/pexels-photo-6560385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32830898/pexels-photo-32830898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["dental", "disease", "signs"]
 author: "Lisa Tanaka"
