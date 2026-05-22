@@ -3,7 +3,7 @@ title: "Flea Tick Prevention Dogs"
 date: 2026-05-20T12:07:12.290782+00:00
 draft: false
 description: "Protect your dog from fleas and ticks with our expert prevention tips. Discover the best treatments, products, and strategies to keep your pet safe year-round."
-image: "https://images.pexels.com/photos/6560385/pexels-photo-6560385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33089275/pexels-photo-33089275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["flea", "tick", "prevention", "dogs"]
 author: "Dr. Samuel Osei"
