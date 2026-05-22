@@ -3,7 +3,7 @@ title: "Cat Annual Vet Visit What To Expect"
 date: 2026-05-18T18:25:00.009172+00:00
 draft: false
 description: "Learn what happens during your cat's annual vet visit, from physical exams and vaccinations to bloodwork and parasite prevention, so you can feel fully prepared"
-image: "https://images.pexels.com/photos/7468978/pexels-photo-7468978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32727346/pexels-photo-32727346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["annual", "visit", "what", "expect"]
 author: "Dr. Samuel Osei"
