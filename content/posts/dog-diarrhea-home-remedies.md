@@ -3,7 +3,7 @@ title: "Dog Diarrhea Home Remedies"
 date: 2026-05-20T00:31:24.129064+00:00
 draft: false
 description: "Help your pup feel better fast with these safe and effective dog diarrhea home remedies, including bland diets, probiotics, and hydration tips."
-image: "https://images.pexels.com/photos/6560385/pexels-photo-6560385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17345751/pexels-photo-17345751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["diarrhea", "home", "remedies"]
 author: "Dr. Samuel Osei"
