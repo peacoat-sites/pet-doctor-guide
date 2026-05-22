@@ -3,7 +3,7 @@ title: "Dog Teeth Cleaning Cost"
 date: 2026-05-20T04:05:33.363464+00:00
 draft: false
 description: "Learn how much dog teeth cleaning costs, what factors affect the price, and how to keep your pup's smile healthy without breaking the bank."
-image: "https://images.pexels.com/photos/10559203/pexels-photo-10559203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33516654/pexels-photo-33516654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["teeth", "cleaning", "cost"]
 author: "Lisa Tanaka"
