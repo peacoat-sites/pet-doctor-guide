@@ -3,7 +3,7 @@ title: "Cat Hiding Behavior Explained"
 date: 2026-05-19T12:21:48.917019+00:00
 draft: false
 description: "Discover why cats hide and what their behavior means. Learn common triggers, when to worry, and how to help your cat feel safe and secure at home."
-image: "https://images.pexels.com/photos/6235124/pexels-photo-6235124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30239303/pexels-photo-30239303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Behavior"]
 tags: ["hiding", "behavior", "explained"]
 author: "Karen Briggs"
