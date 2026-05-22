@@ -3,7 +3,7 @@ title: "Your Dog's First Vet Visit: What to Expect and How to Prepare"
 date: 2026-05-18
 slug: "your-dogs-first-vet-visit-guide"
 description: "Whether you have a new puppy or a newly adopted adult dog, here's exactly what happens at the first vet appointment and how to make it stress-free."
-image: "https://images.pexels.com/photos/5058118/pexels-photo-5058118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33516646/pexels-photo-33516646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["vet visit", "puppy care", "dog health", "first vet appointment"]
 author: "Karen Briggs"
