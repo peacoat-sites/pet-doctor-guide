@@ -3,7 +3,7 @@ title: "Dog Vaccinations Schedule Guide"
 date: 2026-05-18T22:02:02.974744+00:00
 draft: false
 description: "Stay on top of your dog's health with our complete vaccination schedule guide. Learn which vaccines are essential, when to give them, and why they matter."
-image: "https://images.pexels.com/photos/7468978/pexels-photo-7468978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["vaccinations", "schedule", "guide"]
 author: "Dr. Samuel Osei"
