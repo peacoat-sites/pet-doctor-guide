@@ -3,7 +3,7 @@ title: "Puppy Vet Schedule First Year"
 date: 2026-05-20T04:00:32.176362+00:00
 draft: false
 description: "Help your puppy thrive with our complete first-year vet schedule guide. Learn which vaccines, checkups, and treatments your pup needs and when to book them."
-image: "https://images.pexels.com/photos/6235124/pexels-photo-6235124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3888511/pexels-photo-3888511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["puppy", "schedule", "first", "year"]
 author: "Dr. Samuel Osei"
