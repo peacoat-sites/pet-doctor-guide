@@ -9,6 +9,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+author = "Stephen Brenish"
   description = "Practical pet health guides covering symptoms, vet visits, nutrition, and preventive care for dogs and cats."
   niche = "Pet Health & Vet Advice"
   adsense_id = "ca-pub-3466203197759215"
