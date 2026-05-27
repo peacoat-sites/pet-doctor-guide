@@ -43,6 +43,20 @@
       {{ partial "related-articles.html" . }}
     </div>
 
+    {{ with .Site.Params.disclaimer }}
+    <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
+    {{ end }}
+    {{ with .Site.Params.persona_name }}
+    <div class="author-bio">
+      <div class="author-avatar">{{ $.Site.Params.persona_initials }}</div>
+      <div class="author-info">
+        <strong class="author-name">{{ . }}</strong>
+        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
+        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
+      </div>
+    </div>
+    {{ end }}
+
     <!-- In-article Ad (after content intro — highest RPM position) -->
     <div class="ad-container ad-incontent" style="margin:24px 0">
       <ins class="adsbygoogle"
