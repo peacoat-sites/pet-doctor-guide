@@ -1,43 +1,35 @@
 ---
-title: "About Pet Doctor Guide"
-description: "Learn about Pet Doctor Guide — our mission, editorial standards, and the topics we cover."
-layout: "page"
+title: "About Becca Hamlin"
+description: "Learn about Becca Hamlin, the Pet Health Editor behind petdoctorguide.com."
 ---
 
-## Our Mission
+# About Becca Hamlin
 
-Pet Doctor Guide helps pet owners understand their animals' health — from decoding vet visit procedures to spotting early warning signs, understanding vaccination schedules, and navigating pet insurance. We help you be a more informed advocate for your pet.
+I've spent most of my life surrounded by animals — dogs, cats, rabbits, and the occasional rescue that needed a temporary home. Growing up with pets taught me early that being a good animal owner means more than feeding schedules and vet checkups; it means understanding what your pet is telling you and knowing when something is wrong before it becomes serious.
 
-## What We Cover
+Over the years I've navigated everything from a dog with a mystery allergy that took three specialists to diagnose, to a senior cat with kidney disease requiring daily subcutaneous fluids. Those experiences sent me deep into research — reading veterinary journals, consulting with multiple vets, and learning to ask the right questions. I started Pet Doctor Guide because I kept finding that the information pet owners actually needed was buried under product ads and generic advice.
 
-Pet Doctor Guide publishes in-depth, reader-first guides on pet health, veterinary care, common pet illnesses, preventive care, vaccinations, pet nutrition, finding a veterinarian, and pet insurance.
+My goal here is simple: write the guides I wish I'd had when I was sitting in a waiting room, worried sick about my animals.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Why I Started Pet Doctor Guide
 
-## Editorial Standards
+When my dog was diagnosed with a chronic condition at age four, I spent weeks trying to find clear, honest information about treatment options, costs, and what to realistically expect. Most sites either oversimplified or pushed me toward expensive products. I wanted a resource written from the pet owner's perspective — someone who had actually dealt with vet bills, insurance claims, and the emotional weight of caring for a sick animal.
 
-We follow a straightforward editorial process:
+Pet Doctor Guide fills that gap. Every article is written with the goal of helping you walk into your next vet appointment better informed, better prepared, and more confident in the decisions you're making for your pet.
 
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+## What You'll Find Here
 
-## Important Disclaimer
+- **Symptom guides:** What common signs mean and when to call the vet
+- **Vet visit prep:** What to expect from appointments, tests, and procedures
+- **Pet nutrition:** Decoding labels, choosing the right food, and spotting deficiencies
+- **Preventive care:** Vaccination schedules, parasite prevention, and wellness exams
+- **Pet insurance:** How it works, what to look for, and how to evaluate plans
+- **Senior pet care:** Managing aging, chronic conditions, and quality of life decisions
 
-<div class="disclaimer-box">
+## A Note on Our Content
 
-The content on this site is for **general educational purposes only** and does **not constitute veterinary advice**. No veterinarian-client-patient relationship is formed by using this site. Every pet is different, and health decisions should always be made in consultation with a **licensed veterinarian** who can evaluate your specific animal. If your pet is experiencing a medical emergency, contact your nearest emergency veterinary clinic immediately.
+Every article on this site is grounded in publicly available veterinary research, guidance from professional veterinary organizations, and my own experience as a multi-pet household. I link to authoritative sources — AVMA, veterinary school resources, peer-reviewed research — wherever possible. Nothing on this site replaces a licensed veterinarian's judgment. I am not a vet, and this site is not a substitute for professional care.
 
-</div>
+## Get in Touch
 
-## About This Site
-
-Pet Doctor Guide is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
-
-## Contact
-
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@petdoctorguide.com](mailto:hello@petdoctorguide.com)
+Have a question, correction, or topic you'd like me to cover? I'd love to hear from you. Visit the [contact page](/contact/) to reach out directly.
