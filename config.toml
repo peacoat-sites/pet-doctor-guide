@@ -8,6 +8,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#fff7f5"
+  nav_style = "light"
 logo_text_2 = "Doctor Guide"
 logo_text_1 = "Pet"
 author = "Stephen Brenish"
