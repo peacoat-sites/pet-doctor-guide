@@ -3,7 +3,7 @@ title: "Cat Stress Signs Causes"
 date: 2026-05-27T12:34:38.150228+00:00
 draft: false
 description: "Recognizing cat stress signs is essential for pet health. Learn common causes like environmental changes, loud noises, and medical issues, plus how to help your"
-image: "https://pixabay.com/get/g0df9491b749a2c5379ec9f7f4537cddb68f24653a647b99316aaa89ed43f9de9e36450a7945cfd881a33ef02f81f7bf0e4108b986042d67db1523e662432c3b4_1280.jpg"
+image: "https://images.pexels.com/photos/4587987/pexels-photo-4587987.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Behavior"]
 tags: ["stress", "signs", "causes"]
 author: "Mark Callahan"
