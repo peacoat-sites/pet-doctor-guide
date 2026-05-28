@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Privacy Policy for Pet Doctor Guide — how we collect, use, and protect your information."
+description: "Privacy Policy for Pet Doctor Guide ,  how we collect, use, and protect your information."
 layout: "page"
 ---
 
@@ -14,7 +14,7 @@ Pet Doctor Guide ("we," "us," or "our") operates petdoctorguide.com (the "Site")
 
 **Information you provide:** We collect information you voluntarily submit, such as your name and email address when you contact us.
 
-**Automatically collected data:** When you visit the Site, third-party services automatically collect usage data including pages visited, time on page, browser type, device type, referring URL, and general geographic region (country/city). We do not store this data directly — it is processed by the services described below.
+**Automatically collected data:** When you visit the Site, third-party services automatically collect usage data including pages visited, time on page, browser type, device type, referring URL, and general geographic region (country/city). We do not store this data directly ,  it is processed by the services described below.
 
 ---
 
@@ -24,8 +24,8 @@ We use cookies and similar tracking technologies. A cookie is a small file store
 
 | Cookie Name | Provider | Purpose | Duration |
 |---|---|---|---|
-| _ga | Google Analytics | Analytics — distinguishes users | 2 years |
-| _gid | Google Analytics | Analytics — distinguishes users | 24 hours |
+| _ga | Google Analytics | Analytics ,  distinguishes users | 2 years |
+| _gid | Google Analytics | Analytics ,  distinguishes users | 24 hours |
 | IDE | Google DoubleClick | Ad targeting and measurement | 1 year |
 | NID | Google | Ad personalization | 6 months |
 
@@ -41,7 +41,7 @@ We use Google Analytics to understand site traffic and improve our content. Goog
 
 ## 4. Google AdSense and DoubleClick
 
-We use Google AdSense to display advertisements. Google and its partners use cookies — including the DoubleClick (IDE) cookie — to serve ads based on your visits to this Site and other sites across the internet (interest-based advertising).
+We use Google AdSense to display advertisements. Google and its partners use cookies ,  including the DoubleClick (IDE) cookie ,  to serve ads based on your visits to this Site and other sites across the internet (interest-based advertising).
 
 To opt out of personalized advertising:
 - Visit [Google Ad Settings](https://www.google.com/settings/ads)
