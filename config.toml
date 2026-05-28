@@ -21,14 +21,9 @@ author = "Stephen Brenish"
   image_query = "pet dog cat health veterinarian clinic care"
   logo_text = "Pet Doctor Guide"
   tagline = "Keep your pets healthy — vet-reviewed guidance for dogs, cats, and more"
-  primary_color = "#8b4513"
   cloudflare_analytics = ""
 
   # Authority theme
-  hero_color_1 = "#1c0d00"
-  hero_color_2 = "#7c2d12"
-  hero_color_3 = "#c2410c"
-  hero_color_4 = "#0f172a"
   monthly_readers = 34000
   research_hours  = 290
   satisfaction    = 96
@@ -41,6 +36,11 @@ author = "Stephen Brenish"
   persona_bio        = "Lifelong animal owner and pet health writer who has navigated vet costs, pet insurance, and animal care decisions across dogs, cats, and small animals."
   persona_initials   = "BH"
   disclaimer         = "This content is for informational purposes only and is not a substitute for professional veterinary advice. Always consult a licensed veterinarian for your pet's health needs."
+primary_color = "#2dd4bf"
+hero_color_1 = "#000d0c"
+hero_color_2 = "#001a18"
+hero_color_3 = "#2dd4bf"
+hero_color_4 = "#000908"
 
 [taxonomies]
   category = "categories"
