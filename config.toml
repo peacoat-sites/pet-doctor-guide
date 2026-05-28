@@ -2,6 +2,7 @@ baseURL = "https://petdoctorguide.com/"
 enableGitInfo = true
 languageCode = "en-us"
 title = "Pet Doctor Guide"
+
 enableRobotsTXT = true
 enableEmoji = true
 
