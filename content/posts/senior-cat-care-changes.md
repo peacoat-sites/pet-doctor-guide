@@ -3,7 +3,7 @@ title: "Senior Cat Care Changes"
 date: 2026-05-25T12:48:14.243905+00:00
 draft: false
 description: "Senior cat care changes: essential tips for managing health, nutrition, mobility, and comfort as your feline friend enters their golden years."
-image: "https://pixabay.com/get/g2386f61d48af559e235ec4532123ae75d7d958ec9e9f0d5cb243bd8d2aa10bbbbe88d2d5eb7c53159e5eb9d4b5e8a9b76fbff93af712b25af0fbc80a24ad1ea8_1280.jpg"
+image: "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Senior Pets"]
 tags: ["senior", "care", "changes"]
 author: "Dr. Samuel Osei"
