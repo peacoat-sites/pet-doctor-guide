@@ -3,7 +3,7 @@ title: "Pet Food Ingredients Guide"
 date: 2026-05-23T10:46:41.599114+00:00
 draft: false
 description: "Pet food ingredients guide: Learn what's in your pet's food, how to read labels, and choose nutritious options for your dog or cat's health and wellness."
-image: "https://pixabay.com/get/ga7c34c31e1f61c360ace3db3a48f3ce93281fe34c1a3370cd09dbcb76b5d57a1a65d39c4b1f2af2b61fe54555854d1ae022e39f89335db418df44d2432afc9dc_1280.jpg"
+image: "https://images.pexels.com/photos/1870301/pexels-photo-1870301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Nutrition"]
 tags: ["food", "ingredients", "guide"]
 author: "Dr. Samuel Osei"
