@@ -10,10 +10,11 @@ title = "Pet Doctor Guide"
 
 
 
-enableRobotsTXT = true
-enableEmoji = true
 
 disableHugoGeneratorInject = true
+
+enableRobotsTXT = true
+enableEmoji = true
 
 [pagination]
   pagerSize = 12
