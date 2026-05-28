@@ -9,6 +9,13 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+hero_color_4 = "#000908"
+hero_color_3 = "#2dd4bf"
+hero_color_2 = "#001a18"
+hero_color_1 = "#000d0c"
+primary_color = "#2dd4bf"
+logo_text_2 = "Doctor Guide"
+logo_text_1 = "Pet"
 author = "Stephen Brenish"
   description = "Practical pet health guides covering symptoms, vet visits, nutrition, and preventive care for dogs and cats."
   niche = "Pet Health & Vet Advice"
