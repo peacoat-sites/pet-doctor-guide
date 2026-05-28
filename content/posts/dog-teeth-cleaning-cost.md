@@ -118,8 +118,8 @@ Dental disease is the most common condition I see go unaddressed until it become
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
 *Photo: [Bilal Izaddin](https://www.pexels.com/@sparkphotopro) via Pexels*
@@ -134,8 +134,8 @@ Dental disease is the most common condition I see go unaddressed until it become
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) ,  Vet-approved 95-piece kit for dogs and cats ,  covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) ,  The #1 veterinarian-recommended joint supplement brand ,  clinically studied for reducing joint pain and improving mobility in dogs.
-- **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9) ,  Daily structured journal for tracking anxiety triggers, patterns, and progress ,  ideal between therapy sessions.
-- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10) ,  Daily check-in journal for depression ,  structured mood tracking and reflection prompts designed around therapeutic principles.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32),  Vet-approved 95-piece kit for dogs and cats,  covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36),  The #1 veterinarian-recommended joint supplement brand,  clinically studied for reducing joint pain and improving mobility in dogs.
+- **[Anti-Anxiety Journal](https://www.amazon.com/dp/B095WS28JL/?tag=contentportfo-20)** (~$9),  Daily structured journal for tracking anxiety triggers, patterns, and progress,  ideal between therapy sessions.
+- **[Depression Therapy Journal](https://www.amazon.com/dp/B09M4THFHN/?tag=contentportfo-20)** (~$10),  Daily check-in journal for depression,  structured mood tracking and reflection prompts designed around therapeutic principles.
 

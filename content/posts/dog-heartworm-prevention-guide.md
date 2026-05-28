@@ -139,7 +139,7 @@ Heartworm prevention is genuinely one of the simplest, most impactful things you
 
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
@@ -154,8 +154,8 @@ Heartworm prevention is genuinely one of the simplest, most impactful things you
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) ,  Vet-approved 95-piece kit for dogs and cats ,  covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) ,  The #1 veterinarian-recommended joint supplement brand ,  clinically studied for reducing joint pain and improving mobility in dogs.
-- **[PetArmor Plus Flea & Tick Prevention ,  Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32) ,  Same active ingredient as Frontline Plus at a lower price point ,  waterproof topical flea and tick prevention for small dogs.
-- **[PetArmor Plus Flea & Tick Prevention ,  Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32) ,  Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price ,  6-month supply.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32),  Vet-approved 95-piece kit for dogs and cats,  covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36),  The #1 veterinarian-recommended joint supplement brand,  clinically studied for reducing joint pain and improving mobility in dogs.
+- **[PetArmor Plus Flea & Tick Prevention,  Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32),  Same active ingredient as Frontline Plus at a lower price point,  waterproof topical flea and tick prevention for small dogs.
+- **[PetArmor Plus Flea & Tick Prevention,  Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32),  Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price,  6-month supply.
 
