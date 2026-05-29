@@ -196,6 +196,12 @@
 
 <div class="page-wrap">
   <div class="page-content">
+    {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
+    <div class="toc">
+      <span class="toc-label">In this article</span>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
     {{ .Content }}
   </div>
 </div>
