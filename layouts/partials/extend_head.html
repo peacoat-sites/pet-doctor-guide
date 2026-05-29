@@ -1,6 +1,6 @@
 <!-- Open Graph -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} ï¿½ {{ .Site.Title }}{{ end }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
@@ -17,8 +17,8 @@
 {{ end }}
 
 <!-- Google Analytics -->
-{{ $gaID := site.Config.Services.GoogleAnalytics.ID }}
-{{ with $gaID }}
+{{  := site.Config.Services.GoogleAnalytics.ID }}
+{{ with  }}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -29,6 +29,26 @@
 {{ end }}
 
 <!-- Schema Markup -->
+
+{{- if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ .Site.Title | jsonify }},
+  "url": "{{ .Site.BaseURL }}",
+  "description": {{ .Site.Params.description | jsonify }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ .Site.BaseURL }}search/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{- end }}
 {{ if eq .Type "posts" }}
 <script type="application/ld+json">
 {
@@ -45,7 +65,11 @@
     "@type": "Organization",
     "name": {{ .Site.Title | jsonify }}
   },
-  "url": "{{ .Permalink }}"{{ with .Params.image }},
+  "url": "{{ .Permalink }}",
+  "mainEntityOfPage": "{{ .Permalink }}",
+  "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.description | jsonify }}{{ end }},
+  "wordCount": {{ .WordCount }}{{ if .Params.categories }},
+  "articleSection": {{ index .Params.categories 0 | title | jsonify }}{{ end }}{{ with .Params.image }},
   "image": {{ . | jsonify }}{{ end }}
 }
 </script>
