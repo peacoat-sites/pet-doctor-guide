@@ -42,6 +42,12 @@
     <!-- Top CTA (affiliate) -->
     {{ partial "cta-box.html" . }}
 
+    {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
+    <div class="toc">
+      <span class="toc-label">In this article</span>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
     <!-- Content with inline Amazon product after 2nd H2 -->
     <div class="post-content">
     {{- $content := .Content -}}
@@ -61,6 +67,18 @@
     {{ with .Site.Params.disclaimer }}
     <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
     {{ end }}
+
+    {{- if .Params.faqs }}
+    <div class="faq-section">
+      <h2 class="faq-heading">Frequently Asked Questions</h2>
+      {{- range .Params.faqs }}
+      <div class="faq-item">
+        <h3 class="faq-question">{{ .q }}</h3>
+        <p class="faq-answer">{{ .a }}</p>
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
 
     <!-- Author Bio -->
     {{ with .Site.Params.persona_name }}
@@ -196,12 +214,6 @@
 
 <div class="page-wrap">
   <div class="page-content">
-    {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
-    <div class="toc">
-      <span class="toc-label">In this article</span>
-      {{ .TableOfContents }}
-    </div>
-    {{ end }}
     {{ .Content }}
   </div>
 </div>
