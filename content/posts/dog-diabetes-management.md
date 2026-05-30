@@ -3,7 +3,7 @@ title: "Dog Diabetes Management"
 date: 2026-05-29T21:42:37.910472+00:00
 draft: false
 description: "Learn how to manage dog diabetes with expert tips on insulin therapy, diet, monitoring blood sugar, and improving your diabetic dogs quality of life."
-image: ""
+image: "https://images.pexels.com/photos/17072086/pexels-photo-17072086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["diabetes", "management"]
 author: "Dana Hargrove"

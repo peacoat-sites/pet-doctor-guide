@@ -3,7 +3,7 @@ title: "Cat Post-Surgery Care"
 date: 2026-05-29T22:00:18.576175+00:00
 draft: false
 description: "Help your cat recover safely after surgery with expert tips on rest, wound care, medications, diet, and signs of complications to watch for at home."
-image: ""
+image: "https://images.pexels.com/photos/6816862/pexels-photo-6816862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Surgery"]
 tags: ["post-surgery", "care"]
 author: "Alex Reeves"

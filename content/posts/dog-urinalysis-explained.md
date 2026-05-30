@@ -3,7 +3,7 @@ title: "Dog Urinalysis Explained"
 date: 2026-05-29T21:52:35.040498+00:00
 draft: false
 description: "Learn what a dog urinalysis reveals about your pet's health, how the test works, what results mean, and when your vet may recommend this simple diagnostic tool."
-image: ""
+image: "https://images.pexels.com/photos/9435112/pexels-photo-9435112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Diagnostics"]
 tags: ["urinalysis", "explained"]
 author: "Alex Reeves"
