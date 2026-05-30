@@ -1,6 +1,6 @@
 ---
 title: "Dog Allergies Symptoms Treatment"
-date: 2026-05-23T10:44:30.454616+00:00
+date: 2026-05-27T22:34:34.545860+00:00
 draft: false
 description: "Dog allergies can cause itching, rashes, and ear infections. Learn to identify symptoms in your pet and discover effective treatment options from your vet."
 image: "https://images.pexels.com/photos/20391626/pexels-photo-20391626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

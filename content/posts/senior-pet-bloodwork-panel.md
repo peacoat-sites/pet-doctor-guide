@@ -1,6 +1,6 @@
 ---
 title: "Senior Pet Bloodwork Panel"
-date: 2026-05-29T21:50:47.700658+00:00
+date: 2026-05-26T12:40:07.675552+00:00
 draft: false
 description: "Regular bloodwork panels help detect hidden health issues in aging pets early. Learn what tests are included, what they reveal, and how often seniors should be "
 image: "https://images.pexels.com/photos/33739788/pexels-photo-33739788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

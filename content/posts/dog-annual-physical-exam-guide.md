@@ -1,6 +1,6 @@
 ---
 title: "Dog Annual Physical Exam Guide"
-date: 2026-05-29T21:44:24.748775+00:00
+date: 2026-05-26T13:56:57.632184+00:00
 draft: false
 description: "Regular dog annual exams catch health issues early. Learn what to expect, how to prepare, and why yearly vet visits are vital for your dog's long-term health."
 image: "https://images.pexels.com/photos/6235650/pexels-photo-6235650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

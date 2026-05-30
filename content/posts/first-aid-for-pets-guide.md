@@ -1,6 +1,6 @@
 ---
 title: "First Aid For Pets Guide"
-date: 2026-05-28T22:23:42.633291+00:00
+date: 2026-05-27T17:37:04.095931+00:00
 draft: false
 description: "Learn essential first aid for pets with our comprehensive guide. Discover how to handle emergencies, treat injuries, and keep your furry friends safe and health"
 image: "https://images.pexels.com/photos/6235020/pexels-photo-6235020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

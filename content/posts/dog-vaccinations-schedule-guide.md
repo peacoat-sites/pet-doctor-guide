@@ -1,6 +1,6 @@
 ---
 title: "Dog Vaccinations Schedule Guide"
-date: 2026-05-18T22:02:02.974744+00:00
+date: 2026-05-22T23:41:33.647788+00:00
 draft: false
 description: "Stay on top of your dog's health with our complete vaccination schedule guide. Learn which vaccines are essential, when to give them, and why they matter."
 image: "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

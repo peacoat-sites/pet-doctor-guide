@@ -1,6 +1,6 @@
 ---
 title: "Cat Obesity Health Risks"
-date: 2026-05-24T10:53:28.768403+00:00
+date: 2026-05-26T16:22:56.740443+00:00
 draft: false
 description: "Cat obesity increases risks of diabetes, joint problems, heart disease, and shortened lifespan. Learn how to keep your cat healthy and at ideal weight."
 image: "https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

@@ -1,6 +1,6 @@
 ---
 title: "Senior Dog Care Guide"
-date: 2026-05-25T12:45:50.588967+00:00
+date: 2026-05-28T14:10:34.715292+00:00
 draft: false
 description: "Senior dog care guide: Learn essential tips for nutrition, exercise, health monitoring, and comfort to keep your aging dog happy and healthy in their golden yea"
 image: "https://images.pexels.com/photos/33274372/pexels-photo-33274372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

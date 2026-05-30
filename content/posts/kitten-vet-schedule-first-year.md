@@ -1,6 +1,6 @@
 ---
 title: "Kitten Vet Schedule First Year"
-date: 2026-05-20T04:02:58.026087+00:00
+date: 2026-05-27T21:43:16.959024+00:00
 draft: false
 description: "Help your kitten thrive with our complete first-year vet schedule guide covering vaccinations, deworming, spaying or neutering, and essential wellness checkups."
 image: "https://images.pexels.com/photos/35620584/pexels-photo-35620584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
