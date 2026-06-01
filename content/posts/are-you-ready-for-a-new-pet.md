@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Are You Ready for a New Pet? A 7-Question Readiness Quiz"
 description: "Thinking about adopting a dog, cat, or other companion? Take this warm 7-question quiz to gauge whether you're ready for the daily reality of a new pet."
 slug: "are-you-ready-for-a-new-pet"
