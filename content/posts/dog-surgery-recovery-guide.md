@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "dog-surgery-recovery-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "How long after surgery will my dog be in pain?"
+    a: "This depends heavily on the procedure. Minor soft tissue surgeries often have peak discomfort in the first 48 to 72 hours, with significant improvement by day five. Orthopedic surgeries can involve weeks of managed pain. Your vet's prescribed pain protocol is designed for your specific procedure, so follow it fully even if your dog seems to be doing okay. Never discontinue pain medication early without asking first."
+  - q: "My dog won't eat after surgery. Should I be worried?"
+    a: "A reduced appetite in the first 24 hours is almost universal after anesthesia. Mild nausea and a sore throat from the intubation tube can both contribute. Offer small amounts of their normal food or a bland option. If they haven't eaten anything meaningful by 36 to 48 hours post-surgery, call your vet. Prolonged inappetence can indicate pain that isn't adequately controlled, nausea, or a complication worth investigating."
+  - q: "Can my dog sleep in my bed during recovery?"
+    a: "Honestly, probably not a good idea during the acute recovery phase, even though it's tempting. Dogs jump off beds reflexively, even when groggy or in pain. That landing impact can stress an incision or cause real harm after orthopedic work. A dog bed or crate on the floor next to your bed is a good compromise if they're used to being near you."
+  - q: "What's the difference between normal swelling and something dangerous?"
+    a: "Normal post-surgical swelling peaks around 48 to 72 hours and then gradually decreases. It should feel soft and stay localized to the surgical site. A seroma (a pocket of fluid that can form under the skin) is common and looks like a soft, fluctuant lump at the incision site. These usually resolve on their own, but get it checked at your recheck appointment. Firm, hot, rapidly spreading swelling, especially with fever or discharge, suggests infection and needs same-day veterinary attention."
+  - q: "When should I go to the emergency vet versus wait for my regular clinic to open?"
+    a: "Go to emergency care if you see: pale or white gums, labored breathing, collapse or inability to stand, a wound that's actively bleeding and won't stop with gentle pressure after 5 minutes, or obvious signs of extreme distress. Call first if you're unsure, most emergency clinics will help you triage by phone. For concerns like mild swelling, slightly off appetite, or incision questions, it's usually reasonable to wait until your regular clinic opens, especially if you can send photos and speak to a technician."
 ---
 
 Your dog just came home from surgery and you're standing in the living room holding a cone of shame in one hand and a three-page discharge sheet in the other, and your dog is looking at you with those glazed, bewildered eyes, and you have absolutely no idea what the next 72 hours are supposed to look like. I've been in this exact position with my own dog, and I've watched hundreds of clients go through it in our clinic. The discharge paperwork tells you what to do. It doesn't tell you what to expect, what to worry about, or what to let go. That's what this guide is for.

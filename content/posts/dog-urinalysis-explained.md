@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "dog-urinalysis-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "How often should a healthy dog have a urinalysis done?"
+    a: "For young, healthy dogs with no symptoms, most vets recommend a baseline urinalysis as part of an annual wellness exam, especially once the dog is over 7 years old. AAHA hospital accreditation standards support routine diagnostics as part of senior wellness care. If your dog has a known condition like diabetes, kidney disease, or recurrent UTIs, your vet will set a more frequent schedule."
+  - q: "Can I use a human urine dipstick on my dog?"
+    a: "Technically you can, but you shouldn't rely on it for anything beyond a rough screen. Human dipsticks aren't calibrated for canine urine chemistry, and they miss the sediment analysis entirely. They can also generate false positives on certain values. Use them only to notice that something looks different, and then get a real test done."
+  - q: "My dog's urinalysis showed crystals. Does that mean bladder stones?"
+    a: "Not necessarily. Some crystals form after collection when urine cools (struvite crystals are notorious for this). Crystals in a fresh, body-temperature sample are more meaningful. Even then, crystals don't automatically equal stones. Your vet may recommend imaging to check for actual stone formation, and they'll factor in the crystal type: struvite, oxalate, urate, and cystine all point in different directions and require different management."
+  - q: "What does blood in the urine actually mean?"
+    a: "It's a long list. UTI, bladder stones, trauma, a polyp, a clotting disorder, or, less commonly, cancer. Even vigorous exercise can cause red blood cells to appear. The sediment exam tells your vet whether there are also white blood cells (infection) or unusual cells that need further workup. Blood in urine is always worth investigating, but it's a starting point, not a diagnosis."
+  - q: "My dog just had a normal urinalysis. Can I stop worrying about kidney disease?"
+    a: "A normal urinalysis is genuinely reassuring, but it's not a complete picture of kidney function. Early chronic kidney disease can be present before the urinalysis becomes abnormal. SDMA (a blood marker) and creatinine levels together give a fuller picture. If kidney disease runs in your dog's breed, like in Cocker Spaniels or Bull Terriers, ask your vet about a full kidney panel rather than relying on urinalysis alone."
 ---
 
 Most dog owners hear "we'd like to run a urinalysis" and picture a simple dip-stick test that takes two minutes. I thought the same thing when I first started in practice. What surprised me was how much information a single urine sample actually contains, and how often it catches something serious before symptoms ever appear. A dog can have a urinary tract infection, early kidney disease, diabetes, or even certain types of cancer, and look completely normal at home. That's what makes this test quietly one of the most powerful tools in veterinary medicine, and why understanding what it's actually measuring puts you in a much better position to ask the right questions.

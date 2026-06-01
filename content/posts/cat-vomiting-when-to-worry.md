@@ -10,6 +10,17 @@ author: "Lisa Tanaka"
 author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "cat-vomiting-when-to-worry"
 affiliate_disclosure: true
+faqs:
+  - q: "My cat vomited once and is acting totally normal. Do I need to call the vet?"
+    a: "Probably not, if it's a single episode and your cat is eating, drinking, using the litter box, and behaving normally. Watch them for 24 hours. If they vomit again or develop any additional symptoms, call your vet. One isolated episode in an otherwise healthy cat is generally low concern."
+  - q: "What does it mean when my cat vomits yellow liquid?"
+    a: "Yellow or greenish liquid is bile, which is produced by the liver and stored in the gallbladder. Cats often vomit bile when their stomach is empty, which is why you'll sometimes see it in the morning before breakfast or if your cat has gone longer than usual between meals. Occasional bilious vomiting in an otherwise healthy cat isn't alarming, but if it's happening regularly, a vet visit is warranted to rule out GI motility issues or other underlying problems."
+  - q: "Can hairballs actually be dangerous?"
+    a: "Most hairballs are more unpleasant than dangerous. But occasionally a hairball becomes impacted and can't be passed or vomited, which causes an obstruction. Signs of a potential hairball obstruction include repeated retching without producing anything, loss of appetite, lethargy, and constipation. If your cat seems to be struggling to bring up a hairball for more than a day or two, see your vet. Regular grooming and hairball-support diets or supplements can help reduce frequency."
+  - q: "My cat ate grass and then vomited. Is that a problem?"
+    a: "This is usually self-limiting and intentional. Many cats eat grass specifically to trigger vomiting when they feel nauseous, though the exact reason isn't fully understood. As long as the grass wasn't treated with pesticides or herbicides and your cat seems fine afterward, this is generally not concerning. If your cat is eating grass obsessively or vomiting frequently after doing so, mention it to your vet at the next visit."
+  - q: "How do I know if my cat is dehydrated from vomiting?"
+    a: "Two quick checks at home: the skin tent test (gently pinch the skin at the back of the neck and release; in a hydrated cat it snaps back immediately; in a dehydrated cat it stays 'tented' for a moment) and the gum check (gums should be moist and pink, not dry, pale, or tacky). Mild dehydration can develop quickly in a cat that has been vomiting repeatedly, and it becomes a reason to seek veterinary care rather than continuing to monitor at home."
 ---
 
 Your cat just vomited for the third time this morning, and you're standing in the kitchen wondering if you should cancel your plans and head to the emergency vet, or just clean it up and keep an eye on things. That moment of uncertainty is stressful, and it happens to almost every cat owner at some point. Here's the thing most people don't realize: cats are actually physiologically *more prone* to vomiting than dogs, partly because of how their esophagus is oriented and how quickly they tend to eat. Occasional vomiting is genuinely common in cats. But "common" doesn't mean "always fine," and knowing the difference between a hairball situation and something that needs urgent care can literally save your cat's life.

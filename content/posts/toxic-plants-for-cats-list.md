@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "toxic-plants-for-cats-list"
 affiliate_disclosure: true
+faqs:
+  - q: "Are all lilies toxic to cats, or just some?"
+    a: "True lilies in the Lilium and Hemerocallis genera are the dangerous ones. This includes Easter lilies, tiger lilies, Asiatic lilies, daylilies, and stargazer lilies. Calla lilies and peace lilies are a different species and don't cause kidney failure, though they do cause oral irritation. When in doubt, treat any lily exposure as potentially serious until you've identified the exact species."
+  - q: "My cat ate a small amount of a toxic plant and seems fine. Should I still call the vet?"
+    a: "Yes, call. For some toxins, symptoms are delayed. Lily toxicity, for example, may not show obvious signs until kidney damage is already significant, sometimes 24 to 48 hours after ingestion. The ASPCA Animal Poison Control Center or your vet can help you decide whether you need to come in or monitor at home, but please don't use 'seems fine right now' as your only data point."
+  - q: "Is the ASPCA poison control hotline worth the fee?"
+    a: "In my experience, yes, especially if you can't reach your regular vet or it's the middle of the night. You get direct access to veterinary toxicologists who can tell you whether the plant your cat ate is a 'rush to the ER' situation or a 'monitor at home and call us if symptoms worsen' situation. That guidance can save you an unnecessary emergency visit or catch a real emergency before it's too late."
+  - q: "What symptoms should I watch for after potential plant exposure?"
+    a: "Vomiting, excessive drooling, pawing at the mouth, lethargy, loss of appetite, difficulty breathing, muscle tremors, wobbliness or loss of coordination, and changes in urination (very little or a lot) are all red flags. Any of these after a known plant exposure means call your vet."
+  - q: "Are outdoor cats at greater risk from toxic plants?"
+    a: "Yes, significantly. Outdoor and indoor/outdoor cats can access landscaping plants, neighbor's gardens, and wild plants that indoor cats can't reach. The AAHA hospital accreditation standards emphasize wellness planning that accounts for your cat's specific lifestyle, and if yours goes outside, a conversation about environmental hazards is worth adding to your next annual exam."
 ---
 
 A client came in one spring afternoon with her cat, Miso, limp and drooling in a carrier lined with Easter grass. She'd set a beautiful lily arrangement on her dining table that morning. By evening, Miso had chewed on a few petals. She had no idea lilies were toxic. Most people don't. Within 72 hours of lily ingestion, a cat can go into acute kidney failure. Miso survived, but it was close, and it was expensive, and it was entirely preventable. I've told that story dozens of times in the exam room because it's the one that tends to land. People hear "plants can be toxic to cats" and mentally file it under "probably fine." This article is for the people who want to actually know what's in their homes.

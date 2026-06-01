@@ -10,6 +10,17 @@ author: "Lisa Tanaka"
 author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "how-often-should-dog-go-to-vet"
 affiliate_disclosure: true
+faqs:
+  - q: "How often should a healthy 3-year-old dog go to the vet?"
+    a: "Once a year is the standard recommendation for healthy adult dogs with no chronic conditions. Your vet will do a full physical exam, update any due vaccines, run a heartworm test, and check a fecal sample. Some vets start recommending baseline bloodwork around age 3 to 4, especially for breeds with known health predispositions."
+  - q: "My dog seems totally fine. Do they really need a yearly exam?"
+    a: "Yes, and this is actually one of the best reasons to go. Many serious conditions, including kidney disease, hypothyroidism, early dental disease, and heart murmurs, are detectable before symptoms appear. A vet can hear a heart murmur you'd never notice at home. Finding it early changes the management plan significantly."
+  - q: "Can I skip the vet if my dog is up to date on vaccines?"
+    a: "Vaccines are only one part of a wellness visit. The physical exam, parasite screening, and conversation about your dog's weight, diet, and behavior are all separate and valuable. Being current on vaccines doesn't mean your dog's health doesn't need a professional set of eyes."
+  - q: "How do I know if something is an emergency versus can wait until my regular vet opens?"
+    a: "Use the triage table above as a starting point. The clearest emergency signs are: difficulty breathing, unproductive retching with a distended abdomen (possible bloat), seizures lasting more than 2 to 3 minutes, pale or white gums, suspected poisoning, collapse, or uncontrolled bleeding. Any of those situations means emergency care now, not Monday morning."
+  - q: "My senior dog hates the vet. Is there anything I can help with that?"
+    a: "Absolutely. Talk to your vet about anti-anxiety options, which might be as simple as a pre-visit medication or gabapentin for dogs with significant anxiety. You can also ask about fear-free handling techniques, which many clinics are now trained in. Keeping your dog's carrier or crate out at home and feeding treats near it helps reduce the 'carrier = vet' association over time. The American Veterinary Medical Association (AVMA) has solid public resources on reducing veterinary visit stress if you want to read further."
 ---
 
 Most dog owners don't think about the vet until something is clearly wrong. But here's a number that might surprise you: dogs can lose up to 75% of their kidney function before showing any outward symptoms at all. By the time your dog seems "off," the disease has often been progressing quietly for months or even years. Routine wellness visits aren't just about vaccines and a quick listen to the heart. They're your best chance at catching the invisible stuff early, when treatment options are wider and outcomes are generally better.

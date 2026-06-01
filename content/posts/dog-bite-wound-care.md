@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "dog-bite-wound-care"
 affiliate_disclosure: true
+faqs:
+  - q: "Should I close or cover a dog bite wound at home?"
+    a: "Cover it loosely with a clean bandage to protect from contamination, but don't attempt to close it yourself with tape or butterfly strips. Dog bite wounds are frequently left open intentionally by medical providers to allow drainage and reduce infection risk. Closing a contaminated puncture traps bacteria. The decision to suture depends on the wound location, depth, and how much time has passed since the bite. That call belongs to a clinician."
+  - q: "What does an infected dog bite look like?"
+    a: "Early infection usually shows up as increasing redness, warmth, and swelling around the wound within 24 to 48 hours. As it progresses, you may see pus or discharge, red streaking extending from the wound, swollen lymph nodes, and fever or chills. Any of these signs mean you're past the 'monitor at home' stage. Bites that looked minor and were dismissed sometimes return as significant infections by day two or three. When in doubt, get it looked at."
+  - q: "My dog bit me. Do I still need to worry about rabies?"
+    a: "If your dog is current on rabies vaccination, the risk is negligibly low. You should still clean the wound thoroughly and see a doctor, both for infection prevention and because the bite should be documented. If your dog isn't vaccinated or you're not sure, contact your local health department for guidance on the 10-day observation period protocol. The answer genuinely depends on your dog's exposure history and your local wildlife prevalence."
+  - q: "Can I just use Neosporin on a dog bite?"
+    a: "Topical antibiotic ointment like Neosporin has a role in minor wound care, but it's not a substitute for thorough washing, professional evaluation, or systemic antibiotics when indicated. Dog bite wounds, especially punctures, often require oral antibiotics because the infection risk is internal, where topical ointment doesn't reach. Apply it after cleaning if you're waiting to see a doctor, but don't use it as your only treatment and call it handled."
+  - q: "How do I know if a dog bite needs stitches?"
+    a: "Bites that are gaping, longer than about half an inch, or located on the face often benefit from closure to reduce scarring and restore function. However, as mentioned above, many dog bite wounds are intentionally left open, particularly punctures and wounds treated after a delay. A physician will weigh the cosmetic versus infection risk trade-off. Facial wounds are usually closed because of vascularity and cosmetic concerns. Hand wounds are usually left open because the infection risk there is higher and the anatomy is complex."
 ---
 
 Your dog just nipped a visitor. Or maybe a neighbor's Lab got your hand during a leash tangle. Or your own cat got startled and your dog jumped in and now someone's bleeding and nobody's quite sure what happened. Whatever the specifics, you're here because there's a bite wound and you want to know what to do with it. Most articles will tell you to "seek medical attention immediately" and leave you there. That's not useful. Let's actually talk about what you're dealing with.

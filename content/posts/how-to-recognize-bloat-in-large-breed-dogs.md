@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-recognize-bloat-in-large-breed-dogs"
 affiliate_disclosure: true
+faqs:
+  - q: "Can a dog survive bloat without surgery?"
+    a: "Simple gastric dilatation without twisting can sometimes be managed with decompression and supportive care, no surgery required. But true GDV, where the stomach has rotated, requires surgery. There is no home remedy, no medication that fixes it, and waiting is not an option. The surgery itself carries risk, especially in dogs who arrive in shock, but without it, GDV is fatal."
+  - q: "How quickly can bloat kill a dog?"
+    a: "It varies, but GDV can be fatal within two to six hours of onset in severe cases. Some dogs deteriorate faster, some slower, but there's no way to predict which path your dog's case will take. The earlier treatment begins, the better the outcome."
+  - q: "Is bloat painful for dogs?"
+    a: "Yes. The distension is intensely uncomfortable, and as the stomach wall loses blood supply and begins to die, the pain escalates. The restlessness you see in affected dogs isn't just behavior, it's their response to significant internal pressure and pain."
+  - q: "My dog burped a lot and seems fine now. Was it bloat?"
+    a: "If your dog was uncomfortable, then suddenly belched or passed gas and seems completely normal, that's more consistent with simple gas or mild gastric dilatation that self-resolved. True GDV doesn't resolve on its own through burping. That said, if you're uncertain or if your dog is a high-risk breed, a same-day call to your vet is always reasonable. Better to ask and be reassured than to assume all is well."
+  - q: "What is a gastropexy and should my dog get one?"
+    a: "A gastropexy is a surgery that permanently attaches the stomach to the inner body wall, preventing rotation. It's highly effective at preventing GDV (though not gastric dilatation). It does not prevent a dog from being uncomfortable from gas. For high-risk breeds, many veterinary specialists consider prophylactic gastropexy one of the best decisions an owner can make. Ask your vet specifically whether your dog's breed, age, and lifestyle make them a good candidate."
 ---
 
 Your dog just ate dinner and now he's pacing. His belly looks bigger than usual and he keeps trying to vomit without bringing anything up. Maybe you searched "dog stomach swollen after eating" and landed here. Or maybe you've heard bloat mentioned at the dog park and always meant to learn more, and something tonight made you finally look it up. Either way, I want you to read this carefully, because bloat in large breed dogs is one of the few conditions in veterinary medicine where the window between "treatable" and "too late" can close in a matter of hours.

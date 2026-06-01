@@ -10,6 +10,15 @@ author: "Dr. Samuel Osei"
 author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "dog-vaccinations-schedule-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "My puppy got vaccines at the shelter. Do they count?"
+    a: "Yes, but get the paperwork. Shelter-administered vaccines are legitimate, but timing matters. If your pup received DHPP at 6 weeks and you're now picking her up at 9 weeks, she's due for her second dose soon, not 'done.' Ask the shelter exactly what was given, on what date, and at what age. Then share that with your vet so they can map out what's still needed."
+  - q: "Can my dog still get parvo even if vaccinated?"
+    a: "It's uncommon, but possible. No vaccine is 100% effective in 100% of animals. What vaccination does is dramatically reduce the likelihood of infection and, if infection does occur, typically reduces severity. A fully vaccinated dog who contracts parvo has a much better chance of survival than an unvaccinated one. Puppies who haven't completed their full series are still considered at-risk and should avoid high-traffic dog areas like dog parks and pet store floors until the series is complete."
+  - q: "My dog is an indoor dog. Does she still need vaccines?"
+    a: "Rabies: yes, legally required in almost every U.S. state regardless of lifestyle, and for good reason. DHPP: yes, core vaccines are recommended for indoor dogs too because exposure risk is never zero. You walk in from outside. Guests bring dogs over. Your dog escapes once. For non-core vaccines like Bordetella or Lyme, the calculus is different. A truly indoor dog with no contact with other dogs may not need Bordetella. Discuss the specifics with your vet."
+  - q: "How do I know if my adult dog's vaccines are still valid?"
+    a: "Check the paperwork. Most vaccines list an expiration date or a 'due date' for the next booster on the certificate. If records are lost or unclear, your vet can recommend either restarting the series or running titer tests for parvovirus and distemper to check existing immunity levels. For rabies, there's no widely used titer test that satisfies legal requirements in the U.S., so documentation of vaccination date and product type is what matters."
 ---
 
 Imagine you've just brought home an eight-week-old puppy. She's small, she's perfect, and she's sneezing directly into your coffee. Your breeder handed you a crinkled sheet of paper listing something called "DHPP" and mentioned she'd had her "first shots." Now you're staring at that paper wondering what any of it means, when she needs more, and whether you're already behind. You're not. But the next few months matter more than most new owners realize, and getting the timing wrong can leave real gaps in protection during the window when puppies are most vulnerable.

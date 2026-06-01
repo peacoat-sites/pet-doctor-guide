@@ -10,6 +10,17 @@ author: "Dr. Samuel Osei"
 author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "senior-cat-care-changes"
 affiliate_disclosure: true
+faqs:
+  - q: "At what age is a cat considered senior, and does that change how I should care for them?"
+    a: "Cats are generally considered senior starting around age 11, and geriatric at 15 and older. The practical difference is that senior cats need more frequent vet visits (every six months rather than annually), age-appropriate bloodwork, and closer monitoring of weight, mobility, and behavior. The changes aren't dramatic on day one, but staying proactive during the senior years is genuinely how you add quality time."
+  - q: "My senior cat is drinking a lot more water. Is that just normal aging?"
+    a: "No, this isn't something to wait on. Increased thirst combined with increased urination is one of the classic signs of kidney disease, hyperthyroidism, or diabetes in older cats. All three conditions are manageable when caught early and much harder to manage when they've been progressing undetected. Schedule a vet visit with bloodwork and urinalysis. Don't chalk this one up to 'just getting older.'"
+  - q: "Should I switch my senior cat to a 'senior' cat food?"
+    a: "Not automatically. The term 'senior' on cat food packaging isn't regulated the way you might expect. Some senior formulas are appropriate, others aren't. What matters most is a food with high-quality, digestible protein, appropriate moisture content (wet food is especially helpful for kidney health), and calorie density suited to your cat's current weight and activity level. Talk to your vet before switching, particularly if your cat has any diagnosed conditions."
+  - q: "My older cat yowls at night and it's getting worse. What's going on?"
+    a: "Night yowling in senior cats has several possible causes: hyperthyroidism, high blood pressure, cognitive dysfunction syndrome, pain, or simply hearing or vision loss that makes nighttime disorienting. It's not behavioral in the way people assume. This symptom warrants a vet visit with bloodwork and a blood pressure check. It's both diagnosable and treatable in most cases."
+  - q: "How do I know if my senior cat is in pain if she's hiding it well?"
+    a: "Watch for behavioral changes rather than obvious pain signals. Reluctance to jump, changes in where she rests, reduced grooming (especially of the lower back and hindquarters), less interaction, a flattened facial expression, or hunched posture are all signs of discomfort in cats. Veterinary pain assessment tools, like the Feline Grimace Scale, are used clinically to identify pain that owners and even vets might miss on a quick exam."
 ---
 
 Your cat turns 11, and suddenly she's sleeping in different spots, drinking more water, and seems a little stiff getting up from her favorite chair. You chalk it up to "just getting older." But here's what a lot of people don't realize: cats are considered senior at age 11, and geriatric by 15. Those subtle changes you're noticing aren't random. They're often the first signals of conditions that are very manageable when caught early, and genuinely serious when they're not.

@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "toxic-foods-for-dogs-list"
 affiliate_disclosure: true
+faqs:
+  - q: "My dog ate a raisin cookie, not plain raisins. Does that change anything?"
+    a: "No, not meaningfully. The raisins are still present at the same concentration per raisin regardless of what they're baked into. If you know your dog ate a raisin cookie, treat it as a raisin ingestion and call poison control or your vet immediately. Don't reason your way into waiting."
+  - q: "Is garlic powder more or less dangerous than fresh garlic?"
+    a: "More dangerous by weight. Garlic powder and dehydrated garlic are more concentrated than fresh garlic, so smaller amounts pose greater risk. This is part of why I caution against garlic-flavored dog treats, which exist and are sold despite the risk. The dose makes the poison, but powdered forms lower the dose threshold considerably."
+  - q: "My dog ate chocolate but seems totally fine. Should I still call the vet?"
+    a: "Yes, for a few reasons. Theobromine is metabolized slowly in dogs, so symptoms can take 6 to 12 hours to appear. Also, 'seems fine' is hard to assess without knowing the dog's weight, the type of chocolate, and the amount. Give your vet the numbers. If it's a small amount of milk chocolate in a large dog, they may tell you to monitor at home. If it's dark chocolate and a small dog, you'll be glad you called."
+  - q: "Can I give my dog activated charcoal at home after a toxic ingestion?"
+    a: "I'd strongly advise against doing this on your own. Activated charcoal can be helpful in clinical settings for certain toxins, but it's not appropriate for all ingestions, it can cause hypernatremia (dangerous sodium levels) if not properly dosed and hydrated, and it makes a complete mess in a dog who vomits. This is a vet-administered intervention, not a home remedy."
+  - q: "How do I know if a peanut butter treat I made is safe?"
+    a: "Check every ingredient on your peanut butter label specifically for xylitol. Also check for erythritol, which is another sugar alcohol sometimes used alongside xylitol. If the label says 'sugar-free' or 'no sugar added,' be especially careful. Standard commercial peanut butters like Jif or Skippy (original formulas) don't contain xylitol, but formulations can change, so checking the current label every time is a good habit."
 ---
 
 Most dog owners know grapes are bad. What fewer people realize is that a single grape can potentially cause acute kidney failure in a 20-pound dog, and toxicologists still don't fully understand why. That's the part that gets me every time I tell clients this. It's not a dose-dependent toxin where "a little is probably fine." There's no safe threshold anyone can point to with confidence. After 13 years of watching owners come in panicked, receipt in one hand and dog on leash in the other, I decided to go deep on this topic, not to write another bland "avoid chocolate" list, but to actually explain what these foods do inside your dog's body, why some are genuinely terrifying, and how to tell the difference between a real emergency and a call-your-vet-Monday situation.

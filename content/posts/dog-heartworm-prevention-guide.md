@@ -10,6 +10,17 @@ author: "Karen Briggs"
 author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "dog-heartworm-prevention-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "Can indoor dogs skip heartworm prevention?"
+    a: "No. Mosquitoes get inside. It takes one bite from one infected mosquito, and indoor dogs aren't immune to that. Studies have found that a meaningful percentage of heartworm-positive dogs are described by their owners as 'primarily indoor' pets. The risk is lower than for a dog who spends hours outside, but it's not zero, and the consequences of infection are severe enough that prevention makes sense regardless."
+  - q: "Is year-round prevention necessary in cold climates?"
+    a: "The American Heartworm Society says yes, and I agree. Mosquito seasons are getting longer as temperatures shift. More importantly, year-round prevention also provides continuous coverage against intestinal parasites, some of which are transmissible to humans, including children. Most preventives cover roundworms and hookworms in addition to heartworm. The continuous protection is worth more than the month or two you might feel like you're 'paying for nothing.'"
+  - q: "My dog tested positive for heartworm. Do we have to start treatment immediately?"
+    a: "Not necessarily as an emergency, but you shouldn't delay. Talk to your vet about staging the disease, which usually involves chest X-rays and sometimes an echocardiogram. Depending on the stage and your dog's overall health, treatment may start within weeks. In the meantime, exercise restriction should begin immediately, even before formal treatment."
+  - q: "Are there natural alternatives to prescription heartworm prevention?"
+    a: "No natural product has been shown in peer-reviewed research to reliably prevent heartworm infection. Garlic, black seed oil, and similar remedies are sometimes promoted online, but none have evidence supporting effectiveness, and some (garlic at certain doses) are actually toxic to dogs. Please don't use these as substitutes for proven prevention."
+  - q: "Can my dog give heartworm to my other pets or to me?"
+    a: "Dogs can't transmit heartworm directly to other dogs or to humans. Transmission requires a mosquito to act as an intermediate host. That said, if you have an infected dog, the mosquitoes in your home and yard are potential vectors for your other pets. All dogs and cats in the household should be on appropriate prevention, especially if one animal has tested positive."
 ---
 
 A dog can be infected with heartworm for six months before showing a single symptom. By the time you notice your dog coughing, tiring quickly on walks, or losing weight, the worms have already been living in the heart and pulmonary arteries long enough to cause damage that can't be fully reversed. That's the part most people don't realize: this disease is almost entirely preventable, but treatment after the fact is expensive, hard on your dog, and not guaranteed to undo everything the worms did. Prevention isn't just cheaper, it's genuinely kinder.

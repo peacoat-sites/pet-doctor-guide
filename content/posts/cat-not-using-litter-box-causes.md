@@ -10,6 +10,17 @@ author: "Karen Briggs"
 author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "cat-not-using-litter-box-causes"
 affiliate_disclosure: true
+faqs:
+  - q: "Why did my cat suddenly stop using the litter box after years of no problems?"
+    a: "Sudden changes almost always signal either a medical issue or a significant environmental change. A cat who has been reliable for years and abruptly stops is more likely sick than behaviorally problematic. Rule out UTI, FIC, kidney disease, diabetes, and arthritis before assuming anything else."
+  - q: "Can stress really cause a cat to stop using the litter box?"
+    a: "Absolutely. Feline idiopathic cystitis itself is strongly linked to stress in cats, meaning stress doesn't just cause behavioral avoidance, it can cause a physical medical condition that causes avoidance. The connection is direct and well-documented."
+  - q: "My cat is pooping outside the box but urinating normally. What does that mean?"
+    a: "Defecating outside the box while urinating normally often points to a problem with the box itself rather than a medical issue, though constipation or anal gland problems can be factors. Try a larger, uncovered box, scoop more frequently, and check for pain responses. If your cat seems to strain or vocalize when defecating, see your vet."
+  - q: "How many litter boxes do I actually need?"
+    a: "The AAHA-backed standard recommendation is one box per cat plus one additional. For a single cat, two boxes is ideal. Place them in different locations, not right next to each other, so a stressed cat always has an accessible option."
+  - q: "Will punishing my cat for going outside the box help?"
+    a: "No, and I say that as gently as possible: it will make things worse. Cats don't connect punishment to a past action. All you'll accomplish is making your cat afraid of you, which increases stress and often worsens the underlying problem. Positive reinforcement, environmental adjustment, and medical treatment are the only tools that actually work."
 ---
 
 You cleaned the litter box this morning. You bought the good litter. Your cat has used the same box for three years without a single complaint. And now, for the second day in a row, you're finding wet spots on your bathroom rug and little surprises behind the sofa. Something changed. The question is whether that something is behavioral, environmental, or medical -- and getting that answer right matters more than most people realize, because the wrong guess can mean missing a serious health problem or spending months fighting a "behavior issue" that never existed in the first place.

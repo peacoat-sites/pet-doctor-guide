@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "cat-annual-wellness-exam-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "My cat is strictly indoors. Does she really need an annual exam?"
+    a: "Yes. Indoor cats still develop kidney disease, hyperthyroidism, dental disease, obesity, and heart conditions. They're also still legally required to have rabies vaccination in most US states regardless of indoor-only status. 'Doesn't go outside' doesn't mean 'can't get sick.'"
+  - q: "What if my cat is extremely stressed by vet visits?"
+    a: "This is worth solving rather than using as a reason to skip care. Ask your vet about pre-visit gabapentin, which is a medication given 90 minutes before the appointment that significantly reduces travel and handling anxiety in many cats. It's inexpensive and remarkably effective. A carrier left open in your house so your cat uses it voluntarily also helps more than people expect."
+  - q: "How do I know if my vet is being thorough or just running up a bill?"
+    a: "A good wellness exam takes at least 20 to 30 minutes and includes documented findings for every system examined. Your vet should be able to tell you exactly what they found and why any recommended diagnostics are indicated. 'It's standard' isn't a reason. 'Your cat's kidney values have changed from last year' is."
+  - q: "My cat is 14 and seems healthy. Is it worth doing full bloodwork every year?"
+    a: "Absolutely. Senior cats are masters at hiding illness. Hyperthyroidism in particular progresses slowly and can look like just 'getting old' until the cardiac and kidney effects become serious. Annual labs at this age aren't being overly cautious; they're the appropriate standard of care."
+  - q: "Should I be giving dental chews or doing at-home dental care?"
+    a: "Yes to both, with realistic expectations. Brushing is the gold standard, even a few times a week makes a measurable difference. If your cat won't tolerate a brush, look for dental chews formulated for cats with a Veterinary Oral Health Council (VOHC) seal of approval. (This site may earn a commission.) Neither replaces a professional dental cleaning when your vet recommends one, but both meaningfully slow tartar progression between cleanings."
 ---
 
 Your cat has been acting completely normal. Eating well, playing occasionally, sleeping approximately 20 hours a day as cats do. So when the vet finds a heart murmur at the annual exam, it feels like it came out of nowhere. It didn't. It was there, quietly developing, and the only reason you caught it early enough to manage it well is because you brought her in. That's exactly what annual wellness exams are for, and it's exactly why skipping them "because she seems fine" is a gamble that doesn't always pay off.

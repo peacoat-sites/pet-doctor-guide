@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "senior-pet-bloodwork-panel"
 affiliate_disclosure: true
+faqs:
+  - q: "My senior cat has been on hyperthyroid medication for two years. Does she still need bloodwork that often?"
+    a: "Yes, more than most pets actually. Methimazole (the most common hyperthyroid medication) can affect kidney and liver function, and it's important to monitor thyroid levels to make sure the dose is still right. Many hyperthyroid cats also have underlying kidney disease that only becomes apparent once the thyroid is treated. Twice-yearly bloodwork is standard, and your vet may want it quarterly while stabilizing the dose."
+  - q: "The vet found slightly elevated liver enzymes but wants to 'just monitor.' Should I be worried?"
+    a: "Mildly elevated liver enzymes with no other symptoms and normal values everywhere else is genuinely often a 'watch and wait' situation. That said, it's completely reasonable to ask your vet what specific threshold would prompt further investigation, and when they'd want a recheck. You should leave with a concrete timeline, not just a vague 'we'll check again sometime.'"
+  - q: "Are there toxins I should know about that could affect bloodwork values or require emergency intervention?"
+    a: "If your pet has gotten into something potentially toxic, the bloodwork conversation becomes urgent. The ASPCA Poison Control Center (888-426-4435) operates 24/7 and can advise on whether emergency bloodwork is needed and what values to watch. Don't wait for symptoms with known toxin exposure."
+  - q: "My dog's BUN is elevated but his creatinine is normal. Is that a problem?"
+    a: "BUN can be elevated for non-kidney reasons: high protein diet, dehydration, recent heavy exercise, or gastrointestinal bleeding. When BUN is up but creatinine is normal, your vet will look at those factors first. If SDMA is normal too, it's usually not a kidney alarm. A urinalysis helps clarify the picture significantly."
+  - q: "Can I skip the panel this year if my pet just had surgery six months ago and was tested then?"
+    a: "It depends on what was tested. Surgical pre-anesthetic panels often check fewer values than a comprehensive senior wellness panel. Review what was actually run, and ask your vet if anything was omitted, like thyroid, urinalysis, or SDMA. If it was genuinely comprehensive and everything was normal, your vet may be comfortable extending the interval slightly, but get that call explicitly rather than assuming."
 ---
 
 Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms — BUN, ALT, T4, CBC — wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. I've had this exact conversation in the exam room hundreds of times. Here's what I wish every pet owner knew before that appointment.

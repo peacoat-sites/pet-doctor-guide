@@ -10,6 +10,17 @@ author: "Lisa Tanaka"
 author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "dog-ear-infection-symptoms-treatment"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I treat my dog's ear infection at home without a vet?"
+    a: "Honestly? For a true infection, no. You can clean a healthy ear at home, but treating an active infection requires a confirmed diagnosis and prescription medication. Over-the-counter ear products won't clear a bacterial or yeast infection, and guessing wrong wastes time while the infection progresses. If you're asking because cost is a concern, call the vet and explain. Many clinics can work with you on payment options, and catching an infection early is almost always less expensive than treating a chronic or severe one later."
+  - q: "What does a yeast ear infection smell like?"
+    a: "Most owners describe it as musty, or like bread, or specifically like corn chips (Fritos is the classic comparison). It's distinctive once you've smelled it. Bacterial infections tend to smell more overtly foul or rotten. Either way, an odor that wasn't there before is reason enough to get the ear looked at."
+  - q: "My dog keeps getting ear infections. Is something else going on?"
+    a: "Almost certainly yes. Recurring ear infections are a classic symptom of environmental allergies (atopy), food allergies, or less commonly, hypothyroidism. The ASPCA Poison Control Center and veterinary dermatologists both underscore that identifying and managing the underlying cause is the only real solution for dogs with chronic ear disease. If your dog has had more than two infections in a year, ask your vet about a full allergy workup."
+  - q: "Can I use human ear drops in my dog?"
+    a: "No. Human ear drops are formulated for human ear anatomy and pH. More importantly, some ingredients safe for humans can be ototoxic (damaging to hearing) in dogs if the eardrum is compromised. Use only products your vet has specifically recommended for your dog."
+  - q: "How long does it take for a dog ear infection to clear up?"
+    a: "With appropriate treatment, most uncomplicated outer ear infections show clear improvement within 5-7 days and resolve fully within 10-14 days. If your dog isn't noticeably more comfortable within 48-72 hours of starting treatment, call your vet. It may need to be recleaned, the medication may not be reaching the canal properly, or the pathogen may be resistant to the current treatment."
 ---
 
 Your dog has been shaking his head for two days straight. You notice him pawing at his left ear, and when you lean in close, there's a smell that stops you cold. You're not imagining it. That's almost certainly an ear infection, and if you've never dealt with one before, the combination of symptoms can feel alarming. Here's the thing: ear infections are one of the most common reasons dogs visit the vet. According to the [American Veterinary Medical Association (AVMA)](https://www.avma.org/), otitis externa (infection of the outer ear canal) accounts for a significant portion of all small animal veterinary visits. Knowing what you're looking at, when you need to move fast, and how treatment actually works will help you act confidently instead of spiraling into 2 a.m. Google panic.

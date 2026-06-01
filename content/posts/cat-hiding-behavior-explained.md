@@ -10,6 +10,17 @@ author: "Karen Briggs"
 author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "cat-hiding-behavior-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "How long is it normal for a cat to hide?"
+    a: "It genuinely depends on the trigger. A cat hiding after a scary event might come out in a few hours once the threat has passed. A cat adjusting to a new home might be in and out of hiding for one to two weeks before fully settling. The line I draw is 24 hours without eating, drinking, or using the litter box. At that point, regardless of what triggered the hiding, it's time to get your vet's input."
+  - q: "Should I pull my cat out of her hiding spot?"
+    a: "Usually no. Forcing a scared or painful cat out of hiding increases their stress and can get you scratched or bitten. Instead, sit quietly near the spot, speak softly, and let her come to you. If you need to get her to the vet and she won't come out, use a pillowcase or towel to gently scoop her; it reduces the sensory overwhelm compared to being grabbed."
+  - q: "My cat hides every time someone visits. Is that a problem?"
+    a: "Not inherently, no. Some cats are just socially selective, and that's a personality trait, not a disorder. The problem comes if it's severely impacting her quality of life, if she's hiding from you too, or if it's getting worse over time. In those cases, a conversation with your vet about feline anxiety is worthwhile. The AVMA has resources on feline behavioral health that your vet can draw from when building a treatment plan."
+  - q: "My cat just had kittens and is hiding with them. Is this normal?"
+    a: "Yes, very normal. A mother cat will instinctively seek a quiet, protected space to raise her kittens for the first few weeks. Minimize disturbances, make sure she has easy access to food, water, and a litter box nearby, and check on her without hovering. If she seems distressed, a kitten seems to be missing from the litter, or she's not nursing, contact your vet."
+  - q: "Could my cat be hiding because she's dying?"
+    a: "This is the question no one wants to ask. And yes, it can happen. Cats often seek seclusion when they're very ill or at end of life. If your cat is elderly, has a known illness, and is hiding more than usual while also eating less, drinking less, and becoming less responsive, please contact your vet. Hospice care and pain management options exist, and your cat deserves comfort. This is not a situation to wait and see on."
 ---
 
 You came home from work, called your cat's name, and heard nothing. No jingling collar, no trotting paws on hardwood. You searched the apartment for twenty minutes before finding her wedged behind the washing machine, pupils wide, not wanting to be touched. Now you're spiraling. Is she sick? Did something scare her? Is this the beginning of the end? Take a breath. Cat hiding behavior is one of the most common concerns I hear from clients, and it spans an enormous spectrum, from completely normal self-regulation all the way to a genuine medical emergency. The difference matters. Let me walk you through exactly how to read the situation.
