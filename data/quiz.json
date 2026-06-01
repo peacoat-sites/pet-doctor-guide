@@ -1,0 +1,149 @@
+{
+  "title": "Are You Ready for a New Pet?",
+  "intro": "Answer 7 quick questions to see how well a new pet fits your time, space, budget, and daily routine right now. This is a fun self-reflection tool for general education, not veterinary advice.",
+  "questions": [
+    {
+      "q": "How much hands-on time can you realistically give a pet every single day?",
+      "options": [
+        {
+          "t": "A solid chunk - I'm home often and happy to build a routine",
+          "s": 3
+        },
+        {
+          "t": "Some, though my schedule is busy and a bit unpredictable",
+          "s": 1
+        },
+        {
+          "t": "Honestly very little right now between work and life",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about the messier parts - cleaning litter, bagging waste, fur, or the occasional accident?",
+      "options": [
+        {
+          "t": "No problem, it comes with the territory",
+          "s": 3
+        },
+        {
+          "t": "I can handle it, but I'd rather keep it minimal",
+          "s": 1
+        },
+        {
+          "t": "That part really makes me hesitate",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How would an unexpected vet bill of a few hundred dollars land for you?",
+      "options": [
+        {
+          "t": "I keep a cushion set aside for exactly this kind of thing",
+          "s": 3
+        },
+        {
+          "t": "It'd be tight but I could manage it",
+          "s": 1
+        },
+        {
+          "t": "That would be a serious strain right now",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How settled is your living situation for the next several years?",
+      "options": [
+        {
+          "t": "Stable, pet-friendly, and I expect it to stay that way",
+          "s": 3
+        },
+        {
+          "t": "Mostly steady, with a few unknowns ahead",
+          "s": 1
+        },
+        {
+          "t": "In flux - I'm not sure where I'll be",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How does your household feel about adding a pet?",
+      "options": [
+        {
+          "t": "Everyone's on board and excited to share the care",
+          "s": 3
+        },
+        {
+          "t": "Generally supportive, though it's mostly on me",
+          "s": 1
+        },
+        {
+          "t": "It's not really discussed or there's some pushback",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you picture handling travel, long days out, or being away?",
+      "options": [
+        {
+          "t": "I've got sitters, family, or a plan already in mind",
+          "s": 3
+        },
+        {
+          "t": "I'd figure it out as situations come up",
+          "s": 1
+        },
+        {
+          "t": "I travel a lot and coverage would be tough",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What's drawing you to get a pet right now?",
+      "options": [
+        {
+          "t": "A long-term companion I'm ready to learn about and care for",
+          "s": 3
+        },
+        {
+          "t": "Companionship, though I'm still weighing the commitment",
+          "s": 1
+        },
+        {
+          "t": "A spur-of-the-moment urge or a gift idea",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "A new pet might not be your easiest fit just yet",
+      "body": "Your answers suggest a few pieces of the puzzle - time, budget, stability, or household buy-in - aren't quite lined up right now, and that's completely okay. Many great pet owners started exactly here. Consider easing in: fostering, pet-sitting for a friend, or volunteering at a shelter lets you enjoy animals while life settles. It also tells you a lot about what you'd actually want.",
+      "cta": "Read our 'before you adopt' starter guide"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "A new pet could work well for you, with a little planning",
+      "body": "You have several of the building blocks in place, and a few areas would just benefit from a plan - maybe a small care fund, a pet-sitting backup, or a chat with your household about who does what. Get those squared away and you'll be in a really strong spot. Matching the right species and energy level to your routine is the next smart move.",
+      "cta": "Compare beginner-friendly pets and their needs"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're in a strong spot for a new pet",
+      "body": "Your time, space, budget, and mindset all point to real readiness, and your reasons are thoughtful and long-term. That's the foundation a happy pet needs. Now you can focus on the fun, important details: choosing the right match, preparing your home, and lining up that first wellness visit so you start off on the right paw.",
+      "cta": "Explore our new-pet setup and first-vet-visit guides"
+    }
+  ],
+  "disclaimer": "This quiz is for general education and fun, not veterinary or medical advice. Every animal and household is different - please consult your veterinarian before making decisions about a pet's care or your readiness to adopt."
+}
