@@ -3,7 +3,7 @@ title: "Dog Bite Wound Care"
 date: 2026-05-27T09:37:55.838990+00:00
 draft: false
 description: "Learn how to properly clean and treat a dog bite wound at home, when to seek medical care, and how to reduce the risk of infection and complications."
-image: "https://images.pexels.com/photos/7468978/pexels-photo-7468978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7788856/pexels-photo-7788856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["bite", "wound", "care"]
 author: "Claire Novak"

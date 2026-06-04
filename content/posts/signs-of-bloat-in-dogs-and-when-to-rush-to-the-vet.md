@@ -3,7 +3,7 @@ title: "Signs Of Bloat In Dogs And When To Rush To The Vet"
 date: 2026-06-04T12:21:07.911131+00:00
 draft: false
 description: "Learn to recognize the warning signs of bloat in dogs, a life-threatening emergency. Know when to act fast and rush your pet to the vet for immediate care."
-image: "https://images.pexels.com/photos/6235650/pexels-photo-6235650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/24595750/pexels-photo-24595750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["signs", "bloat", "dogs", "when", "rush"]
 author: "Claire Novak"

@@ -3,7 +3,7 @@ title: "Dog Poison Emergency Guide"
 date: 2026-05-29T01:01:05.584095+00:00
 draft: false
 description: "Learn what to do if your dog ingests something toxic. Discover common poisons, warning signs, and emergency steps to take to keep your pet safe and act fast."
-image: "https://images.pexels.com/photos/6235650/pexels-photo-6235650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5731866/pexels-photo-5731866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["poison", "emergency", "guide"]
 author: "Maria Vasquez"

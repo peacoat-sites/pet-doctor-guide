@@ -3,7 +3,7 @@ title: "How To Recognize Bloat In Large Breed Dogs"
 date: 2026-05-30T10:56:59.671627+00:00
 draft: false
 description: "Learn to spot the warning signs of bloat in large breed dogs before it becomes life-threatening. Discover symptoms, causes, and when to seek emergency vet care."
-image: "https://images.pexels.com/photos/6235020/pexels-photo-6235020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29661752/pexels-photo-29661752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dog Conditions"]
 tags: ["recognize", "bloat", "large", "breed", "dogs"]
 author: "Maria Vasquez"
