@@ -16,3 +16,13 @@ This quick quiz isn't a pass-or-fail test. It's a gentle mirror to help you refl
 Wherever you landed, remember that readiness can grow over time, and the right pet for your life is worth a little planning. Browse our beginner guides on choosing a species, budgeting for care, and preparing your home, and when you're close to deciding, loop in a trusted veterinarian to talk through the specifics for your situation.
 
 ---
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+
