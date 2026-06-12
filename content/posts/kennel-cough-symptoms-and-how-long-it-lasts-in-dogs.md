@@ -1,0 +1,124 @@
+---
+title: "Kennel Cough Symptoms And How Long It Lasts In Dogs"
+date: 2026-06-12T19:26:36.669068+00:00
+draft: false
+description: "Learn to spot kennel cough symptoms in dogs, including honking cough and runny nose, and find out how long it typically lasts before your dog fully recovers."
+image: "https://images.pexels.com/photos/6234980/pexels-photo-6234980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+categories: ["Infectious Disease"]
+tags: ["kennel", "cough", "symptoms", "long", "lasts"]
+author: "Dana Hargrove"
+author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+slug: "kennel-cough-symptoms-and-how-long-it-lasts-in-dogs"
+affiliate_disclosure: true
+faqs:
+  - q: "Can my dog give kennel cough to me or my cat?"
+    a: "In people with healthy immune systems, the pathogens that cause kennel cough in dogs are not a meaningful concern. Severely immunocompromised humans (undergoing chemotherapy, for example) should take basic precautions. Cats can contract Bordetella but it's uncommon in home settings."
+  - q: "Should I give my dog cough medicine from my cabinet?"
+    a: "No. Do not give your dog over-the-counter human cough suppressants, especially anything containing dextromethorphan or xylitol. Some vets will prescribe canine-appropriate cough suppressants for dogs who aren't sleeping because of severe coughing, but that's a call to make with your vet, not a DIY situation."
+  - q: "My dog got vaccinated for Bordetella. How did she still get kennel cough?"
+    a: "Because the vaccine doesn't cover every pathogen in the kennel cough complex. Canine parainfluenza, for instance, is a separate virus. Some combination vaccines cover it, some don't. It's also possible the vaccine wasn't administered far enough ahead of exposure to be protective."
+  - q: "Is kennel cough contagious to other dogs in my house?"
+    a: "Yes, very. Airborne transmission through respiratory secretions means dogs sharing a living space are at real risk. Separate food and water bowls, limit close contact if you can, and keep them out of dog parks or daycares until symptoms have been fully gone for a few days."
+  - q: "When does kennel cough become pneumonia?"
+    a: "If the infection moves into the lungs, you'll usually see more than coughing: a dog that seems genuinely sick, won't eat, has a high fever (over 104°F), breathes fast or with visible effort, or has a deep, wet-sounding cough rather than the dry honking. That picture needs a vet the same day, not tomorrow."
+---
+
+Three days into what looked like allergies, the dog is honking like a goose and the owner is convinced she's dying. I've had that phone call more times than I can count. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary on the couch at 11pm, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. Knowing the difference between "this is normal kennel cough" and "this dog needs to be seen today" is the whole game.
+
+## What Kennel Cough Actually Sounds Like (and Doesn't)
+
+The name is a little misleading because it implies your dog had to go to a boarding facility. They didn't. Dog parks, pet stores, even a quick sniff through a chain-link fence with the neighbor's dog can transmit it. Bordetella bronchiseptica is the most common bacterial culprit, but canine parainfluenza virus, canine adenovirus type 2, and a few other pathogens all cause the same general syndrome. It's a respiratory infection, basically the dog equivalent of a chest cold.
+
+The cough itself is distinctive once you've heard it. It's loud, harsh, and honking. Some people describe it as the dog trying to clear something stuck in its throat. That's actually a useful description because that's exactly what it looks and sounds like. The dog will often retch at the end of a cough, sometimes bringing up small amounts of white, foamy mucus. First-time dog owners almost always think that's vomiting. It's not.
+
+What you usually won't see: high fever, lethargy, loss of appetite, or labored breathing. If those are present, you're no longer looking at straightforward kennel cough. More on that in a minute.
+
+## How Long It Lasts
+
+> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+
+
+
+Here's the part most online sources bury under so much hedging it becomes useless. In a healthy adult dog with a functioning immune system, kennel cough typically runs its course in 1 to 3 weeks. The first 5 to 7 days are usually the worst, with the cough being most frequent and most dramatic. By day 10, most dogs are noticeably improving. By day 14 to 21, the majority are back to normal.
+
+Puppies, senior dogs, and immunocompromised dogs take longer and carry more risk. In those cases, the infection can progress to pneumonia, which is a genuinely serious situation. If your dog is under 6 months old, over 10 years old, or has a known health condition affecting their immune system, I'd call your vet at the first sign of respiratory symptoms rather than waiting to see how things develop.
+
+One thing that catches a lot of people off guard: the cough can briefly sound worse around day 3 or 4, right when you'd expect improvement. That's just the normal arc of the illness. It doesn't mean your dog is deteriorating.
+
+## When to Go to the Vet and When to Wait
+
+I'll be direct about this because it's where I see owners either over-panic or under-react.
+
+**You can reasonably monitor at home if:**
+- Your dog is an otherwise healthy adult (roughly 1 to 9 years old with no known health issues)
+- They're eating, drinking, and interested in their surroundings
+- The cough is the primary symptom, with or without minor clear nasal discharge
+- They're not breathing with effort or showing any blue tint to gums or tongue
+
+**Call your vet or go to an urgent care clinic if:**
+- The dog is a puppy, a senior, pregnant, or immunocompromised
+- Coughing is accompanied by lethargy or significant appetite loss for more than 24 hours
+- You notice labored breathing, rapid breathing, or any open-mouth breathing at rest
+- The dog seems genuinely distressed, not just annoying to listen to
+- Symptoms aren't improving at all after 7 to 10 days
+
+The ASPCA Poison Control Center isn't the first call here, but PetMD's veterinary resource library has a solid breakdown of kennel cough severity indicators that's worth bookmarking for reference.
+
+Honestly, a lot of vets will treat uncomplicated kennel cough with a prescription for doxycycline even when antibiotics don't meaningfully shorten the course of a viral component. I'm not saying skip the vet if you're worried. I'm saying if your healthy 4-year-old Labrador has been honking for 3 days, is eating his food, and trotted over to greet you at the door, you probably don't need to spend the money on an emergency visit this weekend.
+
+## How to Keep Your Dog Comfortable During Recovery
+
+Rest and reduced excitement. That's genuinely the main thing. Exercise makes dogs breathe harder, which triggers more coughing, which irritates the airways further, which causes more coughing. Two to three short, calm leash walks a day instead of the usual fetch session is reasonable for the first week.
+
+If your dog wears a collar, switch to a harness temporarily. Even gentle pressure on the trachea can set off a coughing fit when the airway is already inflamed. It's a small thing that makes a real difference.
+
+A humidifier in the room where your dog sleeps can take some of the edge off. Plain steam from a hot shower works too. Sitting in the bathroom with your dog for 10 minutes while the shower runs hot isn't exactly a spa day, but it helps.
+
+Keep them away from other dogs until the cough has been gone for at least 48 to 72 hours. Kennel cough is highly contagious. The incubation period is typically 2 to 14 days, which means a dog can be spreading it before showing any symptoms at all. Heads up if you have a multi-dog household.
+
+If you don't already have a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=example-20) on hand, now is a decent time to think about it. Nothing in a first aid kit treats kennel cough, but being able to take a temperature accurately (normal is 101 to 102.5°F in dogs) helps you make better decisions about whether to call the vet. (Disclosure: this site may earn a commission on purchases through that link.)
+
+## The Vaccine Question
+
+Bordetella vaccines exist, and they're worth having if your dog boards, goes to daycare, visits dog parks, or attends group training classes. That said, the vaccine doesn't guarantee your dog won't get kennel cough. It covers the most common strains but the syndrome can be caused by multiple pathogens. Think of it less like a guarantee and more like a flu shot: not foolproof, but genuinely helpful at reducing severity and likelihood.
+
+Most boarding facilities require it, which is the most common reason dogs get it in the first place.
+
+---
+
+## Frequently Asked Questions
+
+### Can my dog give kennel cough to me or my cat?
+
+In people with healthy immune systems, the pathogens that cause kennel cough in dogs are not a meaningful concern. Severely immunocompromised humans (undergoing chemotherapy, for example) should take basic precautions. Cats can contract Bordetella but it's uncommon in home settings.
+
+### Should I give my dog cough medicine from my cabinet?
+
+No. Do not give your dog over-the-counter human cough suppressants, especially anything containing dextromethorphan or xylitol. Some vets will prescribe canine-appropriate cough suppressants for dogs who aren't sleeping because of severe coughing, but that's a call to make with your vet, not a DIY situation.
+
+### My dog got vaccinated for Bordetella. How did she still get kennel cough?
+
+Because the vaccine doesn't cover every pathogen in the kennel cough complex. Canine parainfluenza, for instance, is a separate virus. Some combination vaccines cover it, some don't. It's also possible the vaccine wasn't administered far enough ahead of exposure to be protective.
+
+### Is kennel cough contagious to other dogs in my house?
+
+Yes, very. Airborne transmission through respiratory secretions means dogs sharing a living space are at real risk. Separate food and water bowls, limit close contact if you can, and keep them out of dog parks or daycares until symptoms have been fully gone for a few days.
+
+### When does kennel cough become pneumonia?
+
+If the infection moves into the lungs, you'll usually see more than coughing: a dog that seems genuinely sick, won't eat, has a high fever (over 104°F), breathes fast or with visible effort, or has a deep, wet-sounding cough rather than the dry honking. That picture needs a vet the same day, not tomorrow.
+
+## Helpful Resources
+
+*As an Amazon Associate this site earns from qualifying purchases.*
+
+- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
+- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
+- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
+
+
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+
+---
+
+*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
