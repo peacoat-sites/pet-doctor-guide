@@ -3,7 +3,7 @@ title: "Pet Insurance Worth It"
 date: 2026-05-29T03:26:03.372691+00:00
 draft: false
 description: "Wondering if pet insurance is worth it? Discover the pros, cons, and costs to help you decide if coverage is the right choice for your furry companion."
-image: "https://images.pexels.com/photos/6010928/pexels-photo-6010928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821475/pexels-photo-7821475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Pet Insurance"]
 tags: ["insurance", "worth"]
 slug: "pet-insurance-worth-it"
@@ -164,7 +164,7 @@ The bottom line is simple, even if the decision isn't always: veterinary medicin
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

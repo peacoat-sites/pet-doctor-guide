@@ -3,7 +3,7 @@ title: "Dog Surgery Recovery Guide"
 date: 2026-05-27T06:37:35.240560+00:00
 draft: false
 description: "Help your dog heal faster with our complete surgery recovery guide. Learn post-op care tips, pain management, and when to call your vet for peace of mind."
-image: "https://images.pexels.com/photos/30556342/pexels-photo-30556342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14336463/pexels-photo-14336463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Surgery"]
 tags: ["surgery", "recovery", "guide"]
 slug: "dog-surgery-recovery-guide"

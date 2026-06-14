@@ -3,7 +3,7 @@ title: "Home Remedies For Dog Ear Yeast Infection"
 date: 2026-06-05T12:22:27.534871+00:00
 draft: false
 description: "Discover effective home remedies for dog ear yeast infections. Learn natural treatments to relieve your pet's discomfort and prevent recurring infections safely"
-image: "https://images.pexels.com/photos/6235108/pexels-photo-6235108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28992146/pexels-photo-28992146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Ear Health"]
 tags: ["home", "remedies", "yeast", "infection"]
 slug: "home-remedies-for-dog-ear-yeast-infection"
@@ -129,7 +129,7 @@ The honest truth about dog ear yeast infections is that they're manageable, but 
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Arijit Dey](https://www.pexels.com/@arijit) via Pexels*
 
 ---
 

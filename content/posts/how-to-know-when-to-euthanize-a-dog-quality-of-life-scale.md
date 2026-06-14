@@ -3,7 +3,7 @@ title: "How To Know When To Euthanize A Dog Quality Of Life Scale"
 date: 2026-06-04T12:19:06.563705+00:00
 draft: false
 description: "Discover how to use a dog quality of life scale to help you make the difficult decision of when to euthanize your dog with compassion and clarity."
-image: "https://images.pexels.com/photos/28860756/pexels-photo-28860756.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7210317/pexels-photo-7210317.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["End of Life"]
 tags: ["know", "when", "euthanize", "quality", "life"]
 slug: "how-to-know-when-to-euthanize-a-dog-quality-of-life-scale"
@@ -121,7 +121,7 @@ Somewhere in the middle of writing this, I thought about a lab named Otis whose 
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
 
 
-*Photo: [Ermelinda Maglione](https://www.pexels.com/@ermelinda-maglione-1106070) via Pexels*
+*Photo: [Blue Bird](https://www.pexels.com/@blue-bird) via Pexels*
 
 ---
 

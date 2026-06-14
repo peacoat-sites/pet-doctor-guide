@@ -3,7 +3,7 @@ title: "Cat Dental Disease Signs"
 date: 2026-05-26T12:44:10.382744+00:00
 draft: false
 description: "Spot the early signs of cat dental disease before pain sets in. Learn what to look for, from bad breath to red gums, to protect your cat's oral health."
-image: "https://images.pexels.com/photos/32830898/pexels-photo-32830898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28928666/pexels-photo-28928666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["dental", "disease", "signs"]
 slug: "cat-dental-disease-signs"
@@ -153,7 +153,7 @@ Dental disease doesn't announce itself with obvious drama in most cats. It shows
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
 
-*Photo: [Ermelinda Maglione](https://www.pexels.com/@ermelinda-maglione-1106070) via Pexels*
+*Photo: [Bade Saba](https://www.pexels.com/@badesaba) via Pexels*
 
 ---
 

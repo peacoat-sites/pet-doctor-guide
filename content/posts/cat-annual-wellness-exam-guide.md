@@ -3,7 +3,7 @@ title: "Cat Annual Wellness Exam Guide"
 date: 2026-05-22T13:14:51.398986+00:00
 draft: false
 description: "Discover what to expect at your cat's annual wellness exam, why regular vet visits matter, and how routine checkups help keep your feline healthy and happy."
-image: "https://images.pexels.com/photos/6816836/pexels-photo-6816836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37650419/pexels-photo-37650419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["annual", "wellness", "exam", "guide"]
 slug: "cat-annual-wellness-exam-guide"

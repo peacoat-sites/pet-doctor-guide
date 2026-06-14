@@ -3,7 +3,7 @@ title: "Common Health Problems In French Bulldogs"
 date: 2026-06-05T19:16:29.405540+00:00
 draft: false
 description: "Discover the most common health problems in French Bulldogs, from breathing issues to skin conditions, and learn how to keep your Frenchie happy and healthy."
-image: "https://images.pexels.com/photos/6235648/pexels-photo-6235648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36831228/pexels-photo-36831228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Breed Info"]
 tags: ["common", "health", "problems", "french", "bulldogs"]
 slug: "common-health-problems-in-french-bulldogs"
@@ -133,7 +133,7 @@ Don't wait. Intermittent knuckling or foot dragging in a Frenchie is a spinal re
 - **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [🇻🇳🇻🇳 Việt Anh Nguyễn 🇻🇳🇻🇳](https://www.pexels.com/@vi-t-anh-nguy-n-2150409023) via Pexels*
 
 ---
 

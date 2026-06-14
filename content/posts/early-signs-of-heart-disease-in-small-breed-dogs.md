@@ -3,7 +3,7 @@ title: "Early Signs Of Heart Disease In Small Breed Dogs"
 date: 2026-06-08T19:37:44.817656+00:00
 draft: false
 description: "Spot early signs of heart disease in small breed dogs, including coughing, fatigue, and breathing changes, to protect your pet's health and extend their life."
-image: "https://images.pexels.com/photos/6235230/pexels-photo-6235230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11944332/pexels-photo-11944332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Heart Health"]
 tags: ["early", "signs", "heart", "disease", "small"]
 slug: "early-signs-of-heart-disease-in-small-breed-dogs"
@@ -123,7 +123,7 @@ The cough you're hearing, the slowing down you've noticed, the gut feeling that 
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Alexey Demidov](https://www.pexels.com/@alexeydemidov) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Cat Hyperthyroidism Treatment"
 date: 2026-06-13T18:47:18.188714+00:00
 draft: false
 description: "Discover effective cat hyperthyroidism treatments including medication, radioactive iodine therapy, surgery, and dietary options to help your cat live a longer,"
-image: "https://images.pexels.com/photos/6235231/pexels-photo-6235231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/20548841/pexels-photo-20548841.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["hyperthyroidism", "treatment"]
 slug: "cat-hyperthyroidism-treatment"
@@ -111,7 +111,7 @@ The excess thyroid hormone puts chronic stress on the heart, which can lead to h
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Singlár Zsuzsa](https://www.pexels.com/@singlar-zsuzsa-413077990) via Pexels*
 
 ---
 

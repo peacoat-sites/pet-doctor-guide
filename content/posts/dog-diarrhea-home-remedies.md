@@ -3,7 +3,7 @@ title: "Dog Diarrhea Home Remedies"
 date: 2026-05-18T20:02:55.923242+00:00
 draft: false
 description: "Help your pup feel better fast with these safe and effective dog diarrhea home remedies, including bland diets, probiotics, and hydration tips."
-image: "https://images.pexels.com/photos/17345751/pexels-photo-17345751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1000602/pexels-photo-1000602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["diarrhea", "home", "remedies"]
 slug: "dog-diarrhea-home-remedies"
@@ -143,7 +143,7 @@ Mild diarrhea is one of those things every dog owner will deal with eventually, 
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
 
-*Photo: [Ermelinda Maglione](https://www.pexels.com/@ermelinda-maglione-1106070) via Pexels*
+*Photo: [Timo Piredda](https://www.pexels.com/@timo-piredda-373061) via Pexels*
 
 ---
 

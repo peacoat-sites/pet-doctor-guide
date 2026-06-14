@@ -3,7 +3,7 @@ title: "Dog Allergies Symptoms Treatment"
 date: 2026-05-27T22:34:34.545860+00:00
 draft: false
 description: "Dog allergies can cause itching, rashes, and ear infections. Learn to identify symptoms in your pet and discover effective treatment options from your vet."
-image: "https://images.pexels.com/photos/20391626/pexels-photo-20391626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9365733/pexels-photo-9365733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["allergies", "symptoms", "treatment"]
 slug: "dog-allergies-symptoms-treatment"
@@ -171,7 +171,7 @@ Living with an allergic dog is genuinely challenging, and I won't pretend otherw
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
 
-*Photo: [Trần Chính](https://www.pexels.com/@tr-n-chinh-587690133) via Pexels*
+*Photo: [Anastasia Lashkevich](https://www.pexels.com/@immortelleana) via Pexels*
 
 ---
 

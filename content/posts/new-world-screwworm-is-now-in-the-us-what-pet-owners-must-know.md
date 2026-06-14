@@ -3,7 +3,7 @@ title: "New World Screwworm Is Now in the U.S.: What Pet Owners Must Know"
 date: 2026-06-14T19:09:02.700515+00:00
 draft: false
 description: "New World Screwworm has entered the U.S., threatening pets. Learn the warning signs, how to protect your animals, and what to do if you suspect an infestation."
-image: "https://images.pexels.com/photos/3921202/pexels-photo-3921202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4724001/pexels-photo-4724001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["world", "screwworm", "u.s.:", "what", "owners"]
 author: "Karen Lopez"
@@ -82,7 +82,7 @@ The fact that we haven't seen this parasite in the U.S. for sixty years means mo
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
 
-*Photo: [izmir düğün fotoğrafçısı](https://www.pexels.com/@dugunfotografcisi) via Pexels*
+*Photo: [Lisa from Pexels](https://www.pexels.com/@fotios-photos) via Pexels*
 
 ---
 

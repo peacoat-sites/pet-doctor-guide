@@ -3,7 +3,7 @@ title: "Cost Of Professional Dog Teeth Cleaning Under Anesthesia 2026"
 date: 2026-06-08T19:39:41.829392+00:00
 draft: false
 description: "Discover the 2026 cost of professional dog teeth cleaning under anesthesia, what factors affect pricing, and how to save on your pet's dental care."
-image: "https://images.pexels.com/photos/33394322/pexels-photo-33394322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10800307/pexels-photo-10800307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["cost", "professional", "teeth", "cleaning", "under"]
 slug: "cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026"
@@ -123,7 +123,7 @@ That client with the beagle? She went ahead with the cleaning. They found two te
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 
 
-*Photo: [Tahir Xəlfə](https://www.pexels.com/@tahir) via Pexels*
+*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
 
 ---
 

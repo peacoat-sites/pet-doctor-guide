@@ -3,7 +3,7 @@ title: "Cat Kidney Disease Diet"
 date: 2026-05-22T14:05:22.474565+00:00
 draft: false
 description: "Discover the best diet for cats with kidney disease, including nutritional guidelines, food recommendations, and feeding tips to support your cat's health."
-image: "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/5822458/pexels-photo-5822458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["kidney", "disease", "diet"]
 slug: "cat-kidney-disease-diet"

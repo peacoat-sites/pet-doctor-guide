@@ -3,7 +3,7 @@ title: "Dog Nail Trimming Fear"
 date: 2026-06-12T19:24:57.123155+00:00
 draft: false
 description: "Help your dog overcome nail trimming fear with expert tips on desensitization, positive reinforcement, and calming techniques for stress-free grooming sessions "
-image: "https://images.pexels.com/photos/6234612/pexels-photo-6234612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6816842/pexels-photo-6816842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Grooming"]
 tags: ["nail", "trimming", "fear"]
 slug: "dog-nail-trimming-fear"
@@ -111,7 +111,7 @@ The dogs I've seen make the most progress with nail fear aren't the ones whose o
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 
 ---
 

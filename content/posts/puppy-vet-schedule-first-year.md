@@ -3,7 +3,7 @@ title: "Puppy Vet Schedule First Year"
 date: 2026-05-22T01:53:57.162204+00:00
 draft: false
 description: "Help your puppy thrive with our complete first-year vet schedule guide. Learn which vaccines, checkups, and treatments your pup needs and when to book them."
-image: "https://images.pexels.com/photos/3888511/pexels-photo-3888511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37173533/pexels-photo-37173533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["puppy", "schedule", "first", "year"]
 slug: "puppy-vet-schedule-first-year"
@@ -145,7 +145,7 @@ Your puppy's first year is a sprint. It's more vet visits, more decisions, and m
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Susanne Jutzeler, suju-foto](https://www.pexels.com/@suju) via Pexels*
 
 ---
 

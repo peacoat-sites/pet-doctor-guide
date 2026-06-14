@@ -3,7 +3,7 @@ title: "Dog Bite Wound Care"
 date: 2026-05-27T09:37:55.838990+00:00
 draft: false
 description: "Learn how to properly clean and treat a dog bite wound at home, when to seek medical care, and how to reduce the risk of infection and complications."
-image: "https://images.pexels.com/photos/7788856/pexels-photo-7788856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6519904/pexels-photo-6519904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["bite", "wound", "care"]
 slug: "dog-bite-wound-care"
@@ -152,7 +152,7 @@ Dog bites sit in an awkward middle zone: common enough that people underestimate
 - **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

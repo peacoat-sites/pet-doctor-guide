@@ -3,7 +3,7 @@ title: "Dog Ear Infection Symptoms Treatment"
 date: 2026-05-25T03:17:43.878186+00:00
 draft: false
 description: "Learn to spot dog ear infection symptoms like scratching, odor, and discharge. Discover effective treatments to relieve your dog's discomfort and restore ear he"
-image: "https://images.pexels.com/photos/6129691/pexels-photo-6129691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4587965/pexels-photo-4587965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["infection", "symptoms", "treatment"]
 slug: "dog-ear-infection-symptoms-treatment"
@@ -169,7 +169,7 @@ Ear infections are uncomfortable and sometimes painful for your dog, but they're
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 
 
-*Photo: [Ermelinda Maglione](https://www.pexels.com/@ermelinda-maglione-1106070) via Pexels*
+*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 
 ---
 

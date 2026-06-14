@@ -3,7 +3,7 @@ title: "Dog Weight Management Guide"
 date: 2026-05-27T18:07:23.661366+00:00
 draft: false
 description: "Help your dog maintain a healthy weight with our comprehensive guide covering nutrition, exercise, and veterinary tips for optimal canine health."
-image: "https://images.pexels.com/photos/28725006/pexels-photo-28725006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33370635/pexels-photo-33370635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["weight", "management", "guide"]
 slug: "dog-weight-management-guide"
@@ -142,7 +142,7 @@ Weight management is one of the few things you can do for your dog that has a me
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
-*Photo: [Misha Zimin](https://www.pexels.com/@misha-zimin-154261925) via Pexels*
+*Photo: [Son Tuyen Dinh](https://www.pexels.com/@son-tuyen-dinh-1298468817) via Pexels*
 
 ---
 

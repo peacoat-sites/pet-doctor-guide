@@ -3,7 +3,7 @@ title: "Pet Emergency Vet When To Go"
 date: 2026-05-21T05:02:12.073735+00:00
 draft: false
 description: "Know when to rush your pet to an emergency vet. Learn the warning signs of life-threatening conditions in dogs and cats that require immediate veterinary care."
-image: "https://images.pexels.com/photos/6129232/pexels-photo-6129232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7469224/pexels-photo-7469224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["emergency", "when"]
 slug: "pet-emergency-vet-when-to-go"
@@ -148,7 +148,7 @@ Nobody wants to be the person Googling "emergency vet near me" at midnight. But 
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

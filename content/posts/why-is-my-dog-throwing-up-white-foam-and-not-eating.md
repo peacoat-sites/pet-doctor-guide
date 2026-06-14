@@ -3,7 +3,7 @@ title: "Why Is My Dog Throwing Up White Foam And Not Eating"
 date: 2026-06-09T19:31:37.688939+00:00
 draft: false
 description: "Discover why your dog is vomiting white foam and refusing food. Learn common causes, warning signs, and when to seek urgent veterinary care for your pet."
-image: "https://images.pexels.com/photos/7469222/pexels-photo-7469222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30763315/pexels-photo-30763315.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["throwing", "white", "foam", "eating"]
 slug: "why-is-my-dog-throwing-up-white-foam-and-not-eating"
@@ -138,7 +138,7 @@ Most of the time, this symptom resolves on its own or with simple management. Bu
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Gorky Sinha](https://www.pexels.com/@gorky) via Pexels*
 
 ---
 

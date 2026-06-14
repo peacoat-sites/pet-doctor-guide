@@ -3,7 +3,7 @@ title: "Cat Annual Vet Visit What To Expect"
 date: 2026-05-20T18:54:03.393837+00:00
 draft: false
 description: "Learn what happens during your cat's annual vet visit, from physical exams and vaccinations to bloodwork and parasite prevention, so you can feel fully prepared"
-image: "https://images.pexels.com/photos/32727346/pexels-photo-32727346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6130974/pexels-photo-6130974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["annual", "visit", "what", "expect"]
 slug: "cat-annual-vet-visit-what-to-expect"
@@ -160,7 +160,7 @@ A yearly vet visit is genuinely one of the highest-value things you can do for a
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
 

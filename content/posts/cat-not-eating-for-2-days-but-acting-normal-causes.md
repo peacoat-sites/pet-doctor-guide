@@ -3,7 +3,7 @@ title: "Cat Not Eating For 2 Days But Acting Normal Causes"
 date: 2026-06-07T18:42:22.238558+00:00
 draft: false
 description: "Worried your cat hasn't eaten in 2 days but seems fine? Discover common causes, warning signs to watch for, and when to visit your vet for help."
-image: "https://images.pexels.com/photos/7474859/pexels-photo-7474859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35718249/pexels-photo-35718249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["eating", "days", "acting", "normal", "causes"]
 slug: "cat-not-eating-for-2-days-but-acting-normal-causes"
@@ -115,7 +115,7 @@ Only if your vet has specifically advised this, and only with appropriate foods.
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Alif Alatas](https://www.pexels.com/@alif-alatas-2158102265) via Pexels*
 
 ---
 

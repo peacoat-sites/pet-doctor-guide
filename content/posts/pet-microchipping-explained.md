@@ -3,7 +3,7 @@ title: "Pet Microchipping Explained"
 date: 2026-05-20T08:57:01.410648+00:00
 draft: false
 description: "Find out everything you need to know about pet microchipping, including how it works, the benefits, costs, and why it could help reunite you with a lost pet."
-image: "https://images.pexels.com/photos/29590680/pexels-photo-29590680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6816871/pexels-photo-6816871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["microchipping", "explained"]
 slug: "pet-microchipping-explained"
@@ -141,7 +141,7 @@ If your pet isn't microchipped yet, the good news is that fixing that is one of 
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
-*Photo: [Ermelinda Maglione](https://www.pexels.com/@ermelinda-maglione-1106070) via Pexels*
+*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 
 ---
 

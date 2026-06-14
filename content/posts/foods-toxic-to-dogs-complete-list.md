@@ -3,7 +3,7 @@ title: "Foods Toxic To Dogs Complete List"
 date: 2026-06-07T18:44:23.930814+00:00
 draft: false
 description: "Discover the complete list of foods toxic to dogs, from grapes to chocolate. Protect your pet by knowing exactly what to keep out of their reach."
-image: "https://images.pexels.com/photos/6235011/pexels-photo-6235011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6578848/pexels-photo-6578848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Safety"]
 tags: ["foods", "toxic", "dogs", "complete", "list"]
 slug: "foods-toxic-to-dogs-complete-list"
@@ -125,7 +125,7 @@ Keep the ASPCA Poison Control number in your phone. Know roughly what your dog w
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Andres  Ayrton](https://www.pexels.com/@andres-ayrton) via Pexels*
 
 ---
 

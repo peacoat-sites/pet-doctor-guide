@@ -3,7 +3,7 @@ title: "Dog Acl Surgery Recovery Time And Cost"
 date: 2026-06-10T19:46:48.196414+00:00
 draft: false
 description: "Learn about dog ACL surgery recovery time, typical costs, and what to expect during rehabilitation to help your pet heal faster and get back on their feet."
-image: "https://images.pexels.com/photos/7474856/pexels-photo-7474856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30810890/pexels-photo-30810890.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Surgery"]
 tags: ["surgery", "recovery", "time", "cost"]
 slug: "dog-acl-surgery-recovery-time-and-cost"
@@ -108,7 +108,7 @@ Six months from now, most dogs who've gone through TPLO are running around like 
 - **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Masood Aslami](https://www.pexels.com/@masoodaslami) via Pexels*
 
 ---
 

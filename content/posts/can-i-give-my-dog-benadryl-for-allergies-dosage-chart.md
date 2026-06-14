@@ -3,7 +3,7 @@ title: "Can I Give My Dog Benadryl For Allergies Dosage Chart"
 date: 2026-06-03T14:09:27.680450+00:00
 draft: false
 description: "Find out if Benadryl is safe for dogs with allergies, the correct dosage by weight, potential side effects, and when to consult your vet before giving it."
-image: "https://images.pexels.com/photos/6235017/pexels-photo-6235017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33710354/pexels-photo-33710354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medications"]
 tags: ["give", "benadryl", "allergies", "dosage", "chart"]
 slug: "can-i-give-my-dog-benadryl-for-allergies-dosage-chart"
@@ -142,7 +142,7 @@ If there's one thing I want you to take from all this, it's that Benadryl is a r
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Florencia  Pérez](https://www.pexels.com/@florencia-perez-2154456999) via Pexels*
 
 ---
 

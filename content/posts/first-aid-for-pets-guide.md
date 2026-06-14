@@ -3,7 +3,7 @@ title: "First Aid For Pets Guide"
 date: 2026-05-27T17:37:04.095931+00:00
 draft: false
 description: "Learn essential first aid for pets with our comprehensive guide. Discover how to handle emergencies, treat injuries, and keep your furry friends safe and health"
-image: "https://images.pexels.com/photos/6235020/pexels-photo-6235020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7469221/pexels-photo-7469221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["first", "pets", "guide"]
 slug: "first-aid-for-pets-guide"
@@ -158,7 +158,7 @@ You can't prevent every accident, and you can't be a veterinarian with a first a
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

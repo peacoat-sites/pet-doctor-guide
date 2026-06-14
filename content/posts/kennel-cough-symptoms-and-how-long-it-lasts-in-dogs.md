@@ -3,7 +3,7 @@ title: "Kennel Cough Symptoms And How Long It Lasts In Dogs"
 date: 2026-06-12T19:26:36.669068+00:00
 draft: false
 description: "Learn to spot kennel cough symptoms in dogs, including honking cough and runny nose, and find out how long it typically lasts before your dog fully recovers."
-image: "https://images.pexels.com/photos/6234980/pexels-photo-6234980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/13239223/pexels-photo-13239223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Infectious Disease"]
 tags: ["kennel", "cough", "symptoms", "long", "lasts"]
 slug: "kennel-cough-symptoms-and-how-long-it-lasts-in-dogs"
@@ -120,7 +120,7 @@ If the infection moves into the lungs, you'll usually see more than coughing: a 
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Alexander Nadrilyanski](https://www.pexels.com/@aleksandar069) via Pexels*
 
 ---
 

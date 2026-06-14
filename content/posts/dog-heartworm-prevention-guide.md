@@ -3,7 +3,7 @@ title: "Dog Heartworm Prevention Guide"
 date: 2026-05-18T16:44:41.801462+00:00
 draft: false
 description: "Protect your dog from deadly heartworms with our complete prevention guide. Learn about medications, treatment options, and how to keep your pet safe year-round"
-image: "https://images.pexels.com/photos/33659566/pexels-photo-33659566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16299046/pexels-photo-16299046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["heartworm", "prevention", "guide"]
 slug: "dog-heartworm-prevention-guide"
@@ -156,7 +156,7 @@ Heartworm prevention is genuinely one of the simplest, most impactful things you
 - **[Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Sudhir Sangwan](https://www.pexels.com/@sudhirsangwan) via Pexels*
 
 ---
 

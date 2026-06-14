@@ -3,7 +3,7 @@ title: "Dog Arthritis Symptoms Treatment"
 date: 2026-05-21T00:43:16.741117+00:00
 draft: false
 description: "Dog arthritis can cause limping, stiffness, and reduced mobility in older pets. Learn about common symptoms, pain management options, and treatments to improve "
-image: "https://images.pexels.com/photos/6235007/pexels-photo-6235007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15977118/pexels-photo-15977118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["arthritis", "symptoms", "treatment"]
 slug: "dog-arthritis-symptoms-treatment"
@@ -150,7 +150,7 @@ Managing a dog with arthritis is a long game. There will be medication adjustmen
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Alexandre P. Junior](https://www.pexels.com/@alexandrep-junior) via Pexels*
 
 ---
 

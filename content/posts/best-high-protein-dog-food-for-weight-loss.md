@@ -3,7 +3,7 @@ title: "Best High Protein Dog Food For Weight Loss"
 date: 2026-06-10T19:48:52.174310+00:00
 draft: false
 description: "Discover the best high protein dog foods for weight loss to help your pup shed pounds, build lean muscle, and stay energized with our expert-reviewed top picks."
-image: "https://images.pexels.com/photos/7470754/pexels-photo-7470754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8434633/pexels-photo-8434633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["best", "high", "protein", "food", "weight"]
 slug: "best-high-protein-dog-food-for-weight-loss"
@@ -111,7 +111,7 @@ Watching a dog get to a healthy weight is genuinely one of the more satisfying t
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 

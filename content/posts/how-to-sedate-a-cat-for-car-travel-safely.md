@@ -3,7 +3,7 @@ title: "How To Sedate A Cat For Car Travel Safely"
 date: 2026-06-11T19:51:10.015060+00:00
 draft: false
 description: "Learn how to safely sedate your cat for car travel using vet-approved methods, calming aids, and expert tips to keep your feline stress-free on every journey."
-image: "https://images.pexels.com/photos/7469274/pexels-photo-7469274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4062842/pexels-photo-4062842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Travel"]
 tags: ["sedate", "travel", "safely"]
 slug: "how-to-sedate-a-cat-for-car-travel-safely"
@@ -113,7 +113,7 @@ For gabapentin and trazodone, yes. For Feliway, Zylkene, and most supplement-bas
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Maria Sanchez](https://www.pexels.com/@mariisanz11) via Pexels*
 
 ---
 

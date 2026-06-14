@@ -3,7 +3,7 @@ title: "Dog Not Eating What To Do"
 date: 2026-05-25T05:42:28.032027+00:00
 draft: false
 description: "Help your dog regain their appetite. Discover common reasons why dogs stop eating and learn practical tips to get your furry friend back to their food bowl fast"
-image: "https://images.pexels.com/photos/10738389/pexels-photo-10738389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9509757/pexels-photo-9509757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["eating", "what"]
 slug: "dog-not-eating-what-to-do"
@@ -172,7 +172,7 @@ Most dogs who skip a meal are fine by the next morning, and you'll look back and
 - **[Arm & Hammer Dog Dental Spray,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
-*Photo: [DCC Pets](https://www.pexels.com/@dcc-pets-1225360955) via Pexels*
+*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Is Pet Insurance Worth It For A Healthy Young Dog"
 date: 2026-06-11T19:49:05.498601+00:00
 draft: false
 description: "Even healthy young dogs face unexpected accidents and illnesses. Discover whether pet insurance is worth the monthly cost and how to choose the right plan for y"
-image: "https://images.pexels.com/photos/6234606/pexels-photo-6234606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30677148/pexels-photo-30677148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Pet Insurance"]
 tags: ["insurance", "worth", "healthy", "young"]
 slug: "is-pet-insurance-worth-it-for-a-healthy-young-dog"
@@ -143,7 +143,7 @@ The honest version of this answer is that pet insurance won't make financial sen
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Dogs Devotion](https://www.pexels.com/@dogs-devotion-452612438) via Pexels*
 
 ---
 

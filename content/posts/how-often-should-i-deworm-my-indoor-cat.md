@@ -3,7 +3,7 @@ title: "How Often Should I Deworm My Indoor Cat"
 date: 2026-06-05T19:14:29.845419+00:00
 draft: false
 description: "Find out how often you should deworm your indoor cat, which worms to watch for, signs of infection, and the best treatment options to keep your cat healthy."
-image: "https://images.pexels.com/photos/22504402/pexels-photo-22504402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32464783/pexels-photo-32464783.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["often", "should", "deworm", "indoor"]
 slug: "how-often-should-i-deworm-my-indoor-cat"
@@ -142,7 +142,7 @@ Here's where I land after all of this: the "deworm your cat every month no matte
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
 
 
-*Photo: [DCC Pets](https://www.pexels.com/@dcc-pets-1225360955) via Pexels*
+*Photo: [Furkan  Aktaş](https://www.pexels.com/@furkanakt) via Pexels*
 
 ---
 

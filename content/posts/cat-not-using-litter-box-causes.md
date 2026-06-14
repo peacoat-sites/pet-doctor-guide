@@ -3,7 +3,7 @@ title: "Cat Not Using Litter Box Causes"
 date: 2026-05-27T05:54:20.919286+00:00
 draft: false
 description: "Discover the most common reasons your cat is avoiding the litter box and learn simple, effective solutions to solve the problem and restore good litter habits f"
-image: "https://images.pexels.com/photos/32830896/pexels-photo-32830896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14782023/pexels-photo-14782023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Behavior"]
 tags: ["using", "litter", "causes"]
 slug: "cat-not-using-litter-box-causes"
@@ -147,7 +147,7 @@ Litter box problems are fixable in the vast majority of cases. The cats who end 
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Oleksandr Brovko](https://www.pexels.com/@oleksandr-brovko-246989204) via Pexels*
 
 ---
 

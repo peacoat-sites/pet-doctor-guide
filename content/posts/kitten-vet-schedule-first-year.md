@@ -3,7 +3,7 @@ title: "Kitten Vet Schedule First Year"
 date: 2026-05-27T21:43:16.959024+00:00
 draft: false
 description: "Help your kitten thrive with our complete first-year vet schedule guide covering vaccinations, deworming, spaying or neutering, and essential wellness checkups."
-image: "https://images.pexels.com/photos/35620584/pexels-photo-35620584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34698791/pexels-photo-34698791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["kitten", "schedule", "first", "year"]
 slug: "kitten-vet-schedule-first-year"
@@ -147,7 +147,7 @@ The first year is a lot of appointments, some needle sticks, a surgery, and a fe
 - **[Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [DUONG QUÁCH](https://www.pexels.com/@quachtungduong) via Pexels*
 
 ---
 

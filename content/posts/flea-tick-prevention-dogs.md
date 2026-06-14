@@ -3,7 +3,7 @@ title: "Flea Tick Prevention Dogs"
 date: 2026-05-23T07:15:02.874806+00:00
 draft: false
 description: "Protect your dog from fleas and ticks with our expert prevention tips. Discover the best treatments, products, and strategies to keep your pet safe year-round."
-image: "https://images.pexels.com/photos/33089275/pexels-photo-33089275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35511910/pexels-photo-35511910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["flea", "tick", "prevention", "dogs"]
 slug: "flea-tick-prevention-dogs"
@@ -159,7 +159,7 @@ The goal with flea and tick prevention is simple: pick a product appropriate for
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 
 
-*Photo: [Ermelinda Maglione](https://www.pexels.com/@ermelinda-maglione-1106070) via Pexels*
+*Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
 
 ---
 
