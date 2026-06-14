@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "dr-amanda-foster",
+    "name": "Dr. Amanda Foster",
+    "title": "Veterinary Reviewer",
+    "specialty": "Small Animal Medicine & Clinical Care",
+    "bio": "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+  },
+  {
+    "slug": "james-whitfield",
+    "name": "James Whitfield",
+    "title": "Pet Nutritionist",
+    "specialty": "Animal Diet & Supplement Research",
+    "bio": "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+  },
+  {
+    "slug": "karen-lopez",
+    "name": "Karen Lopez",
+    "title": "Dog Trainer",
+    "specialty": "Canine Behavior & Positive Reinforcement",
+    "bio": "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+  },
+  {
+    "slug": "michelle-chen",
+    "name": "Michelle Chen",
+    "title": "Cat Behavior Expert",
+    "specialty": "Feline Behavior & Multi-Cat Households",
+    "bio": "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+  },
+  {
+    "slug": "rachel-sanders",
+    "name": "Rachel Sanders",
+    "title": "Emergency Care Writer",
+    "specialty": "Pet First Aid & Urgent Care",
+    "bio": "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+  },
+  {
+    "slug": "tom-harris",
+    "name": "Tom Harris",
+    "title": "Exotic Pet Specialist",
+    "specialty": "Reptiles, Birds & Small Mammals",
+    "bio": "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+  }
+]
