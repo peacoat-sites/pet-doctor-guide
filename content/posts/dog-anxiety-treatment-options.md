@@ -6,8 +6,6 @@ description: "Dog anxiety can be managed through training, medication, supplemen
 image: "https://images.pexels.com/photos/6234635/pexels-photo-6234635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Behavior"]
 tags: ["anxiety", "treatment", "options"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "dog-anxiety-treatment-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A general guideline: if your dog's anxiety is interfering with basic daily functions (eating, sleeping, ability to be left alone safely), medication is likely appropriate. If the anxiety is situational and mild to moderate, behavior modification with or without supplements is a reasonable first step. Your vet or a veterinary behaviorist can help you assess severity. This isn't a binary choice either. Many dogs benefit most from both simultaneously."
   - q: "Are there breeds more prone to anxiety?"
     a: "Yes. Working breeds with high drive, herding breeds like Border Collies and Australian Shepherds, and some toy breeds are statistically overrepresented in anxiety cases. That said, any dog can develop anxiety regardless of breed. Individual history, early socialization, prior trauma, and genetics all play a role. Knowing your dog's background matters. Dogs adopted from shelters or with unknown histories may need extra patience and professional guidance during the assessment process."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Your dog has been destroying the baseboards every time you leave for work. Or maybe she trembles through every thunderstorm, pressed into the corner of the closet, refusing to come out for hours. You've Googled "anxious dog" at midnight, overwhelmed by the sheer volume of conflicting advice, and you still don't know what to actually *do*. That's exactly what this article is for.

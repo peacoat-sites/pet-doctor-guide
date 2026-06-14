@@ -6,8 +6,6 @@ description: "Learn what happens during your cat's annual vet visit, from physic
 image: "https://images.pexels.com/photos/32727346/pexels-photo-32727346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["annual", "visit", "what", "expect"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "cat-annual-vet-visit-what-to-expect"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Functionally, these terms are used interchangeably in most practices. Some clinics market 'wellness packages' that bundle the exam with bloodwork, vaccines, and fecal testing at a bundled cost. An annual exam with no add-ons is just the physical exam and a vaccine or two. It's worth asking your clinic what's included when you book, so you're not surprised by an itemized bill."
   - q: "Does my indoor-only cat really need to go to the vet every year if nothing seems wrong?"
     a: "This is the most common question I get, and the honest answer is yes. Indoor cats live longer, which means more years of slowly progressing conditions like dental disease, obesity, and kidney disease. They also get stressed by sudden changes, and an annual visit keeps them somewhat accustomed to the carrier and the handling. Beyond that, one of the most valuable things a yearly exam does is establish a baseline. If your vet knows your cat's normal weight, heart rate, and kidney values when everything is fine, they have something to compare to when something eventually isn't."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Your cat acts completely normal all year, eats well, plays occasionally, and then the vet finds a heart murmur at a routine checkup. That's not a rare story. I've seen it play out dozens of times in the exam room, and it's exactly why annual wellness visits matter even when your cat seems absolutely fine. Cats are masters of hiding illness, a survival instinct baked in from their wild ancestors, and by the time symptoms become obvious to you at home, a condition is often well advanced.

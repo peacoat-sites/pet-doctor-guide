@@ -6,8 +6,6 @@ description: "Keep your dog safe by knowing which foods are toxic to them. Disco
 image: "https://images.pexels.com/photos/34952073/pexels-photo-34952073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["toxic", "foods", "dogs", "list"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "toxic-foods-for-dogs-list"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "I'd strongly advise against doing this on your own. Activated charcoal can be helpful in clinical settings for certain toxins, but it's not appropriate for all ingestions, it can cause hypernatremia (dangerous sodium levels) if not properly dosed and hydrated, and it makes a complete mess in a dog who vomits. This is a vet-administered intervention, not a home remedy."
   - q: "How do I know if a peanut butter treat I made is safe?"
     a: "Check every ingredient on your peanut butter label specifically for xylitol. Also check for erythritol, which is another sugar alcohol sometimes used alongside xylitol. If the label says 'sugar-free' or 'no sugar added,' be especially careful. Standard commercial peanut butters like Jif or Skippy (original formulas) don't contain xylitol, but formulations can change, so checking the current label every time is a good habit."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 Most dog owners know grapes are bad. What fewer people realize is that a single grape can potentially cause acute kidney failure in a 20-pound dog, and toxicologists still don't fully understand why. That's the part that gets me every time I tell clients this. It's not a dose-dependent toxin where "a little is probably fine." There's no safe threshold anyone can point to with confidence. After 13 years of watching owners come in panicked, receipt in one hand and dog on leash in the other, I decided to go deep on this topic, not to write another bland "avoid chocolate" list, but to actually explain what these foods do inside your dog's body, why some are genuinely terrifying, and how to tell the difference between a real emergency and a call-your-vet-Monday situation.

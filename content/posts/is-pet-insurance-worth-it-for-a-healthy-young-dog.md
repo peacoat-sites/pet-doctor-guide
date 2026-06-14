@@ -6,8 +6,6 @@ description: "Even healthy young dogs face unexpected accidents and illnesses. D
 image: "https://images.pexels.com/photos/6234606/pexels-photo-6234606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Pet Insurance"]
 tags: ["insurance", "worth", "healthy", "young"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "is-pet-insurance-worth-it-for-a-healthy-young-dog"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Standard accident and illness plans don't. Wellness add-ons exist that do cover routine care, but they're often priced at roughly break-even, so they're more convenient than cost-saving."
   - q: "What if my dog is a mix and seems generally healthy?"
     a: "Mixed breed dogs have real statistical advantages when it comes to some inherited diseases, but they still need emergency care at roughly the same rate as purebreds when you factor in the everyday accidents and illnesses that aren't breed-specific. Insurance is still worth considering."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Most people who skip pet insurance for a young, healthy dog make that decision because nothing's gone wrong yet. That's exactly when they should be buying it.

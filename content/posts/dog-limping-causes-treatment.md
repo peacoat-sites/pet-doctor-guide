@@ -6,8 +6,6 @@ description: "Find out why your dog is limping, from minor injuries to serious c
 image: "https://images.pexels.com/photos/5058118/pexels-photo-5058118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["limping", "causes", "treatment"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "dog-limping-causes-treatment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If your dog has a mild limp but is otherwise acting normally, a 24-48 hour period of strict rest is reasonable before deciding whether to call your vet. If the limp hasn't improved meaningfully within 48 hours of rest, make the call. If it gets worse at any point during that window, don't wait."
   - q: "Is limping always a sign of pain?"
     a: "Almost always, yes. Occasionally a mechanical issue, like a nerve deficit or a conformational problem, can cause a gait abnormality that looks like a limp without the dog being painful in the traditional sense. But in the vast majority of cases, limping means something hurts. Treating it as a pain signal until proven otherwise is the right approach."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 You glance over at your dog and something stops you cold: he's holding one front leg up off the ground, refusing to put weight on it. Five minutes ago he was fine. Now you're standing in your kitchen at 9 PM on a Sunday wondering if you need to find an emergency vet or if this can wait until morning. That moment of uncertainty is exactly why I'm writing this.

@@ -6,8 +6,6 @@ description: "Regular vet visits keep your dog healthy and happy. Learn how ofte
 image: "https://images.pexels.com/photos/37097857/pexels-photo-37097857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["often", "should"]
-author: "Lisa Tanaka"
-author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "how-often-should-dog-go-to-vet"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Use the triage table above as a starting point. The clearest emergency signs are: difficulty breathing, unproductive retching with a distended abdomen (possible bloat), seizures lasting more than 2 to 3 minutes, pale or white gums, suspected poisoning, collapse, or uncontrolled bleeding. Any of those situations means emergency care now, not Monday morning."
   - q: "My senior dog hates the vet. Is there anything I can help with that?"
     a: "Absolutely. Talk to your vet about anti-anxiety options, which might be as simple as a pre-visit medication or gabapentin for dogs with significant anxiety. You can also ask about fear-free handling techniques, which many clinics are now trained in. Keeping your dog's carrier or crate out at home and feeding treats near it helps reduce the 'carrier = vet' association over time. The American Veterinary Medical Association (AVMA) has solid public resources on reducing veterinary visit stress if you want to read further."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Most dog owners don't think about the vet until something is clearly wrong. But here's a number that might surprise you: dogs can lose up to 75% of their kidney function before showing any outward symptoms at all. By the time your dog seems "off," the disease has often been progressing quietly for months or even years. Routine wellness visits aren't just about vaccines and a quick listen to the heart. They're your best chance at catching the invisible stuff early, when treatment options are wider and outcomes are generally better.

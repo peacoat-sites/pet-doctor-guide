@@ -6,8 +6,6 @@ description: "Find out if Benadryl is safe for dogs with allergies, the correct 
 image: "https://images.pexels.com/photos/6235017/pexels-photo-6235017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medications"]
 tags: ["give", "benadryl", "allergies", "dosage", "chart"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "can-i-give-my-dog-benadryl-for-allergies-dosage-chart"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, completely. The active ingredient is identical. Store-brand diphenhydramine from any pharmacy is fine as long as it's 25 mg plain diphenhydramine with no additional active ingredients. Save your money here."
   - q: "What if my dog ate too much Benadryl?"
     a: "Call your vet or the ASPCA Animal Poison Control Center at (888) 426-4435 immediately. Overdose signs include extreme sedation, rapid heart rate, dilated pupils, agitation, and in severe cases, seizures. Don't wait to see if it gets better on its own."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Your dog is scratching herself raw at 10 PM on a Saturday, your vet's office is closed, and you're standing in the bathroom staring at a box of Benadryl wondering if this is okay to give her. I've had that exact conversation with panicked pet owners more times than I can count, usually through the clinic's after-hours line or a frantic text from a friend.

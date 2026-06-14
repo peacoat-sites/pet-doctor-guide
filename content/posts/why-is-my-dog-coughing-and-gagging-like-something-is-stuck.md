@@ -6,8 +6,6 @@ description: "Discover why your dog is coughing and gagging like something is st
 image: "https://images.pexels.com/photos/6235116/pexels-photo-6235116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Respiratory"]
 tags: ["coughing", "gagging", "like", "something", "stuck"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "why-is-my-dog-coughing-and-gagging-like-something-is-stuck"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "True choking: the dog is silent or making a high-pitched wheeze, is in obvious panic, pawing at his face, and his gums are starting to change color. Coughing: there's audible noise, the dog may retch and gag but is moving air. A coughing or hacking dog is scary but not the same emergency as a dog with a fully obstructed airway. Still, when in doubt, call your vet."
   - q: "Can allergies make my dog cough and gag like this?"
     a: "Yes, though it's less common than in humans. Environmental allergies can cause enough post-nasal drip and throat irritation to trigger a gag-cough, and some dogs have reactions to inhaled irritants like cigarette smoke, candles, or cleaning sprays. If the coughing is seasonal or linked to a specific environment, mention that to your vet as it genuinely changes the diagnostic approach."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Your dog is coughing like he swallowed a pinecone and you're standing there doing the mental math: is this an emergency or will it pass in two minutes? Most articles punt immediately with "take your dog to the vet" and leave you no smarter than when you started. That's not useful. Let me actually help you figure out what's going on.

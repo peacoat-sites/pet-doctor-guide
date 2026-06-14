@@ -6,8 +6,6 @@ description: "Find tips on choosing the right vet for your pet. Learn what to lo
 image: "https://images.pexels.com/photos/6560385/pexels-photo-6560385.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Vet Visits"]
 tags: ["finding", "good", "veterinarian"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "finding-a-good-veterinarian"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Ask directly: 'Do you use Fear Free handling techniques?' and 'What do you do if an animal becomes too stressed to examine safely?' A good answer involves offering sedation options or pre-visit medications rather than just forcing the animal through. You can also look for the Fear Free Certified logo on their website. Practices that have invested in this certification have gone through specific training in low-stress handling, and in my experience the difference for anxious animals is significant."
   - q: "Should I look for a vet before I even get a pet?"
     a: "Absolutely, and this is honestly the move I recommend most strongly. Finding a vet when you're calm, not panicked, means you have time to research, visit, and ask questions without the pressure of a sick animal in the carrier. Many vets will do a brief pre-adoption consultation to discuss the species or breed you're considering. It sets the relationship up on good footing and means you're not googling 'emergency vet near me' at 11pm the first week you have a new puppy."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 You've just moved to a new city. Your dog is scratching at her ear like her life depends on it, and the nearest vet you can find on Google has 2.3 stars and a review that says "waited 3 hours and they forgot my cat." You're already stressed. The last thing you need is to play roulette with your pet's care. I've been on both sides of this, as a technician who's watched great vets do extraordinary things and as a pet owner who once walked out of a clinic feeling worse than when I walked in. Finding a good veterinarian is one of the most consequential decisions you'll make for your animal, and most people do it completely backwards.

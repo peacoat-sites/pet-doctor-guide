@@ -6,8 +6,6 @@ description: "Discover the best flea and tick prevention for dogs with our exper
 image: "https://images.pexels.com/photos/7468978/pexels-photo-7468978.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Parasites"]
 tags: ["best", "flea", "tick", "prevention", "dogs"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-flea-and-tick-prevention-for-dogs-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Ticks don't only live in wooded areas. They're found in tall grass, leaf litter, and even maintained suburban yards, especially in the northeast, mid-Atlantic, and southeast U.S. If you live in a region with documented tick populations, yes, year-round tick prevention is worth it."
   - q: "Are natural or essential oil-based flea products effective?"
     a: "The honest answer is: not meaningfully. Products containing cedarwood oil, peppermint, or similar ingredients have very limited data supporting real-world efficacy against fleas and ticks. Some can also cause skin irritation or toxicity in sensitive dogs. I understand the appeal if you're worried about chemicals, but the risk calculation still tends to favor a proven prescription product over an unproven natural one, especially in tick-heavy areas."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 Every flea and tick product on the shelf says it's the best. Here's what 13 years in a veterinary clinic actually taught me about sorting through that noise.

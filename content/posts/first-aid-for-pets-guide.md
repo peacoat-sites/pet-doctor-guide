@@ -6,8 +6,6 @@ description: "Learn essential first aid for pets with our comprehensive guide. D
 image: "https://images.pexels.com/photos/6235020/pexels-photo-6235020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["first", "pets", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "first-aid-for-pets-guide"
 affiliate_disclosure: true
 faqs:
@@ -19,6 +17,11 @@ faqs:
     a: "If there's any chance your pet might bite out of pain or fear, yes, a temporary muzzle is a good idea for everyone's safety, including theirs. You can improvise one with a strip of gauze or a soft leash: loop it around the muzzle, tie it under the chin, then tie behind the ears. Never muzzle a pet that is vomiting, having trouble breathing, or is unconscious. And always remove it as soon as you're safely at the vet clinic."
   - q: "What's the one thing most pet owners get wrong in an emergency?"
     a: "Waiting too long. I've seen this pattern hundreds of times: someone notices something wrong at 6 PM, decides to sleep on it, and brings in a critically ill animal at 8 AM. Some conditions, like urinary blockages in cats or GI bloat in dogs, deteriorate within hours. If your gut says something is wrong, call an emergency clinic and describe what you're seeing. A two-minute phone call costs nothing. Waiting through a night sometimes costs everything."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 You just watched your dog eat something off the ground during your walk, and now you're standing in your kitchen wondering if you should panic. Or maybe your cat is limping and you can't quite tell if it's serious. Or your rabbit took a tumble and you have no idea what a "normal" rabbit looks like after a fall. Wherever you are right now, here's something important to know before anything else: staying calm and having some basic knowledge is genuinely the most powerful thing you can do for your pet in a crisis. I've been in clinical practice for 13 years, and the clients who do the best in emergencies aren't necessarily the ones with the most medical knowledge. They're the ones who know what to watch for, what to do first, and when to stop trying to handle something at home.

@@ -6,8 +6,6 @@ description: "Wondering if your cat's vomiting is serious? Learn the warning sig
 image: "https://images.pexels.com/photos/6129152/pexels-photo-6129152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["vomiting", "when", "worry"]
-author: "Lisa Tanaka"
-author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "cat-vomiting-when-to-worry"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is usually self-limiting and intentional. Many cats eat grass specifically to trigger vomiting when they feel nauseous, though the exact reason isn't fully understood. As long as the grass wasn't treated with pesticides or herbicides and your cat seems fine afterward, this is generally not concerning. If your cat is eating grass obsessively or vomiting frequently after doing so, mention it to your vet at the next visit."
   - q: "How do I know if my cat is dehydrated from vomiting?"
     a: "Two quick checks at home: the skin tent test (gently pinch the skin at the back of the neck and release; in a hydrated cat it snaps back immediately; in a dehydrated cat it stays 'tented' for a moment) and the gum check (gums should be moist and pink, not dry, pale, or tacky). Mild dehydration can develop quickly in a cat that has been vomiting repeatedly, and it becomes a reason to seek veterinary care rather than continuing to monitor at home."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Your cat just vomited for the third time this morning, and you're standing in the kitchen wondering if you should cancel your plans and head to the emergency vet, or just clean it up and keep an eye on things. That moment of uncertainty is stressful, and it happens to almost every cat owner at some point. Here's the thing most people don't realize: cats are actually physiologically *more prone* to vomiting than dogs, partly because of how their esophagus is oriented and how quickly they tend to eat. Occasional vomiting is genuinely common in cats. But "common" doesn't mean "always fine," and knowing the difference between a hairball situation and something that needs urgent care can literally save your cat's life.

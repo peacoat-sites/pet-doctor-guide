@@ -6,8 +6,6 @@ description: "Help your dog regain their appetite. Discover common reasons why d
 image: "https://images.pexels.com/photos/10738389/pexels-photo-10738389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["eating", "what"]
-author: "Lisa Tanaka"
-author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "dog-not-eating-what-to-do"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Temporarily, yes, if it helps you assess whether the issue is appetite or preference. Warming food, adding a little low-sodium broth, or offering plain boiled chicken can help a mildly nauseous or stressed dog get something in their stomach. Long term, relying on toppers can create a dog who refuses plain food. Use them as a short-term bridge and wean off them once normal eating resumes."
   - q: "When does not eating become a veterinary emergency for a puppy specifically?"
     a: "Puppies have tiny glycogen stores and limited ability to regulate blood sugar. A puppy under 12 weeks who hasn't eaten in six to eight hours should be assessed for hypoglycemia. Puppies under 16 weeks who miss a full day of food need to be seen by a vet, period. Parvovirus also presents with sudden loss of appetite and lethargy and is life-threatening in unvaccinated or partially vaccinated puppies. Don't wait."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Your dog hasn't touched his bowl in 24 hours. He sniffed it, walked away, and is now lying in his bed looking vaguely miserable. Your stomach drops. Is this serious? Should you be rushing to an emergency clinic at 10pm, or will he be fine by morning? That anxious feeling is completely normal, and the good news is that most cases of a dog skipping meals are not emergencies. But some absolutely are, and knowing the difference could save your dog's life.

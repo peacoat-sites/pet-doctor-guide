@@ -6,8 +6,6 @@ description: "Discover effective home remedies for dog ear yeast infections. Lea
 image: "https://images.pexels.com/photos/6235108/pexels-photo-6235108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Ear Health"]
 tags: ["home", "remedies", "yeast", "infection"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "home-remedies-for-dog-ear-yeast-infection"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Recurrent infections almost always have an underlying trigger. Environmental allergies, food allergies (especially to chicken or beef, which are the most common culprits), and hypothyroidism are the big three. Ask your vet about allergy testing or a food elimination trial, not just more ear medication."
   - q: "Is the dark brown gunk in my dog's ear yeast or ear mites?"
     a: "Both can cause dark debris, but ear mites are much more common in puppies and cats than in adult dogs who don't have outdoor cat exposure. Yeast debris tends to be darker, waxier, and smellier. Your vet can tell them apart in 60 seconds with an otoscope or a quick swab. If you're not sure, don't guess."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Your dog is shaking his head like he's trying to fling something off, one ear smells vaguely like a corn chip or sourdough bread, and the inside of the flap looks pink and a little gunky. You've seen this before. Maybe it's the third time this year. You already know what it is.

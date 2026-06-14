@@ -6,8 +6,6 @@ description: "Pet food ingredients guide: Learn what's in your pet's food, how t
 image: "https://images.pexels.com/photos/1870301/pexels-photo-1870301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Nutrition"]
 tags: ["food", "ingredients", "guide"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "pet-food-ingredients-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A true food allergy involves an immune response. Symptoms often include itchy skin, recurrent ear infections, and gastrointestinal upset. A food intolerance is a digestive reaction without immune involvement, typically showing up as loose stools, gas, or vomiting without skin symptoms. Both can be triggered by specific ingredients. Diagnosis ideally involves a strict hydrolyzed or novel protein diet trial for 8 to 12 weeks with absolutely nothing else introduced. Your vet should guide this process."
   - q: "The ASPCA Poison Control Center lists xylitol as dangerous. How do I check for it in food?"
     a: "Xylitol is a sugar alcohol used as a sweetener, and it's extremely toxic to dogs, causing rapid insulin release and potentially fatal hypoglycemia. In pet food specifically it's uncommon, but it shows up in some peanut butter-based treats and dental chews. Always read the full ingredient list on any treat before giving it, and check the ASPCA Poison Control Center's database if you're unsure about a specific product. In cats, xylitol toxicity is less well-documented but still worth avoiding. If you believe your pet has ingested xylitol, call the ASPCA's Animal Poison Control at (888) 426-4435"
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 You're standing in the pet food aisle, bag in hand, squinting at an ingredient list that reads like a chemistry exam. Chicken by-product meal, carrageenan, mixed tocopherols, brewers rice, sodium selenite. What does any of it actually mean? Here's the thing most pet food brands won't tell you: the ingredient list on your pet's food is regulated and ordered by weight before cooking, which means a bag that leads with "real chicken" might contain far less actual meat protein than you think once that moisture-heavy chicken is cooked down. Understanding what you're reading isn't about being a neurotic pet parent. It's about making genuinely informed choices for an animal who depends entirely on you to get it right.

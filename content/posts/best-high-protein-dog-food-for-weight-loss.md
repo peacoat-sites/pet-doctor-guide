@@ -6,8 +6,6 @@ description: "Discover the best high protein dog foods for weight loss to help y
 image: "https://images.pexels.com/photos/7470754/pexels-photo-7470754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["best", "high", "protein", "food", "weight"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-high-protein-dog-food-for-weight-loss"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There's a genuine argument for wet food here. The high moisture content adds bulk and may increase satiety without adding significant calories, and many wet foods have a strong dry-matter protein percentage once you do the math. The downside is cost and the logistics of storage. A combination approach, a high-protein kibble base with some high-quality wet food mixed in, works well for a lot of dogs."
   - q: "Can I put my dog on a high-protein diet without my vet's input?"
     a: "For a generally healthy adult dog who's moderately overweight, yes, with some caveats. You should know their starting weight, you should be monitoring body condition monthly, and you should rule out any obvious symptoms of underlying disease first. If your dog is significantly obese, elderly, has any existing health conditions, or isn't losing weight after 8 weeks on a sensible plan, loop in your vet. Getting it wrong over many months costs more than a single vet visit."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Your dog is overweight, you've switched to a "weight management" kibble, and six months later... nothing. Maybe a pound lost, maybe not even that. I've watched this exact scenario play out dozens of times in the clinic, and almost every time, the problem is the same: the food wasn't high enough in protein.

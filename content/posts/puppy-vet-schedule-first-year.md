@@ -6,8 +6,6 @@ description: "Help your puppy thrive with our complete first-year vet schedule g
 image: "https://images.pexels.com/photos/3888511/pexels-photo-3888511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["puppy", "schedule", "first", "year"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "puppy-vet-schedule-first-year"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, combination vaccines like DHPP are standard precisely because they deliver multiple antigens in a single injection. Puppies tolerate this well. The immune system can handle multiple antigens simultaneously. Splitting up vaccines to 'reduce stress on the immune system' is not supported by evidence and means more visits, more stress for the puppy, and delayed protection. If your puppy is very small or has a history of vaccine reactions, your vet may choose to stagger them, but that's a clinical decision based on your individual dog."
   - q: "My puppy ate something off the ground and I'm worried about toxicity. When is that an emergency?"
     a: "Call the ASPCA Animal Poison Control Center at 888-426-4435 immediately if you're not sure. They have a fee for consultation, but they will give you a specific risk assessment based on the substance, your puppy's weight, and the estimated amount ingested. Do not wait to see if symptoms develop if you know your puppy ate something potentially toxic. Time matters significantly with many toxins, including xylitol, grapes, ibuprofen, and certain mushrooms."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 You bring home an eight-week-old puppy on a Saturday afternoon, and by Sunday morning you're already Googling "when does my puppy need shots." That frantic search is one of the most common things new puppy owners do, and honestly, it makes sense. The first year of a dog's life is medically the most dense period they'll ever go through. More vaccines, more parasite prevention decisions, more developmental checkpoints crammed into twelve months than at any other point in their life. Getting it right from the start protects your dog for years to come. Getting it wrong can mean preventable illness, legal liability with licensing, and a vet relationship built on playing catch-up.

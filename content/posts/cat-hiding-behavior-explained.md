@@ -6,8 +6,6 @@ description: "Discover why cats hide and what their behavior means. Learn common
 image: "https://images.pexels.com/photos/30239303/pexels-photo-30239303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Behavior"]
 tags: ["hiding", "behavior", "explained"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "cat-hiding-behavior-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, very normal. A mother cat will instinctively seek a quiet, protected space to raise her kittens for the first few weeks. Minimize disturbances, make sure she has easy access to food, water, and a litter box nearby, and check on her without hovering. If she seems distressed, a kitten seems to be missing from the litter, or she's not nursing, contact your vet."
   - q: "Could my cat be hiding because she's dying?"
     a: "This is the question no one wants to ask. And yes, it can happen. Cats often seek seclusion when they're very ill or at end of life. If your cat is elderly, has a known illness, and is hiding more than usual while also eating less, drinking less, and becoming less responsive, please contact your vet. Hospice care and pain management options exist, and your cat deserves comfort. This is not a situation to wait and see on."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 You came home from work, called your cat's name, and heard nothing. No jingling collar, no trotting paws on hardwood. You searched the apartment for twenty minutes before finding her wedged behind the washing machine, pupils wide, not wanting to be touched. Now you're spiraling. Is she sick? Did something scare her? Is this the beginning of the end? Take a breath. Cat hiding behavior is one of the most common concerns I hear from clients, and it spans an enormous spectrum, from completely normal self-regulation all the way to a genuine medical emergency. The difference matters. Let me walk you through exactly how to read the situation.

@@ -6,8 +6,6 @@ description: "Worried your cat hasn't eaten in 2 days but seems fine? Discover c
 image: "https://images.pexels.com/photos/7474859/pexels-photo-7474859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["eating", "days", "acting", "normal", "causes"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "cat-not-eating-for-2-days-but-acting-normal-causes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, genuinely. Pickiness is real and can be triggered by formula changes, temperature, texture, bowl material, or location. But picky eating and complete food refusal are different things. A picky cat will usually eat something they love. If your cat won't touch any food at all for two full days, picky is probably not the full explanation."
   - q: "Should I try to syringe-feed my cat if they won't eat?"
     a: "Only if your vet has specifically advised this, and only with appropriate foods. Forcing the wrong food or forcing food too quickly can cause aspiration or make nausea worse. It's not something to do as a home experiment. If you're at the point of considering syringe feeding, your cat needs to see a vet so you know what you're actually dealing with."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Two days. That's the number that should shift you from "oh, she's just being picky" to "okay, I actually need to figure out what's going on." Not three days. Not a week. Forty-eight hours of a cat not eating is the point where biology starts working against you, even when your cat seems completely fine otherwise.

@@ -6,8 +6,6 @@ description: "Regular dog annual exams catch health issues early. Learn what to 
 image: "https://images.pexels.com/photos/6235650/pexels-photo-6235650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["annual", "physical", "exam", "guide"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "dog-annual-physical-exam-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Specifically: ask the clinic if they offer low-stress handling techniques or fear-free certified staff. Bring high-value treats (real chicken, cheese). Schedule at a low-traffic time like a Tuesday morning. Some dogs do significantly better with a calming supplement given the night before and morning of, but check with your vet before starting anything. A puzzle feeder used at home beforehand (affiliate link, we may earn a commission) to tire out an anxious dog mentally can also help."
   - q: "What's the difference between a wellness exam and a sick visit?"
     a: "A wellness exam is proactive: routine assessment of a dog with no current complaints. A sick visit is problem-focused: you've noticed something wrong and need it evaluated. They serve different purposes and are billed differently. Don't try to turn a wellness visit into a sick visit by sneaking in 'oh and also he's been limping for three weeks' at the end. Book appropriately so the vet has enough time."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Most dog owners walk into the annual exam thinking it's basically a formality: the vet listens to the heart, gives a few shots, and everyone goes home. I thought the same thing for years, honestly. What surprised me when I started working in clinical practice was just how much gets caught in those 20-30 minutes that owners had no idea about. Heart murmurs in seemingly healthy 4-year-olds. Early kidney disease in dogs showing zero symptoms. Dental disease so advanced in a dog whose owner thought "bad breath is just a dog thing" that three teeth had to come out that same week. The annual physical isn't a formality. It's often the only safety net your dog has.

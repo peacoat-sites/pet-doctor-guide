@@ -6,8 +6,6 @@ description: "Help your kitten thrive with our complete first-year vet schedule 
 image: "https://images.pexels.com/photos/35620584/pexels-photo-35620584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["kitten", "schedule", "first", "year"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "kitten-vet-schedule-first-year"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most vets recommend transitioning around 12 months of age, though large-framed cats can sometimes stay on kitten food a bit longer. Don't rush it. Kitten food has higher caloric density and specific nutrients that support growth. Switching too early can shortchange development. When you do transition, do it gradually over 7 to 10 days by mixing increasing amounts of adult food into the kitten food to avoid GI upset."
   - q: "My kitten hates the carrier. How do I make vet visits less traumatic?"
     a: "Start early and make the carrier a permanent piece of furniture in your home, not a thing that only appears before stressful events. Put a worn t-shirt inside so it smells like you. Feed treats and meals near or inside it. Feliway spray (a synthetic calming pheromone) on a blanket inside the carrier about 30 minutes before travel can genuinely help. Ask your vet about gabapentin if your kitten has severe travel anxiety. It's safe, commonly used, and often makes a meaningful difference."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 You brought home an eight-week-old kitten on a Saturday afternoon, and by Sunday you're already wondering: when exactly does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? You're not alone. I've watched hundreds of new kitten owners walk through our clinic doors completely unsure of what the first year actually looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.

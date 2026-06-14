@@ -6,8 +6,6 @@ description: "Learn to recognize the warning signs of bloat in dogs, a life-thre
 image: "https://images.pexels.com/photos/24595750/pexels-photo-24595750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["signs", "bloat", "dogs", "when", "rush"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "signs-of-bloat-in-dogs-and-when-to-rush-to-the-vet"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Feed two or three smaller meals daily instead of one large one. Avoid elevated food bowls for large breeds (the research on this is actually mixed, but most veterinary internists have moved away from recommending them). Slow-feeder bowls like the Outward Hound Fun Feeder ($10-15 on Amazon, and yes, the site may earn a commission) genuinely help fast eaters. Restrict vigorous exercise for at least an hour after meals. None of these guarantees prevention, but they reduce risk."
   - q: "Is bloat the same as a dog just having a gassy stomach?"
     a: "No. A gassy dog is uncomfortable and may need to go outside. GDV is a surgical emergency. The overlap in early symptoms is exactly why you should watch for trajectory: a gassy dog gets better; a dog with GDV does not."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Bloat kills fast. Not "maybe serious if untreated" fast. More like "your dog was fine at dinner and gone by midnight" fast. I've seen it happen, and I'd rather walk you through this in graphic detail right now than have you Google symptoms at 11 PM while your dog is in the car.

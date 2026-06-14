@@ -6,8 +6,6 @@ description: "Learn how to manage dog diabetes with expert tips on insulin thera
 image: "https://images.pexels.com/photos/17072086/pexels-photo-17072086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["diabetes", "management"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "dog-diabetes-management"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Transition slowly. Mix about 25% new food with 75% current food for a few days, then gradually shift the ratio over two to three weeks. Some dogs do better with a different prescription formula. Talk to your vet before switching brands entirely, but most vets would rather find a diet your dog will actually eat than insist on a perfect diet he refuses. Consistency matters more than finding the single ideal formula."
   - q: "How much does managing canine diabetes cost monthly?"
     a: "Costs vary significantly based on your location, the insulin your dog uses, whether you do home monitoring, and how often complications arise. Expect it to be a real budget consideration. Many owners find that home glucose monitoring actually reduces overall costs over time by catching problems before they require emergency care. Ask your vet about generic insulin options and whether a pet wellness plan might help offset the cost of regular checkups."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Your dog has been drinking water like he's trying to drain the bowl, getting up three times a night to go outside, and suddenly dropping weight despite eating fine. You finally get to the vet, and the word "diabetes" comes up. Maybe you've already gotten the diagnosis and you're sitting in your car in the parking lot trying to process the idea of giving your dog insulin injections twice a day for the rest of his life. I've been in that parking lot conversation more times than I can count, standing next to scared pet owners who honestly thought this was going to be impossible. Here's what I tell every single one of them: it's not. It becomes routine faster than you'd believe. But you do need to understand what you're dealing with first.

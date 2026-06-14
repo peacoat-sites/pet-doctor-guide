@@ -6,8 +6,6 @@ description: "Learn to spot dog ear infection symptoms like scratching, odor, an
 image: "https://images.pexels.com/photos/6129691/pexels-photo-6129691.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["infection", "symptoms", "treatment"]
-author: "Lisa Tanaka"
-author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "dog-ear-infection-symptoms-treatment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Human ear drops are formulated for human ear anatomy and pH. More importantly, some ingredients safe for humans can be ototoxic (damaging to hearing) in dogs if the eardrum is compromised. Use only products your vet has specifically recommended for your dog."
   - q: "How long does it take for a dog ear infection to clear up?"
     a: "With appropriate treatment, most uncomplicated outer ear infections show clear improvement within 5-7 days and resolve fully within 10-14 days. If your dog isn't noticeably more comfortable within 48-72 hours of starting treatment, call your vet. It may need to be recleaned, the medication may not be reaching the canal properly, or the pathogen may be resistant to the current treatment."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Your dog has been shaking his head for two days straight. You notice him pawing at his left ear, and when you lean in close, there's a smell that stops you cold. You're not imagining it. That's almost certainly an ear infection, and if you've never dealt with one before, the combination of symptoms can feel alarming. Here's the thing: ear infections are one of the most common reasons dogs visit the vet. According to the [American Veterinary Medical Association (AVMA)](https://www.avma.org/), otitis externa (infection of the outer ear canal) accounts for a significant portion of all small animal veterinary visits. Knowing what you're looking at, when you need to move fast, and how treatment actually works will help you act confidently instead of spiraling into 2 a.m. Google panic.

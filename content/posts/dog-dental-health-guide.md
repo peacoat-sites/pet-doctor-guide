@@ -6,8 +6,6 @@ description: "Keep your dogs teeth clean and healthy with our complete dental ca
 image: "https://images.pexels.com/photos/6640401/pexels-photo-6640401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["dental", "health", "guide"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "dog-dental-health-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "As early as 8 weeks old. You won't be doing a full brush at that age, but handling the mouth, lifting the lips, and touching the teeth gets your puppy comfortable with the sensation. Introduce toothbrushing during the puppy phase and you'll have a cooperative adult dog. Waiting until they're two years old and set in their ways is much harder."
   - q: "What's the difference between gingivitis and periodontal disease, and does it matter?"
     a: "It matters a lot. Gingivitis is inflammation of the gums only. At this stage the damage is reversible with a professional cleaning and good home care. Periodontal disease means the infection has progressed to damage the bone and connective tissue that hold teeth in place. That damage is not reversible. Teeth may need to be extracted. Catching the problem at the gingivitis stage saves money, saves teeth, and spares your dog real pain."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Most dog owners don't realize their pet has a dental problem until the smell hits them. You lean in for a cuddle, your dog yawns, and you pull back wondering if something crawled into their mouth and died. That moment of "wow, that's bad" is actually a turning point, because by the time you're noticing the odor, periodontal disease has very likely already started. Studies from the American Veterinary Dental College suggest that 80% of dogs show signs of periodontal disease by age three. Three years old. That's not a senior dog problem. That's a young dog problem that most people miss entirely.

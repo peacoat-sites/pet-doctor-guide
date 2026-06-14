@@ -6,8 +6,6 @@ description: "Help your dog overcome nail trimming fear with expert tips on dese
 image: "https://images.pexels.com/photos/6234612/pexels-photo-6234612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Grooming"]
 tags: ["nail", "trimming", "fear"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "dog-nail-trimming-fear"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably because the vet visit involves a lot of distractions and sometimes mild sedation, and your dog may associate your home handling with previous bad experiences. It's also possible the vet's staff is using specific low-stress holds you haven't seen. Ask your vet tech to show you next time you're in."
   - q: "Is there anything I can give my dog to calm them before nail trims?"
     a: "For mild anxiety, some dogs respond to melatonin or products like Zylkene (a milk protein supplement). For more significant fear, talk to your vet about short-term prescription options. The ASPCA Poison Control Center is a good resource if you're ever unsure whether a supplement or calming product is safe before using it."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 If I had to name the single most avoided part of dog care, nail trims would win by a landslide. Not vaccines. Not ear cleaning. Nails. I've watched confident, capable dog owners go completely pale when I bring out the clippers, and I've watched dogs who are otherwise perfectly chill turn into something resembling a small, furry tornado. So if your dog loses their mind at nail time, you're in very good company.

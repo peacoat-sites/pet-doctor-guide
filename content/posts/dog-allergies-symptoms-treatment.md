@@ -6,8 +6,6 @@ description: "Dog allergies can cause itching, rashes, and ear infections. Learn
 image: "https://images.pexels.com/photos/20391626/pexels-photo-20391626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["allergies", "symptoms", "treatment"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "dog-allergies-symptoms-treatment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily. Grain allergies in dogs are actually quite uncommon. Most food-allergic dogs are reacting to animal proteins, not grains. The grain-free trend is more marketing than medicine in the allergy context. A novel protein or hydrolyzed diet prescribed by your vet will do far more than switching to a grain-free kibra from the pet store."
   - q: "Can I use human antihistamines on my dog?"
     a: "Some human antihistamines like diphenhydramine (plain Benadryl, not the decongestant formulas) are generally considered safe at appropriate weight-based doses, but you should confirm the correct dose and formulation with your vet before giving anything. Never give cetirizine (Zyrtec-D) or any antihistamine combined with a decongestant, as those can be toxic to dogs."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Your dog has been scratching the same spot on his belly for three weeks straight. You've checked for fleas twice, switched his shampoo, and he's *still* going at it. Sound familiar? Allergies are one of the most common reasons dogs end up at the vet, accounting for a significant chunk of all dermatology-related visits in small animal practice. And yet they're also one of the most misunderstood conditions dog owners deal with, partly because the symptoms can look like a dozen other things, and partly because there's no single cure that works for every dog.

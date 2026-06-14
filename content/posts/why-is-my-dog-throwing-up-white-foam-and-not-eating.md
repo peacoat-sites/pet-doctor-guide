@@ -6,8 +6,6 @@ description: "Discover why your dog is vomiting white foam and refusing food. Le
 image: "https://images.pexels.com/photos/7469222/pexels-photo-7469222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["throwing", "white", "foam", "eating"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "why-is-my-dog-throwing-up-white-foam-and-not-eating"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is the pattern that worries me most. Repeated unproductive retching with only small amounts of foam can be a sign of GDV (bloat), especially in large breeds. Treat this as a potential emergency and get to a vet, don't wait to see if it resolves."
   - q: "Can kidney disease cause a dog to vomit white foam?"
     a: "Yes. Uremia (the buildup of waste products when the kidneys aren't filtering properly) is a known cause of nausea and vomiting in dogs. It's often accompanied by excessive drinking, weight loss, and bad breath with a chemical or ammonia-like smell. If your dog is older and has these signs together, kidney disease is on the list and bloodwork will tell you quickly."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 White foam vomit from a dog who won't eat is one of those symptoms that genuinely ranges from "wait until morning" to "drive to the emergency clinic right now," and most of the advice online makes it sound like it's always one or the other. I'll be honest: that ambiguity used to frustrate me too, even after years in a clinical setting. So let me give you the real breakdown.

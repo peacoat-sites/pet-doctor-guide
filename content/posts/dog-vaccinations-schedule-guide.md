@@ -6,8 +6,6 @@ description: "Stay on top of your dog's health with our complete vaccination sch
 image: "https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["vaccinations", "schedule", "guide"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "dog-vaccinations-schedule-guide"
 affiliate_disclosure: true
 faqs:
@@ -19,6 +17,11 @@ faqs:
     a: "Rabies: yes, legally required in almost every U.S. state regardless of lifestyle, and for good reason. DHPP: yes, core vaccines are recommended for indoor dogs too because exposure risk is never zero. You walk in from outside. Guests bring dogs over. Your dog escapes once. For non-core vaccines like Bordetella or Lyme, the calculus is different. A truly indoor dog with no contact with other dogs may not need Bordetella. Discuss the specifics with your vet."
   - q: "How do I know if my adult dog's vaccines are still valid?"
     a: "Check the paperwork. Most vaccines list an expiration date or a 'due date' for the next booster on the certificate. If records are lost or unclear, your vet can recommend either restarting the series or running titer tests for parvovirus and distemper to check existing immunity levels. For rabies, there's no widely used titer test that satisfies legal requirements in the U.S., so documentation of vaccination date and product type is what matters."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Imagine you've just brought home an eight-week-old puppy. She's small, she's perfect, and she's sneezing directly into your coffee. Your breeder handed you a crinkled sheet of paper listing something called "DHPP" and mentioned she'd had her "first shots." Now you're staring at that paper wondering what any of it means, when she needs more, and whether you're already behind. You're not. But the next few months matter more than most new owners realize, and getting the timing wrong can leave real gaps in protection during the window when puppies are most vulnerable.

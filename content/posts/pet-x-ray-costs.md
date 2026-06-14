@@ -6,8 +6,6 @@ description: "Find out how much pet X-rays cost, what factors affect the price, 
 image: "https://images.pexels.com/photos/6234983/pexels-photo-6234983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Diagnostics"]
 tags: ["x-ray", "costs"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "pet-x-ray-costs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Modern digital radiography equipment produces excellent images at both settings. The bigger quality variable is the reader: a board-certified veterinary radiologist will catch subtleties a general practitioner might miss, especially for chest and abdominal cases. Many general practices send complex films out for specialist review specifically for this reason."
   - q: "What if I genuinely can't afford the x-ray right now?"
     a: "Tell your vet. Directly and clearly. They can't help you find alternatives if they don't know cost is a barrier. Options might include a payment plan, a teleradiology consultation for a second opinion at lower cost, or a triage conversation about what the minimum necessary imaging looks like. There are also nonprofit organizations like the Pet Fund and RedRover Relief that offer financial assistance for veterinary care. It's worth a phone call."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Most pet owners find out what an x-ray costs at the exact worst moment: their dog is limping badly, it's 9 PM, and the emergency clinic receptionist just quoted them a number that made their stomach drop. That's a terrible time to be surprised. So let's talk about what pet x-rays actually cost, why the price swings so wildly, and how to avoid getting blindsided when your animal needs imaging fast.

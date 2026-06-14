@@ -6,8 +6,11 @@ description: "Whether you have a new puppy or a newly adopted adult dog, here's 
 image: "https://images.pexels.com/photos/33516646/pexels-photo-33516646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["vet visit", "puppy care", "dog health", "first vet appointment"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care. Writes to help pet owners feel confident at the vet."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 That first vet visit can feel overwhelming -- especially with a squirmy puppy or a nervous rescue dog. Knowing what to expect makes the whole thing easier for both of you.

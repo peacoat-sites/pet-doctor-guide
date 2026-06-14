@@ -6,8 +6,6 @@ description: "Help your dog find relief with natural hot spot remedies. Learn ge
 image: "https://images.pexels.com/photos/7470634/pexels-photo-7470634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Skin Conditions"]
 tags: ["spots", "dogs", "naturally"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-get-rid-of-hot-spots-on-dogs-naturally"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Recurrence in the same location is a strong clue about the underlying trigger. Rump hot spots that recur often point to anal gland problems or flea allergy. Cheek and neck recurrence often connects to ear infections or dental pain causing face-rubbing. This pattern is worth a real conversation with your vet, not just repeated treatment of the symptom."
   - q: "Is a hot spot contagious to other dogs or people?"
     a: "No. The bacteria involved are normal skin residents, not contagious pathogens. Your other dog isn't going to catch a hot spot from the infected dog. That said, if you have multiple dogs with simultaneous skin issues, that points toward a shared environmental trigger like fleas or an allergen in the home."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 My dog Biscuit got his first hot spot in July 2019, and I made every mistake in the book. I left it alone thinking it would clear up. Then I over-cleaned it with hydrogen peroxide. Then I panicked and took him to an emergency clinic at 10 p.m. for something that, honestly, could have waited until morning and cost me $340 I didn't need to spend. Thirteen years later, I've watched hundreds of dogs come into the clinic with these things, and I want to save you from the same spiral.

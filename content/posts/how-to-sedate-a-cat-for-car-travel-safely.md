@@ -6,8 +6,6 @@ description: "Learn how to safely sedate your cat for car travel using vet-appro
 image: "https://images.pexels.com/photos/7469274/pexels-photo-7469274.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Travel"]
 tags: ["sedate", "travel", "safely"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-sedate-a-cat-for-car-travel-safely"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Either the dose is insufficient, the timing was off, or this particular medication isn't the right fit for your cat. Call your vet with specifics: when you gave the dose, what the cat weighed when it was prescribed, and exactly what the behavior looked like. There's usually an adjustment to be made."
   - q: "Do I need a prescription for cat calming products?"
     a: "For gabapentin and trazodone, yes. For Feliway, Zylkene, and most supplement-based products, no prescription required. The AAHA's standards for veterinary practice require appropriate prescribing oversight for controlled and prescription medications, which is why your vet needs to be in the loop for anything pharmaceutical."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 Most articles about sedating cats for travel bury the actual useful information under so many "always ask your vet first" disclaimers that you finish reading knowing nothing more than when you started. So let's fix that.

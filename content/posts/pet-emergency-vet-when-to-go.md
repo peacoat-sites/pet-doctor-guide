@@ -6,8 +6,6 @@ description: "Know when to rush your pet to an emergency vet. Learn the warning 
 image: "https://images.pexels.com/photos/6129232/pexels-photo-6129232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["emergency", "when"]
-author: "Mark Callahan"
-author_bio: "Animal behaviorist and veterinary educator. Helps owners understand their pets' health and behavior."
 slug: "pet-emergency-vet-when-to-go"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on the type of chocolate, the amount, and your dog's size. Dark chocolate and baking chocolate are far more dangerous than milk chocolate or white chocolate. A 60-pound dog eating one square of milk chocolate is very different from a 10-pound dog eating a bag of dark chocolate chips. Call the ASPCA Poison Control Center or your emergency vet with the specific type, estimated amount, and your dog's weight, and they'll tell you exactly where you stand."
   - q: "How do I keep my pet calm in the car on the way to the emergency vet?"
     a: "Keep your pet contained and supported. A dog in pain or distress can bite reflexively, even a gentle dog. Use a carrier for cats whenever possible. For dogs, have someone sit with them in the back seat if you can. Drive steadily rather than erratically. Speak calmly and quietly. Your stress communicates to them, so taking three slow breaths before you get in the car actually helps both of you."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 It's 11:47 PM on a Sunday, and your dog just ate something off the kitchen counter. Or your cat is hiding under the bed, breathing with her mouth open. Or your rabbit hasn't moved in two hours. Your heart is pounding and you're frantically Googling "do I need the emergency vet?" This article is for that exact moment. Not tomorrow, not at a routine appointment. Right now.

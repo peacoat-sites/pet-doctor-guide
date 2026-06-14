@@ -6,8 +6,6 @@ description: "Help your dog heal faster with our complete surgery recovery guide
 image: "https://images.pexels.com/photos/30556342/pexels-photo-30556342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Surgery"]
 tags: ["surgery", "recovery", "guide"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "dog-surgery-recovery-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Normal post-surgical swelling peaks around 48 to 72 hours and then gradually decreases. It should feel soft and stay localized to the surgical site. A seroma (a pocket of fluid that can form under the skin) is common and looks like a soft, fluctuant lump at the incision site. These usually resolve on their own, but get it checked at your recheck appointment. Firm, hot, rapidly spreading swelling, especially with fever or discharge, suggests infection and needs same-day veterinary attention."
   - q: "When should I go to the emergency vet versus wait for my regular clinic to open?"
     a: "Go to emergency care if you see: pale or white gums, labored breathing, collapse or inability to stand, a wound that's actively bleeding and won't stop with gentle pressure after 5 minutes, or obvious signs of extreme distress. Call first if you're unsure, most emergency clinics will help you triage by phone. For concerns like mild swelling, slightly off appetite, or incision questions, it's usually reasonable to wait until your regular clinic opens, especially if you can send photos and speak to a technician."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Your dog just came home from surgery and you're standing in the living room holding a cone of shame in one hand and a three-page discharge sheet in the other, and your dog is looking at you with those glazed, bewildered eyes, and you have absolutely no idea what the next 72 hours are supposed to look like. I've been in this exact position with my own dog, and I've watched hundreds of clients go through it in our clinic. The discharge paperwork tells you what to do. It doesn't tell you what to expect, what to worry about, or what to let go. That's what this guide is for.

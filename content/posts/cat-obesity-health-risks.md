@@ -6,8 +6,6 @@ description: "Cat obesity increases risks of diabetes, joint problems, heart dis
 image: "https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Nutrition"]
 tags: ["obesity", "health", "risks"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "cat-obesity-health-risks"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, though it's less common in cats than in dogs. Hypothyroidism is rare in cats (hyperthyroidism is far more common, and that causes weight loss, not gain). Cushing's disease is also rare but possible. If your cat has gained significant weight despite reasonable feeding practices, bloodwork to rule out metabolic disease is worthwhile. Don't assume it's purely behavioral before getting a baseline panel done."
   - q: "My cat also seems to be having litter box issues. Could that be related to weight?"
     a: "Possibly, yes. Obese cats sometimes struggle to posture properly in the litter box, which can lead to avoidance. Arthritis from excess weight can also make stepping into a box with high sides painful. Beyond physical limitations, urinary issues associated with obesity are real. The article on cat litter box avoidance causes covers the full range of reasons this happens and what to do about it."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Your cat jumps up on the couch, misses, and you laugh it off. It's funny the first time. But if that's become a regular occurrence, and if your cat's belly is swinging low, and you can't feel her ribs without pressing firmly, that's not a quirky personality trait. That's a medical condition. Feline obesity is the most common nutritional disorder seen in domestic cats, affecting an estimated 59% of cats in the United States according to the Association for Pet Obesity Prevention. And unlike a chubby human who can choose to go for a walk, your cat depends entirely on you to recognize the problem and do something about it.

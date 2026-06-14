@@ -6,8 +6,6 @@ description: "Discover the most common health problems in French Bulldogs, from 
 image: "https://images.pexels.com/photos/6235648/pexels-photo-6235648.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Breed Info"]
 tags: ["common", "health", "problems", "french", "bulldogs"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "common-health-problems-in-french-bulldogs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most cannot. Their puppies have large heads relative to the dam's pelvis, and the vast majority of Frenchie litters are delivered by planned C-section. This is a cost and welfare consideration that affects both the breeding dog and the litter, and it's part of why ethical breeders charge what they do."
   - q: "My Frenchie is dragging one back foot occasionally. Should I wait to see if it improves?"
     a: "Don't wait. Intermittent knuckling or foot dragging in a Frenchie is a spinal red flag until proven otherwise. Call your vet today, describe exactly what you saw, and let them decide if it needs to be seen urgently. The earlier spinal issues are caught, the more options you have."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 French Bulldogs have been the most popular dog breed in the United States for two years running, according to AKC registration data. That milestone deserves a asterisk, because no breed I've worked with in clinical practice generates more follow-up appointments, more "is this normal?" phone calls, and more genuinely heartbroken owners than the Frenchie. They're wonderful dogs. They're also, anatomically speaking, a lot of work.

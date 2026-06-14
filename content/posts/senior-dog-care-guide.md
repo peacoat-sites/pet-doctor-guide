@@ -6,8 +6,6 @@ description: "Senior dog care guide: Learn essential tips for nutrition, exercis
 image: "https://images.pexels.com/photos/33274372/pexels-photo-33274372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Senior Pets"]
 tags: ["senior", "care", "guide"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "senior-dog-care-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is hard because dogs hide pain so well. The clearest signs are behavioral: withdrawing from interaction they previously enjoyed, reacting to touch in areas they didn't before, disturbed sleep, reduced appetite, reluctance to move, and increased irritability. A dog who used to greet you at the door and now stays on the bed isn't necessarily lazy. He might hurt. If you're seeing these patterns, mention them specifically at your vet visit, using the word 'pain' directly. It prompts a more thorough orthopedic and neurological assessment."
   - q: "Should I change my senior dog's exercise routine?"
     a: "Yes, but not by eliminating exercise. Reduced activity accelerates muscle loss, joint stiffness, and cognitive decline. The shift should be toward shorter, more frequent walks rather than one long demanding one. Swap high-impact activities like fetch on hard ground for swimming or gentle leash walks on soft surfaces. Let your dog set the pace on sniff walks. The goal is consistent, low-impact movement every single day, not rest."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Your 9-year-old Lab mix has started sleeping through his morning walk invitation, the one that used to send him skidding across the hardwood floors. He's eating fine, drinking fine, but something has shifted. You can feel it even if you can't quite name it. That subtle change is often the first sign that your dog has crossed into senior territory, and knowing how to respond can genuinely add quality years to his life.

@@ -6,8 +6,6 @@ description: "Help your pup feel better fast with these safe and effective dog d
 image: "https://images.pexels.com/photos/17345751/pexels-photo-17345751.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Symptoms"]
 tags: ["diarrhea", "home", "remedies"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "dog-diarrhea-home-remedies"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It genuinely helps. White rice is low in fiber, easy to digest, and the starch acts as a mild binding agent in the gut. It's not a cure for whatever caused the diarrhea, but it provides calories while minimizing further GI irritation and helps firm up loose stools. Brown rice is not a good substitute here because its higher fiber content can actually worsen diarrhea."
   - q: "My dog ate grass and then had diarrhea. Should I be worried?"
     a: "Grass eating and subsequent diarrhea is extremely common and usually not cause for serious concern on its own. Dogs eat grass for a variety of reasons, some behavioral, some related to mild GI discomfort. The grass itself often irritates the stomach and gut, leading to loose stools or vomiting. If it's a one-time episode and your dog is otherwise acting normally, supportive home care is appropriate. If your dog is eating grass compulsively or this keeps happening repeatedly, mention it to your vet as it can occasionally signal underlying GI disease."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 It's 10 p.m. on a Sunday. Your dog just had liquid diarrhea on the kitchen floor for the third time tonight, and your regular vet doesn't open until Monday morning. You're Googling frantically, wondering if this is serious, if you should drive to the emergency clinic, or if there's something you can safely do at home right now. That scenario plays out in households every single week, and I've fielded more panicked phone calls about it than I can count. The good news: many cases of acute diarrhea in dogs are self-limiting, meaning they resolve on their own with a little supportive care. The not-so-good news: some cases absolutely need a vet, and knowing the difference is everything.

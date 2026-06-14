@@ -6,8 +6,6 @@ description: "Learn how to properly clean and treat a dog bite wound at home, wh
 image: "https://images.pexels.com/photos/7788856/pexels-photo-7788856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["bite", "wound", "care"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "dog-bite-wound-care"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Topical antibiotic ointment like Neosporin has a role in minor wound care, but it's not a substitute for thorough washing, professional evaluation, or systemic antibiotics when indicated. Dog bite wounds, especially punctures, often require oral antibiotics because the infection risk is internal, where topical ointment doesn't reach. Apply it after cleaning if you're waiting to see a doctor, but don't use it as your only treatment and call it handled."
   - q: "How do I know if a dog bite needs stitches?"
     a: "Bites that are gaping, longer than about half an inch, or located on the face often benefit from closure to reduce scarring and restore function. However, as mentioned above, many dog bite wounds are intentionally left open, particularly punctures and wounds treated after a delay. A physician will weigh the cosmetic versus infection risk trade-off. Facial wounds are usually closed because of vascularity and cosmetic concerns. Hand wounds are usually left open because the infection risk there is higher and the anatomy is complex."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Your dog just nipped a visitor. Or maybe a neighbor's Lab got your hand during a leash tangle. Or your own cat got startled and your dog jumped in and now someone's bleeding and nobody's quite sure what happened. Whatever the specifics, you're here because there's a bite wound and you want to know what to do with it. Most articles will tell you to "seek medical attention immediately" and leave you there. That's not useful. Let's actually talk about what you're dealing with.

@@ -6,8 +6,6 @@ description: "Discover how pet ultrasound works, what to expect during the proce
 image: "https://images.pexels.com/photos/6234610/pexels-photo-6234610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Diagnostics"]
 tags: ["ultrasound", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "pet-ultrasound-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A normal ultrasound is genuinely good news, even when you're still worried about your pet's symptoms. It rules out a significant list of serious conditions. If symptoms persist after a normal scan, your vet will likely consider other diagnostics. A clean ultrasound narrows the field considerably and that's valuable information, not wasted effort."
   - q: "How do I know if my pet needs an ultrasound urgently?"
     a: "Some situations call for same-day emergency imaging. These include a distended or painful abdomen, suspected internal bleeding after trauma, collapse or sudden weakness, or a male cat that hasn't urinated. If your pet is showing any of these signs, call your vet or an emergency clinic immediately rather than waiting for a scheduled appointment. When in doubt, call first and describe what you're seeing."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Your dog just had X-rays, and the vet comes back into the room and says, "I think we need to do an ultrasound." Your stomach drops a little. You nod, but you're already mentally running through questions you don't quite know how to ask. What are they looking for that the X-rays couldn't show? Is this serious? How much is this going to cost, and does my pet actually need to be sedated for it?

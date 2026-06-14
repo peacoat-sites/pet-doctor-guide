@@ -6,8 +6,6 @@ description: "Keep your cat safe with our complete toxic plants for cats list. L
 image: "https://images.pexels.com/photos/6333135/pexels-photo-6333135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["toxic", "plants", "cats", "list"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "toxic-plants-for-cats-list"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Vomiting, excessive drooling, pawing at the mouth, lethargy, loss of appetite, difficulty breathing, muscle tremors, wobbliness or loss of coordination, and changes in urination (very little or a lot) are all red flags. Any of these after a known plant exposure means call your vet."
   - q: "Are outdoor cats at greater risk from toxic plants?"
     a: "Yes, significantly. Outdoor and indoor/outdoor cats can access landscaping plants, neighbor's gardens, and wild plants that indoor cats can't reach. The AAHA hospital accreditation standards emphasize wellness planning that accounts for your cat's specific lifestyle, and if yours goes outside, a conversation about environmental hazards is worth adding to your next annual exam."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 A client came in one spring afternoon with her cat, Miso, limp and drooling in a carrier lined with Easter grass. She'd set a beautiful lily arrangement on her dining table that morning. By evening, Miso had chewed on a few petals. She had no idea lilies were toxic. Most people don't. Within 72 hours of lily ingestion, a cat can go into acute kidney failure. Miso survived, but it was close, and it was expensive, and it was entirely preventable. I've told that story dozens of times in the exam room because it's the one that tends to land. People hear "plants can be toxic to cats" and mentally file it under "probably fine." This article is for the people who want to actually know what's in their homes.

@@ -6,8 +6,6 @@ description: "Find out how often you should deworm your indoor cat, which worms 
 image: "https://images.pexels.com/photos/22504402/pexels-photo-22504402.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["often", "should", "deworm", "indoor"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-often-should-i-deworm-my-indoor-cat"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A follow-up fecal float exam two to three weeks after treatment is the most reliable way to confirm clearance. Visible tapeworm segments should stop appearing within a few days of praziquantel treatment. If symptoms persist or the fecal comes back positive again, that's worth a conversation with your vet about whether retreatment or a different protocol makes sense."
   - q: "Do I need to deworm my cat if she's on flea prevention year-round?"
     a: "Flea prevention dramatically reduces tapeworm risk, and some flea prevention products (like Revolution Plus) cover certain intestinal worms simultaneously. But flea prevention alone doesn't cover all parasite types, and it doesn't retroactively clear any existing infection. A baseline fecal exam is still a good idea, especially for cats who've never had one or were recently adopted."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Most cat owners I talk to assume that because their cat never steps foot outside, worms simply aren't a concern. I used to think the same thing, honestly. Then I started seeing it in practice: a perfectly indoor, pampered apartment cat presenting with a tapeworm segment stuck to the fur near their tail. The owner was baffled. So was I, at first.

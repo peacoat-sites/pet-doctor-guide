@@ -6,8 +6,6 @@ description: "Learn the essential dog vaccination schedule for your puppy's firs
 image: "https://images.pexels.com/photos/6235655/pexels-photo-6235655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Vaccines"]
 tags: ["vaccination", "schedule", "first", "year", "chart"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "dog-vaccination-schedule-by-age-first-year-chart"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably yes, at least some of it. Shelters often vaccinate on intake, sometimes as young as 4 to 6 weeks, under stressful conditions that can reduce vaccine efficacy. Bring whatever records they gave you, your vet will review them and let you know which vaccines need to be continued or repeated."
   - q: "Are there risks to over-vaccinating?"
     a: "This is a real question with a real answer: yes, there are theoretical and some documented risks to giving vaccines more often than necessary, including immune-mediated reactions with repeated antigen exposure. This is why the shift toward 3-year core vaccines happened. But the first-year series is not over-vaccination. It's following a biologically necessary protocol. The concern about over-vaccination is more relevant to adult boosters than puppy schedules."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Most puppies come home around 8 weeks old, and within the first 48 hours, at least three people have probably told you something different about vaccines. Your breeder said one thing. Your neighbor said another. Someone in a Facebook group swore their vet does it completely differently. And now you're staring at a piece of paper from your first vet visit wondering what any of it actually means.

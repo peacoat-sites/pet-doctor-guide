@@ -6,8 +6,6 @@ description: "Help your aging dog move comfortably again. Discover the best supp
 image: "https://images.pexels.com/photos/33998164/pexels-photo-33998164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Senior Pets"]
 tags: ["best", "supplements", "senior", "dogs", "with"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-supplements-for-senior-dogs-with-arthritis"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Always. This isn't just a liability-covering answer. Some supplements interact with medications, affect bloodwork results, or change how drugs are metabolized. Your vet can also help you assess whether the doses you're using are appropriate. If your vet dismisses all supplements without discussion, that's worth a second opinion from a vet who practices integrative medicine."
   - q: "Are expensive prescription joint supplements worth it over OTC options?"
     a: "Not always. Some prescription products like Adequan (an injectable polysulfated glycosaminoglycan) have strong evidence behind them and genuinely outperform oral supplements in some dogs. But many 'veterinary-grade' chews sold in clinics are marked up significantly for formulations that aren't meaningfully superior to quality OTC options. I'd evaluate case by case. Adequan is worth asking about specifically for moderate-to-severe arthritis. The fancy $65 bag of chews from the waiting room display? Maybe less so."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it was the way she hesitated before jumping onto the couch she's claimed for the last nine years. You're Googling at 11pm, reading ingredient labels you don't fully understand, wondering if you're doing enough. I know this place. I've watched hundreds of owners arrive at it, and I want to give you something actually useful.

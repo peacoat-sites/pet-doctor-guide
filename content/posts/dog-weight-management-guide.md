@@ -6,8 +6,6 @@ description: "Help your dog maintain a healthy weight with our comprehensive gui
 image: "https://images.pexels.com/photos/28725006/pexels-photo-28725006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["weight", "management", "guide"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "dog-weight-management-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, absolutely. Hypothyroidism is the most common culprit, affecting about 0.2 to 0.6% of dogs, with Golden Retrievers, Dobermans, and Boxers being among the more commonly affected breeds. Cushing's disease is another possibility. If you've genuinely been tracking food and your dog still can't lose weight, request a full thyroid panel (T4 at minimum, ideally free T4 by equilibrium dialysis) and a urinalysis. Don't let your vet dismiss weight gain as 'just overfeeding' without ruling out metabolic causes, especially if other symptoms are present. Resources like PetMD's veterinary resource libr"
   - q: "Are there any foods that are toxic if I'm trying to supplement my dog's diet with low-calorie snacks?"
     a: "Yes, and this is critical. Grapes and raisins can cause kidney failure. Xylitol (an artificial sweetener found in many 'sugar-free' peanut butters and other products) is extremely toxic. Onions and garlic cause red blood cell damage. Macadamia nuts cause neurological symptoms. Plain carrots, plain cooked green beans, cucumber slices, and plain watermelon (no rind or seeds) are safe low-calorie options. If you're ever unsure whether something your dog ate could be toxic, the ASPCA Poison Control Center hotline is available 24 hours a day, though a consultation fee does apply."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Your dog's ribs should be easy to feel but not easy to see. Run your fingers along his side right now. If you're pressing through more than a thin layer of fat before you feel bone, your dog is likely overweight. If you can't feel them at all, he may be obese. It sounds harsh, but here's the reality: the Association for Pet Obesity Prevention estimates that over 55% of dogs in the United States are overweight or obese. That means the chunky, round-bellied dog you're picturing is actually the norm in most American households. And that norm is quietly shortening dogs' lives.

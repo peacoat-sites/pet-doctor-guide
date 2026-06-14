@@ -6,8 +6,6 @@ description: "Discover the 2026 cost of professional dog teeth cleaning under an
 image: "https://images.pexels.com/photos/33394322/pexels-photo-33394322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["cost", "professional", "teeth", "cleaning", "under"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can and should get a pre-procedure estimate that covers the base cleaning, anesthesia, monitoring, and radiographs as a firm number. Extractions are legitimately impossible to fully estimate until the dog is under and radiographed. Ask the clinic for a 'low-end and high-end' range that accounts for possible extractions, and ask them to call you mid-procedure if costs will exceed the high-end estimate before proceeding."
   - q: "Do dog dental cleanings require an overnight stay?"
     a: "Almost never for routine cleanings. Most dogs go home the same afternoon, a few hours after the procedure once they're fully recovered from anesthesia. Dogs who've had extensive oral surgery, are very old or compromised, or who had complications may be kept for observation, but that's the exception."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Last year, a client came into our clinic absolutely furious. She'd gotten a quote of $850 for her four-year-old beagle's dental cleaning, and she'd convinced herself we were scamming her. "It's just teeth cleaning," she said. "My human dentist charges less than that." I spent about ten minutes walking her through the line items on that estimate, and by the end of it, she wasn't happy about the price, but she understood it. That's what I want to do here.

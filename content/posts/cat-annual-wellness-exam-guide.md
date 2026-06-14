@@ -6,8 +6,6 @@ description: "Discover what to expect at your cat's annual wellness exam, why re
 image: "https://images.pexels.com/photos/6816836/pexels-photo-6816836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["annual", "wellness", "exam", "guide"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "cat-annual-wellness-exam-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Absolutely. Senior cats are masters at hiding illness. Hyperthyroidism in particular progresses slowly and can look like just 'getting old' until the cardiac and kidney effects become serious. Annual labs at this age aren't being overly cautious; they're the appropriate standard of care."
   - q: "Should I be giving dental chews or doing at-home dental care?"
     a: "Yes to both, with realistic expectations. Brushing is the gold standard, even a few times a week makes a measurable difference. If your cat won't tolerate a brush, look for dental chews formulated for cats with a Veterinary Oral Health Council (VOHC) seal of approval. (This site may earn a commission.) Neither replaces a professional dental cleaning when your vet recommends one, but both meaningfully slow tartar progression between cleanings."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 Your cat has been acting completely normal. Eating well, playing occasionally, sleeping approximately 20 hours a day as cats do. So when the vet finds a heart murmur at the annual exam, it feels like it came out of nowhere. It didn't. It was there, quietly developing, and the only reason you caught it early enough to manage it well is because you brought her in. That's exactly what annual wellness exams are for, and it's exactly why skipping them "because she seems fine" is a gamble that doesn't always pay off.

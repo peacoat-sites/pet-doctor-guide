@@ -6,8 +6,6 @@ description: "Learn what to do if your dog ingests something toxic. Discover com
 image: "https://images.pexels.com/photos/5731866/pexels-photo-5731866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Emergency Care"]
 tags: ["poison", "emergency", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "dog-poison-emergency-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In my experience, yes. The fee covers access to veterinary toxicologists who have information that goes well beyond what a general emergency vet can quickly look up. Their guidance can also help you avoid an unnecessary emergency vet trip, or conversely, tell you with confidence that this is absolutely a rush-to-the-ER situation. Either way, you're getting specialized information fast."
   - q: "Are some dog breeds more sensitive to toxins?"
     a: "Yes. MDR1 gene mutations, common in herding breeds like collies, Australian shepherds, and Shetland sheepdogs, make them significantly more sensitive to certain drugs and some antiparasitic medications. Small dogs face greater risk from the same absolute dose simply due to body weight. Senior dogs and dogs with existing liver or kidney disease process toxins less efficiently. Mention your dog's breed and any health conditions when you call."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 You just watched your dog eat something off the counter, or maybe you came home to a chewed-up package and a guilty-looking dog, and now your stomach is somewhere around your knees. That moment of "wait, is that toxic?" is one of the most common panicked calls we get in veterinary practice, and I want you to know: you're not overreacting, and you're not being dramatic. Some of the most dangerous substances for dogs look completely harmless to us. Xylitol, the sugar substitute in many sugar-free gums and peanut butters, can cause life-threatening liver failure in dogs at doses so small you'd barely notice them missing from a package. Grapes and raisins, which seem like such innocent snacks, can trigger acute kidney failure in some dogs with no predictable dose threshold. So if you're here because something just happened, keep reading. This guide is built around the questions I wish every pet owner had answers to before they needed them.

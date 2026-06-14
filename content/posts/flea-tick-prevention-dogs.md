@@ -6,8 +6,6 @@ description: "Protect your dog from fleas and ticks with our expert prevention t
 image: "https://images.pexels.com/photos/33089275/pexels-photo-33089275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["flea", "tick", "prevention", "dogs"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "flea-tick-prevention-dogs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you're using an oral chewable and there are no fleas or ticks showing up on your dog despite real outdoor exposure, it's working. For topical products, do a quick once-over after outdoor time in high-risk areas. Running a flea comb through the coat and checking the base of the tail (a common flea hangout) is a good habit. If you start seeing live fleas consistently despite being on prevention, the product may not be the right fit for your geographic area or your dog's lifestyle. Call your vet and discuss switching."
   - q: "Is it safe to use both a flea collar and an oral chewable at the same time?"
     a: "This is a reasonable question, and the answer is: ask your vet before combining products. Doubling up on some classes of insecticides can increase the risk of adverse effects. In most cases, a single well-chosen product provides complete protection without combining. If you're considering layering products because one isn't working, that's a sign to talk to your vet about a different product, not necessarily add a second one on top."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 A single flea can lay up to 50 eggs per day. By the time you spot one flea on your dog, there's a good chance a few hundred eggs are already scattered through your carpet, bedding, and couch cushions. That's not a scare tactic. That's just flea biology, and it's exactly why prevention is so much easier than treatment. Ticks are a different kind of trouble, capable of transmitting Lyme disease, Rocky Mountain spotted fever, and ehrlichiosis, sometimes within 24 to 48 hours of attachment. The good news is that protecting your dog from both is genuinely straightforward once you understand your options and pick the right product for your situation.

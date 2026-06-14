@@ -6,8 +6,6 @@ description: "Regular bloodwork panels help detect hidden health issues in aging
 image: "https://images.pexels.com/photos/33739788/pexels-photo-33739788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Diagnostics"]
 tags: ["senior", "bloodwork", "panel"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "senior-pet-bloodwork-panel"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "BUN can be elevated for non-kidney reasons: high protein diet, dehydration, recent heavy exercise, or gastrointestinal bleeding. When BUN is up but creatinine is normal, your vet will look at those factors first. If SDMA is normal too, it's usually not a kidney alarm. A urinalysis helps clarify the picture significantly."
   - q: "Can I skip the panel this year if my pet just had surgery six months ago and was tested then?"
     a: "It depends on what was tested. Surgical pre-anesthetic panels often check fewer values than a comprehensive senior wellness panel. Review what was actually run, and ask your vet if anything was omitted, like thyroid, urinalysis, or SDMA. If it was genuinely comprehensive and everything was normal, your vet may be comfortable extending the interval slightly, but get that call explicitly rather than assuming."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms — BUN, ALT, T4, CBC — wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. I've had this exact conversation in the exam room hundreds of times. Here's what I wish every pet owner knew before that appointment.

@@ -6,8 +6,6 @@ description: "Spot the early signs of cat dental disease before pain sets in. Le
 image: "https://images.pexels.com/photos/32830898/pexels-photo-32830898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["dental", "disease", "signs"]
-author: "Lisa Tanaka"
-author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "cat-dental-disease-signs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There's no single answer that fits every cat. Some cats need annual cleanings; others can go two years without significant buildup. Your vet will recommend a schedule based on your cat's individual genetics, diet, and oral health history. Starting annual exams by age two or three lets you catch problems before they become serious."
   - q: "My cat's teeth look fine but her breath is terrible. Is that still dental disease?"
     a: "Yes, it can be. Significant disease often hides below the gumline where you can't see it. Halitosis in cats is almost always a sign that something is going on, whether it's periodontal disease, tooth resorption, or less commonly, kidney disease or a gastrointestinal issue. Any persistent bad breath deserves a vet conversation. Dental disease doesn't announce itself with obvious drama in most cats. It shows up quietly in a bowl of uneaten food, a subtle flinch during a chin scratch, or a smell you've learned to ignore. You know your cat better than anyone, and that knowledge is genuinely useful"
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Imagine your cat has been leaving food in her bowl for a week. She used to inhale her meals. Now she approaches the dish, sniffs, maybe takes one or two bites, and walks away. You figure she's being picky, maybe it's time to switch flavors. But three weeks later, your vet finds a tooth so badly infected it has to be extracted that same afternoon. This scenario plays out in my exam room more times than I can count, and the heartbreaking part is that the signs were there the whole time. Cats are masters at hiding pain, and dental disease is one of the most underdiagnosed, underappreciated sources of chronic discomfort in pet cats today.

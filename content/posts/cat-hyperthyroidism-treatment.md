@@ -6,8 +6,6 @@ description: "Discover effective cat hyperthyroidism treatments including medica
 image: "https://images.pexels.com/photos/6235231/pexels-photo-6235231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["hyperthyroidism", "treatment"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "cat-hyperthyroidism-treatment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Bloodwork is the only reliable answer. Target total T4 is generally in the mid-to-low normal range, around 1.5 to 2.5 µg/dL, though your vet will interpret this in context of your individual cat. Symptoms alone aren't enough to judge -- some cats feel better before their levels are truly optimized."
   - q: "What happens if hyperthyroidism in cats goes untreated?"
     a: "The excess thyroid hormone puts chronic stress on the heart, which can lead to hypertrophic cardiomyopathy. Blood pressure often climbs, eventually causing retinal detachment and blindness. The kidneys suffer, weight loss becomes severe, and the cat's overall condition deteriorates over months to a couple of years. It's a slow decline, but it's not gentle."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Most cat owners I've talked to assume hyperthyroidism is a death sentence diagnosis. It's not. I'll be honest: when I first started seeing these cases come through the clinic, even I underestimated how manageable this disease actually is with the right approach. The survival rates, the quality of life, the range of treatment options available -- they genuinely surprised me the deeper I got into it.

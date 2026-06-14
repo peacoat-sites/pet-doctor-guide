@@ -6,8 +6,6 @@ description: "Learn what blood work for dogs reveals about their health, why vet
 image: "https://images.pexels.com/photos/7469228/pexels-photo-7469228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Diagnostics"]
 tags: ["blood", "work", "dogs", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "blood-work-for-dogs-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most vets recommend at least once a year for dogs over 7, and twice a year for dogs over 10 or those with known health conditions. Dogs age roughly 5 to 7 times faster than humans in physiological terms. A lot can change in six months."
   - q: "What if I can't afford the full panel right now?"
     a: "Tell your vet. Seriously. Most veterinary teams would rather help you prioritize the most important tests within your budget than have you skip blood work entirely. If your dog is symptomatic, your vet can often tell you which specific markers matter most for what they're concerned about."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Your dog just had their annual exam, and the vet mentioned it's time for blood work. Or maybe your dog is sick, and the vet wants to run a panel before deciding on treatment. Either way, you're staring at an invoice with terms like "CBC" and "chemistry panel" and wondering what any of it actually means, whether it's really necessary, and what happens if the results come back abnormal. You're not alone in that moment. I've watched that exact expression cross the faces of countless clients over the years, and it's always the same mix of worry and wanting to understand.

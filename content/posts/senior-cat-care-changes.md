@@ -6,8 +6,6 @@ description: "Senior cat care changes: essential tips for managing health, nutri
 image: "https://images.pexels.com/photos/28934307/pexels-photo-28934307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Senior Pets"]
 tags: ["senior", "care", "changes"]
-author: "Dr. Samuel Osei"
-author_bio: "Veterinarian with 10 years in general practice and emergency medicine. Writes to help owners recognize warning signs early."
 slug: "senior-cat-care-changes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Night yowling in senior cats has several possible causes: hyperthyroidism, high blood pressure, cognitive dysfunction syndrome, pain, or simply hearing or vision loss that makes nighttime disorienting. It's not behavioral in the way people assume. This symptom warrants a vet visit with bloodwork and a blood pressure check. It's both diagnosable and treatable in most cases."
   - q: "How do I know if my senior cat is in pain if she's hiding it well?"
     a: "Watch for behavioral changes rather than obvious pain signals. Reluctance to jump, changes in where she rests, reduced grooming (especially of the lower back and hindquarters), less interaction, a flattened facial expression, or hunched posture are all signs of discomfort in cats. Veterinary pain assessment tools, like the Feline Grimace Scale, are used clinically to identify pain that owners and even vets might miss on a quick exam."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 Your cat turns 11, and suddenly she's sleeping in different spots, drinking more water, and seems a little stiff getting up from her favorite chair. You chalk it up to "just getting older." But here's what a lot of people don't realize: cats are considered senior at age 11, and geriatric by 15. Those subtle changes you're noticing aren't random. They're often the first signals of conditions that are very manageable when caught early, and genuinely serious when they're not.

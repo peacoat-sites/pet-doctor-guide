@@ -6,8 +6,6 @@ description: "Find out how much a routine vet checkup costs for a dog, including
 image: "https://images.pexels.com/photos/6235005/pexels-photo-6235005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Vet Visits"]
 tags: ["much", "does", "routine", "checkup", "cost"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-much-does-a-routine-vet-checkup-cost-for-a-dog"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Geography, clinic type, and what was performed. A general practice in a small town charges less than a AAHA-accredited specialty hospital in a major city. Both can provide excellent care. If the price gap feels extreme and you're in the same area, it's fair to shop around, but don't choose a vet on price alone."
   - q: "What's actually an emergency versus what can wait for the regular appointment?"
     a: "Breathing difficulty, collapse, pale or white gums, suspected poisoning, inability to urinate (especially in male dogs), severe vomiting or diarrhea with blood, seizures, or a bloated distended abdomen: these are emergencies. Go now, not in the morning. A limp that started today with no trauma history, a small lump you just noticed, a mild ear odor, or a one-time soft stool: these can almost always wait for a scheduled appointment. When in doubt, call your clinic's after-hours line before driving to an emergency hospital."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 You budget carefully for your dog's food, toys, and the occasional emergency. Then the reminder card arrives for the annual checkup and you realize you have no idea what it's actually going to cost. You've heard numbers ranging from $50 to $400 for what people vaguely call a "routine visit," and the spread is so wide it's almost useless. Here's what most coverage on this topic gets wrong: they throw out a national average, call it a day, and leave you no better equipped to predict your own bill. Let's fix that.

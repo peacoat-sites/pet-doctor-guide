@@ -6,8 +6,6 @@ description: "Learn what a dog urinalysis reveals about your pet's health, how t
 image: "https://images.pexels.com/photos/9435112/pexels-photo-9435112.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Diagnostics"]
 tags: ["urinalysis", "explained"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "dog-urinalysis-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It's a long list. UTI, bladder stones, trauma, a polyp, a clotting disorder, or, less commonly, cancer. Even vigorous exercise can cause red blood cells to appear. The sediment exam tells your vet whether there are also white blood cells (infection) or unusual cells that need further workup. Blood in urine is always worth investigating, but it's a starting point, not a diagnosis."
   - q: "My dog just had a normal urinalysis. Can I stop worrying about kidney disease?"
     a: "A normal urinalysis is genuinely reassuring, but it's not a complete picture of kidney function. Early chronic kidney disease can be present before the urinalysis becomes abnormal. SDMA (a blood marker) and creatinine levels together give a fuller picture. If kidney disease runs in your dog's breed, like in Cocker Spaniels or Bull Terriers, ask your vet about a full kidney panel rather than relying on urinalysis alone."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Most dog owners hear "we'd like to run a urinalysis" and picture a simple dip-stick test that takes two minutes. I thought the same thing when I first started in practice. What surprised me was how much information a single urine sample actually contains, and how often it catches something serious before symptoms ever appear. A dog can have a urinary tract infection, early kidney disease, diabetes, or even certain types of cancer, and look completely normal at home. That's what makes this test quietly one of the most powerful tools in veterinary medicine, and why understanding what it's actually measuring puts you in a much better position to ask the right questions.

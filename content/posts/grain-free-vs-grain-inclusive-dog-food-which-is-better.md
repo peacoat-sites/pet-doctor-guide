@@ -6,8 +6,6 @@ description: "Confused about grain free vs grain inclusive dog food? Discover th
 image: "https://images.pexels.com/photos/6235114/pexels-photo-6235114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Nutrition"]
 tags: ["grain", "free", "grain", "inclusive", "food"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "grain-free-vs-grain-inclusive-dog-food-which-is-better"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research doesn't support that assumption. The DCM reports actually included a disproportionate number of boutique, exotic, or small-brand (BEG) diets, which is precisely why the FDA flagged that category. Larger brands with veterinary nutritionists on staff and published feeding trials often have more rigorous quality control, even if their marketing is less exciting."
   - q: "How do I know if a dog food brand is trustworthy?"
     a: "Look for AAFCO compliance, named animal proteins at the top of the ingredient list, a company that employs a board-certified veterinary nutritionist, and a clean or limited recall history. You can also look for brands that conduct AAFCO feeding trials rather than just formulating to meet nutrient profiles on paper, since trials involve actually feeding the food to dogs and monitoring health outcomes."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Picture this: you're standing in the pet food aisle, holding two bags of dog food. One screams "GRAIN FREE" in bold letters, with a wolf running through tall grass. The other is a quieter bag, whole grains listed third on the ingredient panel. You've heard grain-free is better. More natural. More ancestral. But you've also heard something about heart disease. You put both bags back and leave with the same bag you always buy, still not sure what to believe. I've had this exact conversation with clients more times than I can count, and I'll be honest: the answer is messier than either camp wants to admit.

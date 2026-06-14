@@ -6,8 +6,6 @@ description: "Spot early signs of heart disease in small breed dogs, including c
 image: "https://images.pexels.com/photos/6235230/pexels-photo-6235230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Heart Health"]
 tags: ["early", "signs", "heart", "disease", "small"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "early-signs-of-heart-disease-in-small-breed-dogs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Kennel cough (infectious tracheobronchitis) is usually a harsh, honking cough that comes on suddenly, often after boarding or dog park exposure, and typically resolves within a week or two with or without treatment. A cardiac cough tends to be softer, more persistent, and shows up in specific contexts like after lying down or exercise. If your dog hasn't had recent exposure to other dogs and the cough is coming and going over weeks, cardiac causes deserve consideration."
   - q: "Should I get pet insurance before a heart murmur is diagnosed?"
     a: "If you have a small breed puppy or young adult dog without a murmur on record, yes, I'd look into this sooner rather than later. Once a murmur is documented, it becomes a pre-existing condition that most insurers exclude. Cardiac care, including echocardiography, medications like pimobendan (which can run $80-$150/month depending on dose and brand), and rechecks, adds up fast. Having coverage before anything is found is meaningfully different from trying to get it after."
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Your small dog has been slowing down a little. Maybe they used to meet you at the door and now they're still on the couch when you get home. Or you've noticed a cough that shows up after excitement, or they seem to tire faster on walks than they did six months ago. You've been telling yourself it's probably just age. You might be wondering if you're being paranoid.

@@ -6,8 +6,6 @@ description: "Discover how to use a dog quality of life scale to help you make t
 image: "https://images.pexels.com/photos/28860756/pexels-photo-28860756.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["End of Life"]
 tags: ["know", "when", "euthanize", "quality", "life"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-know-when-to-euthanize-a-dog-quality-of-life-scale"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research on this is limited but the clinical consensus among most vets and behaviorists is yes, if it's logistically possible and the other pet is not distressed by the situation. Animals who are allowed to sniff and be near a deceased companion appear to grieve differently than those who simply experience a companion's disappearance. It's not required, but many families find it meaningful."
   - q: "How much does in-home euthanasia typically cost compared to a clinic?"
     a: "In-home euthanasia is generally more expensive than an in-clinic appointment, often ranging from roughly double to triple the base cost depending on your location and the provider. For many families, the ability to have their dog pass at home, in their own bed, is worth it. Some veterinary hospice organizations offer sliding-scale pricing. Ask your regular vet if they offer house calls, or search the IAAHPC directory for a certified practitioner."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Nobody tells you how hard the "how will I know?" question actually is until you're living it. By the time most pet owners are searching for quality of life scales, they've already been watching their dog for weeks, maybe months, carrying a quiet dread that doesn't go away. I've been in exam rooms with hundreds of families at this crossroads, and I'll be honest: the information available online is all over the place. Some of it is genuinely helpful. A lot of it is vague in a way that makes grieving people feel worse, not better.

@@ -6,8 +6,6 @@ description: "Discover the key signs of kidney disease in older cats, including 
 image: "https://images.pexels.com/photos/6816869/pexels-photo-6816869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cat Conditions"]
 tags: ["signs", "kidney", "disease", "older", "cats"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "signs-of-kidney-disease-in-older-cats"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Increased thirst and urination have several causes including diabetes mellitus, hyperthyroidism (very common in senior cats), urinary tract infections, liver disease, and even behavioral changes. Hyperthyroidism and CKD actually occur together frequently in older cats, which complicates treatment. The only way to distinguish causes is bloodwork and urinalysis. Don't assume, and don't wait too long to get it checked."
   - q: "How do I know when it's time to let go?"
     a: "This is the hardest question and there's no clean answer. Veterinary quality-of-life scales like the HHHHHMM scale (Hurt, Hunger, Hydration, Hygiene, Happiness, Mobility, and More good days than bad) can give you a structured framework. When a cat is no longer eating despite appetite stimulants, is vomiting daily, has lost interest in everything she once enjoyed, and is spending most of her time hiding or lying still, she's telling you something. Trust what you see. Your vet can help you interpret it, but you know your cat."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Your 14-year-old cat has been drinking water like she's training for a marathon. You noticed it a few weeks ago but chalked it up to the heat, or maybe a preference shift. Then you realized her litter box is suddenly full every single day, she's dropped weight without any diet change, and her coat looks a little dull. You Google "older cat drinking a lot of water" and three words keep coming up: chronic kidney disease. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. That number shocked me when I first encountered it in clinical literature. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.

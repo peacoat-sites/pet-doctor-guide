@@ -6,8 +6,6 @@ description: "Learn how much dog teeth cleaning costs, what factors affect the p
 image: "https://images.pexels.com/photos/33516654/pexels-photo-33516654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["teeth", "cleaning", "cost"]
-author: "Lisa Tanaka"
-author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "dog-teeth-cleaning-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can, but the catch is that a thorough oral exam with proper staging isn't really possible on a fully awake dog. Most dogs won't allow the level of probing and examination needed to accurately assess periodontal pocketing and early disease. Your vet can see obvious problems and grade visible tartar, but the complete picture only happens under anesthesia with full-mouth radiographs. So pre-anesthetic exams are useful screening tools, not definitive assessments."
   - q: "Are there any supplements that genuinely help with dental health?"
     a: "A few have reasonable evidence behind them. Plaque Off, an algae-based powder added to food, has some study support and carries VOHC acceptance in certain formulations. Enzymatic toothpastes are backed by solid research. Puzzle feeders won't clean teeth, but they slow eating and provide mental enrichment, which indirectly supports overall health. (This site may earn a commission.) Raw bones and certain hard chews are sometimes promoted for dental health, but they carry real risks of tooth fractures and should only be considered after a conversation with your vet about your specific dog."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 periodontal disease," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.

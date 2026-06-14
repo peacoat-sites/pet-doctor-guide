@@ -6,8 +6,6 @@ description: "Wondering if pet insurance is worth it? Discover the pros, cons, a
 image: "https://images.pexels.com/photos/6010928/pexels-photo-6010928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Pet Insurance"]
 tags: ["insurance", "worth"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "pet-insurance-worth-it"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A pre-existing condition is any illness, injury, or symptom that was documented or observable before your policy's effective date or during the waiting period. This includes things your vet noted in the chart even if they seemed minor at the time. Some insurers distinguish between 'curable' and 'incurable' pre-existing conditions. A dog who had a single UTI two years ago that fully resolved may have that condition covered after a symptom-free period, depending on the insurer. A dog with ongoing allergies, documented repeatedly in records, will almost certainly have allergies excluded permanent"
   - q: "Should I insure a mixed-breed dog or is it only worth it for purebreds?"
     a: "Mixed-breed dogs can absolutely benefit from insurance. They're not immune to injury, cancer, or sudden illness. The argument that mutts are always healthier than purebreds is partly true for some hereditary conditions, but a Labrador mix can still eat a sock at 11 PM on a Friday and need emergency surgery. Accidents don't discriminate by pedigree. Insurance for a mixed-breed is typically less expensive than for a purebred with known health risks, which makes the monthly premium even more reasonable."
+author: "Karen Lopez"
+author_slug: "karen-lopez"
+author_title: "Dog Trainer"
+author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+
 ---
 
 Imagine your dog swallows something he shouldn't on a Tuesday night. By Thursday he's in emergency surgery for an intestinal obstruction. You leave the clinic with a healthy dog, a discharge summary, and an invoice for $4,800. That scenario isn't rare. I've watched it happen dozens of times in 13 years, and I can tell you the owners who had pet insurance walked out relieved. The ones who didn't were doing math on payment plans before their dog was even fully awake from anesthesia.

@@ -6,8 +6,6 @@ description: "Learn to spot kennel cough symptoms in dogs, including honking cou
 image: "https://images.pexels.com/photos/6234980/pexels-photo-6234980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Infectious Disease"]
 tags: ["kennel", "cough", "symptoms", "long", "lasts"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "kennel-cough-symptoms-and-how-long-it-lasts-in-dogs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, very. Airborne transmission through respiratory secretions means dogs sharing a living space are at real risk. Separate food and water bowls, limit close contact if you can, and keep them out of dog parks or daycares until symptoms have been fully gone for a few days."
   - q: "When does kennel cough become pneumonia?"
     a: "If the infection moves into the lungs, you'll usually see more than coughing: a dog that seems genuinely sick, won't eat, has a high fever (over 104°F), breathes fast or with visible effort, or has a deep, wet-sounding cough rather than the dry honking. That picture needs a vet the same day, not tomorrow."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Three days into what looked like allergies, the dog is honking like a goose and the owner is convinced she's dying. I've had that phone call more times than I can count. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary on the couch at 11pm, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. Knowing the difference between "this is normal kennel cough" and "this dog needs to be seen today" is the whole game.

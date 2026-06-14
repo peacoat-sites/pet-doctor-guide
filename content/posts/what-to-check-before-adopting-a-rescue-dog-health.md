@@ -6,8 +6,6 @@ description: "Before adopting a rescue dog, learn the essential health checks to
 image: "https://images.pexels.com/photos/1350591/pexels-photo-1350591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Getting a Pet"]
 tags: ["what", "check", "before", "adopting", "rescue"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-to-check-before-adopting-a-rescue-dog-health"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally yes, with planning. Kennel cough is usually self-limiting in healthy adult dogs, like a chest cold. It's more serious in puppies, seniors, or immunocompromised dogs. Keep the dog away from other dogs until they've been symptom-free for 2 weeks, and ask whether antibiotics have been prescribed."
   - q: "How do I know if a rescue dog has behavioral issues that signal a health problem?"
     a: "Sudden aggression, sensitivity to being touched in certain areas, and unusual lethargy can all have physical causes. Pain is a big one. A dog that snaps when you touch its hips might not be 'aggressive'; it might have a painful joint. Get the vet exam before labeling the behavior."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Roughly half the rescue dogs I've seen come through our clinic in the first 30 days post-adoption had at least one health issue the new owner didn't know about. Not because shelters are hiding things. Because health assessments done on stressed, under-observed animals in noisy kennels miss a lot, and because most adopters don't know what to look for before they sign the paperwork.

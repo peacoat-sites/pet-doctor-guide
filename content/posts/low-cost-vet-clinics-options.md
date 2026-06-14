@@ -6,8 +6,6 @@ description: "Find affordable vet care for your pet without breaking the bank. E
 image: "https://images.pexels.com/photos/6235124/pexels-photo-6235124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Vet Visits"]
 tags: ["low-cost", "clinics", "options"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "low-cost-vet-clinics-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is genuinely mixed, and I won't pretend otherwise. For a young, healthy pet, monthly premiums add up, and many policies have significant exclusions. That said, for breeds prone to expensive hereditary conditions (French Bulldogs, Cavalier King Charles Spaniels, for example), or for people who absolutely cannot absorb a sudden $3,000 bill, a mid-tier accident and illness policy can be worth the math. Get quotes, read the exclusions carefully, and do the math for your specific pet and budget."
   - q: "How do I talk to my regular vet about cost without feeling embarrassed?"
     a: "Just be direct. Vets and vet techs hear this every single day and the good ones never judge you for it. You can say exactly: 'I want to do right by my pet, and I need to work within a budget today. Can you help me prioritize what's most urgent?' This simple sentence opens the door to conversations about what's absolutely necessary now versus what can wait, generic medication options, and payment plans. You are not a bad pet owner for asking."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Most people assume that "affordable vet care" basically means choosing between a sketchy clinic and skipping treatment altogether. I used to hear that from clients all the time, especially when someone came in apologizing for waiting two weeks because they couldn't figure out how to pay for the visit. Here's what surprised me when I actually started mapping out the options: the landscape of low-cost veterinary care has expanded dramatically in the last decade, and most pet owners have no idea what's available to them. We're not talking about compromised care. We're talking about real medicine, delivered by licensed professionals, at prices that don't require a credit check.

@@ -6,8 +6,6 @@ description: "Dog arthritis can cause limping, stiffness, and reduced mobility i
 image: "https://images.pexels.com/photos/6235007/pexels-photo-6235007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["arthritis", "symptoms", "treatment"]
-author: "Mark Callahan"
-author_bio: "Animal behaviorist and veterinary educator. Helps owners understand their pets' health and behavior."
 slug: "dog-arthritis-symptoms-treatment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The clearest signs: pain appears earlier in the day or doesn't respond to rest, your dog is reluctant to do activities he was managing before, you're seeing more muscle wasting, or his appetite or mood has significantly dropped. Track his daily activity in a log or even just mental notes, and compare month to month. If you're noticing a downward trend over 4 to 6 weeks despite medication, that's a conversation to have with your vet about adjusting the treatment plan. Don't wait for a scheduled annual exam to report declining quality of life."
   - q: "Does exercise help or hurt an arthritic dog?"
     a: "Controlled, low-impact exercise is essential. It maintains muscle mass, which directly supports the joints, and it supports a healthy body weight. Short, frequent leash walks on soft surfaces (grass rather than pavement when possible) are generally better than long infrequent outings. Avoid explosive activity like fetching and jumping. Swimming is excellent if your dog will tolerate it. The goal is consistent, moderate movement, not rest. Complete rest actually accelerates muscle atrophy and worsens the long-term prognosis."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 Your normally enthusiastic Labrador won't jump into the car anymore. He hesitates at the bottom of the stairs, looks up at you, and then just stands there. You assume he's being lazy or stubborn. But here's what I've seen play out dozens of times in the clinic: that dog has been hurting for months, quietly compensating, and the car hesitation is just the moment the pain finally outpaced his ability to hide it. Arthritis in dogs is sneaky. It doesn't announce itself with dramatic limping on day one. It creeps in slowly, and by the time most owners notice something is wrong, the joint disease is already well established.

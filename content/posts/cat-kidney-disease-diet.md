@@ -6,8 +6,6 @@ description: "Discover the best diet for cats with kidney disease, including nut
 image: "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Common Conditions"]
 tags: ["kidney", "disease", "diet"]
-author: "Lisa Tanaka"
-author_bio: "Certified veterinary nurse and pet nutrition specialist. Focuses on preventive care and wellness."
 slug: "cat-kidney-disease-diet"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For stable Stage 2 cats, most internists recommend bloodwork and urinalysis every 3 to 6 months. Stage 3 typically means every 3 months. Stage 4 cats often need monthly checks or more. These intervals aren't arbitrary; they let your vet catch worsening trends early enough to adjust management before a crisis. If your practice isn't scheduling these proactively, ask about them directly."
   - q: "My cat drinks a lot and urinates a lot now. Is that the CKD?"
     a: "Almost certainly yes. As the kidneys lose the ability to concentrate urine, cats compensate by drinking more to maintain fluid balance. This is called polyuria and polydipsia (PU/PD), and it's one of the most consistent early signs of CKD. It's actually a good sign that your cat is compensating, but it also means she needs consistent access to fresh water and ideally a wet food diet to support that increased fluid requirement."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Your cat just got diagnosed with chronic kidney disease, and the vet handed you a prescription diet pamphlet on your way out the door. Now you're home, staring at a bag of food your cat won't touch, reading ingredient labels you don't fully understand, and wondering whether you're slowly starving your cat or slowly killing her kidneys. I've watched this exact scenario play out hundreds of times. The diagnosis is overwhelming enough without the diet piece feeling like a puzzle with missing pieces.

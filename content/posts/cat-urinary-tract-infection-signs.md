@@ -6,8 +6,6 @@ description: "Cat urinary tract infection signs include frequent urination, stra
 image: "https://images.pexels.com/photos/9765437/pexels-photo-9765437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Common Conditions"]
 tags: ["urinary", "tract", "infection", "signs"]
-author: "Mark Callahan"
-author_bio: "Animal behaviorist and veterinary educator. Helps owners understand their pets' health and behavior."
 slug: "cat-urinary-tract-infection-signs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For life-threatening complications, yes. Male cats have a much narrower urethra and are prone to complete blockages. A male cat straining in the litter box is a same-day emergency every single time. Female cats can develop UTIs and cystitis too, but the risk of a fatal obstruction is much lower anatomically."
   - q: "Can I give my cat any over-the-counter treatments?"
     a: "No. Do not give human UTI medications like AZO or phenazopyridine to cats. These are toxic to cats. The ASPCA Poison Control Center lists many human medications as dangerous to cats, including common OTC pain and urinary relief drugs. There are no safe, effective over-the-counter cat UTI treatments. A vet visit is the only appropriate path."
+author: "Tom Harris"
+author_slug: "tom-harris"
+author_title: "Exotic Pet Specialist"
+author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+
 ---
 
 Your cat has been in and out of the litter box five times in the last hour. Each time, she squats, strains, and produces almost nothing. Maybe she cried out once. Maybe you noticed a tiny pink tinge in the box. Your gut is telling you something is wrong, and you should trust that instinct, because what you're describing is a classic picture of feline lower urinary tract disease (FLUTD), and in some cases it genuinely cannot wait.

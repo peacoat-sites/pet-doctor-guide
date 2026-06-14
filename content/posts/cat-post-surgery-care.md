@@ -6,8 +6,6 @@ description: "Help your cat recover safely after surgery with expert tips on res
 image: "https://images.pexels.com/photos/6816862/pexels-photo-6816862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Surgery"]
 tags: ["post-surgery", "care"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "cat-post-surgery-care"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Honestly, the post-surgery period is a good time to review toxin risks across the board. The ASPCA Poison Control Center has a comprehensive database of toxic plants and substances for cats. Lilies are a particular concern since even small exposures can cause kidney failure. A cat who is groggy from anesthesia and confined to one room is unlikely to be exploring, but as they regain energy over the coming days, household hazards become relevant again."
   - q: "My cat seems more anxious than usual since surgery. Is this normal?"
     a: "Yes, and it's more common than people expect. The combination of an unfamiliar clinic environment, anesthesia, pain, and the discomfort of a cone can genuinely stress a cat out for several days. PetMD's veterinary resource library has good information on feline stress signals if you want to understand what you're observing. Feliway diffusers (synthetic feline pheromones) can help create a calmer recovery space. If the anxiety is severe or persisting past the first week, your vet may recommend short-term anti-anxiety support."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+
 ---
 
 Most people assume the hard part is over once their cat wakes up from anesthesia. I thought the same thing, years ago, before I watched a routine spay turn into a three-day emergency because the owner didn't know what "normal recovery" actually looked like. The cat had been licking her incision obsessively, the owner figured it was just grooming, and by the time she called us, the wound was open and infected. The surgery itself was textbook. The recovery was where things fell apart. That gap between "procedure done" and "cat fully healed" is where most post-surgical complications live, and it's almost entirely preventable with the right information.

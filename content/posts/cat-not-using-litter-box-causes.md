@@ -6,8 +6,6 @@ description: "Discover the most common reasons your cat is avoiding the litter b
 image: "https://images.pexels.com/photos/32830896/pexels-photo-32830896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Behavior"]
 tags: ["using", "litter", "causes"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "cat-not-using-litter-box-causes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The AAHA-backed standard recommendation is one box per cat plus one additional. For a single cat, two boxes is ideal. Place them in different locations, not right next to each other, so a stressed cat always has an accessible option."
   - q: "Will punishing my cat for going outside the box help?"
     a: "No, and I say that as gently as possible: it will make things worse. Cats don't connect punishment to a past action. All you'll accomplish is making your cat afraid of you, which increases stress and often worsens the underlying problem. Positive reinforcement, environmental adjustment, and medical treatment are the only tools that actually work."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 You cleaned the litter box this morning. You bought the good litter. Your cat has used the same box for three years without a single complaint. And now, for the second day in a row, you're finding wet spots on your bathroom rug and little surprises behind the sofa. Something changed. The question is whether that something is behavioral, environmental, or medical -- and getting that answer right matters more than most people realize, because the wrong guess can mean missing a serious health problem or spending months fighting a "behavior issue" that never existed in the first place.

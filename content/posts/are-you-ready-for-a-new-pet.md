@@ -5,6 +5,11 @@ description: "Thinking about adopting a dog, cat, or other companion? Take this 
 slug: "are-you-ready-for-a-new-pet"
 date: 2026-05-27T10:00:00+00:00
 tags: ["pet readiness", "new pet", "pet adoption", "responsible pet ownership", "quiz"]
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
+author_title: "Veterinary Reviewer"
+author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+
 ---
 
 Bringing a new animal home is one of the most rewarding decisions you can make, and also one of the biggest. A pet isn't just cuddles on the couch; it's daily feeding, vet visits, cleanup, training, and years of showing up even on the days you're tired or busy.

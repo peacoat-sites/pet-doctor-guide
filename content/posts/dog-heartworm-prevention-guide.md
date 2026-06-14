@@ -6,8 +6,6 @@ description: "Protect your dog from deadly heartworms with our complete preventi
 image: "https://images.pexels.com/photos/33659566/pexels-photo-33659566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Preventive Care"]
 tags: ["heartworm", "prevention", "guide"]
-author: "Karen Briggs"
-author_bio: "Registered veterinary technician with 13 years of clinical experience in small animal care."
 slug: "dog-heartworm-prevention-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No natural product has been shown in peer-reviewed research to reliably prevent heartworm infection. Garlic, black seed oil, and similar remedies are sometimes promoted online, but none have evidence supporting effectiveness, and some (garlic at certain doses) are actually toxic to dogs. Please don't use these as substitutes for proven prevention."
   - q: "Can my dog give heartworm to my other pets or to me?"
     a: "Dogs can't transmit heartworm directly to other dogs or to humans. Transmission requires a mosquito to act as an intermediate host. That said, if you have an infected dog, the mosquitoes in your home and yard are potential vectors for your other pets. All dogs and cats in the household should be on appropriate prevention, especially if one animal has tested positive."
+author: "James Whitfield"
+author_slug: "james-whitfield"
+author_title: "Pet Nutritionist"
+author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+
 ---
 
 A dog can be infected with heartworm for six months before showing a single symptom. By the time you notice your dog coughing, tiring quickly on walks, or losing weight, the worms have already been living in the heart and pulmonary arteries long enough to cause damage that can't be fully reversed. That's the part most people don't realize: this disease is almost entirely preventable, but treatment after the fact is expensive, hard on your dog, and not guaranteed to undo everything the worms did. Prevention isn't just cheaper, it's genuinely kinder.

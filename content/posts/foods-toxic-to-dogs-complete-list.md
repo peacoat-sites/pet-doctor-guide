@@ -6,8 +6,6 @@ description: "Discover the complete list of foods toxic to dogs, from grapes to 
 image: "https://images.pexels.com/photos/6235011/pexels-photo-6235011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Safety"]
 tags: ["foods", "toxic", "dogs", "complete", "list"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "foods-toxic-to-dogs-complete-list"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Watch for: sudden vomiting or diarrhea, excessive drooling, tremors, weakness or wobbliness, pale gums, rapid breathing, or a dog who abruptly can't walk straight. Any of those signs with no obvious explanation warrants a vet call immediately. Don't wait to see if it resolves."
   - q: "Are garlic supplements safe for dogs since some vets recommend them?"
     a: "The research here is genuinely mixed, and I'm skeptical. The proposed benefits (flea repellent, immune support) are not well-supported by evidence, and the margin between 'possibly helpful' and 'causes hemolytic anemia' in garlic is narrow. If your vet is specifically recommending it for a documented reason, that's one thing. As a routine supplement picked off a shelf? I wouldn't."
+author: "Rachel Sanders"
+author_slug: "rachel-sanders"
+author_title: "Emergency Care Writer"
+author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+
 ---
 
 Most dog toxicity articles bury the actually dangerous stuff under a wall of "always consult your vet" before you've learned anything useful. Let me do the opposite.
