@@ -1,0 +1,114 @@
+{
+  "title": "Dog Breed Lifespan & Common Health Issues",
+  "source": "Typical ranges compiled from veterinary and breed-club sources. Individual dogs vary widely; this is general information, not veterinary advice. Always consult your veterinarian.",
+  "rows": [
+    {
+      "breed": "Labrador Retriever",
+      "size": "Large",
+      "life": "11–13 yrs",
+      "issues": "Hip/elbow dysplasia, obesity"
+    },
+    {
+      "breed": "French Bulldog",
+      "size": "Small",
+      "life": "10–12 yrs",
+      "issues": "Breathing (BOAS), spinal issues"
+    },
+    {
+      "breed": "Golden Retriever",
+      "size": "Large",
+      "life": "10–12 yrs",
+      "issues": "Cancer, hip dysplasia"
+    },
+    {
+      "breed": "German Shepherd",
+      "size": "Large",
+      "life": "9–13 yrs",
+      "issues": "Hip dysplasia, bloat"
+    },
+    {
+      "breed": "Standard Poodle",
+      "size": "Large",
+      "life": "12–15 yrs",
+      "issues": "Hip dysplasia, Addison's, bloat"
+    },
+    {
+      "breed": "English Bulldog",
+      "size": "Medium",
+      "life": "8–10 yrs",
+      "issues": "Breathing, skin, joint problems"
+    },
+    {
+      "breed": "Beagle",
+      "size": "Small",
+      "life": "12–15 yrs",
+      "issues": "Epilepsy, obesity, ear infections"
+    },
+    {
+      "breed": "Dachshund",
+      "size": "Small",
+      "life": "12–16 yrs",
+      "issues": "IVDD (back), obesity"
+    },
+    {
+      "breed": "Yorkshire Terrier",
+      "size": "Toy",
+      "life": "13–16 yrs",
+      "issues": "Dental, luxating patella, trachea"
+    },
+    {
+      "breed": "Boxer",
+      "size": "Large",
+      "life": "10–12 yrs",
+      "issues": "Cancer, heart conditions"
+    },
+    {
+      "breed": "Cavalier King Charles",
+      "size": "Small",
+      "life": "9–14 yrs",
+      "issues": "Heart (MVD), syringomyelia"
+    },
+    {
+      "breed": "Shih Tzu",
+      "size": "Small",
+      "life": "10–16 yrs",
+      "issues": "Breathing, eye, dental"
+    },
+    {
+      "breed": "Border Collie",
+      "size": "Medium",
+      "life": "12–15 yrs",
+      "issues": "Hip dysplasia, epilepsy, eye (CEA)"
+    },
+    {
+      "breed": "Australian Shepherd",
+      "size": "Medium",
+      "life": "12–15 yrs",
+      "issues": "Hip dysplasia, eye issues, MDR1"
+    },
+    {
+      "breed": "Great Dane",
+      "size": "Giant",
+      "life": "7–10 yrs",
+      "issues": "Bloat, heart (DCM), joints"
+    },
+    {
+      "breed": "Chihuahua",
+      "size": "Toy",
+      "life": "14–16 yrs",
+      "issues": "Dental, luxating patella, heart"
+    },
+    {
+      "breed": "Pug",
+      "size": "Small",
+      "life": "12–15 yrs",
+      "issues": "Breathing, eye, obesity"
+    },
+    {
+      "breed": "Rottweiler",
+      "size": "Large",
+      "life": "9–12 yrs",
+      "issues": "Hip dysplasia, heart, cancer"
+    }
+  ]
+}
