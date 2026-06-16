@@ -100,27 +100,6 @@ PetMD's veterinary resource library has solid lay-friendly breakdowns of CKD sta
 
 ---
 
-## Frequently Asked Questions
-
-### Is a raw diet appropriate for a cat with kidney disease?
-
-Raw diets are controversial in CKD cats for a few reasons. Many raw diets are high in phosphorus, particularly bone-in formulations. There's also a food safety concern: CKD cats are often immunocompromised, and bacterial contamination in raw food carries a real risk. If you're committed to raw feeding, this requires formulation by a veterinary nutritionist specifically for CKD, not a standard raw protocol. Most veterinary internists advise against it, and I'd generally agree.
-
-### Can treats still be part of my CKD cat's day?
-
-Yes, with caveats. Most commercial cat treats are high in phosphorus and salt. Freeze-dried single-ingredient treats (freeze-dried chicken or salmon without additives) are a better option and can be used in tiny amounts. A few small pieces won't derail a diet. A handful every day will. Check with your vet about volume, and factor treats into the overall phosphorus budget.
-
-### My vet said my cat is only Stage 1. Does diet really matter this early?
-
-Yes, and this is actually when diet intervention has the best evidence for slowing progression. Early dietary phosphorus management is associated with better long-term outcomes than waiting until the disease is advanced. The kidneys have more functional reserve to protect at Stage 1. Starting a phosphorus-conscious diet now, even if it's not a full prescription diet, is worth taking seriously.
-
-### How often should my CKD cat be rechecked?
-
-For stable Stage 2 cats, most internists recommend bloodwork and urinalysis every 3 to 6 months. Stage 3 typically means every 3 months. Stage 4 cats often need monthly checks or more. These intervals aren't arbitrary; they let your vet catch worsening trends early enough to adjust management before a crisis. If your practice isn't scheduling these proactively, ask about them directly.
-
-### My cat drinks a lot and urinates a lot now. Is that the CKD?
-
-Almost certainly yes. As the kidneys lose the ability to concentrate urine, cats compensate by drinking more to maintain fluid balance. This is called polyuria and polydipsia (PU/PD), and it's one of the most consistent early signs of CKD. It's actually a good sign that your cat is compensating, but it also means she needs consistent access to fresh water and ideally a wet food diet to support that increased fluid requirement.
 
 ---
 

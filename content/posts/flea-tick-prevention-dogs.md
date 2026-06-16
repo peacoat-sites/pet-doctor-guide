@@ -124,27 +124,6 @@ There's also a breed consideration that doesn't get talked about enough. Collies
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use my cat's flea prevention on my dog?
-
-Absolutely not. Products formulated for cats, especially those containing permethrin, are highly toxic to dogs. The reverse is also true: K9 Advantix II and other canine permethrin-containing products can kill cats through dermal exposure. Always use species-specific products and keep treated pets separated until topical products have fully dried.
-
-### My dog is healthy but I want to avoid giving them medication every month. Is there a natural alternative that actually works?
-
-Honestly? Not really, at a clinical level. Some natural repellents (certain essential oil blends, neem oil) may offer limited repellent properties but they don't provide reliable protection against tick-borne disease or flea infestations. If reducing chemical exposure is your goal, consider the Seresto collar or Bravecto (quarterly dosing instead of monthly). Talk to your vet about the risk-benefit balance for your specific dog and environment.
-
-### At what age can I start flea and tick prevention on my puppy?
-
-This varies by product. NexGard is labeled for puppies 8 weeks and older, weighing at least 4 lbs. Bravecto is labeled for 6 months and older. Frontline Plus can be used in puppies 8 weeks and older. Always check the label for minimum age and weight requirements, and confirm with your vet before starting anything on a very young or very small puppy.
-
-### How do I know if the prevention product I'm using is actually working?
-
-If you're using an oral chewable and there are no fleas or ticks showing up on your dog despite real outdoor exposure, it's working. For topical products, do a quick once-over after outdoor time in high-risk areas. Running a flea comb through the coat and checking the base of the tail (a common flea hangout) is a good habit. If you start seeing live fleas consistently despite being on prevention, the product may not be the right fit for your geographic area or your dog's lifestyle. Call your vet and discuss switching.
-
-### Is it safe to use both a flea collar and an oral chewable at the same time?
-
-This is a reasonable question, and the answer is: ask your vet before combining products. Doubling up on some classes of insecticides can increase the risk of adverse effects. In most cases, a single well-chosen product provides complete protection without combining. If you're considering layering products because one isn't working, that's a sign to talk to your vet about a different product, not necessarily add a second one on top.
 
 ---
 

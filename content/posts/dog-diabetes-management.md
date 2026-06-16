@@ -99,27 +99,6 @@ Your dog will need regular vet checkups, likely every three to four months once 
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if my dog's diabetes is under good control?
-
-Signs of good control include stable, healthy weight, normal energy and demeanor, consistent water intake and urination (reduced from the excessive amounts you saw at diagnosis), and glucose curves showing a predictable pattern. Your vet will also check fructosamine levels, which is a blood test that reflects average glucose over the past two to three weeks, similar in concept to an HbA1c in humans. That number gives a much clearer picture than a single glucose reading.
-
-### What happens if I accidentally give too much insulin?
-
-This is a genuine emergency. Signs of hypoglycemia (too much insulin, not enough glucose) include weakness, wobbling, confusion, or seizures. If your dog is still conscious, rub corn syrup or glucose gel directly onto his gums and get to a vet immediately. If he's unresponsive, go directly to an emergency clinic. Don't try to manage severe hypoglycemia at home.
-
-### Can dog diabetes ever go into remission?
-
-Rarely, but it happens. Diabetic remission is much less common in dogs than in cats. It can occur when an underlying cause is removed, such as spaying an intact female, discontinuing steroid medications, or successfully treating concurrent pancreatitis or hyperadrenocorticism (Cushing's disease). Your vet will monitor for this, but plan for lifetime management and treat any improvement as a bonus.
-
-### My dog hates his new prescription diet. What can I do?
-
-Transition slowly. Mix about 25% new food with 75% current food for a few days, then gradually shift the ratio over two to three weeks. Some dogs do better with a different prescription formula. Talk to your vet before switching brands entirely, but most vets would rather find a diet your dog will actually eat than insist on a perfect diet he refuses. Consistency matters more than finding the single ideal formula.
-
-### How much does managing canine diabetes cost monthly?
-
-Costs vary significantly based on your location, the insulin your dog uses, whether you do home monitoring, and how often complications arise. Expect it to be a real budget consideration. Many owners find that home glucose monitoring actually reduces overall costs over time by catching problems before they require emergency care. Ask your vet about generic insulin options and whether a pet wellness plan might help offset the cost of regular checkups.
 
 ---
 

@@ -88,27 +88,6 @@ Keep a simple log at home: resting respiratory rates, when coughing occurs, any 
 
 ---
 
-## Frequently Asked Questions
-
-### Can a dog live a long time after being diagnosed with a heart murmur?
-
-Yes, absolutely. Many dogs with murmurs, especially low-grade ones detected early, live years without progressing to heart failure. Staging matters: a dog in Stage B1 may not need medication yet and can remain stable for a long time with monitoring. The trajectory varies significantly by breed, murmur grade, and whether structural changes have developed.
-
-### Is there anything I can do at home to support a dog with early heart disease?
-
-Keeping your dog at a lean, healthy body weight is genuinely useful because excess weight makes the heart work harder. Moderate, low-impact exercise (walks rather than sprinting or fetch) is generally better than no exercise at all. Monitoring resting respiratory rate with a free app is something I recommend proactively. Salt restriction is sometimes discussed, but dietary changes should be guided by your vet based on your dog's specific stage.
-
-### How much does it cost to get a dog's heart properly evaluated?
-
-Chest X-rays through a general practice typically run somewhere in the $200-$400 range depending on your location. An echocardiogram with a board-certified cardiologist can range from around $500 to $800 or more. These aren't small numbers, but they're the diagnostics that tell you whether medication is indicated and help you understand what you're actually managing.
-
-### What's the difference between a heart cough and kennel cough?
-
-Kennel cough (infectious tracheobronchitis) is usually a harsh, honking cough that comes on suddenly, often after boarding or dog park exposure, and typically resolves within a week or two with or without treatment. A cardiac cough tends to be softer, more persistent, and shows up in specific contexts like after lying down or exercise. If your dog hasn't had recent exposure to other dogs and the cough is coming and going over weeks, cardiac causes deserve consideration.
-
-### Should I get pet insurance before a heart murmur is diagnosed?
-
-If you have a small breed puppy or young adult dog without a murmur on record, yes, I'd look into this sooner rather than later. Once a murmur is documented, it becomes a pre-existing condition that most insurers exclude. Cardiac care, including echocardiography, medications like pimobendan (which can run $80-$150/month depending on dose and brand), and rechecks, adds up fast. Having coverage before anything is found is meaningfully different from trying to get it after.
 
 ---
 

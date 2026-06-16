@@ -135,27 +135,6 @@ The weight check deserves special attention. A 10-pound weight loss in a 70-poun
 
 ---
 
-## Frequently Asked Questions About Senior Dog Care
-
-### At what age is a dog officially considered senior?
-
-The general guideline is 7 years old for most breeds. However, size plays a big role. Giant breeds (over 90 pounds) are often considered senior by 5 to 6 years, while small dogs under 20 pounds may not reach true senior status until 9 to 11. Your vet can give you a more accurate assessment based on your specific dog's breed and current health markers.
-
-### My senior dog is drinking a lot more water than usual. Should I be worried?
-
-Yes, this warrants a vet visit soon, not an emergency room unless other symptoms are present, but don't wait weeks. Increased thirst (polydipsia) in older dogs is one of the classic signs of several serious conditions: kidney disease, diabetes, Cushing's disease, and liver disease are the most common. A basic blood panel and urinalysis can usually identify the cause quickly.
-
-### Is anesthesia safe for senior dogs who need dental cleanings?
-
-This is one of the most common concerns I hear, and it's legitimate. Anesthesia does carry more risk in older dogs, particularly those with underlying organ disease. However, pre-anesthetic bloodwork, proper patient selection, and modern anesthetic protocols have made the procedure significantly safer than it was even 10 years ago. Untreated dental disease causes real systemic harm. In most healthy senior dogs, the risk of skipping dental care outweighs the anesthetic risk. Talk to your vet honestly about your dog's specific bloodwork before deciding.
-
-### How do I know if my senior dog is in pain?
-
-This is hard because dogs hide pain so well. The clearest signs are behavioral: withdrawing from interaction they previously enjoyed, reacting to touch in areas they didn't before, disturbed sleep, reduced appetite, reluctance to move, and increased irritability. A dog who used to greet you at the door and now stays on the bed isn't necessarily lazy. He might hurt. If you're seeing these patterns, mention them specifically at your vet visit, using the word "pain" directly. It prompts a more thorough orthopedic and neurological assessment.
-
-### Should I change my senior dog's exercise routine?
-
-Yes, but not by eliminating exercise. Reduced activity accelerates muscle loss, joint stiffness, and cognitive decline. The shift should be toward shorter, more frequent walks rather than one long demanding one. Swap high-impact activities like fetch on hard ground for swimming or gentle leash walks on soft surfaces. Let your dog set the pace on sniff walks. The goal is consistent, low-impact movement every single day, not rest.
 
 ---
 

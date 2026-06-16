@@ -131,27 +131,6 @@ For older dogs already showing signs of joint stiffness, supporting them at home
 
 ---
 
-## Frequently Asked Questions
-
-### How often should a healthy 3-year-old dog go to the vet?
-
-Once a year is the standard recommendation for healthy adult dogs with no chronic conditions. Your vet will do a full physical exam, update any due vaccines, run a heartworm test, and check a fecal sample. Some vets start recommending baseline bloodwork around age 3 to 4, especially for breeds with known health predispositions.
-
-### My dog seems totally fine. Do they really need a yearly exam?
-
-Yes, and this is actually one of the best reasons to go. Many serious conditions, including kidney disease, hypothyroidism, early dental disease, and heart murmurs, are detectable before symptoms appear. A vet can hear a heart murmur you'd never notice at home. Finding it early changes the management plan significantly.
-
-### Can I skip the vet if my dog is up to date on vaccines?
-
-Vaccines are only one part of a wellness visit. The physical exam, parasite screening, and conversation about your dog's weight, diet, and behavior are all separate and valuable. Being current on vaccines doesn't mean your dog's health doesn't need a professional set of eyes.
-
-### How do I know if something is an emergency versus can wait until my regular vet opens?
-
-Use the triage table above as a starting point. The clearest emergency signs are: difficulty breathing, unproductive retching with a distended abdomen (possible bloat), seizures lasting more than 2 to 3 minutes, pale or white gums, suspected poisoning, collapse, or uncontrolled bleeding. Any of those situations means emergency care now, not Monday morning.
-
-### My senior dog hates the vet. Is there anything I can help with that?
-
-Absolutely. Talk to your vet about anti-anxiety options, which might be as simple as a pre-visit medication or gabapentin for dogs with significant anxiety. You can also ask about fear-free handling techniques, which many clinics are now trained in. Keeping your dog's carrier or crate out at home and feeding treats near it helps reduce the "carrier = vet" association over time. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has solid public resources on reducing veterinary visit stress if you want to read further.
 
 ---
 

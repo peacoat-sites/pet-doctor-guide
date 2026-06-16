@@ -76,27 +76,6 @@ One more thing: if your dog's nails are already very long, meaning they're touch
 
 ---
 
-## FAQ
-
-### How often should I trim my dog's nails?
-
-Most dogs need nails trimmed every 3 to 4 weeks, though it depends heavily on how much they walk on hard surfaces. If you can hear clicking on the floor when they walk, they're overdue.
-
-### What do I do if I accidentally quick my dog?
-
-Styptic powder stops the bleeding fast. Kwik-Stop is the most common brand and is worth keeping in your first aid kit. Press a small amount directly onto the nail tip and hold for 30 seconds. The bleeding almost always stops within a minute or two. If it doesn't stop after 10 to 15 minutes, call your vet.
-
-### Can I use human nail clippers on a dog?
-
-On very small dogs with tiny nails, human clippers can work in a pinch, but they're not designed for the thickness and angle of dog nails. They tend to crush rather than cut cleanly. A proper small dog clipper is a better investment.
-
-### My dog is fine at the vet but panics at home. Why?
-
-Probably because the vet visit involves a lot of distractions and sometimes mild sedation, and your dog may associate your home handling with previous bad experiences. It's also possible the vet's staff is using specific low-stress holds you haven't seen. Ask your vet tech to show you next time you're in.
-
-### Is there anything I can give my dog to calm them before nail trims?
-
-For mild anxiety, some dogs respond to melatonin or products like Zylkene (a milk protein supplement). For more significant fear, talk to your vet about short-term prescription options. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) is a good resource if you're ever unsure whether a supplement or calming product is safe before using it.
 
 ---
 

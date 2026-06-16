@@ -130,27 +130,6 @@ When in doubt, treat it as an emergency. In my 13 years of practice, I have neve
 
 ---
 
-## Frequently Asked Questions
-
-### Can a dog survive bloat without surgery?
-
-Simple gastric dilatation without twisting can sometimes be managed with decompression and supportive care, no surgery required. But true GDV, where the stomach has rotated, requires surgery. There is no home remedy, no medication that fixes it, and waiting is not an option. The surgery itself carries risk, especially in dogs who arrive in shock, but without it, GDV is fatal.
-
-### How quickly can bloat kill a dog?
-
-It varies, but GDV can be fatal within two to six hours of onset in severe cases. Some dogs deteriorate faster, some slower, but there's no way to predict which path your dog's case will take. The earlier treatment begins, the better the outcome.
-
-### Is bloat painful for dogs?
-
-Yes. The distension is intensely uncomfortable, and as the stomach wall loses blood supply and begins to die, the pain escalates. The restlessness you see in affected dogs isn't just behavior, it's their response to significant internal pressure and pain.
-
-### My dog burped a lot and seems fine now. Was it bloat?
-
-If your dog was uncomfortable, then suddenly belched or passed gas and seems completely normal, that's more consistent with simple gas or mild gastric dilatation that self-resolved. True GDV doesn't resolve on its own through burping. That said, if you're uncertain or if your dog is a high-risk breed, a same-day call to your vet is always reasonable. Better to ask and be reassured than to assume all is well.
-
-### What is a gastropexy and should my dog get one?
-
-A gastropexy is a surgery that permanently attaches the stomach to the inner body wall, preventing rotation. It's highly effective at preventing GDV (though not gastric dilatation). It does not prevent a dog from being uncomfortable from gas. For high-risk breeds, many veterinary specialists consider prophylactic gastropexy one of the best decisions an owner can make. Ask your vet specifically whether your dog's breed, age, and lifestyle make them a good candidate.
 
 ---
 

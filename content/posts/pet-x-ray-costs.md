@@ -86,27 +86,6 @@ In my experience, the cases where owners declined x-rays due to cost and then re
 
 ---
 
-## FAQ
-
-### Does my dog need to be sedated for an x-ray?
-
-Not always. Many calm dogs will hold a position well enough for a quick exposure without sedation. But if your dog is in pain, anxious, or the view requires a position that's uncomfortable to maintain, sedation produces a better image and is less stressful for the patient. Your vet will assess this on a case-by-case basis.
-
-### Will pet insurance cover x-rays?
-
-Most accident and illness policies do, yes. The specifics depend on your plan: deductible, reimbursement percentage, and whether the underlying condition is considered pre-existing. Wellness plans typically don't cover diagnostics the way illness plans do. Read your policy's "diagnostics" section carefully before you assume.
-
-### Can I ask my vet for just one x-ray view to save money?
-
-You can ask. But understand that a single view is often not diagnostically useful. A chest film read without a lateral and a dorsoventral view, for example, can miss lesions entirely. Your vet recommends multiple views because incomplete imaging can be worse than no imaging. It's reasonable to ask why each view is needed.
-
-### Is there a difference in quality between a general practice x-ray and a specialty hospital x-ray?
-
-Modern digital radiography equipment produces excellent images at both settings. The bigger quality variable is the reader: a board-certified veterinary radiologist will catch subtleties a general practitioner might miss, especially for chest and abdominal cases. Many general practices send complex films out for specialist review specifically for this reason.
-
-### What if I genuinely can't afford the x-ray right now?
-
-Tell your vet. Directly and clearly. They can't help you find alternatives if they don't know cost is a barrier. Options might include a payment plan, a teleradiology consultation for a second opinion at lower cost, or a triage conversation about what the minimum necessary imaging looks like. There are also nonprofit organizations like the Pet Fund and RedRover Relief that offer financial assistance for veterinary care. It's worth a phone call.
 
 ---
 

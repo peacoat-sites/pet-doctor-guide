@@ -125,27 +125,6 @@ The key word the vet uses is "monitor" versus "treat." Monitor means watch and r
 
 ---
 
-## FAQ
-
-### How long does a cat's annual vet visit typically take?
-
-Plan for 30 to 45 minutes for a straightforward adult cat wellness exam. If bloodwork is being drawn, vaccines are given, nail trims or anal glands are done, or the vet finds something worth discussing in detail, it can run to an hour. Senior cat appointments tend to be longer because there's more to cover. Don't schedule one during a lunch break you can't extend.
-
-### Should I fast my cat before the annual exam?
-
-Generally, no fasting is needed for a routine wellness exam unless your vet specifically instructs otherwise. If bloodwork is planned that includes glucose or lipid panels, some vets prefer a 4-to-6-hour fast. Check with the clinic the day before. Withholding food unnecessarily just adds stress to an already stressful car ride.
-
-### My cat is terrified of the vet. Is there anything I can do besides just suffering through it?
-
-Yes, genuinely. Ask your clinic if they're a Fear Free certified practice or if they offer low-stress handling techniques. Ask your vet about gabapentin, which is commonly used for cat anxiety before vet visits and is safe and very effective. A typical protocol involves giving it 1.5 to 2 hours before the appointment, but your vet will advise on dosing. Carrier training at home also helps more than most people expect when done consistently.
-
-### What's the difference between an annual exam and a wellness exam?
-
-Functionally, these terms are used interchangeably in most practices. Some clinics market "wellness packages" that bundle the exam with bloodwork, vaccines, and fecal testing at a bundled cost. An annual exam with no add-ons is just the physical exam and a vaccine or two. It's worth asking your clinic what's included when you book, so you're not surprised by an itemized bill.
-
-### Does my indoor-only cat really need to go to the vet every year if nothing seems wrong?
-
-This is the most common question I get, and the honest answer is yes. Indoor cats live longer, which means more years of slowly progressing conditions like dental disease, obesity, and kidney disease. They also get stressed by sudden changes, and an annual visit keeps them somewhat accustomed to the carrier and the handling. Beyond that, one of the most valuable things a yearly exam does is establish a baseline. If your vet knows your cat's normal weight, heart rate, and kidney values when everything is fine, they have something to compare to when something eventually isn't.
 
 ---
 

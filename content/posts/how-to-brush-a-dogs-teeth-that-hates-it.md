@@ -67,27 +67,6 @@ For truly resistant dogs, enzymatic dental chews can do real work as a supplemen
 
 ---
 
-## FAQ
-
-### How often do I actually need to brush my dog's teeth?
-
-Daily is the gold standard, and that's what the AVMA recommends. Realistically, three to four times a week will still make a meaningful difference. The bacteria that form plaque take about 24 to 48 hours to mineralize into tartar, so the more frequent, the better -- but some is infinitely better than none.
-
-### My dog growls when I try to brush. Should I push through it?
-
-No. Growling is communication, and a dog who growls is telling you they're at their limit. Pushing through it can lead to a bite and will almost certainly make the whole process harder long-term. Back up in the desensitization steps, go slower, and if the growling is intense or accompanied by snapping, talk to your vet about whether a referral to a veterinary behaviorist makes sense.
-
-### What if my dog swallows the toothpaste?
-
-With enzymatic pet toothpaste specifically formulated for dogs, swallowing small amounts is fine -- it's designed for that, since dogs can't rinse and spit. This is also why you should never use human toothpaste, which contains xylitol or fluoride that can be toxic to dogs even in small amounts.
-
-### Are dental water additives worth it?
-
-They're worth having in your toolkit, especially on days brushing doesn't happen. Products like Oxyfresh Water Additive have decent evidence behind them for reducing plaque bacteria. They're not a substitute for brushing, but they're easy, and easy things actually get done.
-
-### At what age should I start brushing my dog's teeth?
-
-As early as possible -- ideally when they're puppies and still in that golden socialization window before 16 weeks. But dogs can absolutely learn to tolerate brushing as adults. It just takes more patience and a slower desensitization timeline.
 
 ---
 

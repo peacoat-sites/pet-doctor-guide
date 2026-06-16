@@ -107,27 +107,6 @@ One more thing: if you've been giving Benadryl for more than a few days and you'
 
 ---
 
-## Frequently Asked Questions
-
-### Can I give my dog Benadryl every day for allergies?
-
-Short-term daily use for a few days during an allergy flare is generally considered safe by most vets. Long-term daily use is a different question and really warrants a conversation with your veterinarian, since it means there's an underlying allergy problem that probably needs a more targeted solution.
-
-### How long does Benadryl take to work in dogs?
-
-Typically 30 to 60 minutes. Peak effect is usually around 1 to 2 hours after dosing. If you're not seeing any improvement in itching or hives after a couple of hours, Benadryl may not be effective for your dog's particular situation.
-
-### My dog weighs 8 pounds. Can I give her half a tablet?
-
-A half tablet (12.5 mg) slightly exceeds the 1 mg/lb guideline for an 8-pound dog, but many vets consider this a reasonable dose. Children's Benadryl liquid (12.5 mg per 5 mL) gives you more precision. Just verify it contains no xylitol before use.
-
-### Is generic diphenhydramine the same as Benadryl for dogs?
-
-Yes, completely. The active ingredient is identical. Store-brand diphenhydramine from any pharmacy is fine as long as it's 25 mg plain diphenhydramine with no additional active ingredients. Save your money here.
-
-### What if my dog ate too much Benadryl?
-
-Call your vet or the ASPCA Animal Poison Control Center at (888) 426-4435 immediately. Overdose signs include extreme sedation, rapid heart rate, dilated pupils, agitation, and in severe cases, seizures. Don't wait to see if it gets better on its own.
 
 ---
 

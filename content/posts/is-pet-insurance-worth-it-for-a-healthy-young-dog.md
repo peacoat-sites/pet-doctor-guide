@@ -108,27 +108,6 @@ And if you're not going to buy insurance, at minimum put $100 a month into a ded
 
 ---
 
-## FAQ
-
-### Is pet insurance worth it if my dog has never been sick?
-
-Yes, and that's almost a reason to buy sooner. Insurance covers future events, not past health. A perfectly healthy dog is the ideal candidate because there's no documented history that could trigger pre-existing condition exclusions.
-
-### What age should I get pet insurance for my dog?
-
-As early as possible, ideally before your first vet visit. Most policies allow enrollment starting at 8 weeks old. The earlier you enroll, the lower your premium and the cleaner your policy's exclusion list.
-
-### Can I get pet insurance for a 2-year-old dog?
-
-Absolutely, and a 2-year-old is still considered young by most insurers. Just be prepared for the insurer to request your vet records. Any conditions documented before enrollment will likely be excluded.
-
-### Does pet insurance cover routine vet visits?
-
-Standard accident and illness plans don't. Wellness add-ons exist that do cover routine care, but they're often priced at roughly break-even, so they're more convenient than cost-saving.
-
-### What if my dog is a mix and seems generally healthy?
-
-Mixed breed dogs have real statistical advantages when it comes to some inherited diseases, but they still need emergency care at roughly the same rate as purebreds when you factor in the everyday accidents and illnesses that aren't breed-specific. Insurance is still worth considering.
 
 ---
 

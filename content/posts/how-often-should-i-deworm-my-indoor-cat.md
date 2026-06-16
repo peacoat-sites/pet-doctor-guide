@@ -107,27 +107,6 @@ Everything else, the occasional tapeworm segment, a single episode of vomiting w
 
 ---
 
-## Frequently Asked Questions
-
-### Can an indoor cat get worms without ever going outside?
-
-Yes, absolutely. The most common routes are fleas brought in on clothing or other pets, larvae tracked in on shoes from contaminated soil, transmission from an infected mother during nursing, or occasionally ingesting an insect or small prey animal found indoors. A truly zero-risk indoor cat is rarer than most owners think.
-
-### What does it actually look like when a cat has worms?
-
-It varies a lot by parasite type and burden. Tapeworm segments look like small, flat, white pieces of rice stuck near the tail or in the litter box. Roundworm infections might cause a pot-bellied appearance in kittens, vomiting, or occasionally worms visible in stool. Mild infections in adult cats often produce no visible symptoms at all, which is why fecal testing matters.
-
-### Is over-the-counter dewormer safe to use without a vet visit?
-
-For a suspected tapeworm in an otherwise healthy adult cat, praziquantel-based OTC products like Bayer Tapeworm Dewormer are generally considered safe and appropriate as a first response. For anything else, or for kittens, or if you're unsure what you're dealing with, get a fecal exam first. The wrong dewormer won't do anything for the wrong parasite.
-
-### How do I know if the dewormer worked?
-
-A follow-up fecal float exam two to three weeks after treatment is the most reliable way to confirm clearance. Visible tapeworm segments should stop appearing within a few days of praziquantel treatment. If symptoms persist or the fecal comes back positive again, that's worth a conversation with your vet about whether retreatment or a different protocol makes sense.
-
-### Do I need to deworm my cat if she's on flea prevention year-round?
-
-Flea prevention dramatically reduces tapeworm risk, and some flea prevention products (like Revolution Plus) cover certain intestinal worms simultaneously. But flea prevention alone doesn't cover all parasite types, and it doesn't retroactively clear any existing infection. A baseline fecal exam is still a good idea, especially for cats who've never had one or were recently adopted.
 
 ---
 

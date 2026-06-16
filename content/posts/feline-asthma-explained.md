@@ -96,27 +96,6 @@ Have a rescue plan. Talk to your vet about what to do if your cat has a severe e
 
 ---
 
-## Frequently Asked Questions
-
-### Can feline asthma be cured?
-
-No. Feline asthma is a chronic inflammatory condition that can be managed very effectively but not cured. The goal is to minimize symptoms, reduce attack frequency, and protect the airways from long-term damage caused by repeated inflammation.
-
-### Is my cat's asthma going to get worse over time?
-
-It can, particularly if it's poorly controlled. Repeated, unmanaged inflammation causes airway remodeling, which is a permanent structural change that reduces lung function. This is one of the strongest arguments for treating consistently even when your cat seems fine.
-
-### What's the difference between a cough and an asthma attack in cats?
-
-A cough is a single or repeated expulsion of air from the lower airway. An asthma attack involves active bronchospasm and genuine breathing difficulty, where the cat is visibly laboring to breathe. Coughing can precede or occur during an attack, but a coughing cat that recovers quickly and breathes normally afterward is in a different category than one struggling to catch its breath.
-
-### Can my cat use a human asthma inhaler?
-
-Some of the same medications are used, but the doses and delivery devices are different. Never use your own inhaler on your cat without explicit veterinary guidance. Even if the medication is technically the same, the dose could be dangerously wrong.
-
-### Do I need to worry about my other cats getting asthma from the one who has it?
-
-Asthma isn't contagious. It's an immune-mediated response, not an infection. That said, if an environmental trigger is driving your cat's asthma, that same environment could theoretically affect another predisposed cat. Improving air quality at home benefits everyone in the household, two-legged and four-legged.
 
 ## Helpful Resources
 

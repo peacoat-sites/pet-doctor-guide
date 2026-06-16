@@ -110,27 +110,6 @@ In my experience, the clients who end up with the highest vet bills long-term ar
 
 ---
 
-## FAQ
-
-### How often does a dog actually need a checkup?
-
-Once a year is the standard recommendation for healthy adult dogs. Senior dogs (7 and up) benefit from twice-yearly visits because age-related conditions can progress quickly between annual exams. Puppies follow a vaccine schedule that requires more frequent visits in the first year.
-
-### Are there items on the vet bill I can decline?
-
-Yes. You can decline individual services if cost is a barrier. Be honest with your vet about your constraints. "I can't do everything today, what's the priority order?" is a completely reasonable question and any vet worth seeing will answer it honestly rather than just pushing the full menu.
-
-### Is pet insurance worth it for routine care?
-
-Wellness add-on plans rarely pencil out as a financial savings. You're essentially prepaying for care at a slight markup. Where pet insurance genuinely pays is accident and illness coverage for the unexpected: cruciate tear, foreign body ingestion, cancer diagnosis. If budget is tight, prioritize that coverage over the wellness rider.
-
-### Why did my neighbor's vet visit cost half of what mine did?
-
-Geography, clinic type, and what was performed. A general practice in a small town charges less than a AAHA-accredited specialty hospital in a major city. Both can provide excellent care. If the price gap feels extreme and you're in the same area, it's fair to shop around, but don't choose a vet on price alone.
-
-### What's actually an emergency versus what can wait for the regular appointment?
-
-Breathing difficulty, collapse, pale or white gums, suspected poisoning, inability to urinate (especially in male dogs), severe vomiting or diarrhea with blood, seizures, or a bloated distended abdomen: these are emergencies. Go now, not in the morning. A limp that started today with no trauma history, a small lump you just noticed, a mild ear odor, or a one-time soft stool: these can almost always wait for a scheduled appointment. When in doubt, call your clinic's after-hours line before driving to an emergency hospital.
 
 ---
 

@@ -124,27 +124,6 @@ Having a solid pet first aid kit on hand is genuinely useful for cat owners deal
 
 ---
 
-## FAQ
-
-### Can a cat UTI go away on its own?
-
-A bacterial UTI needs antibiotics. It won't resolve on its own, and untreated infections can spread to the kidneys (pyelonephritis), which is a serious complication. Idiopathic cystitis episodes sometimes resolve without treatment within a few days, but since you usually can't tell the difference at home, a vet evaluation is always the right call. Don't wait and hope it clears up.
-
-### How do I collect a urine sample to bring to the vet?
-
-Your vet may prefer to collect the sample themselves via cystocentesis for a sterile sample. But if they ask you to bring one from home, use a very clean litter box with non-absorbent litter (your clinic may provide special plastic litter for this). Collect the sample in a clean container and refrigerate it if you can't get to the vet within an hour or two. Samples degrade quickly at room temperature.
-
-### Is my cat in pain?
-
-Yes, almost certainly. Urinary inflammation is painful. Cats hide pain extremely well, which is why behavioral changes like hiding, reduced appetite, or unusual quietness alongside urinary symptoms matter. Our article on [cat hiding behavior explained](/cat-hiding-behavior-explained/) covers how to read these subtle distress signals more fully.
-
-### Are male cats more at risk than females?
-
-For life-threatening complications, yes. Male cats have a much narrower urethra and are prone to complete blockages. A male cat straining in the litter box is a same-day emergency every single time. Female cats can develop UTIs and cystitis too, but the risk of a fatal obstruction is much lower anatomically.
-
-### Can I give my cat any over-the-counter treatments?
-
-No. Do not give human UTI medications like AZO or phenazopyridine to cats. These are toxic to cats. The ASPCA Poison Control Center lists many human medications as dangerous to cats, including common OTC pain and urinary relief drugs. There are no safe, effective over-the-counter cat UTI treatments. A vet visit is the only appropriate path.
 
 ---
 

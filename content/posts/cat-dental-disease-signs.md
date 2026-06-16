@@ -120,29 +120,6 @@ Ask what you'll find out before you sign off on anesthesia. A good veterinary te
 
 If cost is a concern, say so. Vets and vet techs are not here to judge you. Knowing your budget helps us help you prioritize. There may be options to phase treatment or address the most painful issues first.
 
-## FAQ
-
-### How do I know if my cat is in pain from dental disease?
-
-Cats almost never vocalize pain from dental disease. Instead, look for behavioral shifts: eating more slowly, only chewing on one side, avoiding hard food, withdrawing from interaction, or flinching when touched near the face. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) hotline can advise on toxin-related emergencies, but for pain assessment, call your regular vet. They can help you interpret what you're seeing over the phone.
-
-### Can I treat my cat's dental disease at home without a vet?
-
-Home care like brushing and VOHC-approved chews can slow the progression of early-stage disease, but they can't reverse existing tartar buildup, heal infected gums, or treat tooth resorption. Once disease is established, professional dental care under anesthesia is the only way to actually address it. Home care is prevention, not treatment.
-
-### Is it safe to put my cat under anesthesia for a dental cleaning?
-
-For a healthy cat with standard pre-anesthetic bloodwork, the risks of anesthesia are genuinely low in the hands of an experienced team. The risks of untreated dental disease, including chronic pain, tooth loss, and systemic bacterial infection, are far greater in the long run. Talk to your vet about your specific cat's health status and what precautions they take.
-
-### How often should cats have professional dental cleanings?
-
-There's no single answer that fits every cat. Some cats need annual cleanings; others can go two years without significant buildup. Your vet will recommend a schedule based on your cat's individual genetics, diet, and oral health history. Starting annual exams by age two or three lets you catch problems before they become serious.
-
-### My cat's teeth look fine but her breath is terrible. Is that still dental disease?
-
-Yes, it can be. Significant disease often hides below the gumline where you can't see it. Halitosis in cats is almost always a sign that something is going on, whether it's periodontal disease, tooth resorption, or less commonly, kidney disease or a gastrointestinal issue. Any persistent bad breath deserves a vet conversation.
-
-Dental disease doesn't announce itself with obvious drama in most cats. It shows up quietly in a bowl of uneaten food, a subtle flinch during a chin scratch, or a smell you've learned to ignore. You know your cat better than anyone, and that knowledge is genuinely useful. Trust your instincts, pay attention to the small changes, and don't wait for things to get obviously bad before you act. Your cat can't tell you her mouth hurts, so the more you understand what to look for, the better her chances of getting real relief.
 
 ## Helpful Resources
 

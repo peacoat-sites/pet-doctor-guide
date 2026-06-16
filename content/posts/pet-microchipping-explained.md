@@ -106,27 +106,6 @@ One thing that makes managing pet health information easier is keeping a dedicat
 
 ---
 
-## Frequently Asked Questions
-
-### Does microchipping hurt my pet?
-
-The short answer is: briefly, yes, and then not at all. The needle used is larger than a standard vaccine syringe, so there's a sharper pinch at the moment of insertion. Most pets react the same way they would to any injection, sometimes not at all. There's no lasting soreness, no recovery time, and no restrictions after the procedure. Pets who are already anxious about vet visits may show more stress response, but that's about the context, not the chip itself.
-
-### How long does a microchip last?
-
-For your pet's entire lifetime. The chip is inert, has no battery, and doesn't degrade. Once it's placed and functioning, you don't need to replace or recharge it. The only ongoing task is keeping the registry information current.
-
-### Can I microchip my pet at home?
-
-No, and please don't try. Microchipping requires proper needle placement in subcutaneous tissue, sterile technique, and a scanner to verify function. Done incorrectly, there's risk of injury, infection, or a chip that can't be read. This is a veterinary procedure.
-
-### My rescue came with a chip but I don't know the number. What should I do?
-
-Ask your vet to scan your pet at the next visit and write down the number. Then search that number through the AAHA Universal Pet Microchip Lookup Tool to see what registry it's associated with. Contact that registry to update the ownership information or add yourself as a contact. Some registries require documentation (like adoption papers) to transfer ownership. This is worth doing promptly, especially if your contact information isn't on file.
-
-### Is there any health risk from the microchip itself?
-
-This concern comes up, and it's worth addressing honestly. There have been rare reports of tumors at chip implant sites in animals, which prompted some concern. Regulatory and veterinary organizations, including the British Small Animal Veterinary Association, have reviewed the available data and concluded that the incidence is extremely low, likely no higher than background rates of soft tissue tumors in those locations, and that the benefits of microchipping substantially outweigh the risk. No procedure is entirely without any conceivable risk, but this one is considered very safe.
 
 ---
 

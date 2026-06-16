@@ -125,27 +125,6 @@ Many senior cats end up on one or more daily medications, whether for thyroid di
 
 ---
 
-## Frequently Asked Questions
-
-### At what age is a cat considered senior, and does that change how I should care for them?
-
-Cats are generally considered senior starting around age 11, and geriatric at 15 and older. The practical difference is that senior cats need more frequent vet visits (every six months rather than annually), age-appropriate bloodwork, and closer monitoring of weight, mobility, and behavior. The changes aren't dramatic on day one, but staying proactive during the senior years is genuinely how you add quality time.
-
-### My senior cat is drinking a lot more water. Is that just normal aging?
-
-No, this isn't something to wait on. Increased thirst combined with increased urination is one of the classic signs of kidney disease, hyperthyroidism, or diabetes in older cats. All three conditions are manageable when caught early and much harder to manage when they've been progressing undetected. Schedule a vet visit with bloodwork and urinalysis. Don't chalk this one up to "just getting older."
-
-### Should I switch my senior cat to a "senior" cat food?
-
-Not automatically. The term "senior" on cat food packaging isn't regulated the way you might expect. Some senior formulas are appropriate, others aren't. What matters most is a food with high-quality, digestible protein, appropriate moisture content (wet food is especially helpful for kidney health), and calorie density suited to your cat's current weight and activity level. Talk to your vet before switching, particularly if your cat has any diagnosed conditions.
-
-### My older cat yowls at night and it's getting worse. What's going on?
-
-Night yowling in senior cats has several possible causes: hyperthyroidism, high blood pressure, cognitive dysfunction syndrome, pain, or simply hearing or vision loss that makes nighttime disorienting. It's not behavioral in the way people assume. This symptom warrants a vet visit with bloodwork and a blood pressure check. It's both diagnosable and treatable in most cases.
-
-### How do I know if my senior cat is in pain if she's hiding it well?
-
-Watch for behavioral changes rather than obvious pain signals. Reluctance to jump, changes in where she rests, reduced grooming (especially of the lower back and hindquarters), less interaction, a flattened facial expression, or hunched posture are all signs of discomfort in cats. Veterinary pain assessment tools, like the Feline Grimace Scale, are used clinically to identify pain that owners and even vets might miss on a quick exam.
 
 ---
 

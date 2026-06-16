@@ -96,27 +96,6 @@ Run through this once a day, ideally at the same time each morning.
 
 ---
 
-## FAQ
-
-### How long does it take for a cat to fully recover from surgery?
-
-It depends heavily on the type of surgery. A routine spay or neuter typically has a two-week healing window for the incision, with most cats back to normal energy levels within a week. Orthopedic surgeries, tumor removals, or abdominal procedures can involve four to eight weeks of restricted activity. Your discharge paperwork should specify a timeline for your cat's exact procedure. If it doesn't, ask before you leave the clinic.
-
-### My cat isn't eating after surgery. When should I worry?
-
-Some appetite reduction in the first 24 to 48 hours is completely expected. Anesthesia affects the gastrointestinal system and can cause nausea. If your cat hasn't eaten anything by 48 to 72 hours post-surgery, or if they're also vomiting, call your vet. Prolonged food refusal after surgery can lead to a serious liver condition in cats called hepatic lipidosis, so this isn't something to wait out indefinitely.
-
-### Can I use hydrogen peroxide or Neosporin on the incision?
-
-No. Hydrogen peroxide actually damages tissue and can slow healing. Most triple antibiotic ointments like Neosporin contain polymyxin B, which has been associated with anaphylactic reactions in cats, and the cat will immediately lick it off anyway. Clean the incision only as instructed by your vet. In most cases, you won't be asked to clean it at all. Leave it alone unless directed otherwise.
-
-### What plants, foods, or household substances are dangerous to a recovering cat?
-
-Honestly, the post-surgery period is a good time to review toxin risks across the board. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) has a comprehensive database of toxic plants and substances for cats. Lilies are a particular concern since even small exposures can cause kidney failure. A cat who is groggy from anesthesia and confined to one room is unlikely to be exploring, but as they regain energy over the coming days, household hazards become relevant again.
-
-### My cat seems more anxious than usual since surgery. Is this normal?
-
-Yes, and it's more common than people expect. The combination of an unfamiliar clinic environment, anesthesia, pain, and the discomfort of a cone can genuinely stress a cat out for several days. [PetMD's veterinary resource library](https://www.petmd.com/) has good information on feline stress signals if you want to understand what you're observing. Feliway diffusers (synthetic feline pheromones) can help create a calmer recovery space. If the anxiety is severe or persisting past the first week, your vet may recommend short-term anti-anxiety support.
 
 ---
 

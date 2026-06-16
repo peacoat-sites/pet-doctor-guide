@@ -98,27 +98,6 @@ Orthopedic dog beds aren't a supplement, but they belong in this conversation. A
 
 ---
 
-## FAQ
-
-### How long does it take for joint supplements to work in dogs?
-
-Most joint supplements, especially glucosamine and chondroitin, need four to eight weeks at full dose before you'll see noticeable effects. Fish oil tends to show results a bit faster, sometimes within three to four weeks. If you're not seeing any change after eight weeks at the correct dose, it's worth talking to your vet about whether the product and dosage are appropriate.
-
-### Can I give my dog human glucosamine supplements?
-
-Technically, the glucosamine molecule is the same, and some vets don't object to it if the product is pure glucosamine sulfate without additives. The bigger issue is that some human joint formulas contain xylitol or other ingredients that are toxic to dogs. Always read the full ingredient list, not just the active ingredients, and check with your vet before using a human product.
-
-### Is it safe to give a dog fish oil every day?
-
-Yes, for most dogs, daily fish oil at appropriate doses is safe long-term. Very high doses can occasionally cause GI upset (loose stool, fishy breath) or affect clotting, so stay within the therapeutic range for your dog's weight. Dogs going into surgery should have fish oil paused about a week beforehand.
-
-### Should I tell my vet about supplements I'm giving my dog?
-
-Always. This isn't just a liability-covering answer. Some supplements interact with medications, affect bloodwork results, or change how drugs are metabolized. Your vet can also help you assess whether the doses you're using are appropriate. If your vet dismisses all supplements without discussion, that's worth a second opinion from a vet who practices integrative medicine.
-
-### Are expensive prescription joint supplements worth it over OTC options?
-
-Not always. Some prescription products like Adequan (an injectable polysulfated glycosaminoglycan) have strong evidence behind them and genuinely outperform oral supplements in some dogs. But many "veterinary-grade" chews sold in clinics are marked up significantly for formulations that aren't meaningfully superior to quality OTC options. I'd evaluate case by case. Adequan is worth asking about specifically for moderate-to-severe arthritis. The fancy $65 bag of chews from the waiting room display? Maybe less so.
 
 ---
 

@@ -76,27 +76,6 @@ When you do talk to your vet, ask specifically for a body condition score (BCS) 
 
 ---
 
-## Frequently Asked Questions
-
-### How much protein should a dog eat for weight loss?
-
-Look for a food with at least 30% protein on a dry matter basis, ideally 35-40% for significantly overweight or sedentary dogs. The specific daily amount in grams will depend on your dog's target weight and activity level, which your vet or vet tech can calculate using their resting energy requirement.
-
-### Is high-protein dog food safe for older dogs?
-
-For most healthy senior dogs, yes. The old concern that dietary protein damages kidneys in healthy dogs has been largely debunked. Where protein restriction is genuinely necessary is in dogs who already have confirmed kidney disease with elevated phosphorus and creatinine levels. If your senior dog has had normal kidney values on recent bloodwork, a high-protein weight loss diet is appropriate with vet supervision.
-
-### Why isn't my dog losing weight on high-protein food?
-
-The most common culprit is portion size, specifically feeding more than the dog actually needs for weight loss. Other possibilities include unaccounted treats, table scraps, getting food from another pet's bowl, an underlying hormonal condition like hypothyroidism, or a food with a lower actual protein content than the label implies. Start with a scale and a feeding log and go from there.
-
-### Is wet or dry food better for weight loss in dogs?
-
-There's a genuine argument for wet food here. The high moisture content adds bulk and may increase satiety without adding significant calories, and many wet foods have a strong dry-matter protein percentage once you do the math. The downside is cost and the logistics of storage. A combination approach, a high-protein kibble base with some high-quality wet food mixed in, works well for a lot of dogs.
-
-### Can I put my dog on a high-protein diet without my vet's input?
-
-For a generally healthy adult dog who's moderately overweight, yes, with some caveats. You should know their starting weight, you should be monitoring body condition monthly, and you should rule out any obvious symptoms of underlying disease first. If your dog is significantly obese, elderly, has any existing health conditions, or isn't losing weight after 8 weeks on a sensible plan, loop in your vet. Getting it wrong over many months costs more than a single vet visit.
 
 ---
 

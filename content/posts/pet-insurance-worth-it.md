@@ -129,27 +129,6 @@ That said, combining a lean insurance policy with a clinic-based wellness plan c
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get pet insurance for an older dog or cat?
-
-Yes, most insurers will cover older pets, though premiums are higher and the application process may include a review of medical records. The key caveat: any condition already diagnosed, including things that seem minor like dental disease or a past ear infection that's now chronic, will likely be excluded as pre-existing. For a senior pet with a clean medical history, insurance can still be worthwhile. For a senior pet with multiple existing diagnoses, the value proposition weakens considerably. Have an honest conversation with your vet about what conditions your pet is likely to face going forward, and calculate whether the exclusions make the policy useful or essentially decorative.
-
-### Does pet insurance cover prescription medications?
-
-It depends on the policy and the reason for the medication. Most comprehensive plans cover prescription medications prescribed to treat a covered illness or injury. They typically don't cover long-term medications for excluded pre-existing conditions. Some wellness add-ons cover things like monthly flea and tick preventatives. Read the fine print on this one specifically, because medication costs for chronic conditions can add up to hundreds of dollars annually.
-
-### Is there a waiting period after I sign up?
-
-Yes, virtually always. Accident coverage typically has a 2-day waiting period. Illness coverage is usually 14 days. Orthopedic conditions often have longer waiting periods, sometimes 6 months, to prevent people from enrolling a dog who's already limping and filing a claim immediately. This means you should enroll your pet when they're healthy and you don't have an immediate need, not when you notice something wrong.
-
-### What does "pre-existing condition" actually mean in pet insurance?
-
-A pre-existing condition is any illness, injury, or symptom that was documented or observable before your policy's effective date or during the waiting period. This includes things your vet noted in the chart even if they seemed minor at the time. Some insurers distinguish between "curable" and "incurable" pre-existing conditions. A dog who had a single UTI two years ago that fully resolved may have that condition covered after a symptom-free period, depending on the insurer. A dog with ongoing allergies, documented repeatedly in records, will almost certainly have allergies excluded permanently. Ask your specific insurer about their definition before assuming anything.
-
-### Should I insure a mixed-breed dog or is it only worth it for purebreds?
-
-Mixed-breed dogs can absolutely benefit from insurance. They're not immune to injury, cancer, or sudden illness. The argument that mutts are always healthier than purebreds is partly true for some hereditary conditions, but a Labrador mix can still eat a sock at 11 PM on a Friday and need emergency surgery. Accidents don't discriminate by pedigree. Insurance for a mixed-breed is typically less expensive than for a purebred with known health risks, which makes the monthly premium even more reasonable.
 
 ---
 

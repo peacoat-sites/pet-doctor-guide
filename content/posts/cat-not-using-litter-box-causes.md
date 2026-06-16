@@ -112,27 +112,6 @@ If you believe your cat may have ingested something toxic that's causing neurolo
 
 ---
 
-## Frequently Asked Questions
-
-### Why did my cat suddenly stop using the litter box after years of no problems?
-
-Sudden changes almost always signal either a medical issue or a significant environmental change. A cat who has been reliable for years and abruptly stops is more likely sick than behaviorally problematic. Rule out UTI, FIC, kidney disease, diabetes, and arthritis before assuming anything else.
-
-### Can stress really cause a cat to stop using the litter box?
-
-Absolutely. Feline idiopathic cystitis itself is strongly linked to stress in cats, meaning stress doesn't just cause behavioral avoidance, it can cause a physical medical condition that causes avoidance. The connection is direct and well-documented.
-
-### My cat is pooping outside the box but urinating normally. What does that mean?
-
-Defecating outside the box while urinating normally often points to a problem with the box itself rather than a medical issue, though constipation or anal gland problems can be factors. Try a larger, uncovered box, scoop more frequently, and check for pain responses. If your cat seems to strain or vocalize when defecating, see your vet.
-
-### How many litter boxes do I actually need?
-
-The AAHA-backed standard recommendation is one box per cat plus one additional. For a single cat, two boxes is ideal. Place them in different locations, not right next to each other, so a stressed cat always has an accessible option.
-
-### Will punishing my cat for going outside the box help?
-
-No, and I say that as gently as possible: it will make things worse. Cats don't connect punishment to a past action. All you'll accomplish is making your cat afraid of you, which increases stress and often worsens the underlying problem. Positive reinforcement, environmental adjustment, and medical treatment are the only tools that actually work.
 
 ---
 

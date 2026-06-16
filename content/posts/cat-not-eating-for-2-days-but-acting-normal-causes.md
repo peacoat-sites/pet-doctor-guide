@@ -84,27 +84,6 @@ For everything else, call your regular vet and describe what you're seeing. A go
 
 ---
 
-## Frequently Asked Questions
-
-### Is it normal for a cat to not eat for 2 days?
-
-It's not uncommon, but it's not something to dismiss either. Two days without eating is the point where medical causes become a real concern, and where conditions like hepatic lipidosis can begin developing. If your cat refuses even high-value foods like plain chicken or tuna, a vet call is warranted regardless of how normal they seem otherwise.
-
-### Why is my cat not eating but drinking water and acting normal?
-
-Drinking while not eating can actually be a sign of underlying illness, not a reassuring one. Conditions like kidney disease, diabetes, and hyperthyroidism can increase thirst while suppressing appetite. It's a combination worth mentioning specifically to your vet.
-
-### How long can a cat go without eating before it becomes dangerous?
-
-The honest answer is: it depends heavily on the individual cat. Overweight cats can develop hepatic lipidosis in as little as 48-72 hours. Lean, young, otherwise healthy cats may tolerate a longer fast, but most vets start to get concerned around 48 hours regardless. Don't use "seems fine" as a reason to push past that window.
-
-### Could my cat just be being picky?
-
-Yes, genuinely. Pickiness is real and can be triggered by formula changes, temperature, texture, bowl material, or location. But picky eating and complete food refusal are different things. A picky cat will usually eat something they love. If your cat won't touch any food at all for two full days, picky is probably not the full explanation.
-
-### Should I try to syringe-feed my cat if they won't eat?
-
-Only if your vet has specifically advised this, and only with appropriate foods. Forcing the wrong food or forcing food too quickly can cause aspiration or make nausea worse. It's not something to do as a home experiment. If you're at the point of considering syringe feeding, your cat needs to see a vet so you know what you're actually dealing with.
 
 ## Helpful Resources
 

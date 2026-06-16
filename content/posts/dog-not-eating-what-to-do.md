@@ -137,27 +137,6 @@ If dental health is a concern, a vet-recommended dental chew used consistently c
 
 ---
 
-## FAQ
-
-### How long can a dog safely go without eating?
-
-Most healthy adult dogs can go 48 to 72 hours without food without serious physical consequence, but this isn't a license to wait that long before acting. Small dogs, puppies, seniors, and dogs with underlying health conditions (especially diabetes) can develop problems faster. I'd treat 48 hours of complete food refusal in any dog as the threshold for calling your vet, sooner if any other symptoms appear.
-
-### My dog is drinking water but not eating. Is that better or worse?
-
-Drinking normally while refusing food is generally a better sign than refusing both. It suggests your dog is conscious of thirst and not in circulatory collapse. That said, it doesn't rule out serious illness. Some dogs with kidney disease or diabetes drink more than usual while also losing appetite. Monitor water intake: a significant increase in drinking is a specific symptom worth reporting to your vet.
-
-### Could stress or anxiety cause my dog to stop eating?
-
-Absolutely, and more often than people expect. Dogs are sensitive to changes in household routine, the addition of a new pet or person, loud events like storms or construction, or even a change in the owner's schedule. In my experience, rescue dogs and anxious breeds (Border Collies, German Shepherds, some hounds) can stop eating for several days after a major transition. If you can identify a clear stressor and your dog is otherwise acting like themselves, cautious home management is reasonable for 48 hours.
-
-### Should I add toppers or mix-ins to get my dog eating again?
-
-Temporarily, yes, if it helps you assess whether the issue is appetite or preference. Warming food, adding a little low-sodium broth, or offering plain boiled chicken can help a mildly nauseous or stressed dog get something in their stomach. Long term, relying on toppers can create a dog who refuses plain food. Use them as a short-term bridge and wean off them once normal eating resumes.
-
-### When does not eating become a veterinary emergency for a puppy specifically?
-
-Puppies have tiny glycogen stores and limited ability to regulate blood sugar. A puppy under 12 weeks who hasn't eaten in six to eight hours should be assessed for hypoglycemia. Puppies under 16 weeks who miss a full day of food need to be seen by a vet, period. Parvovirus also presents with sudden loss of appetite and lethargy and is life-threatening in unvaccinated or partially vaccinated puppies. Don't wait.
 
 ---
 

@@ -112,27 +112,6 @@ Mental health matters too. Bored, under-stimulated pets are more prone to anxiet
 
 ---
 
-## Frequently Asked Questions
-
-### Is low-cost vet care actually as good as regular vet care?
-
-It depends entirely on the specific clinic and the specific service. A low-cost spay at a reputable humane society clinic? Absolutely comparable quality. A complex orthopedic surgery at a discount mobile clinic? That's not something they should be offering, and if they are, run. For preventive care and routine procedures, low-cost options are often excellent. For diagnostically complex or surgical cases, a teaching hospital offers both affordability and high-quality oversight.
-
-### Can I get prescription medications at a lower cost without going through my vet?
-
-Yes, legally. Your vet is required to give you a written prescription if you ask for one, and you can fill it at any VIPPS-accredited pharmacy, including Costco, Walmart's pharmacy, or licensed online pharmacies like Chewy's pharmacy. The markup on medications at clinics can be significant. Asking for a written prescription is completely reasonable and most vets expect it.
-
-### What if my pet has an emergency and I can't afford the ER?
-
-This is genuinely one of the hardest situations in veterinary medicine. A few things to know: CareCredit and Scratchpay are financing options that some people can access quickly. Some emergency hospitals have relationships with local humane societies for financial hardship cases. The ASPCA Poison Control Center (888-426-4435) can help you triage whether something is truly an emergency or can wait until a lower-cost daytime clinic opens. In a genuine life-threatening emergency, please go to the ER. Talk to them about payment options when you arrive.
-
-### Are pet insurance plans worth it for people already on a tight budget?
-
-The research here is genuinely mixed, and I won't pretend otherwise. For a young, healthy pet, monthly premiums add up, and many policies have significant exclusions. That said, for breeds prone to expensive hereditary conditions (French Bulldogs, Cavalier King Charles Spaniels, for example), or for people who absolutely cannot absorb a sudden $3,000 bill, a mid-tier accident and illness policy can be worth the math. Get quotes, read the exclusions carefully, and do the math for your specific pet and budget.
-
-### How do I talk to my regular vet about cost without feeling embarrassed?
-
-Just be direct. Vets and vet techs hear this every single day and the good ones never judge you for it. You can say exactly: "I want to do right by my pet, and I need to work within a budget today. Can you help me prioritize what's most urgent?" This simple sentence opens the door to conversations about what's absolutely necessary now versus what can wait, generic medication options, and payment plans. You are not a bad pet owner for asking.
 
 ---
 

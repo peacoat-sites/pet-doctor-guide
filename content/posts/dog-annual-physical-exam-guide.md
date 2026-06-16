@@ -103,27 +103,6 @@ Ask your vet directly: "Which of these does my dog's actual lifestyle warrant?" 
 
 ---
 
-## FAQ
-
-### How long should a dog's annual exam actually take?
-
-A thorough physical for a healthy adult dog typically runs 20-40 minutes. If it's consistently under 15 minutes with no discussion of findings, that's worth noticing. Senior dogs, dogs with known health issues, or dogs getting bloodwork drawn the same day will reasonably take longer.
-
-### My dog seems totally healthy. Do I still need to go every year?
-
-Yes, and "seems healthy" is exactly the problem. Many early diseases produce no visible symptoms until they've progressed significantly. The exam isn't for sick dogs. It's for catching disease before your dog looks sick.
-
-### Can I ask for an itemized estimate before agreeing to services?
-
-Absolutely, and you should. Any reputable clinic will provide this without hesitation. Ask upfront: "Can you walk me through what's included today and what the estimated cost will be?" You can also ask which items are essential versus optional for a healthy dog with no current concerns.
-
-### My dog hates the vet. Are there ways to make this less awful?
-
-Yes. Specifically: ask the clinic if they offer low-stress handling techniques or fear-free certified staff. Bring high-value treats (real chicken, cheese). Schedule at a low-traffic time like a Tuesday morning. Some dogs do significantly better with a calming supplement given the night before and morning of, but check with your vet before starting anything. A [puzzle feeder used at home beforehand](https://www.amazon.com/s?k=dog+puzzle+feeder&tag=dummy-20) *(affiliate link, we may earn a commission)* to tire out an anxious dog mentally can also help.
-
-### What's the difference between a wellness exam and a sick visit?
-
-A wellness exam is proactive: routine assessment of a dog with no current complaints. A sick visit is problem-focused: you've noticed something wrong and need it evaluated. They serve different purposes and are billed differently. Don't try to turn a wellness visit into a sick visit by sneaking in "oh and also he's been limping for three weeks" at the end. Book appropriately so the vet has enough time.
 
 ---
 

@@ -82,27 +82,6 @@ Keep [the ASPCA Poison Control Center number](https://www.aspca.org/pet-care/ani
 
 ---
 
-## FAQ
-
-### Can I give my cat Benadryl to calm them for a car trip?
-
-Technically you can, but it's not reliable. Diphenhydramine causes sedation in some cats and paradoxical hyperactivity in others, and you won't know which until it happens. Gabapentin, prescribed by your vet, is a far more predictable option.
-
-### How long before the trip should I give a sedative?
-
-For gabapentin, 1.5 to 2 hours before you put the cat in the car. For Feliway spray, spray the carrier 15-30 minutes before loading. Timing matters: too early and peak effect has passed, too late and it hasn't kicked in yet.
-
-### Is it safe to sedate a cat with a heart condition?
-
-This is genuinely a case where the answer changes based on specifics. Some sedatives are contraindicated in cats with cardiac disease; others are fine at adjusted doses. Your vet needs to know about any heart condition before prescribing anything, and if your cat has hypertrophic cardiomyopathy (common in cats), make sure that's explicitly discussed.
-
-### My cat screams the entire car ride even when medicated. What's wrong?
-
-Either the dose is insufficient, the timing was off, or this particular medication isn't the right fit for your cat. Call your vet with specifics: when you gave the dose, what the cat weighed when it was prescribed, and exactly what the behavior looked like. There's usually an adjustment to be made.
-
-### Do I need a prescription for cat calming products?
-
-For gabapentin and trazodone, yes. For Feliway, Zylkene, and most supplement-based products, no prescription required. The [AAHA's standards for veterinary practice](https://www.aaha.org/) require appropriate prescribing oversight for controlled and prescription medications, which is why your vet needs to be in the loop for anything pharmaceutical.
 
 ## Helpful Resources
 

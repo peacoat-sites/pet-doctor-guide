@@ -117,27 +117,6 @@ In my experience, the owners who do best are the ones who decide early what thei
 
 ---
 
-## Frequently Asked Questions
-
-### How fast does kidney disease progress in cats?
-
-It varies enormously. Some cats stay at Stage 2 for years with careful management. Others decline from Stage 2 to Stage 4 within months. Factors that accelerate progression include uncontrolled hypertension, ongoing proteinuria, high phosphorus levels, urinary tract infections, and dehydration. Getting those secondary factors controlled buys time. There's no reliable formula, which I know is frustrating, but it's the honest answer.
-
-### My cat was just diagnosed with early CKD. Is this an emergency?
-
-Early-stage CKD diagnosed on routine bloodwork is not an emergency. It's serious, but it gives you time to make a plan. You don't need to rush to an emergency clinic. You do need a follow-up appointment with your regular vet within the next week or two to discuss diet, hydration, supplements, and a monitoring plan. The emergency threshold is: your cat stops eating entirely for more than 48 hours, is vomiting repeatedly, collapses, or shows neurological signs like disorientation or seizures.
-
-### Can a cat with kidney disease eat regular cat food?
-
-In early stages, many vets will allow a high-quality wet food rather than jumping straight to a prescription diet, especially if the cat resists renal food. The key goals are reducing phosphorus, increasing moisture, and maintaining caloric intake. As the disease progresses, prescription renal diets become more important. Never put a CKD cat on a high-protein raw diet without explicit veterinary guidance, as excessive protein can worsen the nitrogen load on compromised kidneys.
-
-### Is increased thirst always a sign of kidney disease in cats?
-
-No. Increased thirst and urination have several causes including diabetes mellitus, hyperthyroidism (very common in senior cats), urinary tract infections, liver disease, and even behavioral changes. Hyperthyroidism and CKD actually occur together frequently in older cats, which complicates treatment. The only way to distinguish causes is bloodwork and urinalysis. Don't assume, and don't wait too long to get it checked.
-
-### How do I know when it's time to let go?
-
-This is the hardest question and there's no clean answer. Veterinary quality-of-life scales like the HHHHHMM scale (Hurt, Hunger, Hydration, Hygiene, Happiness, Mobility, and More good days than bad) can give you a structured framework. When a cat is no longer eating despite appetite stimulants, is vomiting daily, has lost interest in everything she once enjoyed, and is spending most of her time hiding or lying still, she's telling you something. Trust what you see. Your vet can help you interpret it, but you know your cat.
 
 ---
 

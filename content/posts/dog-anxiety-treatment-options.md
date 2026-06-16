@@ -128,27 +128,6 @@ If your dog is showing anxiety signs and you're not sure where to begin, here's 
 
 ---
 
-## Frequently Asked Questions
-
-### Can anxiety in dogs get worse without treatment?
-
-Yes, and this is one of the most important things to understand. Anxiety that's untreated tends to intensify over time. Fear responses that repeatedly occur without relief can sensitize the nervous system, meaning smaller triggers eventually produce the same large fear response. Early, consistent intervention gives you the best chance of meaningful improvement.
-
-### My dog is only anxious around loud noises. Do I need to see a vet, or can I manage this at home?
-
-Mild noise sensitivity can often be managed with environmental strategies and supplements. But if your dog is showing signs like refusing to eat, injuring themselves, or remaining in a fear state for hours after the trigger has passed, that's a moderate to severe noise phobia that warrants a vet conversation, particularly about situational medication options like Sileo or alprazolam.
-
-### Is separation anxiety different in puppies versus adult dogs?
-
-It can be. Many puppies go through a normal transitional period of adjustment when first left alone, and with patient training, they grow out of it. But true separation anxiety can affect any age. Adult dogs who develop sudden separation anxiety after a period of stability should always be evaluated medically, because underlying pain or cognitive changes can be a trigger. Dogs showing changes in their litter box habits or elimination patterns alongside behavioral changes also warrant a thorough physical exam, and you can read more about [causes of inappropriate elimination in cats](/cat-not-using-litter-box-causes/) that may parallel some of the same stress-related mechanisms.
-
-### How do I know if my dog needs medication or if behavior modification alone is enough?
-
-A general guideline: if your dog's anxiety is interfering with basic daily functions (eating, sleeping, ability to be left alone safely), medication is likely appropriate. If the anxiety is situational and mild to moderate, behavior modification with or without supplements is a reasonable first step. Your vet or a veterinary behaviorist can help you assess severity. This isn't a binary choice either. Many dogs benefit most from both simultaneously.
-
-### Are there breeds more prone to anxiety?
-
-Yes. Working breeds with high drive, herding breeds like Border Collies and Australian Shepherds, and some toy breeds are statistically overrepresented in anxiety cases. That said, any dog can develop anxiety regardless of breed. Individual history, early socialization, prior trauma, and genetics all play a role. Knowing your dog's background matters. Dogs adopted from shelters or with unknown histories may need extra patience and professional guidance during the assessment process.
 
 ---
 

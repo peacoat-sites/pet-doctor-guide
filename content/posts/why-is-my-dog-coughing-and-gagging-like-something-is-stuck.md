@@ -88,27 +88,6 @@ A [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&
 
 ---
 
-## FAQ
-
-### My dog keeps gagging but nothing comes up. What does that mean?
-
-Repeated gagging without vomiting is called unproductive retching, and it warrants more concern than a productive gag. In large, deep-chested breeds like Great Danes, Standard Poodles, and German Shepherds, unproductive retching combined with a distended, tight abdomen can signal gastric dilatation-volvulus (GDV, or bloat), which is a life-threatening emergency. Call an emergency vet now if you see this combination. In smaller dogs, unproductive retching is often related to nausea, acid reflux, or an irritant, but if it continues more than 20 to 30 minutes, get it checked.
-
-### Is kennel cough contagious to humans?
-
-Almost never. The bacteria and viruses that cause kennel cough, most commonly Bordetella bronchiseptica, are not typically transmissible to healthy humans. There are extremely rare documented cases in severely immunocompromised people, but if you have a normal, healthy immune system, sharing a house with a dog who has kennel cough is not a meaningful risk to you.
-
-### My dog coughs after drinking water. Should I be worried?
-
-Sometimes. A dog who consistently coughs or gags right after drinking could have a laryngeal issue, a cleft palate (in younger dogs), megaesophagus, or collapsing trachea. If it happens every single time, or if you can hear a gurgling sound in the throat after drinking, this deserves a proper vet workup rather than a monitoring approach.
-
-### How do I know if my dog is actually choking versus just coughing?
-
-True choking: the dog is silent or making a high-pitched wheeze, is in obvious panic, pawing at his face, and his gums are starting to change color. Coughing: there's audible noise, the dog may retch and gag but is moving air. A coughing or hacking dog is scary but not the same emergency as a dog with a fully obstructed airway. Still, when in doubt, call your vet.
-
-### Can allergies make my dog cough and gag like this?
-
-Yes, though it's less common than in humans. Environmental allergies can cause enough post-nasal drip and throat irritation to trigger a gag-cough, and some dogs have reactions to inhaled irritants like cigarette smoke, candles, or cleaning sprays. If the coughing is seasonal or linked to a specific environment, mention that to your vet as it genuinely changes the diagnostic approach.
 
 ---
 

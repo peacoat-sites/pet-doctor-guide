@@ -114,27 +114,6 @@ Finally, rescue dogs and dogs adopted as adults may arrive with unknown dental h
 
 ---
 
-## Frequently Asked Questions
-
-### My dog's breath is really bad. Is that always a dental problem?
-
-Bad breath in dogs is almost always related to the mouth. The bacteria involved in periodontal disease produce sulfur compounds that smell distinctly foul. Occasional mild odor after eating is normal. Persistent, strong odor is a sign of bacterial overgrowth, and you should have a vet look at their teeth. Rarely, severe bad breath can indicate kidney disease or other systemic issues, which is another reason not to ignore it.
-
-### Can I use human toothpaste on my dog in a pinch?
-
-No. Human toothpaste should never be used on dogs. Many formulas contain xylitol, which is toxic to dogs even in small amounts and can cause a dangerous drop in blood sugar. Fluoride is also a concern. Use only toothpaste formulated for dogs.
-
-### My dog won't let me brush their teeth no matter what I try. What else can I do?
-
-Start even slower, with lower-value rewards. Some dogs do better with a different tool, like a gauze wrapped around your finger instead of a brush. If true brushing remains impossible, combine a VOHC-approved dental chew, a water additive, and a dental diet as your home care strategy, and increase professional cleaning frequency to compensate. Talk to your vet about whether a referral to a veterinary behaviorist might help if the resistance is severe.
-
-### At what age should I start dental care for my puppy?
-
-As early as 8 weeks old. You won't be doing a full brush at that age, but handling the mouth, lifting the lips, and touching the teeth gets your puppy comfortable with the sensation. Introduce toothbrushing during the puppy phase and you'll have a cooperative adult dog. Waiting until they're two years old and set in their ways is much harder.
-
-### What's the difference between gingivitis and periodontal disease, and does it matter?
-
-It matters a lot. Gingivitis is inflammation of the gums only. At this stage the damage is reversible with a professional cleaning and good home care. Periodontal disease means the infection has progressed to damage the bone and connective tissue that hold teeth in place. That damage is not reversible. Teeth may need to be extracted. Catching the problem at the gingivitis stage saves money, saves teeth, and spares your dog real pain.
 
 ---
 

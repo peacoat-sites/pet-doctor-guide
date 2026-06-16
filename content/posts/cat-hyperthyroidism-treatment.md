@@ -80,27 +80,6 @@ The [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-p
 
 ---
 
-## FAQ
-
-### How long can a cat live with hyperthyroidism if treated?
-
-With proper treatment, many cats go on to live several more years with excellent quality of life. The prognosis is genuinely good compared to many feline diagnoses, though concurrent conditions like kidney disease or heart disease influence the outlook significantly.
-
-### Is hyperthyroidism in cats painful?
-
-The disease itself isn't typically painful, but it's uncomfortable in ways that matter. Affected cats often feel anxious, restless, and hungry constantly. The elevated heart rate can cause discomfort, and some cats develop hypertensive retinal damage or heart disease if left untreated for too long.
-
-### Can I manage my cat's hyperthyroidism at home without daily medication?
-
-If you mean without methimazole, the y/d diet is a real option, though compliance is strict. There's no supplement or herbal remedy with reliable evidence behind it. Uncontrolled hyperthyroidism causes progressive heart, kidney, and blood pressure damage -- this is one of those conditions where "wait and see" genuinely costs you.
-
-### How do I know if the methimazole dose is right for my cat?
-
-Bloodwork is the only reliable answer. Target total T4 is generally in the mid-to-low normal range, around 1.5 to 2.5 µg/dL, though your vet will interpret this in context of your individual cat. Symptoms alone aren't enough to judge -- some cats feel better before their levels are truly optimized.
-
-### What happens if hyperthyroidism in cats goes untreated?
-
-The excess thyroid hormone puts chronic stress on the heart, which can lead to hypertrophic cardiomyopathy. Blood pressure often climbs, eventually causing retinal detachment and blindness. The kidneys suffer, weight loss becomes severe, and the cat's overall condition deteriorates over months to a couple of years. It's a slow decline, but it's not gentle.
 
 ## Helpful Resources
 

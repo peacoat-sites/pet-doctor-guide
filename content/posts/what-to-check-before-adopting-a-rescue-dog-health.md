@@ -90,27 +90,6 @@ Don't overwhelm the dog with social visits, new environments, and parks in week 
 
 ---
 
-## Frequently Asked Questions
-
-### Should I get pet insurance before adopting a rescue dog?
-
-Yes, and before the first vet visit if you can manage it. Once a vet records a diagnosis, that condition becomes a pre-existing exclusion on most standard policies. Getting coverage in place before any documented issues is the move.
-
-### Can I trust the health records the shelter provides?
-
-Mostly, but verify independently. Shelters do their best, but records from strays may be incomplete, vaccine timing may be off, and a shelter fecal test done 6 weeks ago tells you very little about today. Get your own vet involved early.
-
-### What if I can't afford a vet visit right away?
-
-Some vet clinics offer new-adoption wellness packages at reduced rates. Humane societies and rescues sometimes have partnerships with local vets who offer discounted first exams. Low-cost clinics (often run through veterinary schools or nonprofits) are a real option. The fecal test and heartworm check are the highest-priority items if you're working with a tight budget.
-
-### Is it safe to adopt a dog that has kennel cough?
-
-Generally yes, with planning. Kennel cough is usually self-limiting in healthy adult dogs, like a chest cold. It's more serious in puppies, seniors, or immunocompromised dogs. Keep the dog away from other dogs until they've been symptom-free for 2 weeks, and ask whether antibiotics have been prescribed.
-
-### How do I know if a rescue dog has behavioral issues that signal a health problem?
-
-Sudden aggression, sensitivity to being touched in certain areas, and unusual lethargy can all have physical causes. Pain is a big one. A dog that snaps when you touch its hips might not be "aggressive"; it might have a painful joint. Get the vet exam before labeling the behavior.
 
 ## Helpful Resources
 

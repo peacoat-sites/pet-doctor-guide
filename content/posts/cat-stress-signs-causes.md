@@ -111,27 +111,6 @@ For cats with significant anxiety, your vet may discuss medications like gabapen
 
 ---
 
-## FAQ
-
-### How do I know if my cat is stressed or sick?
-
-Often you can't tell without a vet exam, and that's not a cop-out answer. Many stress signs, like hiding, reduced appetite, and litter box avoidance, are identical to early signs of illness. The safest approach is to treat any change lasting more than 48 hours as worth a vet call. PetMD's veterinary resource library has solid breakdowns of how stress-related symptoms compare to disease presentations if you want to read more before your appointment.
-
-### Can cats get physically ill from stress?
-
-Yes, genuinely. Chronic stress elevates cortisol, suppresses the immune system, and directly contributes to conditions like feline idiopathic cystitis, upper respiratory flare-ups in cats carrying herpesvirus, and digestive issues. Stress is not "just behavioral" in cats.
-
-### My cat is stressed because of a new kitten. How long does it take to improve?
-
-The honest answer: it depends on the cats and the introduction process. A proper multi-step introduction with scent swapping before any visual contact can take 2-4 weeks and often results in tolerance, if not friendship. Throwing two cats together and hoping for the best can create chronic stress that lasts years. If you're already in that situation, a reintroduction process with physical separation and gradual re-introduction is still possible and often helps.
-
-### Should I try to comfort a stressed cat or give them space?
-
-Follow the cat's lead, not your instincts. Forcing contact with a hiding or tense cat usually increases stress. Sit near them quietly, speak calmly, and let them approach you. Offering a high-value treat near their retreat space without requiring them to come out is often more effective than pulling them out for comfort.
-
-### When is cat stress an emergency?
-
-Immediately if your cat, especially a male, is straining to urinate with little or no output. Also treat as urgent: complete food refusal for more than 48 hours, inability to walk normally, severe respiratory distress, or sudden dramatic behavior change in a senior cat. The ASPCA Poison Control Center is also worth contacting if your cat may have ingested something toxic while hiding, since some toxins produce anxiety-like behavioral signs before other symptoms appear.
 
 ---
 

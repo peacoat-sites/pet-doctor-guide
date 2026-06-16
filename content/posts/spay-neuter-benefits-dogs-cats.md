@@ -116,27 +116,6 @@ Acknowledging these things doesn't argue against spaying and neutering. For most
 
 ---
 
-## Frequently Asked Questions
-
-### Will my female dog's personality change after spaying?
-
-Not in any meaningful negative way. Some owners report female dogs becoming slightly calmer, particularly around heat cycles, but you're not going to get a different dog. Spaying doesn't change personality, trainability, or bonding behavior. The hormonal fluctuations that can cause moodiness or anxiety around heat cycles will stop, which most owners experience as a positive.
-
-### My male cat is already spraying. Will neutering stop it?
-
-Possibly, but not guaranteed. Neutering stops spraying in roughly 85-90% of cats when done before the behavior becomes established. Once it's a learned habit, success rates drop to closer to 50-60%. Act sooner rather than later if spraying is already happening. Discuss timing with your vet this week, not next month.
-
-### Is it safe to spay or neuter an older pet?
-
-Yes, with appropriate pre-surgical bloodwork. A healthy 5-year-old dog spayed for the first time carries higher anesthetic risk than a 6-month-old, but it's routinely done safely. The bloodwork allows the vet to catch underlying organ function issues before putting the animal under. Don't let age alone stop you from having the conversation.
-
-### How do I keep my dog calm during recovery?
-
-Honestly, this is the hard part. Puzzle feeders help redirect mental energy without physical exertion. A [durable puzzle feeder](https://www.amazon.com/s?k=dog+puzzle+feeder&tag=example-20) *(this site may earn a commission)* occupies a bored dog who can't run around without stressing the incision. Leash walks only, even in a fenced yard. Short, boring walks. Some dogs do better crated during recovery if they're crate-trained. Sedation is available for genuinely high-energy dogs who won't settle. Ask your vet if that applies to yours.
-
-### What's the difference between a traditional spay and a laparoscopic spay?
-
-A laparoscopic spay uses small incisions and a camera rather than a single longer abdominal incision. Recovery is typically faster and may be less painful. It costs more and not every practice offers it. For most cats and small dogs, the traditional approach has such reliable outcomes that the upgrade isn't necessary. For large breed dogs or anxious owners who want a faster recovery, it's worth asking if your clinic offers it.
 
 ---
 

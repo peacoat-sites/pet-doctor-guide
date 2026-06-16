@@ -109,27 +109,6 @@ PetMD's veterinary resource library has detailed breed-specific body condition g
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if my cat is actually obese and not just "big-boned"?
-
-Run your hands along your cat's ribcage. With normal light pressure, you should feel each rib without digging in. If you can't, and if your cat lacks a visible waist from above, that's excess body fat. "Big-boned" is a myth in cats just as it mostly is in humans. Frame size doesn't explain an inability to feel the ribs.
-
-### My vet says my cat needs to lose weight, but my cat acts hungry all the time. Is it cruel to restrict food?
-
-Feeling like you're starving your cat is genuinely difficult emotionally, and I understand why it makes people second-guess the plan. But hunger signaling in obese cats is often disrupted. Cats that have been overfed for years will beg and act starved even when adequately fed. Transition slowly, use wet food for greater satiety, and remember that the alternative is diabetes, joint disease, or liver failure. Measured feeding is an act of love.
-
-### Can I use diet cat food from the grocery store, or do I need a prescription diet?
-
-Over-the-counter "light" or "weight management" formulas vary widely in quality and caloric content. Some are adequate. Many are not significantly different from the regular version of the same food. Prescription weight loss diets from your vet (like Hill's Metabolic or Royal Canin Satiety) have clinical evidence behind them and are often worth the cost for cats who haven't responded to basic diet changes. Ask your vet for a specific recommendation based on your cat's bloodwork and body condition.
-
-### Could my cat's weight gain be caused by a medical condition?
-
-Yes, though it's less common in cats than in dogs. Hypothyroidism is rare in cats (hyperthyroidism is far more common, and that causes weight loss, not gain). Cushing's disease is also rare but possible. If your cat has gained significant weight despite reasonable feeding practices, bloodwork to rule out metabolic disease is worthwhile. Don't assume it's purely behavioral before getting a baseline panel done.
-
-### My cat also seems to be having litter box issues. Could that be related to weight?
-
-Possibly, yes. Obese cats sometimes struggle to posture properly in the litter box, which can lead to avoidance. Arthritis from excess weight can also make stepping into a box with high sides painful. Beyond physical limitations, urinary issues associated with obesity are real. The article on [cat litter box avoidance causes](/cat-not-using-litter-box-causes/) covers the full range of reasons this happens and what to do about it.
 
 ---
 

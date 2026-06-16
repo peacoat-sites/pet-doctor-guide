@@ -106,27 +106,6 @@ For senior dogs, the conversation around vaccines becomes more nuanced. Some ger
 
 ---
 
-## Frequently Asked Questions
-
-### My puppy got vaccines at the shelter. Do they count?
-
-Yes, but get the paperwork. Shelter-administered vaccines are legitimate, but timing matters. If your pup received DHPP at 6 weeks and you're now picking her up at 9 weeks, she's due for her second dose soon, not "done." Ask the shelter exactly what was given, on what date, and at what age. Then share that with your vet so they can map out what's still needed.
-
-### Can my dog still get parvo even if vaccinated?
-
-It's uncommon, but possible. No vaccine is 100% effective in 100% of animals. What vaccination does is dramatically reduce the likelihood of infection and, if infection does occur, typically reduces severity. A fully vaccinated dog who contracts parvo has a much better chance of survival than an unvaccinated one. Puppies who haven't completed their full series are still considered at-risk and should avoid high-traffic dog areas like dog parks and pet store floors until the series is complete.
-
-### Is leptospirosis vaccine safe? I've heard it causes reactions.
-
-Leptospirosis vaccines historically had higher rates of adverse reactions than other canine vaccines, particularly the older two-serovar formulations. The newer four-serovar products have a better safety profile. That said, some dogs, particularly small breeds, do have a higher incidence of reactions with lepto. If your dog is small and at real exposure risk, talk to your vet about pre-treatment options and about scheduling lepto separately from other vaccines to better identify the source if a reaction occurs. The ASPCA Poison Control Center isn't the right resource for vaccine concerns specifically, but their guidance on toxic exposures is a reminder of why lepto prevention matters, since it's a serious zoonotic illness spread through wildlife urine.
-
-### My dog is an indoor dog. Does she still need vaccines?
-
-Rabies: yes, legally required in almost every U.S. state regardless of lifestyle, and for good reason. DHPP: yes, core vaccines are recommended for indoor dogs too because exposure risk is never zero. You walk in from outside. Guests bring dogs over. Your dog escapes once. For non-core vaccines like Bordetella or Lyme, the calculus is different. A truly indoor dog with no contact with other dogs may not need Bordetella. Discuss the specifics with your vet.
-
-### How do I know if my adult dog's vaccines are still valid?
-
-Check the paperwork. Most vaccines list an expiration date or a "due date" for the next booster on the certificate. If records are lost or unclear, your vet can recommend either restarting the series or running titer tests for parvovirus and distemper to check existing immunity levels. For rabies, there's no widely used titer test that satisfies legal requirements in the U.S., so documentation of vaccination date and product type is what matters.
 
 ---
 

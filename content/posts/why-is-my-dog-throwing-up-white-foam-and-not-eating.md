@@ -103,27 +103,6 @@ If your dog has been in a boarding facility, dog park, groomer, or any high-dog-
 
 ---
 
-## FAQ
-
-### Is white foam vomit always a sign of something serious?
-
-No, not always. A single episode of white foam vomiting in an otherwise healthy dog who's acting normally is often just an empty stomach or minor irritation. It becomes serious when it's happening repeatedly, when your dog is refusing to eat or drink, when there's abdominal distension, or when your dog is lethargic or in visible distress.
-
-### My dog threw up white foam once this morning and seems fine now. Do I need to go to the vet?
-
-If it was a single episode, your dog ate afterward with no problem, has normal energy and is drinking water, it's reasonable to monitor at home for the next 24 hours. Skip the fatty treats and give small portions of bland food. If it happens again or anything else changes, call your vet.
-
-### Could my dog be vomiting white foam from eating grass?
-
-Yes, absolutely. Dogs often eat grass when their stomach is irritated, and it tends to come back up coated in white foamy mucus. It's generally self-limiting, but if your dog is eating grass compulsively and vomiting repeatedly, that's worth investigating rather than just shrugging off.
-
-### What does it mean when a dog is dry heaving and producing only small amounts of white foam?
-
-This is the pattern that worries me most. Repeated unproductive retching with only small amounts of foam can be a sign of GDV (bloat), especially in large breeds. Treat this as a potential emergency and get to a vet, don't wait to see if it resolves.
-
-### Can kidney disease cause a dog to vomit white foam?
-
-Yes. Uremia (the buildup of waste products when the kidneys aren't filtering properly) is a known cause of nausea and vomiting in dogs. It's often accompanied by excessive drinking, weight loss, and bad breath with a chemical or ammonia-like smell. If your dog is older and has these signs together, kidney disease is on the list and bloodwork will tell you quickly.
 
 ---
 

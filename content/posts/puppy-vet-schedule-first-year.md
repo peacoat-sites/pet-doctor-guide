@@ -110,27 +110,6 @@ On the behavioral side, socialization has a biological deadline. The primary soc
 
 ---
 
-## Frequently Asked Questions
-
-### Can I take my puppy to the dog park before vaccines are complete?
-
-Avoid dog parks and areas with unknown dogs until at least two weeks after your puppy's final DHPP booster, which is typically around 16 to 18 weeks. Parvovirus in particular can survive in soil for months to years, and an unvaccinated or incompletely vaccinated puppy encountering a contaminated environment is a real risk. Puppy playdates with known, vaccinated dogs on private property are generally considered safer during the vaccine series.
-
-### My puppy vomited after their shot. Is that normal?
-
-Mild lethargy, low-grade fever, and reduced appetite in the 12-24 hours after vaccines are normal. Vomiting that's isolated and resolves quickly is usually just a stress response. However, if you see facial swelling, hives, difficulty breathing, collapse, or repeated vomiting within 30 to 60 minutes of a vaccine, that's an anaphylactic reaction and needs emergency care immediately. Most vets ask you to wait 15-20 minutes post-vaccine for exactly this reason.
-
-### What should I do if I got my puppy from a rescue and don't know their vaccine history?
-
-Bring whatever records came with the puppy, even if they're incomplete. Your vet can restart the series from where the puppy is now based on age and documentation. If no records exist and the puppy is over 16 weeks, some vets will recommend running a titer test to check for existing immunity, though for a puppy with unknown history, many simply restart the series. Don't assume that "the rescue gave shots" means the series was complete or that the vaccines were stored and administered correctly.
-
-### Is it safe to give my puppy multiple vaccines in one visit?
-
-Yes, combination vaccines like DHPP are standard precisely because they deliver multiple antigens in a single injection. Puppies tolerate this well. The immune system can handle multiple antigens simultaneously. Splitting up vaccines to "reduce stress on the immune system" is not supported by evidence and means more visits, more stress for the puppy, and delayed protection. If your puppy is very small or has a history of vaccine reactions, your vet may choose to stagger them, but that's a clinical decision based on your individual dog.
-
-### My puppy ate something off the ground and I'm worried about toxicity. When is that an emergency?
-
-Call the [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) at 888-426-4435 immediately if you're not sure. They have a fee for consultation, but they will give you a specific risk assessment based on the substance, your puppy's weight, and the estimated amount ingested. Do not wait to see if symptoms develop if you know your puppy ate something potentially toxic. Time matters significantly with many toxins, including xylitol, grapes, ibuprofen, and certain mushrooms.
 
 ---
 

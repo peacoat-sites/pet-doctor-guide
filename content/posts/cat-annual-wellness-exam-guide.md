@@ -90,27 +90,6 @@ A "wait and see if it improves" approach is reasonable for minor sneezing, a sin
 
 ---
 
-## Frequently Asked Questions
-
-### My cat is strictly indoors. Does she really need an annual exam?
-
-Yes. Indoor cats still develop kidney disease, hyperthyroidism, dental disease, obesity, and heart conditions. They're also still legally required to have rabies vaccination in most US states regardless of indoor-only status. "Doesn't go outside" doesn't mean "can't get sick."
-
-### What if my cat is extremely stressed by vet visits?
-
-This is worth solving rather than using as a reason to skip care. Ask your vet about pre-visit gabapentin, which is a medication given 90 minutes before the appointment that significantly reduces travel and handling anxiety in many cats. It's inexpensive and remarkably effective. A carrier left open in your house so your cat uses it voluntarily also helps more than people expect.
-
-### How do I know if my vet is being thorough or just running up a bill?
-
-A good wellness exam takes at least 20 to 30 minutes and includes documented findings for every system examined. Your vet should be able to tell you exactly what they found and why any recommended diagnostics are indicated. "It's standard" isn't a reason. "Your cat's kidney values have changed from last year" is.
-
-### My cat is 14 and seems healthy. Is it worth doing full bloodwork every year?
-
-Absolutely. Senior cats are masters at hiding illness. Hyperthyroidism in particular progresses slowly and can look like just "getting old" until the cardiac and kidney effects become serious. Annual labs at this age aren't being overly cautious; they're the appropriate standard of care.
-
-### Should I be giving dental chews or doing at-home dental care?
-
-Yes to both, with realistic expectations. Brushing is the gold standard, even a few times a week makes a measurable difference. If your cat won't tolerate a brush, look for [dental chews formulated for cats](https://www.amazon.com/s?k=dental+chews+for+cats) with a Veterinary Oral Health Council (VOHC) seal of approval. (This site may earn a commission.) Neither replaces a professional dental cleaning when your vet recommends one, but both meaningfully slow tartar progression between cleanings.
 
 ---
 

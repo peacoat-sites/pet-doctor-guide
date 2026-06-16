@@ -73,27 +73,6 @@ Physical therapy and weight management also move the needle in ways that genuine
 
 ---
 
-## Frequently Asked Questions
-
-### Can I give my dog aspirin instead of a prescription NSAID?
-
-Aspirin is technically an NSAID and is sometimes used in dogs, but it has a higher rate of GI side effects than most prescription options and should only be used under veterinary guidance. Over-the-counter human aspirin doses don't correspond to safe canine doses, and combining aspirin with a prescription NSAID is dangerous. Don't substitute one for the other without talking to your vet first.
-
-### How long can a dog safely stay on NSAIDs?
-
-Some dogs with chronic conditions like osteoarthritis are on low-dose NSAIDs for years and do well, provided they get regular bloodwork monitoring and stay well-hydrated. There's no universal time limit, but long-term use requires more active oversight than a short post-surgical course. Your vet should be making that call based on your individual dog's labs and clinical picture.
-
-### My dog accidentally ate an extra dose. What should I do?
-
-Call your vet or an emergency clinic immediately, even if your dog seems fine right now. A single extra dose may or may not cause harm depending on the drug, the dose, and your dog's size and health status, but GI damage can develop hours later. This isn't a wait-and-see situation.
-
-### Are some dog breeds more sensitive to NSAIDs?
-
-The research here is somewhat limited, but dogs with pre-existing kidney disease, liver disease, or heart disease are at significantly higher risk regardless of breed. Some individual dogs also have idiosyncratic reactions that aren't predictable from breed or age. This is another reason bloodwork before starting is worth doing.
-
-### Can I give my dog an NSAID I have left over from a previous prescription?
-
-Please don't. Prescription NSAIDs are dosed specifically for the dog and condition they were dispensed for. Using leftover medication skips the step where a vet confirms the current diagnosis, checks for drug interactions with anything new your dog is on, and verifies that your dog's organ function can handle it. The savings aren't worth the risk.
 
 ## Helpful Resources
 

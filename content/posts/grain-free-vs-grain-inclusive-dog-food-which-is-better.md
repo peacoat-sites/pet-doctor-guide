@@ -111,27 +111,6 @@ If you want to be proactive about your dog's overall health maintenance between 
 
 ---
 
-## FAQ
-
-### Is grain-free dog food dangerous?
-
-Not definitively, but the FDA investigation into its association with DCM is real and ongoing. Grain-free food isn't banned or recalled, but there's enough signal in the data to take seriously, especially for certain breeds. Consult your vet, particularly if your dog is a Golden Retriever, Labrador, or another breed showing up in the reported cases.
-
-### Do dogs actually need grains in their diet?
-
-No, grains aren't strictly essential. Dogs need protein, fat, vitamins, and minerals, not grains specifically. But whole grains can be an efficient, digestible source of energy and nutrients. The question isn't whether dogs need grains, it's whether the substitute ingredients in grain-free foods are as reliable a nutritional foundation. The answer there is still being worked out.
-
-### My dog has itchy skin. Should I switch to grain-free?
-
-Probably not as your first move. Skin problems in dogs are more often linked to environmental allergies or animal protein sensitivities than grain allergies. A grain-free switch could help if you're also changing the protein source, but you'd be flying blind without a proper elimination diet trial. Talk to your vet about a structured food trial before pulling random levers.
-
-### Are boutique or small-batch grain-free brands safer than big ones?
-
-The research doesn't support that assumption. The DCM reports actually included a disproportionate number of boutique, exotic, or small-brand (BEG) diets, which is precisely why the FDA flagged that category. Larger brands with veterinary nutritionists on staff and published feeding trials often have more rigorous quality control, even if their marketing is less exciting.
-
-### How do I know if a dog food brand is trustworthy?
-
-Look for AAFCO compliance, named animal proteins at the top of the ingredient list, a company that employs a board-certified veterinary nutritionist, and a clean or limited recall history. You can also look for brands that conduct AAFCO feeding trials rather than just formulating to meet nutrient profiles on paper, since trials involve actually feeding the food to dogs and monitoring health outcomes.
 
 ---
 

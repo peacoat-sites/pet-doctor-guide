@@ -129,27 +129,6 @@ For more context on typical home care versus when to escalate, [PetMD's veterina
 
 ---
 
-## FAQ
-
-### How long does it take for a hot spot to heal naturally?
-
-Small hot spots caught early can dry out and start healing within three to five days with good home care. Larger or deeper ones, or those where treatment started late, may take two weeks or more, and those generally need veterinary input. If you're not seeing clear improvement by day three, that's the signal to call your vet rather than keep waiting.
-
-### Can I put Neosporin on a dog's hot spot?
-
-Plain Neosporin (neomycin, polymyxin B, bacitracin) is generally considered low-risk in small amounts on intact skin, but hot spots are a tricky situation. Dogs will lick it off immediately without a cone, and the neomycin component causes contact sensitivity in some dogs. It's also not really the right tool for a bacterial skin infection that's weeping and open. Chlorhexidine rinse or Vetericyn spray is a better fit.
-
-### Should I let a hot spot dry out or keep it moist?
-
-Dry it out. This is the opposite of wound care advice for cuts and scrapes. Hot spots are driven by moisture, so your goal is clean, dry, open-to-air skin. This is exactly why clipping the fur and skipping heavy creams or oils matters so much.
-
-### My dog keeps getting hot spots in the same spot. What does that mean?
-
-Recurrence in the same location is a strong clue about the underlying trigger. Rump hot spots that recur often point to anal gland problems or flea allergy. Cheek and neck recurrence often connects to ear infections or dental pain causing face-rubbing. This pattern is worth a real conversation with your vet, not just repeated treatment of the symptom.
-
-### Is a hot spot contagious to other dogs or people?
-
-No. The bacteria involved are normal skin residents, not contagious pathogens. Your other dog isn't going to catch a hot spot from the infected dog. That said, if you have multiple dogs with simultaneous skin issues, that points toward a shared environmental trigger like fleas or an allergen in the home.
 
 ---
 

@@ -118,27 +118,6 @@ There's also a condition called splenic torsion that can look similar. Same urge
 
 ---
 
-## FAQ
-
-### Can I give my dog Gas-X for bloat?
-
-Simethicone (Gas-X) won't help GDV and won't hurt, but don't let giving it delay you getting to a vet. It might relieve mild gas discomfort in a dog with a simple stomach upset, but it does nothing for a twisted stomach. If you're considering this as an alternative to a vet visit while your dog is retching and distressed, skip it and go.
-
-### How quickly does bloat kill a dog?
-
-A dog with untreated GDV can die within hours of symptom onset. Some cases progress faster than others depending on how tightly the stomach has rotated and how quickly shock sets in. It's not something that can safely wait until a regular clinic opens in the morning.
-
-### Are there warning signs before full bloat develops?
-
-Sometimes. Some owners report that their dog seemed "off," ate less than usual, or had a slightly distended belly in the hours before acute symptoms. But there's no reliable early-warning period. GDV can go from subtle discomfort to life-threatening within an hour or two.
-
-### What foods or feeding practices help prevent bloat?
-
-Feed two or three smaller meals daily instead of one large one. Avoid elevated food bowls for large breeds (the research on this is actually mixed, but most veterinary internists have moved away from recommending them). Slow-feeder bowls like the Outward Hound Fun Feeder ($10-15 on Amazon, and yes, the site may earn a commission) genuinely help fast eaters. Restrict vigorous exercise for at least an hour after meals. None of these guarantees prevention, but they reduce risk.
-
-### Is bloat the same as a dog just having a gassy stomach?
-
-No. A gassy dog is uncomfortable and may need to go outside. GDV is a surgical emergency. The overlap in early symptoms is exactly why you should watch for trajectory: a gassy dog gets better; a dog with GDV does not.
 
 ---
 

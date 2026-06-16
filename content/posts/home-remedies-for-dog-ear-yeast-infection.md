@@ -92,27 +92,6 @@ I've also seen chronic ear infections that turned out to be polyps or foreign bo
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use human antifungal cream like Monistat in my dog's ear?
-
-Technically the active ingredient (miconazole) is used in some veterinary ear preparations, but human topical creams are thick and can trap debris rather than penetrate the canal properly. The formulation matters, not just the ingredient. I'd stick to veterinary-formulated products.
-
-### How long does a dog ear yeast infection take to clear up?
-
-Mild cases treated consistently at home usually show real improvement within five to seven days. Full resolution often takes ten to fourteen days. If you're seeing no improvement by day seven, that's your signal to get a vet involved.
-
-### Will a dog ear yeast infection go away on its own?
-
-Occasionally a very mild early infection resolves if you just improve ventilation and keep the ear dry, but in my experience that's the exception. Without addressing the buildup and the yeast load directly, most infections persist and worsen.
-
-### My dog keeps getting yeast ear infections every few months. What's causing that?
-
-Recurrent infections almost always have an underlying trigger. Environmental allergies, food allergies (especially to chicken or beef, which are the most common culprits), and hypothyroidism are the big three. Ask your vet about allergy testing or a food elimination trial, not just more ear medication.
-
-### Is the dark brown gunk in my dog's ear yeast or ear mites?
-
-Both can cause dark debris, but ear mites are much more common in puppies and cats than in adult dogs who don't have outdoor cat exposure. Yeast debris tends to be darker, waxier, and smellier. Your vet can tell them apart in 60 seconds with an otoscope or a quick swab. If you're not sure, don't guess.
 
 ---
 

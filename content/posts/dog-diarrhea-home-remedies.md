@@ -108,27 +108,6 @@ That information helps your vet triage the call and decide whether this is a "co
 
 ---
 
-## Frequently Asked Questions
-
-### How long can dog diarrhea last before it becomes serious?
-
-In a healthy adult dog with no blood in the stool and no other symptoms, mild diarrhea that responds to bland diet should begin improving within 24 hours and resolve within 48 to 72 hours. If it's still going strong at the 48-hour mark despite home care, it's time to call your vet. Diarrhea lasting longer than 72 hours, or any diarrhea accompanied by vomiting, lethargy, or blood, should be evaluated by a professional immediately.
-
-### Can I give my dog Pedialyte for diarrhea?
-
-Plain, unflavored Pedialyte can help with mild hydration support in small amounts. Avoid flavored versions, which often contain artificial sweeteners including xylitol, which is toxic to dogs. That said, Pedialyte isn't a treatment for the underlying cause of diarrhea. If your dog is visibly dehydrated or refusing to drink water at all, skip the home remedies and call your vet.
-
-### Why does my dog keep getting diarrhea every few weeks?
-
-Recurring diarrhea is a signal that something chronic is going on, not a run of bad luck. Common culprits include food sensitivity or allergy, inflammatory bowel disease, intestinal parasites (giardia in particular often causes intermittent loose stools), exocrine pancreatic insufficiency, or stress. A vet visit with fecal testing and possibly bloodwork is the right path here. A good dietary elimination trial can also help identify food triggers if your vet suspects a sensitivity.
-
-### Is rice really helpful, or is that an old myth?
-
-It genuinely helps. White rice is low in fiber, easy to digest, and the starch acts as a mild binding agent in the gut. It's not a cure for whatever caused the diarrhea, but it provides calories while minimizing further GI irritation and helps firm up loose stools. Brown rice is not a good substitute here because its higher fiber content can actually worsen diarrhea.
-
-### My dog ate grass and then had diarrhea. Should I be worried?
-
-Grass eating and subsequent diarrhea is extremely common and usually not cause for serious concern on its own. Dogs eat grass for a variety of reasons, some behavioral, some related to mild GI discomfort. The grass itself often irritates the stomach and gut, leading to loose stools or vomiting. If it's a one-time episode and your dog is otherwise acting normally, supportive home care is appropriate. If your dog is eating grass compulsively or this keeps happening repeatedly, mention it to your vet as it can occasionally signal underlying GI disease.
 
 ---
 

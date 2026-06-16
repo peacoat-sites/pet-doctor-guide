@@ -89,27 +89,6 @@ Most boarding facilities require it, which is the most common reason dogs get it
 
 ---
 
-## Frequently Asked Questions
-
-### Can my dog give kennel cough to me or my cat?
-
-In people with healthy immune systems, the pathogens that cause kennel cough in dogs are not a meaningful concern. Severely immunocompromised humans (undergoing chemotherapy, for example) should take basic precautions. Cats can contract Bordetella but it's uncommon in home settings.
-
-### Should I give my dog cough medicine from my cabinet?
-
-No. Do not give your dog over-the-counter human cough suppressants, especially anything containing dextromethorphan or xylitol. Some vets will prescribe canine-appropriate cough suppressants for dogs who aren't sleeping because of severe coughing, but that's a call to make with your vet, not a DIY situation.
-
-### My dog got vaccinated for Bordetella. How did she still get kennel cough?
-
-Because the vaccine doesn't cover every pathogen in the kennel cough complex. Canine parainfluenza, for instance, is a separate virus. Some combination vaccines cover it, some don't. It's also possible the vaccine wasn't administered far enough ahead of exposure to be protective.
-
-### Is kennel cough contagious to other dogs in my house?
-
-Yes, very. Airborne transmission through respiratory secretions means dogs sharing a living space are at real risk. Separate food and water bowls, limit close contact if you can, and keep them out of dog parks or daycares until symptoms have been fully gone for a few days.
-
-### When does kennel cough become pneumonia?
-
-If the infection moves into the lungs, you'll usually see more than coughing: a dog that seems genuinely sick, won't eat, has a high fever (over 104°F), breathes fast or with visible effort, or has a deep, wet-sounding cough rather than the dry honking. That picture needs a vet the same day, not tomorrow.
 
 ## Helpful Resources
 
