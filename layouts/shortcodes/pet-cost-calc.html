@@ -1,0 +1,205 @@
+{{- /* True Cost of Pet Ownership Calculator */ -}}
+<div class="pet-cost-calc" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">
+    True Cost of Pet Ownership Calculator
+  </div>
+  <div style="padding:20px">
+    <p style="margin:0 0 18px;color:var(--muted);font-size:.95rem">
+      One of the most common reasons pets are surrendered is unexpected costs. This calculator helps you plan realistically.
+    </p>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Pet type
+        <select id="pcc-type" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="dog">Dog</option>
+          <option value="cat">Cat</option>
+        </select>
+      </label>
+      <label id="pcc-size-wrap" style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Breed size (dogs)
+        <select id="pcc-size" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="small">Small (&lt;20 lbs)</option>
+          <option value="medium">Medium (20–50 lbs)</option>
+          <option value="large">Large (50–100 lbs)</option>
+          <option value="giant">Giant (100 lbs+)</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Age
+        <select id="pcc-age" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="puppy">Puppy / Kitten</option>
+          <option value="adult">Adult</option>
+          <option value="senior">Senior</option>
+        </select>
+      </label>
+    </div>
+
+    <fieldset style="border:1.5px solid var(--border-strong);border-radius:10px;padding:14px 16px;margin-bottom:14px">
+      <legend style="font-size:13px;font-weight:600;color:var(--muted);padding:0 6px">Lifestyle factors</legend>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px">
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;cursor:pointer">
+          <input type="checkbox" id="pcc-insurance"> Pet insurance
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;cursor:pointer">
+          <input type="checkbox" id="pcc-walker"> Dog walker / daycare
+          <select id="pcc-walker-type" style="font-size:13px;padding:3px 6px;border:1px solid var(--border-strong);border-radius:6px;color:var(--text);background:var(--surface)">
+            <option value="walker">Daily walker</option>
+            <option value="daycare">Full daycare</option>
+          </select>
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;cursor:pointer">
+          <input type="checkbox" id="pcc-grooming"> Professional grooming
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;cursor:pointer">
+          <input type="checkbox" id="pcc-training"> Training classes (year 1)
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;cursor:pointer">
+          <input type="checkbox" id="pcc-boarding">
+          Boarding
+          <span style="display:flex;align-items:center;gap:4px;font-size:13px">
+            <input type="number" id="pcc-boarding-nights" value="10" min="0" max="365"
+              style="width:56px;padding:3px 6px;border:1px solid var(--border-strong);border-radius:6px;font-size:13px;color:var(--text);background:var(--surface)">
+            nights/yr
+          </span>
+        </label>
+      </div>
+    </fieldset>
+
+    <div id="pcc-results" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:4px"></div>
+
+    <div id="pcc-chart-wrap" style="margin-top:20px">
+      <div style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:10px">Annual cost breakdown</div>
+      <div id="pcc-chart" style="display:flex;flex-direction:column;gap:7px"></div>
+    </div>
+
+    <div style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem">
+      <strong>Tip:</strong> A dedicated pet savings account ($100–150/month) covers most surprise costs without financial stress.
+    </div>
+    <p style="margin:12px 0 0;padding:12px 14px;border-radius:10px;background:var(--surface2);font-size:12px;color:var(--stone)">
+      <strong>Emergency costs:</strong> Vet visits average $800–1,500. Serious illness or surgery can cost $3,000–10,000+. Pet insurance or a dedicated savings fund is strongly recommended. Estimates above do not include emergency reserves — budget an additional $1,000–3,000/year in a dedicated account.
+    </p>
+  </div>
+</div>
+
+<style>
+#pcc-results .pcc-card { background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center }
+#pcc-results .pcc-card-label { display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted) }
+#pcc-results .pcc-card-value { display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0 }
+#pcc-results .pcc-card-sub { display:block;font-size:11px;color:var(--stone) }
+.pcc-bar-row { display:flex;align-items:center;gap:10px;font-size:13px }
+.pcc-bar-label { width:90px;text-align:right;color:var(--muted);font-weight:600;flex-shrink:0 }
+.pcc-bar-track { flex:1;background:var(--surface2);border-radius:6px;height:18px;overflow:hidden }
+.pcc-bar-fill { height:100%;border-radius:6px;background:var(--accent);transition:width .35s ease }
+.pcc-bar-val { width:60px;font-weight:700;color:var(--text);font-size:12px }
+</style>
+
+<script>
+(function(){
+  var TYPE = document.getElementById('pcc-type');
+  var SIZE = document.getElementById('pcc-size');
+  var SIZE_WRAP = document.getElementById('pcc-size-wrap');
+  var AGE  = document.getElementById('pcc-age');
+  var INS  = document.getElementById('pcc-insurance');
+  var WALK = document.getElementById('pcc-walker');
+  var WALK_TYPE = document.getElementById('pcc-walker-type');
+  var GROOM= document.getElementById('pcc-grooming');
+  var TRAIN= document.getElementById('pcc-training');
+  var BOARD= document.getElementById('pcc-boarding');
+  var BOARD_N = document.getElementById('pcc-boarding-nights');
+  var RESULTS = document.getElementById('pcc-results');
+  var CHART = document.getElementById('pcc-chart');
+
+  function fmt(n){ return '$'+Math.round(n).toLocaleString(); }
+
+  function calc(){
+    var type = TYPE.value;
+    var size = SIZE.value;
+    var age  = AGE.value;
+    var isYr1 = (age === 'puppy');
+
+    // Show/hide size for dogs
+    SIZE_WRAP.style.display = (type === 'dog') ? '' : 'none';
+
+    // Base costs
+    var food = {dog:{small:360,medium:600,large:900,giant:1200},cat:{cat:480}};
+    var foodCost = type==='dog' ? food.dog[size] : 480;
+    var vetCost  = type==='dog' ? 400 : 350;
+    var prevCost = type==='dog' ? 200 : 150;
+    var toysCost = type==='dog' ? 200 : 150;
+    var litterCost = type==='cat' ? 250 : 0;
+    var spayNeuter = isYr1 ? (type==='dog' ? 400 : 300) : 0;
+
+    // Lifestyle
+    var insCost = 0;
+    if(INS.checked){
+      if(type==='cat') insCost=25*12;
+      else if(size==='small') insCost=30*12;
+      else if(size==='medium') insCost=45*12;
+      else insCost=60*12;
+    }
+    var walkCost = 0;
+    if(WALK.checked && type==='dog'){
+      walkCost = WALK_TYPE.value==='walker' ? 500*12 : 1000*12;
+    }
+    var groomCost = 0;
+    if(GROOM.checked){
+      if(type==='cat') groomCost=60*(52/8);
+      else if(size==='small'||size==='medium') groomCost=50*(52/6);
+      else groomCost=80*(52/6);
+      groomCost=Math.round(groomCost);
+    }
+    var trainCost = (TRAIN.checked && isYr1) ? 350 : 0;
+    var boardCost = 0;
+    if(BOARD.checked){
+      var nights = parseInt(BOARD_N.value)||0;
+      boardCost = nights * 60;
+    }
+
+    var baseAnnual = foodCost + vetCost + prevCost + toysCost + litterCost + insCost + walkCost + groomCost + boardCost;
+    var yr1 = baseAnnual + spayNeuter + trainCost;
+    var yr2plus = baseAnnual;
+    var monthly = yr2plus / 12;
+    var lifetime = yr1 + 14 * yr2plus;
+
+    // Chart breakdown (annual recurring)
+    var breakdown = {
+      Food: foodCost,
+      Vet: vetCost + prevCost,
+      Grooming: groomCost,
+      Insurance: insCost,
+      Walker: walkCost,
+      Other: toysCost + litterCost + boardCost
+    };
+
+    // Results
+    RESULTS.innerHTML = [
+      {label:'First Year Total',val:yr1,sub:'includes setup costs'},
+      {label:'Annual (Year 2+)',val:yr2plus,sub:'recurring yearly'},
+      {label:'Monthly Average',val:monthly,sub:'year 2+ avg'},
+      {label:'15-Year Lifetime',val:lifetime,sub:'first yr + 14 yrs'}
+    ].map(function(c){
+      return '<div class="pcc-card"><span class="pcc-card-label">'+c.label+'</span>'
+        +'<span class="pcc-card-value">'+fmt(c.val)+'</span>'
+        +'<span class="pcc-card-sub">'+c.sub+'</span></div>';
+    }).join('');
+
+    // Chart
+    var maxVal = Object.values(breakdown).reduce(function(a,b){return a+b;},0);
+    CHART.innerHTML = Object.entries(breakdown).filter(function(e){return e[1]>0;}).map(function(e){
+      var pct = maxVal>0 ? Math.round(e[1]/maxVal*100) : 0;
+      return '<div class="pcc-bar-row">'
+        +'<div class="pcc-bar-label">'+e[0]+'</div>'
+        +'<div class="pcc-bar-track"><div class="pcc-bar-fill" style="width:'+pct+'%"></div></div>'
+        +'<div class="pcc-bar-val">'+fmt(e[1])+'</div>'
+        +'</div>';
+    }).join('');
+  }
+
+  [TYPE,SIZE,AGE,INS,WALK,WALK_TYPE,GROOM,TRAIN,BOARD,BOARD_N].forEach(function(el){
+    el.addEventListener('change', calc);
+  });
+  BOARD_N.addEventListener('input', calc);
+  calc();
+})();
+</script>
