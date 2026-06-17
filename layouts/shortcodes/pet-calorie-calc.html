@@ -1,0 +1,92 @@
+<div class="pet-cal-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Dog &amp; Cat Daily Calorie Calculator</div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Pet Type
+        <select id="pc-type" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="dog">Dog</option>
+          <option value="cat">Cat</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Weight
+        <div style="display:flex;gap:6px">
+          <input id="pc-weight" type="number" min="0.5" max="200" step="0.5" value="20" style="flex:1;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'">
+          <select id="pc-unit" style="padding:12px 10px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:14px;color:var(--text);background:var(--surface);font-family:inherit">
+            <option value="lbs">lbs</option>
+            <option value="kg">kg</option>
+          </select>
+        </div>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Life Stage
+        <select id="pc-stage" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="2.0">Puppy / Kitten (&lt;1 yr)</option>
+          <option value="1.0" selected>Adult (1-7 yr)</option>
+          <option value="0.8">Senior (7+ yr)</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Activity Level
+        <select id="pc-activity" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="1.2">Sedentary (indoor/lap)</option>
+          <option value="1.4">Low active</option>
+          <option value="1.6" selected>Moderately active</option>
+          <option value="1.8">Active</option>
+          <option value="3.0">Working / Athletic</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Reproductive Status
+        <select id="pc-repro" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="1.0">Intact</option>
+          <option value="0.85" selected>Neutered / Spayed</option>
+        </select>
+      </label>
+    </div>
+    <button onclick="pcCalc()" style="margin-top:18px;width:100%;padding:13px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:16px;font-weight:700;cursor:pointer;font-family:inherit">Calculate Daily Calories</button>
+    <div id="pc-results" style="display:none;margin-top:4px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">RER (kcal/day)</span>
+          <span id="pc-rer" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Daily Calories</span>
+          <span id="pc-daily" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Per Meal</span>
+          <span id="pc-meal" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+          <span id="pc-meals-note" style="display:block;font-size:11px;color:var(--muted)"></span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Cups/Day (360 kcal/cup)</span>
+          <span id="pc-cups" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+      </div>
+      <div id="pc-callout" style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5"></div>
+      <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">These are estimates. Food caloric density varies widely - check your food's label. Adjust by 10-15% based on your pet's weight trend. Consult your vet for medical conditions.</p>
+    </div>
+  </div>
+</div>
+<script>
+function pcCalc(){
+  var wt=parseFloat(document.getElementById('pc-weight').value)||20;
+  var unit=document.getElementById('pc-unit').value;
+  var stageEl=document.getElementById('pc-stage');
+  var stage=parseFloat(stageEl.value);
+  var stageTxt=stageEl.options[stageEl.selectedIndex].text;
+  var activity=parseFloat(document.getElementById('pc-activity').value);
+  var repro=parseFloat(document.getElementById('pc-repro').value);
+  var kg=unit==='lbs'?wt*0.453592:wt;
+  var rer=Math.round(70*Math.pow(kg,0.75));
+  var daily=Math.round(rer*stage*activity*repro);
+  var mealsPerDay=stage===2.0?3:2;
+  var perMeal=Math.round(daily/mealsPerDay);
+  var cups=(daily/360).toFixed(1);
+  document.getElementById('pc-rer').textContent=rer+' kcal';
+  document.getElementById('pc-daily').textContent=daily+' kcal';
+  document.getElementById('pc-meal').textContent=perMeal+' kcal';
+  document.getElementById('pc-meals-note').textContent=mealsPerDay+' meals/day';
+  document.getElementById('pc-cups').textContent=cups+' cups';
+  document.getElementById('pc-callout').innerHTML='For a <strong>'+wt+' '+unit+'</strong> pet at <strong>'+stageTxt.split('(')[0].trim()+'</strong>: RER=<strong>'+rer+' kcal</strong> x multipliers=<strong>'+daily+' kcal/day</strong>. Split into '+mealsPerDay+' meals = '+perMeal+' kcal each. At 360 kcal/cup = <strong>'+cups+' cups/day</strong>.';
+  document.getElementById('pc-results').style.display='block';
+}
+</script>

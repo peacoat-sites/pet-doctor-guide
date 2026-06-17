@@ -1,0 +1,60 @@
+<div class="dag-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Dog Age in Human Years Calculator</div>
+  <div style="padding:20px">
+    <p style="margin:0 0 16px;font-size:.9rem;color:var(--muted)">New research (NIH/PNAS 2020) shows dog aging is not linear - a 2-year-old dog is developmentally closer to a 40-year-old human.</p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Dog's Age (years)
+        <input id="da-age" type="number" min="0" max="20" step="0.5" value="3" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Breed Size
+        <select id="da-size" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="small">Small (&lt;20 lbs)</option>
+          <option value="medium" selected>Medium (20-50 lbs)</option>
+          <option value="large">Large (50-100 lbs)</option>
+          <option value="giant">Giant (&gt;100 lbs)</option>
+        </select>
+      </label>
+    </div>
+    <button onclick="daCalc()" style="margin-top:18px;width:100%;padding:13px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:16px;font-weight:700;cursor:pointer;font-family:inherit">Calculate Human Age</button>
+    <div id="da-results" style="display:none;margin-top:4px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Human Age Equivalent</span>
+          <span id="da-human" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Life Stage</span>
+          <span id="da-stage" style="display:block;font-size:1.4rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+      </div>
+      <div id="da-callout" style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5"></div>
+      <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">Based on the PNAS 2020 epigenetic clock study. Breed-size adjustments are approximations - giant breeds age faster, small breeds live longer on average.</p>
+    </div>
+  </div>
+</div>
+<script>
+function daCalc(){
+  var dogAge=parseFloat(document.getElementById('da-age').value)||3;
+  var size=document.getElementById('da-size').value;
+  if(dogAge<=0){alert('Please enter a dog age greater than 0.');return;}
+  var humanAge=16*Math.log(dogAge)+31;
+  if(dogAge>5){
+    if(size==='small') humanAge-=(dogAge-5)*0.5;
+    else if(size==='large') humanAge+=(dogAge-5)*0.5;
+    else if(size==='giant') humanAge+=(dogAge-5)*1.0;
+  }
+  humanAge=Math.max(1,Math.round(humanAge));
+  var stage,milestone;
+  if(dogAge<0.5){stage='Newborn';milestone='Rapid development phase';}
+  else if(dogAge<1){stage='Puppy';milestone='Learning everything - neurologically forming fast';}
+  else if(dogAge<2){stage='Adolescent';milestone='Teenage years - energetic and still maturing';}
+  else if(dogAge<5){stage='Adult';milestone='Prime of life - peak fitness and stability';}
+  else if(dogAge<8){stage='Mature Adult';milestone='Settled and confident - annual screenings important';}
+  else if(dogAge<12){stage='Senior';milestone='Twice-yearly vet checks recommended';}
+  else{stage='Geriatric';milestone='Golden years - extra care and comfort';}
+  document.getElementById('da-human').textContent=humanAge+' yrs';
+  document.getElementById('da-stage').textContent=stage;
+  document.getElementById('da-callout').innerHTML='Your <strong>'+dogAge+'-year-old '+size+' dog</strong> is roughly equivalent to a <strong>'+humanAge+'-year-old human</strong>. Life stage: <strong>'+stage+'</strong>. '+milestone+'.';
+  document.getElementById('da-results').style.display='block';
+}
+</script>
