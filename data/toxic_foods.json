@@ -1,0 +1,335 @@
+{
+  "title": "Foods Toxic to Dogs \u2014 Safety Reference",
+  "note": "This reference is not exhaustive. When in doubt, consult your veterinarian. In an emergency, call the ASPCA Animal Poison Control Center at 1-888-426-4435.",
+  "search": true,
+  "search_placeholder": "Search foods...",
+  "filters": [
+    {
+      "key": "severity",
+      "label": "Severity"
+    },
+    {
+      "key": "category",
+      "label": "Category"
+    }
+  ],
+  "columns": [
+    {
+      "key": "food",
+      "label": "Food",
+      "primary": true
+    },
+    {
+      "key": "severity",
+      "label": "Severity"
+    },
+    {
+      "key": "category",
+      "label": "Category"
+    },
+    {
+      "key": "toxic_compound",
+      "label": "Toxic Compound"
+    },
+    {
+      "key": "symptoms",
+      "label": "Symptoms",
+      "wide": true
+    },
+    {
+      "key": "action",
+      "label": "Action",
+      "wide": true
+    }
+  ],
+  "rows": [
+    {
+      "food": "Chocolate (dark)",
+      "severity": "Critical",
+      "category": "Sweets",
+      "toxic_compound": "Theobromine, Caffeine",
+      "symptoms": "Vomiting, diarrhea, seizures, rapid heart rate, death",
+      "action": "Emergency vet immediately"
+    },
+    {
+      "food": "Chocolate (milk)",
+      "severity": "High",
+      "category": "Sweets",
+      "toxic_compound": "Theobromine",
+      "symptoms": "Vomiting, diarrhea, restlessness, increased urination",
+      "action": "Contact vet promptly"
+    },
+    {
+      "food": "Grapes",
+      "severity": "Critical",
+      "category": "Fruits",
+      "toxic_compound": "Unknown (tartaric acid suspected)",
+      "symptoms": "Vomiting, lethargy, acute kidney failure",
+      "action": "Emergency vet immediately \u2014 even one grape can be fatal"
+    },
+    {
+      "food": "Raisins",
+      "severity": "Critical",
+      "category": "Fruits",
+      "toxic_compound": "Unknown (tartaric acid suspected)",
+      "symptoms": "Vomiting, lethargy, acute kidney failure",
+      "action": "Emergency vet immediately"
+    },
+    {
+      "food": "Xylitol (sugar-free products)",
+      "severity": "Critical",
+      "category": "Sweeteners",
+      "toxic_compound": "Xylitol",
+      "symptoms": "Rapid insulin release, low blood sugar, seizures, liver failure",
+      "action": "Emergency vet immediately \u2014 acts within 30 minutes"
+    },
+    {
+      "food": "Onions",
+      "severity": "High",
+      "category": "Vegetables",
+      "toxic_compound": "N-propyl disulfide, thiosulfate",
+      "symptoms": "Hemolytic anemia, weakness, pale gums, collapse",
+      "action": "Contact vet \u2014 toxic cooked or raw, all forms"
+    },
+    {
+      "food": "Garlic",
+      "severity": "High",
+      "category": "Vegetables",
+      "toxic_compound": "Thiosulfate",
+      "symptoms": "Hemolytic anemia, GI upset, weakness, pale gums",
+      "action": "Contact vet \u2014 5\u00d7 more toxic than onions per weight"
+    },
+    {
+      "food": "Chives",
+      "severity": "High",
+      "category": "Vegetables",
+      "toxic_compound": "Thiosulfate",
+      "symptoms": "Anemia, GI upset, weakness",
+      "action": "Contact vet"
+    },
+    {
+      "food": "Macadamia nuts",
+      "severity": "High",
+      "category": "Nuts",
+      "toxic_compound": "Unknown",
+      "symptoms": "Weakness, hyperthermia, vomiting, tremors, inability to walk",
+      "action": "Contact vet \u2014 symptoms within 12 hours"
+    },
+    {
+      "food": "Avocado",
+      "severity": "Moderate",
+      "category": "Fruits",
+      "toxic_compound": "Persin",
+      "symptoms": "Vomiting, diarrhea, fluid accumulation; pit is a choking hazard",
+      "action": "Monitor; contact vet if symptomatic"
+    },
+    {
+      "food": "Alcohol",
+      "severity": "Critical",
+      "category": "Beverages",
+      "toxic_compound": "Ethanol",
+      "symptoms": "Vomiting, disorientation, breathing difficulty, coma, death",
+      "action": "Emergency vet immediately"
+    },
+    {
+      "food": "Caffeine (coffee, tea, energy drinks)",
+      "severity": "Critical",
+      "category": "Beverages",
+      "toxic_compound": "Methylxanthines (caffeine)",
+      "symptoms": "Rapid heart rate, seizures, tremors, death",
+      "action": "Emergency vet immediately"
+    },
+    {
+      "food": "Raw yeast dough",
+      "severity": "High",
+      "category": "Baked Goods",
+      "toxic_compound": "Ethanol (fermentation), CO2 expansion",
+      "symptoms": "Bloat, GI rupture risk, alcohol toxicity",
+      "action": "Emergency vet \u2014 dough continues rising in stomach"
+    },
+    {
+      "food": "Cooked bones",
+      "severity": "High",
+      "category": "Meat/Bones",
+      "toxic_compound": "Bone splinters",
+      "symptoms": "GI perforation, choking, internal injury",
+      "action": "Monitor closely; vet if any distress \u2014 never give cooked bones"
+    },
+    {
+      "food": "Apple seeds / core",
+      "severity": "Moderate",
+      "category": "Fruits",
+      "toxic_compound": "Amygdalin (cyanide)",
+      "symptoms": "Cyanide poisoning \u2014 dilated pupils, panting, shock",
+      "action": "Remove seeds; contact vet if seeds were consumed"
+    },
+    {
+      "food": "Cherry pits, stems, leaves",
+      "severity": "High",
+      "category": "Fruits",
+      "toxic_compound": "Cyanide (amygdalin)",
+      "symptoms": "Dilated pupils, difficulty breathing, shock, death",
+      "action": "Emergency vet if pits ingested"
+    },
+    {
+      "food": "Peach / plum pits",
+      "severity": "High",
+      "category": "Fruits",
+      "toxic_compound": "Cyanide (amygdalin)",
+      "symptoms": "Cyanide poisoning, respiratory distress",
+      "action": "Emergency vet if pit ingested; also choking risk"
+    },
+    {
+      "food": "Salt / salty foods",
+      "severity": "Moderate",
+      "category": "Condiments",
+      "toxic_compound": "Sodium",
+      "symptoms": "Excessive thirst, vomiting, diarrhea, seizures (large amounts)",
+      "action": "Contact vet if large amount consumed; ensure water access"
+    },
+    {
+      "food": "Nutmeg",
+      "severity": "Moderate",
+      "category": "Spices",
+      "toxic_compound": "Myristicin",
+      "symptoms": "Hallucinations, disorientation, increased heart rate, seizures",
+      "action": "Contact vet"
+    },
+    {
+      "food": "Hops (brewing)",
+      "severity": "Critical",
+      "category": "Plants",
+      "toxic_compound": "Unknown resins/acids",
+      "symptoms": "Malignant hyperthermia, panting, seizures, death (especially Greyhounds)",
+      "action": "Emergency vet immediately"
+    },
+    {
+      "food": "Wild mushrooms",
+      "severity": "Critical",
+      "category": "Fungi",
+      "toxic_compound": "Amatoxins, phallotoxins (species-dependent)",
+      "symptoms": "Liver failure, kidney failure, death",
+      "action": "Emergency vet immediately \u2014 collect mushroom sample for ID"
+    },
+    {
+      "food": "Raw salmon / trout",
+      "severity": "Critical",
+      "category": "Fish",
+      "toxic_compound": "Neorickettsia helminthoeca (salmon poisoning disease)",
+      "symptoms": "Fever, vomiting, diarrhea, swollen lymph nodes, death if untreated",
+      "action": "Emergency vet \u2014 only in Pacific Northwest USA"
+    },
+    {
+      "food": "Blue cheese (Roquefort, Stilton)",
+      "severity": "High",
+      "category": "Dairy",
+      "toxic_compound": "Roquefortine C (mold toxin)",
+      "symptoms": "Tremors, seizures, vomiting, high temperature",
+      "action": "Contact vet \u2014 other cheeses lower risk"
+    },
+    {
+      "food": "Citrus oils / citrus extracts",
+      "severity": "Moderate",
+      "category": "Fruits",
+      "toxic_compound": "Psoralens, limonene",
+      "symptoms": "Vomiting, diarrhea, depression (small amounts may only cause GI upset)",
+      "action": "Contact vet if large amount consumed"
+    },
+    {
+      "food": "Black walnuts (moldy)",
+      "severity": "High",
+      "category": "Nuts",
+      "toxic_compound": "Juglone, mold tremorgenic mycotoxins",
+      "symptoms": "Tremors, seizures, vomiting",
+      "action": "Emergency vet if moldy walnuts consumed"
+    },
+    {
+      "food": "Tomato leaves and stems",
+      "severity": "Moderate",
+      "category": "Vegetables",
+      "toxic_compound": "Solanine, tomatine",
+      "symptoms": "GI upset, drooling, weakness, slow heart rate",
+      "action": "Contact vet \u2014 ripe tomato fruit is low risk"
+    },
+    {
+      "food": "Potato leaves, stems, green skin",
+      "severity": "Moderate",
+      "category": "Vegetables",
+      "toxic_compound": "Solanine",
+      "symptoms": "Vomiting, diarrhea, weakness, confusion",
+      "action": "Contact vet \u2014 cooked plain potato is generally safe"
+    },
+    {
+      "food": "Rhubarb leaves",
+      "severity": "High",
+      "category": "Vegetables",
+      "toxic_compound": "Oxalic acid",
+      "symptoms": "Drooling, vomiting, diarrhea, kidney failure, tremors",
+      "action": "Contact vet"
+    },
+    {
+      "food": "Persimmons",
+      "severity": "Moderate",
+      "category": "Fruits",
+      "toxic_compound": "Tannins (seeds/pit)",
+      "symptoms": "GI obstruction from seeds, enteritis",
+      "action": "Contact vet if seeds ingested"
+    },
+    {
+      "food": "Iron supplements / human vitamins",
+      "severity": "High",
+      "category": "Medications",
+      "toxic_compound": "Iron, other vitamins in toxic doses",
+      "symptoms": "Vomiting blood, diarrhea, organ damage",
+      "action": "Emergency vet \u2014 never give human vitamins to dogs"
+    },
+    {
+      "food": "Nicotine (cigarettes, patches, e-cig liquid)",
+      "severity": "Critical",
+      "category": "Tobacco",
+      "toxic_compound": "Nicotine",
+      "symptoms": "Vomiting, tremors, seizures, respiratory failure, death",
+      "action": "Emergency vet immediately \u2014 e-cig liquids especially concentrated"
+    },
+    {
+      "food": "Marijuana / cannabis",
+      "severity": "High",
+      "category": "Drugs",
+      "toxic_compound": "THC",
+      "symptoms": "Disorientation, dilated pupils, urine dribbling, vomiting, coma",
+      "action": "Contact vet \u2014 rarely fatal but distressing; edibles more dangerous"
+    },
+    {
+      "food": "Chewing gum (xylitol-containing)",
+      "severity": "Critical",
+      "category": "Sweeteners",
+      "toxic_compound": "Xylitol",
+      "symptoms": "Rapid hypoglycemia, seizures, liver failure",
+      "action": "Emergency vet immediately \u2014 check ingredient list"
+    },
+    {
+      "food": "Corn on the cob",
+      "severity": "Moderate",
+      "category": "Vegetables",
+      "toxic_compound": "Physical obstruction",
+      "symptoms": "GI blockage \u2014 vomiting, straining, abdominal pain",
+      "action": "Emergency vet if large piece swallowed \u2014 corn kernels are safe"
+    },
+    {
+      "food": "Ice cream (dairy)",
+      "severity": "Low",
+      "category": "Dairy",
+      "toxic_compound": "Lactose, sugar, xylitol (check label)",
+      "symptoms": "GI upset, diarrhea \u2014 sugar-free versions may contain xylitol (Critical)",
+      "action": "Small amounts low risk; always check for xylitol in sugar-free"
+    },
+    {
+      "food": "Moldy / spoiled food",
+      "severity": "High",
+      "category": "Spoiled Food",
+      "toxic_compound": "Mycotoxins, tremorgenic toxins",
+      "symptoms": "Tremors, seizures, vomiting, hyperthermia",
+      "action": "Contact vet \u2014 the 'garbage toxicosis' \u2014 secure trash cans"
+    }
+  ]
+}
