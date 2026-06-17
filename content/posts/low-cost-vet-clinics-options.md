@@ -104,18 +104,18 @@ Also: online pharmacies selling prescription medications without requiring a val
 
 Here's the honest financial advice nobody loves to hear: the biggest way to avoid expensive vet bills is to spend a little money consistently on prevention.
 
-Heartworm prevention costs a fraction of heartworm treatment, which can run into the thousands and is brutal on the dog physically. Dental disease, which affects the majority of dogs and cats over age three, progresses into infection, tooth loss, and systemic illness if ignored. A dental chew habit started early genuinely reduces the severity of dental disease, even if it doesn't replace professional cleanings. [Dental chews approved by the Veterinary Oral Health Council are available on Amazon](https://www.amazon.com/s?k=VOHC+approved+dental+chews+for+dogs&tag=thevetchannel-20) and make a real difference started consistently. *(Disclosure: this site may earn a commission on qualifying purchases.)*
+Heartworm prevention costs a fraction of heartworm treatment, which can run into the thousands and is brutal on the dog physically. Dental disease, which affects the majority of dogs and cats over age three, progresses into infection, tooth loss, and systemic illness if ignored. A dental chew habit started early genuinely reduces the severity of dental disease, even if it doesn't replace professional cleanings. [Dental chews approved by the Veterinary Oral Health Council are available on Amazon](https://www.amazon.com/s?k=VOHC+approved+dental+chews+for+dogs&tag=contentportfo-20) and make a real difference started consistently. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
-For older dogs especially, joint supplements with glucosamine and omega-3 fatty acids have decent evidence behind them for managing early arthritis. [You can find vet-recommended joint supplement options on Amazon](https://www.amazon.com/s?k=veterinarian+recommended+dog+joint+supplements&tag=thevetchannel-20) that are considerably cheaper than buying through a clinic. *(Commission disclosure applies here too.)*
+For older dogs especially, joint supplements with glucosamine and omega-3 fatty acids have decent evidence behind them for managing early arthritis. [You can find vet-recommended joint supplement options on Amazon](https://www.amazon.com/s?k=veterinarian+recommended+dog+joint+supplements&tag=contentportfo-20) that are considerably cheaper than buying through a clinic. *(Commission disclosure applies here too.)*
 
-Mental health matters too. Bored, under-stimulated pets are more prone to anxiety-related behaviors and stress-related illness. [Puzzle feeders](https://www.amazon.com/s?k=dog+puzzle+feeder&tag=thevetchannel-20) are genuinely useful tools and not just a gimmick.
-
----
-
+Mental health matters too. Bored, under-stimulated pets are more prone to anxiety-related behaviors and stress-related illness. [Puzzle feeders](https://www.amazon.com/s?k=dog+puzzle+feeder&tag=contentportfo-20) are genuinely useful tools and not just a gimmick.
 
 ---
 
-The single most useful thing I can tell you is this: don't let cost shame keep you from getting your pet seen. Most of the options above are genuinely good, and veterinary professionals across the country built them specifically because they understand the barrier is real. Look up your options before there's a crisis, keep a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=thevetchannel-20) on hand for minor issues, and don't wait until a small problem becomes an expensive one. The information is out there. You just needed someone to lay it out clearly.
+
+---
+
+The single most useful thing I can tell you is this: don't let cost shame keep you from getting your pet seen. Most of the options above are genuinely good, and veterinary professionals across the country built them specifically because they understand the barrier is real. Look up your options before there's a crisis, keep a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) on hand for minor issues, and don't wait until a small problem becomes an expensive one. The information is out there. You just needed someone to lay it out clearly.
 
 ## Helpful Resources
 

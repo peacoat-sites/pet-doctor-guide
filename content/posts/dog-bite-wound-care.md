@@ -66,7 +66,7 @@ Run the wound under clean, running water for a full 5 minutes. Not a quick rinse
 After washing, apply firm pressure with a clean cloth or gauze for 10 to 15 minutes without peeking. If blood soaks through, add more gauze on top and keep pressing. Removing the cloth resets your clotting time.
 
 **Step 3: Do NOT use hydrogen peroxide or iodine.**
-Both are cytotoxic to the cells you need for healing. They don't selectively kill bacteria; they damage everything. Antiseptic washes like diluted chlorhexidine solution (0.05%) are safer if you want to use something beyond soap and water. A pet first aid kit like the [RC Pet Products First Aid Kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=example-20) *(site may earn a commission)* often includes appropriate wound care supplies and is worth keeping in the car or at home.
+Both are cytotoxic to the cells you need for healing. They don't selectively kill bacteria; they damage everything. Antiseptic washes like diluted chlorhexidine solution (0.05%) are safer if you want to use something beyond soap and water. A pet first aid kit like the [RC Pet Products First Aid Kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) *(site may earn a commission)* often includes appropriate wound care supplies and is worth keeping in the car or at home.
 
 **Step 4: Apply a clean bandage loosely.**
 You want to protect the wound from contamination, not create a tourniquet. A non-adherent pad (like a Telfa pad) covered by rolled gauze is ideal.

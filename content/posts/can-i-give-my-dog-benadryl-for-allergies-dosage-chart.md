@@ -66,7 +66,7 @@ Benadryl makes a lot of products and many of them are not safe for dogs:
 
 **Benadryl Itch Stopping Cream or Spray** is topical and intended for humans. It's not appropriate to apply to your dog's skin because they'll lick it off and the concentration isn't meant for ingestion.
 
-Buy the plain, original Benadryl tablets (the pink ones) or the generic store brand diphenhydramine. CVS, Walgreens, and Target all carry 25 mg diphenhydramine for a few dollars per box. You don't need a brand name here at all. I keep [a basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=placeholder) stocked at home and diphenhydramine tablets are part of it. (Disclosure: this site may earn a commission from purchases.)
+Buy the plain, original Benadryl tablets (the pink ones) or the generic store brand diphenhydramine. CVS, Walgreens, and Target all carry 25 mg diphenhydramine for a few dollars per box. You don't need a brand name here at all. I keep [a basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) stocked at home and diphenhydramine tablets are part of it. (Disclosure: this site may earn a commission from purchases.)
 
 ## What Benadryl Actually Does For Allergies in Dogs
 

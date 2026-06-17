@@ -86,7 +86,7 @@ Ask your vet directly: "Which of these does my dog's actual lifestyle warrant?" 
 
 **Step 3: Know your dog's current flea, tick, and heartworm prevention status.** Bring the product packaging or the name/dosage if you can. Your vet needs to know what you're using to avoid drug interactions and to assess whether it's working.
 
-**Step 4: Bring any supplements or over-the-counter products you give regularly.** Fish oil, joint supplements, dental chews. Everything is relevant. If you're using a [joint supplement like Nutramax Cosequin](https://www.amazon.com/s?k=dog+joint+supplement+cosequin&tag=dummy-20) *(affiliate link, we may earn a commission)*, tell your vet so they can factor it into musculoskeletal assessment.
+**Step 4: Bring any supplements or over-the-counter products you give regularly.** Fish oil, joint supplements, dental chews. Everything is relevant. If you're using a [joint supplement like Nutramax Cosequin](https://www.amazon.com/s?k=dog+joint+supplement+cosequin&tag=contentportfo-20) *(affiliate link, we may earn a commission)*, tell your vet so they can factor it into musculoskeletal assessment.
 
 **Step 5: Ask for a written visit summary.** Most practices now send these by email or through a client portal. If yours doesn't, ask for one. Having a written record of weight, BCS, vaccine dates, and any findings discussed is genuinely useful year to year.
 

@@ -127,7 +127,7 @@ There's also a breed consideration that doesn't get talked about enough. Collies
 
 ---
 
-The goal with flea and tick prevention is simple: pick a product appropriate for your dog's age, weight, breed, and lifestyle, apply it correctly, and keep it consistent. One missed month, one incorrect application, one product chosen without considering your environment can leave a real gap. A [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourtag-20) that includes tick removal tools is worth keeping on hand too, since prevention isn't perfect and being prepared for the occasional tick encounter makes a real difference. *(Affiliate link, site may earn a commission.)*  Your vet is always the best person to help you navigate the specific options available in your area and for your individual dog. But now you're walking into that conversation knowing exactly what questions to ask.
+The goal with flea and tick prevention is simple: pick a product appropriate for your dog's age, weight, breed, and lifestyle, apply it correctly, and keep it consistent. One missed month, one incorrect application, one product chosen without considering your environment can leave a real gap. A [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) that includes tick removal tools is worth keeping on hand too, since prevention isn't perfect and being prepared for the occasional tick encounter makes a real difference. *(Affiliate link, site may earn a commission.)*  Your vet is always the best person to help you navigate the specific options available in your area and for your individual dog. But now you're walking into that conversation knowing exactly what questions to ask.
 
 ## Helpful Resources
 

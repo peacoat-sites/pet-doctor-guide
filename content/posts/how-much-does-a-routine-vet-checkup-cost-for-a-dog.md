@@ -74,7 +74,7 @@ Other items are worth a conversation, not a rubber stamp.
 
 **Flea and tick prevention:** You will almost certainly be offered a product at the visit. The clinic markup is real. Products like NexGard, Simparica, or Bravecto are often 15 to 30% cheaper through reputable online pharmacies with a valid prescription. [Check with your vet first before purchasing elsewhere](https://www.petmd.com/) to confirm the product is appropriate for your dog's weight and health status.
 
-**Having a well-stocked pet first aid kit at home** also means fewer urgent or after-hours calls, which is where vet costs escalate fast. [A solid pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+dog&tag=cnovak-20) *(affiliate link; this site may earn a commission)* won't replace a vet, but it handles the 2 a.m. minor cuts and splinter moments that otherwise become expensive panic calls.
+**Having a well-stocked pet first aid kit at home** also means fewer urgent or after-hours calls, which is where vet costs escalate fast. [A solid pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+dog&tag=contentportfo-20) *(affiliate link; this site may earn a commission)* won't replace a vet, but it handles the 2 a.m. minor cuts and splinter moments that otherwise become expensive panic calls.
 
 ---
 

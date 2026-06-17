@@ -100,7 +100,7 @@ Signs that need same-day attention: excessive swelling, discharge from the incis
 
 A properly fitted Elizabethan collar is non-negotiable for the first 7-10 days. The inflatable donuts some people prefer are fine for large dogs who aren't flexible enough to work around them, but a determined cat or small dog will absolutely reach an incision through an inflatable collar. The [AAHA hospital accreditation standards](https://www.aaha.org/) include guidance on post-operative care protocols, and a good practice will send you home with written instructions, an emergency contact, and a clear list of warning signs.
 
-Having a proper recovery setup before surgery day matters. A good [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=example-20) *(note: this site may earn a commission from qualifying purchases)* with saline wound wash and gauze is useful for monitoring the incision without touching it. You shouldn't be treating the wound at home, but being able to look at it clearly makes it easier to decide whether something is normal or worth a call.
+Having a proper recovery setup before surgery day matters. A good [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) *(note: this site may earn a commission from qualifying purchases)* with saline wound wash and gauze is useful for monitoring the incision without touching it. You shouldn't be treating the wound at home, but being able to look at it clearly makes it easier to decide whether something is normal or worth a call.
 
 ## The Honest Counterarguments
 

@@ -111,7 +111,7 @@ If you're going to the vet, put your cat in a secure carrier. Bring the plant or
 **Step 7: Monitor and follow instructions precisely.**
 If the toxicologist or vet says to watch at home, know what symptoms to watch for: vomiting, lethargy, loss of appetite, drooling, wobbly walking, labored breathing, or changes in litter box use. Set a timer to check on your cat every two hours.
 
-Having a [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+cat&tag=your-associate-tag) on hand won't treat a plant toxicity, but it'll have useful items like gloves and a thermometer that can help you assess and report your cat's condition accurately. (Disclosure: this site may earn a commission from qualifying purchases.)
+Having a [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+cat&tag=contentportfo-20) on hand won't treat a plant toxicity, but it'll have useful items like gloves and a thermometer that can help you assess and report your cat's condition accurately. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ---
 
@@ -132,7 +132,7 @@ Some safe swaps for common toxic houseplants:
 
 If you're set on keeping any mildly risky plants, placement matters. Cats can jump, and they will jump. High shelves aren't reliable. Rooms your cat can't access, like a closed bathroom or a dedicated plant room, are more realistic. Hanging planters are sometimes okay, but cats have surprised me.
 
-If you want to redirect your cat's chewing urges, cat grass kits or catnip plants are genuinely satisfying for them and completely safe. A [puzzle feeder](https://www.amazon.com/s?k=cat+puzzle+feeder&tag=your-associate-tag) can also redirect some of that restless energy that leads to plant chewing in the first place. (Disclosure: this site may earn a commission from qualifying purchases.)
+If you want to redirect your cat's chewing urges, cat grass kits or catnip plants are genuinely satisfying for them and completely safe. A [puzzle feeder](https://www.amazon.com/s?k=cat+puzzle+feeder&tag=contentportfo-20) can also redirect some of that restless energy that leads to plant chewing in the first place. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ---
 

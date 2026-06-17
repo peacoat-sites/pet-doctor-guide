@@ -60,7 +60,7 @@ You can do a few things right now, before any emergency, that will reduce financ
 
 **Consider pet insurance.** If you're reading this before a crisis, this is the moment. Most accident and illness policies cover diagnostics including x-rays, and they're genuinely worth the monthly premium for dogs and cats under 10 with no major pre-existing conditions.
 
-**Build a basic emergency fund.** Even $500 set aside specifically for pet care changes your options dramatically in a pinch. A dedicated savings account or a [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=placeholder) for minor injuries at home won't cover imaging, but reducing small-expense emergencies keeps more in reserve for the big ones. *(This site may earn a commission on qualifying purchases.)*
+**Build a basic emergency fund.** Even $500 set aside specifically for pet care changes your options dramatically in a pinch. A dedicated savings account or a [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) for minor injuries at home won't cover imaging, but reducing small-expense emergencies keeps more in reserve for the big ones. *(This site may earn a commission on qualifying purchases.)*
 
 ## Step-by-Step: How to Talk to Your Vet About X-Ray Costs Without Feeling Awkward
 

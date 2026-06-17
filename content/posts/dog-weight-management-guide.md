@@ -103,7 +103,7 @@ Not all dog food is equal, and comparing options can feel overwhelming. Here's a
 
 When switching foods, do it gradually over 7 to 10 days to avoid digestive upset. Mix 25% new food with 75% old food for a few days, then go 50/50, and so on.
 
-You might also consider a [quality joint supplement](https://www.amazon.com/s?k=dog+joint+supplement&tag=yourtag-20) if your overweight dog is already showing stiffness, since weight loss alone takes time and joints need support in the meantime. (Disclosure: this site may earn a commission from qualifying purchases.) Always check with your vet before starting any supplement.
+You might also consider a [quality joint supplement](https://www.amazon.com/s?k=dog+joint+supplement&tag=contentportfo-20) if your overweight dog is already showing stiffness, since weight loss alone takes time and joints need support in the meantime. (Disclosure: this site may earn a commission from qualifying purchases.) Always check with your vet before starting any supplement.
 
 ---
 

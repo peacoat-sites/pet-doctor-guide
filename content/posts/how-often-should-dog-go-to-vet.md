@@ -80,7 +80,7 @@ Here's a simple framework I give to clients who want to stay organized. It's not
 
 **Step 1: Start a pet health folder.** Physical or digital, your choice. Keep every vet record, vaccine certificate, and lab result in one place. You'll need this if you board your dog, move, or switch vets.
 
-**Step 2: Map out the year in January.** Look at when vaccines are due, when heartworm and flea prevention need to be renewed, and whether your dog is due for a dental cleaning. Dental disease affects over 80% of dogs over age 3, and most owners don't realize it until there's obvious tartar or bad breath. Supporting dental health at home with vet-recommended [dental chews](https://www.amazon.com/s?k=dog+dental+chews&tag=your-affiliate-tag) (site may earn a commission) is a useful habit between professional cleanings.
+**Step 2: Map out the year in January.** Look at when vaccines are due, when heartworm and flea prevention need to be renewed, and whether your dog is due for a dental cleaning. Dental disease affects over 80% of dogs over age 3, and most owners don't realize it until there's obvious tartar or bad breath. Supporting dental health at home with vet-recommended [dental chews](https://www.amazon.com/s?k=dog+dental+chews&tag=contentportfo-20) (site may earn a commission) is a useful habit between professional cleanings.
 
 **Step 3: Know your dog's "baseline normal."** Before you call the vet, you need to know what's normal for your dog specifically. What's their resting respiratory rate? (Count breaths for 15 seconds, multiply by 4. Healthy adult dogs breathe 15 to 30 times per minute at rest.) What do they normally eat in a day? What's their typical energy level on a walk? These baselines let you notice changes early.
 
@@ -127,7 +127,7 @@ There are some practical options worth knowing about:
 
 **Prioritize the annual exam even if you skip add-ons.** If money is tight, the physical exam itself is the most valuable part of a wellness visit. A good vet can catch a lot with their hands, eyes, and stethoscope even before any bloodwork is run.
 
-For older dogs already showing signs of joint stiffness, supporting them at home with vet-approved [joint supplements](https://www.amazon.com/s?k=dog+joint+supplements&tag=your-affiliate-tag) (site may earn a commission) can help between visits, though always confirm with your vet before starting any supplement, especially if your dog is on other medications.
+For older dogs already showing signs of joint stiffness, supporting them at home with vet-approved [joint supplements](https://www.amazon.com/s?k=dog+joint+supplements&tag=contentportfo-20) (site may earn a commission) can help between visits, though always confirm with your vet before starting any supplement, especially if your dog is on other medications.
 
 ---
 

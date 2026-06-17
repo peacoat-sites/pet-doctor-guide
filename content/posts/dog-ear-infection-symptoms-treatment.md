@@ -130,7 +130,7 @@ Keeping ear infections from coming back is about addressing risk factors, not ma
 
 **Keep hair around the ear opening trimmed** if your dog has heavy furnishings that trap moisture and debris.
 
-A well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourtag-20) is something I always recommend keeping on hand. It won't treat an ear infection, but having gauze, gloves, and basic supplies means you're ready to assess and document what you're seeing before you call the vet. *(This site may earn a commission from qualifying purchases.)*
+A well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) is something I always recommend keeping on hand. It won't treat an ear infection, but having gauze, gloves, and basic supplies means you're ready to assess and document what you're seeing before you call the vet. *(This site may earn a commission from qualifying purchases.)*
 
 ---
 

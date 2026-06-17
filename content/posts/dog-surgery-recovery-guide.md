@@ -81,7 +81,7 @@ Recovery timelines vary by procedure, but here's a general framework that applie
 
 **After the recheck:** Your vet will guide you on when to return to normal activity. Don't skip this appointment even if your dog seems completely fine. Internal healing takes longer than surface healing, and a dog that looks good isn't necessarily ready for a run.
 
-A well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=your-affiliate-tag) can help you manage minor concerns at home during recovery, like monitoring supplies, extra gauze, or saline for gentle cleaning if instructed to do so. (Disclosure: this site may earn a commission from qualifying purchases.)
+A well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) can help you manage minor concerns at home during recovery, like monitoring supplies, extra gauze, or saline for gentle cleaning if instructed to do so. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## Nutrition and Hydration During Recovery
 

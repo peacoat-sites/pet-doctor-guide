@@ -111,7 +111,7 @@ A few practical steps when shopping:
 4. Ask whether premiums increase with age and by how much. Some plans increase steeply once a dog hits 7 or 8 years old.
 5. Check whether wellness care (vaccines, annual exams, flea prevention) is included or available as an add-on. These "wellness plans" are often not true insurance but prepaid care packages, and their value varies.
 
-If you haven't already assembled a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourtag-20) at home, that's a low-cost step worth taking regardless of your insurance decision. Handling minor wounds, monitoring vitals, and knowing when something needs emergency care can genuinely make a difference. *(Note: this site may earn a small commission from qualifying Amazon purchases.)*
+If you haven't already assembled a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) at home, that's a low-cost step worth taking regardless of your insurance decision. Handling minor wounds, monitoring vitals, and knowing when something needs emergency care can genuinely make a difference. *(Note: this site may earn a small commission from qualifying Amazon purchases.)*
 
 ---
 

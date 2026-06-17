@@ -89,7 +89,7 @@ Getting clean, reliable results requires a little prep on your end.
 4. **Tell your vet about any supplements** your dog takes, including fish oil, joint supplements, or herbal products. Some affect clotting and liver markers.
 5. **Let the staff know if your dog is anxious.** A dog who fights the blood draw can actually affect results through stress hormones. Many clinics have low-stress handling options.
 
-If your dog is on joint support or you're considering starting them on something, check with your vet first. Good quality [joint supplements for dogs](https://www.amazon.com/s?k=dog+joint+supplements&tag=placeholder) can make a real difference for aging dogs, but some ingredients are worth flagging before a blood panel. *(This site may earn a commission from qualifying purchases.)*
+If your dog is on joint support or you're considering starting them on something, check with your vet first. Good quality [joint supplements for dogs](https://www.amazon.com/s?k=dog+joint+supplements&tag=contentportfo-20) can make a real difference for aging dogs, but some ingredients are worth flagging before a blood panel. *(This site may earn a commission from qualifying purchases.)*
 
 ## A Quick Comparison: Routine Panel vs. Comprehensive Panel
 

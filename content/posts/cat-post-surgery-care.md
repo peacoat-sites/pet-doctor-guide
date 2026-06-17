@@ -70,7 +70,7 @@ I know cats hate it. I know you hate watching your cat hate it. But a reopened i
 
 If the rigid plastic cone is causing your cat serious distress (not eating for more than 24 hours, unable to use the litter box safely), talk to your vet about alternatives. Soft fabric cones, inflatable recovery collars, and surgical recovery suits are legitimate options for some cats and some incision locations. The key word is "some." A belly incision requires different coverage than an ear or leg incision, and your vet needs to confirm the alternative actually covers the site.
 
-For cats who are particularly determined or stressed, there are [comfortable post-surgery recovery suits on Amazon](https://www.amazon.com/s?k=cat+surgery+recovery+suit&tag=your-associate-tag) that some owners find easier to manage than a traditional cone. Worth checking out, but clear it with your vet before using one.
+For cats who are particularly determined or stressed, there are [comfortable post-surgery recovery suits on Amazon](https://www.amazon.com/s?k=cat+surgery+recovery+suit&tag=contentportfo-20) that some owners find easier to manage than a traditional cone. Worth checking out, but clear it with your vet before using one.
 
 ## Pain Management and Medications
 

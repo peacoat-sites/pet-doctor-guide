@@ -87,7 +87,7 @@ This is the section that actually matters when you're standing in your kitchen a
 
 **Step 5: Bring the packaging.** If your dog got into a product, bring the label. Toxicologists need to know the specific ingredients, especially for things like xylitol-containing products where the formulation changes by brand.
 
-Having a well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourchosentag-20) on hand (note: we may earn a commission on purchases) keeps you organized in these moments, even if the kit itself won't treat most toxic ingestions. Knowing where things are when you're panicked is genuinely useful.
+Having a well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) on hand (note: we may earn a commission on purchases) keeps you organized in these moments, even if the kit itself won't treat most toxic ingestions. Knowing where things are when you're panicked is genuinely useful.
 
 ---
 
@@ -122,7 +122,7 @@ A few things that actually work in a real household:
 
 **Think about garbage and countertops differently.** Dogs are opportunists. If something is within reach and smells good, it's fair game from their perspective. Baby locks on low cabinets, trash cans with locking lids, and counter surfing management save vet visits.
 
-**Puzzle feeders and enrichment reduce food-seeking behavior.** Dogs who are mentally stimulated are less likely to compulsively raid the kitchen. A quality [puzzle feeder](https://www.amazon.com/s?k=dog+puzzle+feeder&tag=yourchosentag-20) (we may earn a commission) gives them an outlet and slows down fast eaters. Talk to your vet about what's appropriate for your dog's age and ability.
+**Puzzle feeders and enrichment reduce food-seeking behavior.** Dogs who are mentally stimulated are less likely to compulsively raid the kitchen. A quality [puzzle feeder](https://www.amazon.com/s?k=dog+puzzle+feeder&tag=contentportfo-20) (we may earn a commission) gives them an outlet and slows down fast eaters. Talk to your vet about what's appropriate for your dog's age and ability.
 
 ---
 

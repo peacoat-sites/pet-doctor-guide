@@ -85,7 +85,7 @@ Here's how to actually make it happen, especially if your dog currently hates it
 
 **Step 4:** Keep sessions under two minutes. End on a positive note every single time. A small treat or a brief play session immediately after creates a positive association that compounds over weeks.
 
-Dental chews can be a useful supplement, though not a replacement for brushing. Look for products that carry the Veterinary Oral Health Council (VOHC) seal, which means they've been tested and shown to reduce plaque or tartar. A good selection of [VOHC-accepted dental chews](https://www.amazon.com/s?k=VOHC+accepted+dental+chews+for+dogs&tag=yourtag-20) is worth keeping on hand as part of a daily routine. (This site may earn a commission on qualifying purchases.)
+Dental chews can be a useful supplement, though not a replacement for brushing. Look for products that carry the Veterinary Oral Health Council (VOHC) seal, which means they've been tested and shown to reduce plaque or tartar. A good selection of [VOHC-accepted dental chews](https://www.amazon.com/s?k=VOHC+accepted+dental+chews+for+dogs&tag=contentportfo-20) is worth keeping on hand as part of a daily routine. (This site may earn a commission on qualifying purchases.)
 
 Water additives exist too, and some carry VOHC acceptance. They're not magic, but for a dog who won't tolerate brushing at all, they provide at least some ongoing enzymatic activity. Ask your vet which ones they've seen results with.
 

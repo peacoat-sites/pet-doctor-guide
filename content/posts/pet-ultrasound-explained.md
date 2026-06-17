@@ -96,7 +96,7 @@ A few questions worth writing down before the appointment:
 
 The [American Veterinary Medical Association](https://www.avma.org/) recommends that pet owners actively participate in their pet's care decisions, and asking these questions is exactly that kind of participation. You're not being difficult. You're being a good advocate.
 
-If your pet has ongoing health concerns, having a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourtag-20) on hand at home is always smart (this site may earn a commission from qualifying purchases, and you should always confirm any home care steps with your vet first).
+If your pet has ongoing health concerns, having a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) on hand at home is always smart (this site may earn a commission from qualifying purchases, and you should always confirm any home care steps with your vet first).
 
 ---
 

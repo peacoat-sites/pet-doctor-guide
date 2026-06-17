@@ -128,7 +128,7 @@ The key word the vet uses is "monitor" versus "treat." Monitor means watch and r
 
 ---
 
-A yearly vet visit is genuinely one of the highest-value things you can do for a cat's long-term health, not because something dramatic always gets found, but because of the cumulative picture it builds over years. If you want to support your cat's health between visits, products like [dental chews formulated for cats](https://www.amazon.com/s?k=dental+chews+for+cats&tag=yourtag-20) and [joint supplements for senior cats](https://www.amazon.com/s?k=joint+supplements+for+senior+cats&tag=yourtag-20) can be useful additions to daily care (the site may earn a commission on purchases). But none of those replace hands-on assessment from someone who's been trained to find what you can't see. Bring your questions, bring your stool sample, and don't leave until you understand what the vet found and what to do about it.
+A yearly vet visit is genuinely one of the highest-value things you can do for a cat's long-term health, not because something dramatic always gets found, but because of the cumulative picture it builds over years. If you want to support your cat's health between visits, products like [dental chews formulated for cats](https://www.amazon.com/s?k=dental+chews+for+cats&tag=contentportfo-20) and [joint supplements for senior cats](https://www.amazon.com/s?k=joint+supplements+for+senior+cats&tag=contentportfo-20) can be useful additions to daily care (the site may earn a commission on purchases). But none of those replace hands-on assessment from someone who's been trained to find what you can't see. Bring your questions, bring your stool sample, and don't leave until you understand what the vet found and what to do about it.
 
 ## Helpful Resources
 

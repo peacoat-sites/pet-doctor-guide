@@ -82,7 +82,7 @@ Large and giant breed dogs have higher rates of orthopedic issues, cardiac disea
 
 ## Setting Up for the First Month at Home
 
-Stock a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=youraffiliatetag) before the dog arrives. Keep it somewhere accessible. You'll likely need it less than you think, but new dogs are stressed and stress does weird things to immune systems and digestion.
+Stock a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) before the dog arrives. Keep it somewhere accessible. You'll likely need it less than you think, but new dogs are stressed and stress does weird things to immune systems and digestion.
 
 Keep the dog away from other household pets for at least 10-14 days if possible. Not because the shelter necessarily missed something catastrophic, but because Giardia and kennel cough can spread before symptoms show, and your resident cat does not need to be collateral damage.
 

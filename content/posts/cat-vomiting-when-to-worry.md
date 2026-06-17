@@ -77,7 +77,7 @@ If your cat vomited once or twice and doesn't have any of the red flags above, y
 
 7. **Reassess at 12 and 24 hours.** If vomiting continues or new symptoms develop, don't wait until Monday. Call your vet or an emergency clinic.
 
-A good [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+cat&tag=yourtag-20) kept on hand can help you handle minor situations at home and keep you calmer when things go sideways. (Disclosure: this site may earn a commission from qualifying purchases.)
+A good [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+cat&tag=contentportfo-20) kept on hand can help you handle minor situations at home and keep you calmer when things go sideways. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## Chronic Vomiting: When "My Cat Just Does That" Is Actually a Problem
 
@@ -94,7 +94,7 @@ Conditions commonly behind chronic or recurrent vomiting in cats include:
 
 The AAHA hospital accreditation standards emphasize a thorough diagnostic workup for chronic vomiting, which typically includes bloodwork, urinalysis, imaging, and sometimes GI-specific panels. If your cat has been vomiting for months and you've been told "it's probably just hairballs," it may be time to push for more answers. A geriatric blood panel for cats over 7 is a reasonable minimum starting point.
 
-Keeping your cat on a high-quality diet and staying consistent with parasite prevention also matters here. [Vet-recommended flea prevention](https://www.amazon.com/s?k=cat+flea+prevention+vet+recommended&tag=yourtag-20) isn't just about fleas: some intestinal parasites are transmitted through environmental exposure and can contribute to GI upset. (Disclosure: this site may earn a commission from qualifying purchases.)
+Keeping your cat on a high-quality diet and staying consistent with parasite prevention also matters here. [Vet-recommended flea prevention](https://www.amazon.com/s?k=cat+flea+prevention+vet+recommended&tag=contentportfo-20) isn't just about fleas: some intestinal parasites are transmitted through environmental exposure and can contribute to GI upset. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## Talking to Your Vet: How to Describe Vomiting So You're Actually Heard
 

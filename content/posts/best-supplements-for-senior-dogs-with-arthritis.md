@@ -48,7 +48,7 @@ Glucosamine sulfate supports cartilage repair and helps maintain joint fluid vis
 
 The catch is that most over-the-counter dog chews are underdosed. A 60-pound dog with moderate arthritis needs somewhere around 1,500mg of glucosamine daily. Many popular chew products give you 400-500mg per chew and suggest one chew a day. You can do that math.
 
-Cosequin DS (Double Strength) is the product I recommend most consistently. It's been around for decades, the formulation is solid, and it's one of the few that actually matches label claims on independent testing. [You can find it on Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=yourtag-20) (note: this site may earn a small commission on purchases). For a large dog, you'll often need the loading dose on the packaging for the first four to six weeks before you'll notice anything. Give it eight weeks before you call it a failure.
+Cosequin DS (Double Strength) is the product I recommend most consistently. It's been around for decades, the formulation is solid, and it's one of the few that actually matches label claims on independent testing. [You can find it on Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=contentportfo-20) (note: this site may earn a small commission on purchases). For a large dog, you'll often need the loading dose on the packaging for the first four to six weeks before you'll notice anything. Give it eight weeks before you call it a failure.
 
 ## Omega-3 Fatty Acids: The One I'd Fight You Over
 
@@ -82,7 +82,7 @@ Perna canaliculus, the New Zealand green-lipped mussel, deserves more attention 
 
 It's not a replacement for fish oil because the omega-3 concentrations are lower, but it brings a different mechanism to the table. If your dog is on a good fish oil dose and still struggling, adding green-lipped mussel is a logical next step.
 
-Zesty Paws makes a palatable chew version. [Check it on Amazon](https://www.amazon.com/s?k=green+lipped+mussel+dog+supplement&tag=yourtag-20) (affiliate link). It's not the cheapest option, but the sourcing matters with green-lipped mussel and you want a company that can tell you where the mussels came from.
+Zesty Paws makes a palatable chew version. [Check it on Amazon](https://www.amazon.com/s?k=green+lipped+mussel+dog+supplement&tag=contentportfo-20) (affiliate link). It's not the cheapest option, but the sourcing matters with green-lipped mussel and you want a company that can tell you where the mussels came from.
 
 ## Building a Supplement Stack Without Losing Your Mind (or Your Wallet)
 

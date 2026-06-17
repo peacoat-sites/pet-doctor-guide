@@ -72,7 +72,7 @@ The key word is "good." Giving your dog a spoonful of your own Greek yogurt isn'
 
 Brands like FortiFlora (made by Purina) are widely used and recommended by veterinarians. They come in single-serve packets you sprinkle over food, which also encourages picky or nauseous dogs to eat. I've seen clients have real success with these, particularly after a dog has been on antibiotics, which are a very common cause of antibiotic-associated diarrhea.
 
-If you want to keep something on hand for situations like this, having a quality pet probiotic in your pantry alongside a [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=your-affiliate-tag) makes a lot of sense. (Disclosure: this site may earn a commission from qualifying purchases.)
+If you want to keep something on hand for situations like this, having a quality pet probiotic in your pantry alongside a [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) makes a lot of sense. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## Hydration: The Detail That Can Make or Break Recovery
 

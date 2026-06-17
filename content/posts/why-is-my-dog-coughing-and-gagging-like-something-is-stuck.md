@@ -84,7 +84,7 @@ Definitely do not give your dog human cough suppressants containing dextromethor
 
 If your dog has a persistent cough lasting more than a week, or if he's very young, very old, immunocompromised, or has a known heart or respiratory condition, kennel cough warrants veterinary treatment. There are effective veterinary cough suppressants and antibiotics (for secondary bacterial infections) that make a real difference.
 
-A [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourtag-20) won't help with a cough directly, but having one means you're already in the habit of being prepared. (Disclosure: the site may earn a commission on that link.)
+A [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) won't help with a cough directly, but having one means you're already in the habit of being prepared. (Disclosure: the site may earn a commission on that link.)
 
 ---
 

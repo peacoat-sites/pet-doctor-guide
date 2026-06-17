@@ -79,7 +79,7 @@ A humidifier in the room where your dog sleeps can take some of the edge off. Pl
 
 Keep them away from other dogs until the cough has been gone for at least 48 to 72 hours. Kennel cough is highly contagious. The incubation period is typically 2 to 14 days, which means a dog can be spreading it before showing any symptoms at all. Heads up if you have a multi-dog household.
 
-If you don't already have a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=example-20) on hand, now is a decent time to think about it. Nothing in a first aid kit treats kennel cough, but being able to take a temperature accurately (normal is 101 to 102.5°F in dogs) helps you make better decisions about whether to call the vet. (Disclosure: this site may earn a commission on purchases through that link.)
+If you don't already have a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) on hand, now is a decent time to think about it. Nothing in a first aid kit treats kennel cough, but being able to take a temperature accurately (normal is 101 to 102.5°F in dogs) helps you make better decisions about whether to call the vet. (Disclosure: this site may earn a commission on purchases through that link.)
 
 ## The Vaccine Question
 
