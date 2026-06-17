@@ -32,6 +32,16 @@ Professional dog dental cleanings under anesthesia are expensive. In 2026, you'r
 
 What most people don't realize is how little of that bill is actually "the cleaning" itself.
 
+
+<div class="value-module">
+  <div class="vm-head">Cost Breakdown by Dog Size</div>
+  <div class="vm-body">
+    <p class="vm-intro">Procedure costs scale with body weight because larger dogs require more anesthesia, longer procedure times, and higher drug dosages—here's how that translates to your estimate.</p>
+    <table><thead><tr><th>Dog Size</th><th>Weight Range</th><th>Anesthesia Time</th><th>Typical Cost Range (Routine Cleaning, No Extractions)</th><th>Key Cost Drivers</th></tr></thead><tbody><tr><td>Small</td><td>Under 20 lbs</td><td>45–60 min</td><td>$450–$800</td><td>Lower drug volume; often higher dental disease incidence (toy breeds), which may add extractions</td></tr><tr><td>Medium</td><td>20–50 lbs</td><td>60–75 min</td><td>$550–$1,000</td><td>Moderate drug/fluid requirements; baseline staffing needs</td></tr><tr><td>Large</td><td>50–90 lbs</td><td>75–90 min</td><td>$700–$1,300</td><td>Higher anesthesia volume; may require second tech for positioning</td></tr><tr><td>Giant</td><td>Over 90 lbs</td><td>90–120 min</td><td>$900–$1,800</td><td>Significantly more drugs, fluids, and monitoring time; specialized intubation equipment</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What You're Actually Paying For
 
 The teeth scaling and polishing, the part that sounds like what your own dentist does, is maybe 20% of the total cost. The rest is everything that makes it safe and diagnostically useful.

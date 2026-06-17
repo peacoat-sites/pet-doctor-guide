@@ -30,6 +30,16 @@ Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it 
 
 Let's talk about what works, what's overhyped, and how to think about supplementing a senior dog with arthritis without throwing $80 a month at products that amount to expensive urine.
 
+
+<div class="value-module">
+  <div class="vm-head">Dosing Thresholds by Dog Weight</div>
+  <div class="vm-body">
+    <p class="vm-intro">Most joint supplements fail because owners unknowingly underdose—here are the clinically-relevant daily targets for the four core arthritis supplements, scaled by weight.</p>
+    <table><caption>Daily Supplement Dosing Guide for Senior Dogs with Arthritis</caption><thead><tr><th>Dog Weight</th><th>Glucosamine</th><th>Chondroitin</th><th>EPA+DHA (Omega-3)</th><th>Green-Lipped Mussel</th></tr></thead><tbody><tr><td>10–25 lb (small)</td><td>500–750 mg</td><td>200–350 mg</td><td>500–750 mg</td><td>15–20 mg/kg</td></tr><tr><td>26–50 lb (medium)</td><td>1,000–1,250 mg</td><td>400–600 mg</td><td>1,000–1,500 mg</td><td>15–20 mg/kg</td></tr><tr><td>51–75 lb (large)</td><td>1,500 mg</td><td>600–800 mg</td><td>1,500–2,000 mg</td><td>15–20 mg/kg</td></tr><tr><td>76–100+ lb (giant)</td><td>1,500–2,000 mg</td><td>800–1,200 mg</td><td>2,000–2,500 mg</td><td>15–20 mg/kg</td></tr></tbody><tfoot><tr><td colspan="5">Loading phase (first 4–6 weeks): double the glucosamine/chondroitin dose, then taper to maintenance. Omega-3 figures refer to combined EPA+DHA, not total fish oil. Always confirm with your veterinarian before starting a regimen.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Foundation: Glucosamine and Chondroitin Are Still the Starting Point
 
 I know. You've heard this before. It sounds boring. But here's the thing people get wrong: they dismiss glucosamine because they tried one product that didn't work, and then they chase shinier options instead of looking at the dose and the form.

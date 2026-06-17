@@ -30,6 +30,16 @@ You came home from work, called your cat's name, and heard nothing. No jingling 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Hiding Assessment: Normal vs. Emergency</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to evaluate whether your cat's hiding requires monitoring, a vet call, or immediate action.</p>
+    <table><caption>Cat Hiding Behavior Decision Matrix</caption><thead><tr><th>Factor</th><th>Likely Normal</th><th>Schedule Vet Visit</th><th>Urgent/Emergency</th></tr></thead><tbody><tr><td>Duration</td><td>Under 4 hours; emerges for food/litter</td><td>12–24 hours with reduced activity</td><td>24+ hours without emerging for food or water</td></tr><tr><td>Eating/Drinking</td><td>Normal appetite when offered</td><td>Eating less than 50% of normal for 1 day</td><td>No food/water intake for 24+ hours</td></tr><tr><td>Litter Box Use</td><td>Using normally</td><td>Decreased frequency or straining observed</td><td>No urination in 12+ hours (especially male cats)</td></tr><tr><td>Known Trigger</td><td>New guest, loud noise, moved furniture, vet visit</td><td>Minor household change but prolonged hiding</td><td>No identifiable trigger; sudden onset</td></tr><tr><td>Response When Found</td><td>Alert, may hiss or leave but mobile</td><td>Lethargic, slow to respond, reluctant to move</td><td>Unresponsive, crying when touched, or unable to stand</td></tr><tr><td>Physical Signs</td><td>Normal breathing, eyes, posture</td><td>Slightly hunched, third eyelid visible, dull coat</td><td>Open-mouth breathing, vomiting, distended abdomen, limping</td></tr><tr><td>Baseline Comparison</td><td>Cat has history of hiding in similar situations</td><td>Hiding more than typical for this cat</td><td>Dramatic departure from cat's normal behavior</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Cats Hide: The Instinct Behind the Behavior
 
 Cats are what behaviorists call "solitary hunters with prey and predator status." That's a fancy way of saying they're wired to be eaten by something bigger while simultaneously hunting something smaller. In the wild, a sick or injured cat that sits out in the open is a dead cat. Hiding is survival code that runs deep in their DNA, and your completely pampered indoor cat who has never seen a coyote in her life still runs that same program.

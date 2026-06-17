@@ -28,6 +28,16 @@ author_bio: "Michelle Chen has studied cat behavior through years of shelter vol
 
 Most dog owners don't realize their pet has a dental problem until the smell hits them. You lean in for a cuddle, your dog yawns, and you pull back wondering if something crawled into their mouth and died. That moment of "wow, that's bad" is actually a turning point, because by the time you're noticing the odor, periodontal disease has very likely already started. Studies from the American Veterinary Dental College suggest that 80% of dogs show signs of periodontal disease by age three. Three years old. That's not a senior dog problem. That's a young dog problem that most people miss entirely.
 
+
+<div class="value-module">
+  <div class="vm-head">Home Dental Check: What to Look For</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist during monthly mouth inspections to catch problems before they become painful or expensive.</p>
+    <table><thead><tr><th>What to Check</th><th>Healthy Sign</th><th>Warning Sign</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Gum color</td><td>Pink, consistent tone</td><td>Red, white, or purple areas</td><td>Any color change lasting 2+ days → vet visit</td></tr><tr><td>Gum texture</td><td>Firm, smooth surface</td><td>Swollen, bleeding when touched</td><td>Bleeding with gentle pressure → vet within 1 week</td></tr><tr><td>Tartar buildup</td><td>Teeth white or minimal yellowing</td><td>Brown/yellow crust at gumline</td><td>Visible crust on 3+ teeth → schedule cleaning</td></tr><tr><td>Tooth integrity</td><td>All teeth present, no chips</td><td>Cracked, loose, or missing teeth</td><td>Any loose or fractured tooth → vet within days</td></tr><tr><td>Breath odor</td><td>Mild or neutral smell</td><td>Strong, rotten, or metallic odor</td><td>Sudden odor change → vet within 2 weeks</td></tr><tr><td>Eating behavior</td><td>Chews on both sides normally</td><td>Dropping food, chewing one-sided</td><td>Consistent difficulty eating → vet promptly</td></tr><tr><td>Drooling</td><td>Normal for breed</td><td>Excessive or bloody saliva</td><td>Blood in saliva → same-day vet call</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Dog Dental Health Matters More Than You Think
 
 Here's what happens inside your dog's mouth when dental care gets skipped. Bacteria form a soft, sticky film on the teeth called plaque. You have about 24 to 36 hours before that plaque mineralizes into tartar, which is the hard, yellowish-brown crust you can see building up near the gumline. Once it's tartar, you can't brush it off at home. That requires professional scaling.

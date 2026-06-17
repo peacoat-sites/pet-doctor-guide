@@ -30,6 +30,16 @@ You cleaned the litter box this morning. You bought the good litter. Your cat ha
 
 Here's what I've learned after 13 years of fielding these panicked calls at the clinic: litter box avoidance is one of the top reasons cats get surrendered to shelters. It doesn't have to go that far. Most cases are solvable once you figure out what's actually driving the behavior.
 
+
+<div class="value-module">
+  <div class="vm-head">Medical vs Behavioral: Diagnostic Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these observable signs to help determine whether your cat's litter box avoidance likely needs a vet visit first or a behavioral/environmental investigation.</p>
+    <table><thead><tr><th>Sign or Pattern</th><th>Suggests Medical Cause</th><th>Suggests Behavioral/Environmental</th></tr></thead><tbody><tr><td>Frequency of urination attempts</td><td>Frequent small amounts, straining, or crying while urinating</td><td>Normal-sized urinations, just in wrong locations</td></tr><tr><td>Location choices</td><td>Random spots, smooth cool surfaces (sinks, tile, bathtub)</td><td>Consistent alternative spots, often soft surfaces or specific rooms</td></tr><tr><td>Posture while eliminating</td><td>Hunched, tense, vocalizing, or staying in position longer than usual</td><td>Relaxed, normal posture in the chosen spot</td></tr><tr><td>Other behavior changes</td><td>Lethargy, hiding, appetite loss, excessive genital licking</td><td>Otherwise acting normal between incidents</td></tr><tr><td>Onset timing</td><td>Sudden onset with no household changes</td><td>Correlates with new pet, move, schedule change, or new litter/box</td></tr><tr><td>Urine appearance</td><td>Blood-tinged, unusually strong odor, or cloudy</td><td>Normal color and consistency</td></tr><tr><td>Age consideration</td><td>Senior cats (10+): higher risk of kidney disease, diabetes, arthritis</td><td>Any age, but especially cats with history of anxiety or stress sensitivity</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Medical Causes Come First. Always.
 
 I can't stress this enough. Before you rearrange your house, buy new litter, or assume your cat is being spiteful, rule out a medical problem. Cats are not subtle when something hurts. Peeing outside the box is often the loudest way they know how to say "I need help."

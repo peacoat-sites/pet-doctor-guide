@@ -32,6 +32,16 @@ Urinary problems are one of the most common reasons cats end up in emergency cli
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Urgency Triage: When to Seek Care</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to assess your cat's symptoms and determine the appropriate response timeline.</p>
+    <table><caption>Cat Urinary Symptom Urgency Guide</caption><thead><tr><th scope="col">Symptom or Finding</th><th scope="col">Urgency Level</th><th scope="col">Recommended Action</th></tr></thead><tbody><tr><td>Straining with zero urine output for 6+ hours (especially male cats)</td><td>EMERGENCY</td><td>Immediate vet or emergency clinic—urethral blockage can be fatal within 24–48 hours</td></tr><tr><td>Vomiting, lethargy, or collapse combined with straining</td><td>EMERGENCY</td><td>Indicates possible toxin buildup from blockage; do not wait</td></tr><tr><td>Crying out in pain while attempting to urinate</td><td>URGENT</td><td>Same-day veterinary visit required</td></tr><tr><td>Blood visible in urine (pink/red tinge)</td><td>URGENT</td><td>Schedule appointment within 24 hours; monitor for worsening</td></tr><tr><td>Frequent small urinations with some output, no other symptoms</td><td>PROMPT</td><td>Veterinary visit within 1–2 days; track litter box output</td></tr><tr><td>Urinating outside litter box (new behavior), otherwise normal</td><td>NON-URGENT</td><td>Schedule routine vet appointment; rule out stress or early FLUTD</td></tr></tbody><tfoot><tr><td colspan="3"><strong>Key rule for male cats:</strong> Any straining without urine production should be treated as an emergency until proven otherwise.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What's Actually Going On: FLUTD vs. True UTI
 
 Here's something that surprises a lot of cat owners: true bacterial urinary tract infections are actually less common in cats than in dogs or humans. According to PetMD's veterinary resource library, bacterial UTIs account for only about 1-3% of urinary problems in cats under 10 years old. In young to middle-aged cats, the more likely culprit is idiopathic cystitis, which means inflammation of the bladder with no identifiable bacterial cause. Stress, diet, and environment all play roles.

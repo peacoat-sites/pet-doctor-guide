@@ -28,6 +28,16 @@ author_bio: "Rachel Sanders is a certified pet first aid instructor who has trai
 
 Your dog has been drinking water like he's trying to drain the bowl, getting up three times a night to go outside, and suddenly dropping weight despite eating fine. You finally get to the vet, and the word "diabetes" comes up. Maybe you've already gotten the diagnosis and you're sitting in your car in the parking lot trying to process the idea of giving your dog insulin injections twice a day for the rest of his life. I've been in that parking lot conversation more times than I can count, standing next to scared pet owners who honestly thought this was going to be impossible. Here's what I tell every single one of them: it's not. It becomes routine faster than you'd believe. But you do need to understand what you're dealing with first.
 
+
+<div class="value-module">
+  <div class="vm-head">Blood Glucose Target Ranges Reference</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this quick-reference table to interpret your dog's glucose readings and know when to act.</p>
+    <table><thead><tr><th>Glucose Reading (mg/dL)</th><th>Status</th><th>What You Should Do</th><th>Timing Context</th></tr></thead><tbody><tr><td>Below 60</td><td>Hypoglycemia (dangerous)</td><td>Give corn syrup or honey on gums immediately; call vet/emergency clinic</td><td>Any time</td></tr><tr><td>60–80</td><td>Low (caution zone)</td><td>Feed a small meal; recheck in 30 min; skip or reduce insulin dose only per vet protocol</td><td>Pre-insulin check</td></tr><tr><td>80–150</td><td>Ideal fasting range</td><td>Proceed with normal insulin and feeding routine</td><td>Pre-meal/pre-insulin</td></tr><tr><td>150–250</td><td>Acceptable post-meal</td><td>No action needed if within 2–4 hours of eating</td><td>Post-meal peak</td></tr><tr><td>250–400</td><td>Elevated (common early in regulation)</td><td>Continue current protocol; note for next vet review</td><td>Any time during regulation</td></tr><tr><td>Above 400</td><td>Poorly controlled</td><td>Contact vet within 24–48 hours for dose adjustment discussion</td><td>Persistent readings</td></tr><tr><td>Above 500 with vomiting/lethargy</td><td>Possible diabetic ketoacidosis</td><td>Emergency vet visit immediately</td><td>Any time</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Dog Diabetes Actually Is (And Why It's Not the Same as Human Diabetes)
 
 Canine diabetes is almost always Type 1, which means the pancreas has stopped producing enough insulin to regulate blood glucose. This is different from Type 2 diabetes, which is more common in cats and in humans. Your dog's body can't move glucose from the bloodstream into the cells that need it for energy, so blood sugar climbs while cells essentially starve. That's why you see the weight loss despite a normal appetite: the body starts burning fat and muscle instead.

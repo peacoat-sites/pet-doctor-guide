@@ -32,6 +32,16 @@ Hyperthyroidism is the most common hormonal disorder in older cats. We're talkin
 
 What most people don't know is that once it's confirmed, you have four legitimate treatment paths in front of you -- and choosing the right one is genuinely more complicated than most vets have time to explain in a 20-minute appointment.
 
+
+<div class="value-module">
+  <div class="vm-head">Treatment Comparison: Cost, Efficacy, Commitment</div>
+  <div class="vm-body">
+    <p class="vm-intro">Each of the four hyperthyroidism treatments differs significantly in upfront cost, long-term expense, cure potential, and daily demands—here's how they compare for decision-making.</p>
+    <table><thead><tr><th>Treatment</th><th>Upfront Cost (Illustrative US Range)</th><th>Ongoing Annual Cost</th><th>Curative?</th><th>Daily Owner Commitment</th><th>Best Candidate</th></tr></thead><tbody><tr><td>Methimazole (oral)</td><td>$50–$150 (initial Rx + first labs)</td><td>$300–$600 (medication + monitoring bloodwork)</td><td>No—lifelong</td><td>1–2 pills daily; quarterly labs</td><td>Cats needing a trial period; owners on limited budget; cats with uncertain kidney status</td></tr><tr><td>Methimazole (transdermal gel)</td><td>$50–$150</td><td>$400–$800</td><td>No—lifelong</td><td>1–2 ear applications daily; quarterly labs</td><td>Cats impossible to pill; owners accepting slightly less predictable absorption</td></tr><tr><td>Radioactive Iodine (I-131)</td><td>$1,000–$2,500 (single treatment + hospitalization)</td><td>Minimal (occasional monitoring)</td><td>Yes—95%+ cure rate</td><td>None after recovery; 1–2 week isolation post-treatment</td><td>Otherwise healthy cats; owners wanting one-time cure; no concurrent severe kidney disease</td></tr><tr><td>Surgical Thyroidectomy</td><td>$800–$2,000 (varies by region/complexity)</td><td>Minimal if curative; possible hormone supplementation</td><td>Yes—if all abnormal tissue removed</td><td>Post-op recovery care; risk of recurrence if ectopic tissue</td><td>Cats unsuitable for I-131; unilateral disease; facilities without I-131 access</td></tr><tr><td>Prescription Diet (y/d)</td><td>$0–$50 (no procedure)</td><td>$900–$1,200 (exclusive diet cost)</td><td>No—lifelong</td><td>Strict feeding control; no treats or outside food</td><td>Cats that won't tolerate medication; single-cat households with compliant feeding</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Methimazole: The Go-To Starting Point
 
 The majority of cats in the US start on methimazole (brand name Tapazole, or compounded versions). It's an antithyroid medication that blocks the production of excess thyroid hormone. It doesn't cure anything -- you stop giving it, the levels climb back up -- but it controls the disease, and it's relatively inexpensive.

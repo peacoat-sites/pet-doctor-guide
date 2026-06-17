@@ -28,6 +28,16 @@ author_bio: "Michelle Chen has studied cat behavior through years of shelter vol
 
 Most people assume the hard part is over once their cat wakes up from anesthesia. I thought the same thing, years ago, before I watched a routine spay turn into a three-day emergency because the owner didn't know what "normal recovery" actually looked like. The cat had been licking her incision obsessively, the owner figured it was just grooming, and by the time she called us, the wound was open and infected. The surgery itself was textbook. The recovery was where things fell apart. That gap between "procedure done" and "cat fully healed" is where most post-surgical complications live, and it's almost entirely preventable with the right information.
 
+
+<div class="value-module">
+  <div class="vm-head">Incision Check: Daily Warning Signs</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist each day for the first 10–14 days post-surgery to catch problems before they escalate.</p>
+    <table><thead><tr><th>What to Check</th><th>Normal Range</th><th>Call Vet Within 24 Hours</th><th>Emergency (Call Now)</th></tr></thead><tbody><tr><td>Swelling around incision</td><td>Mild puffiness, decreasing daily</td><td>Swelling increasing after day 2–3</td><td>Sudden large swelling, feels hot</td></tr><tr><td>Discharge</td><td>None, or tiny amount of clear fluid day 1</td><td>Any discharge after day 2; yellow/green tint</td><td>Active bleeding, pus, foul odor</td></tr><tr><td>Incision edges</td><td>Closed, slightly pink, edges touching</td><td>Gap &lt;¼ inch, redness spreading beyond ½ inch from incision</td><td>Gap &gt;¼ inch, visible tissue beneath skin</td></tr><tr><td>Skin color near site</td><td>Pink or normal fur-covered skin</td><td>Redness extending &gt;1 inch from incision line</td><td>Purple, black, or grey discoloration</td></tr><tr><td>Licking/chewing behavior</td><td>Occasional glance, no contact</td><td>Frequent attempts despite e-collar</td><td>E-collar removed, active wound damage visible</td></tr><tr><td>Sutures/staples</td><td>All intact, evenly spaced</td><td>1 suture loose or missing, skin still closed</td><td>Multiple sutures missing, wound opening</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the First 24 Hours Actually Look Like
 
 Here's what surprises most people: the first 24 hours post-anesthesia can look genuinely alarming even when everything is going fine.

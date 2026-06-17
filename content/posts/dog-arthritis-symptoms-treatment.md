@@ -28,6 +28,16 @@ author_bio: "James Whitfield has spent his career studying animal nutrition with
 
 Your normally enthusiastic Labrador won't jump into the car anymore. He hesitates at the bottom of the stairs, looks up at you, and then just stands there. You assume he's being lazy or stubborn. But here's what I've seen play out dozens of times in the clinic: that dog has been hurting for months, quietly compensating, and the car hesitation is just the moment the pain finally outpaced his ability to hide it. Arthritis in dogs is sneaky. It doesn't announce itself with dramatic limping on day one. It creeps in slowly, and by the time most owners notice something is wrong, the joint disease is already well established.
 
+
+<div class="value-module">
+  <div class="vm-head">Arthritis Symptom Severity Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to assess your dog's current arthritis signs and determine when veterinary evaluation is needed.</p>
+    <table><thead><tr><th>Sign Category</th><th>Mild (Monitor at Home)</th><th>Moderate (Vet Visit Within 2 Weeks)</th><th>Severe (Vet Visit Within 48 Hours)</th></tr></thead><tbody><tr><td>Morning stiffness</td><td>Slow to rise but loosens up in under 5 minutes</td><td>Stiffness persists 10–20 minutes after waking</td><td>Cannot rise without assistance or stiffness lasts over 30 minutes</td></tr><tr><td>Activity changes</td><td>Hesitates before jumping but still does it</td><td>Avoids stairs, car entry, or furniture entirely</td><td>Refuses walks or stops mid-walk and won't continue</td></tr><tr><td>Gait abnormalities</td><td>Slight favoring of one leg after exercise</td><td>Visible limp that appears daily</td><td>Non-weight-bearing on one or more limbs</td></tr><tr><td>Behavioral shifts</td><td>Less playful but still engages when encouraged</td><td>Growls or moves away when touched near joints</td><td>Snaps when approached, or hides and refuses interaction</td></tr><tr><td>Muscle changes</td><td>Subtle thinning over hips or shoulders</td><td>Noticeable asymmetry between limbs</td><td>Pronounced muscle wasting with visible bone prominences</td></tr><tr><td>Sleep and rest</td><td>Repositions more often at night</td><td>Panting, pacing, or unable to settle for sleep</td><td>Vocalizing (whimpering or crying) when lying down or getting up</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Dog Arthritis Actually Is (And Why It's So Common)
 
 Osteoarthritis, which is what most people mean when they say "dog arthritis," is a progressive, degenerative joint disease. Cartilage, the smooth tissue that cushions the ends of bones, breaks down over time. Once that cushion is gone or thinning, bone rubs on bone, inflammation sets in, and every movement through that joint causes pain.

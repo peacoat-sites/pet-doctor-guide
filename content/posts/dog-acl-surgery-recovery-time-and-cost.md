@@ -21,6 +21,16 @@ A torn CCL (that's the canine equivalent of an ACL, though technically we call i
 
 Here's what I tell people: this is a long road, but it's manageable. Dogs do extremely well after CCL repair. The more you understand what's ahead, the better you can advocate for your dog and plan realistically.
 
+
+<div class="value-module">
+  <div class="vm-head">CCL Surgery Cost & Recovery Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here's a direct comparison of the three main surgical options to help you weigh cost, recovery time, and suitability for your dog.</p>
+    <table><thead><tr><th>Factor</th><th>TPLO</th><th>TTA</th><th>Lateral Suture</th></tr></thead><tbody><tr><td>Typical cost range</td><td>$3,500–$6,500</td><td>$3,000–$5,500</td><td>$1,200–$2,500</td></tr><tr><td>Best for</td><td>Dogs over 25 lbs; active/athletic dogs</td><td>Dogs over 25 lbs; certain knee angles</td><td>Dogs under 30 lbs; less active dogs</td></tr><tr><td>Strict crate rest</td><td>8–12 weeks</td><td>8–10 weeks</td><td>8–12 weeks</td></tr><tr><td>Leash-only walks begin</td><td>Week 2–4 (5-min increments)</td><td>Week 2–4</td><td>Week 3–4</td></tr><tr><td>Return to normal activity</td><td>4–6 months</td><td>4–6 months</td><td>3–4 months (small dogs)</td></tr><tr><td>Long-term success rate</td><td>90–95%</td><td>85–90%</td><td>85% (small dogs); lower in large breeds</td></tr><tr><td>Bone healing required?</td><td>Yes (cut tibia must fuse)</td><td>Yes</td><td>No</td></tr><tr><td>Common add-on costs</td><td>X-rays ($200–$400), meds ($50–$150), physical therapy ($50–$100/session), follow-up visits ($75–$150 each)</td><td>Same as TPLO</td><td>Same, but fewer follow-ups typical</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Surgery Actually Fixes (and What It Doesn't)
 
 The CCL is a ligament inside the knee joint that stabilizes the tibia against the femur. When it tears, the joint becomes unstable, which is painful and causes immediate lameness. Left untreated, that instability accelerates arthritis in the joint. Fast.

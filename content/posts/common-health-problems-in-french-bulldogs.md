@@ -32,6 +32,16 @@ Most articles about French Bulldog health read like a liability waiver: vague li
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Frenchie Symptom Severity Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to distinguish routine management from urgent situations across the most common French Bulldog health problems.</p>
+    <table><thead><tr><th>Condition</th><th>Normal for Breed (Monitor)</th><th>Call Vet Within 24 Hours</th><th>Emergency – Go Now</th></tr></thead><tbody><tr><td>Airway (BOAS)</td><td>Audible breathing at rest; snoring during sleep; occasional reverse sneezing</td><td>Gagging after meals increasing in frequency; exercise intolerance worsening; new honking sounds</td><td>Open-mouth breathing won't resolve with cooling; blue/gray/white gums; collapse; breathing rate &gt;40/min at rest</td></tr><tr><td>Skin/Allergies</td><td>Mild seasonal itching; occasional paw licking; routine fold cleaning needed</td><td>Persistent scratching causing hair loss; red/inflamed skin folds; head shaking &gt;5x daily</td><td>Facial swelling (possible anaphylaxis); hot, painful skin with discharge; hives spreading rapidly</td></tr><tr><td>Spine (IVDD)</td><td>Reluctance to jump on furniture; mild stiffness after rest</td><td>Yelping when picked up; hunched posture; reluctance to climb stairs</td><td>Dragging rear legs; sudden inability to walk; loss of bladder/bowel control</td></tr><tr><td>Eyes</td><td>Mild tear staining; occasional clear discharge</td><td>Squinting; pawing at eye; thick yellow/green discharge; cloudiness</td><td>Eye bulging from socket; visible scratch/ulcer on cornea; sudden blindness</td></tr><tr><td>GI/Eating</td><td>Soft stool 1x after dietary change; occasional regurgitation of food eaten too fast</td><td>Vomiting &gt;2x in 24 hours; diarrhea lasting &gt;48 hours; appetite loss &gt;1 day</td><td>Nonproductive retching (bloat risk); bloody vomit/stool; abdominal distension with pain</td></tr><tr><td>Overheating</td><td>Panting after 10–15 min mild exercise; seeking cool floors</td><td>Recovery from panting takes &gt;30 min in AC; refusing walks in temperatures previously tolerated</td><td>Rectal temp &gt;104°F; staggering; vomiting; unresponsive to cooling within 10 min</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Airway Problem Nobody Explains Well Enough
 
 Brachycephalic Obstructive Airway Syndrome. BOAS. It sounds clinical and distant, but if you own a Frenchie, it's just Tuesday.
