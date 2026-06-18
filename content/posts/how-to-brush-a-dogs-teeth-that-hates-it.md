@@ -3,7 +3,7 @@ title: "How To Brush A Dog'S Teeth That Hates It"
 date: 2026-06-14T19:06:59.817658+00:00
 draft: false
 description: "Learn how to brush a dog's teeth that hates it with gentle techniques, tasty toothpaste, and a step-by-step approach that makes the process stress-free for you "
-image: "https://images.pexels.com/photos/7086233/pexels-photo-7086233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6816865/pexels-photo-6816865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["brush", "dog's", "teeth", "that", "hates"]
 author: "James Whitfield"
