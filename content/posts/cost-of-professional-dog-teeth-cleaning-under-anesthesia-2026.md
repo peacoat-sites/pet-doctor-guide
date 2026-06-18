@@ -1,12 +1,12 @@
 ---
-title: "Cost Of Professional Dog Teeth Cleaning Under Anesthesia 2026"
+title: "Cost Of Professional Dog Teeth Cleaning Under Anesthesia"
 date: 2026-06-08T19:39:41.829392+00:00
 draft: false
 description: "Discover the 2026 cost of professional dog teeth cleaning under anesthesia, what factors affect pricing, and how to save on your pet's dental care."
 image: "https://images.pexels.com/photos/10800307/pexels-photo-10800307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Dental Health"]
 tags: ["cost", "professional", "teeth", "cleaning", "under"]
-slug: "cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026"
+slug: "cost-of-professional-dog-teeth-cleaning-under-anesthesia"
 affiliate_disclosure: true
 faqs:
   - q: "How often does a dog actually need a professional dental cleaning?"
