@@ -27,7 +27,7 @@ Here's what I tell people: this is a long road, but it's manageable. Dogs do ext
   <div class="vm-body">
     <p class="vm-intro">Here's a direct comparison of the three main surgical options to help you weigh cost, recovery time, and suitability for your dog.</p>
     <table><thead><tr><th>Factor</th><th>TPLO</th><th>TTA</th><th>Lateral Suture</th></tr></thead><tbody><tr><td>Typical cost range</td><td>$3,500–$6,500</td><td>$3,000–$5,500</td><td>$1,200–$2,500</td></tr><tr><td>Best for</td><td>Dogs over 25 lbs; active/athletic dogs</td><td>Dogs over 25 lbs; certain knee angles</td><td>Dogs under 30 lbs; less active dogs</td></tr><tr><td>Strict crate rest</td><td>8–12 weeks</td><td>8–10 weeks</td><td>8–12 weeks</td></tr><tr><td>Leash-only walks begin</td><td>Week 2–4 (5-min increments)</td><td>Week 2–4</td><td>Week 3–4</td></tr><tr><td>Return to normal activity</td><td>4–6 months</td><td>4–6 months</td><td>3–4 months (small dogs)</td></tr><tr><td>Long-term success rate</td><td>90–95%</td><td>85–90%</td><td>85% (small dogs); lower in large breeds</td></tr><tr><td>Bone healing required?</td><td>Yes (cut tibia must fuse)</td><td>Yes</td><td>No</td></tr><tr><td>Common add-on costs</td><td>X-rays ($200–$400), meds ($50–$150), physical therapy ($50–$100/session), follow-up visits ($75–$150 each)</td><td>Same as TPLO</td><td>Same, but fewer follow-ups typical</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -115,7 +115,7 @@ Six months from now, most dogs who've gone through TPLO are running around like 
 
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [Masood Aslami](https://www.pexels.com/@masoodaslami) via Pexels*
@@ -130,8 +130,8 @@ Six months from now, most dogs who've gone through TPLO are running around like 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

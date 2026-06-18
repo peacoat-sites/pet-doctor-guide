@@ -25,7 +25,7 @@ faqs:
     a: "There's no single threshold. Surgical decisions are based on the dog's age, degree of joint change, response to conservative management, and quality of life. Some dogs manage well without surgery for years; others clearly don't respond to medical management and are better candidates for intervention. This is genuinely a conversation that belongs between you and a veterinary orthopedic specialist, not a general rule anyone can give you. If your gut is telling you something about your puppy's movement, trust it. You're with that dog every day. Vet exams happen for 15 minutes twice a year. The ob"
 ---
 
-Your golden retriever puppy is 6 months old, running circles in the backyard one minute, and the next he's sitting down mid-play with a weird little grunt you've never heard before. You figure he's just tired. A month later you notice he's started doing this bunny-hop thing when he runs — both back legs pushing off together instead of alternating. Your gut says something's off. You're right.
+Your golden retriever puppy is 6 months old, running circles in the backyard one minute, and the next he's sitting down mid-play with a weird little grunt you've never heard before. You figure he's just tired. A month later you notice he's started doing this bunny-hop thing when he runs, both back legs pushing off together instead of alternating. Your gut says something's off. You're right.
 
 That bunny hop is one of the most consistent early signs of hip dysplasia I've seen in 13 years of clinic work, and I'd estimate half the owners who come in have been watching it for weeks before they say anything, assuming it's a puppy thing that'll resolve on its own. Sometimes it does. Usually it doesn't.
 
@@ -47,7 +47,7 @@ One thing I always ask clients: does your puppy seem less excited to exercise th
 
 ## The Age Window That Matters Most
 
-> **Helpful resource:** [Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+> **Helpful resource:** [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
@@ -82,7 +82,7 @@ For a puppy who's going to be managing this long-term, an orthopedic dog bed mak
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
 
@@ -99,6 +99,6 @@ For a puppy who's going to be managing this long-term, an orthopedic dog bed mak
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

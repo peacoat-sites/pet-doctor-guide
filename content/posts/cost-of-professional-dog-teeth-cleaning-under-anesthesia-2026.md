@@ -36,9 +36,9 @@ What most people don't realize is how little of that bill is actually "the clean
 <div class="value-module">
   <div class="vm-head">Cost Breakdown by Dog Size</div>
   <div class="vm-body">
-    <p class="vm-intro">Procedure costs scale with body weight because larger dogs require more anesthesia, longer procedure times, and higher drug dosages—here's how that translates to your estimate.</p>
+    <p class="vm-intro">Procedure costs scale with body weight because larger dogs require more anesthesia, longer procedure times, and higher drug dosages-here's how that translates to your estimate.</p>
     <table><thead><tr><th>Dog Size</th><th>Weight Range</th><th>Anesthesia Time</th><th>Typical Cost Range (Routine Cleaning, No Extractions)</th><th>Key Cost Drivers</th></tr></thead><tbody><tr><td>Small</td><td>Under 20 lbs</td><td>45–60 min</td><td>$450–$800</td><td>Lower drug volume; often higher dental disease incidence (toy breeds), which may add extractions</td></tr><tr><td>Medium</td><td>20–50 lbs</td><td>60–75 min</td><td>$550–$1,000</td><td>Moderate drug/fluid requirements; baseline staffing needs</td></tr><tr><td>Large</td><td>50–90 lbs</td><td>75–90 min</td><td>$700–$1,300</td><td>Higher anesthesia volume; may require second tech for positioning</td></tr><tr><td>Giant</td><td>Over 90 lbs</td><td>90–120 min</td><td>$900–$1,800</td><td>Significantly more drugs, fluids, and monitoring time; specialized intubation equipment</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -124,8 +124,8 @@ That client with the beagle? She went ahead with the cleaning. They found two te
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

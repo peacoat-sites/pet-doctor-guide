@@ -36,7 +36,7 @@ Here's what I've learned after 13 years of fielding these panicked calls at the 
   <div class="vm-body">
     <p class="vm-intro">Use these observable signs to help determine whether your cat's litter box avoidance likely needs a vet visit first or a behavioral/environmental investigation.</p>
     <table><thead><tr><th>Sign or Pattern</th><th>Suggests Medical Cause</th><th>Suggests Behavioral/Environmental</th></tr></thead><tbody><tr><td>Frequency of urination attempts</td><td>Frequent small amounts, straining, or crying while urinating</td><td>Normal-sized urinations, just in wrong locations</td></tr><tr><td>Location choices</td><td>Random spots, smooth cool surfaces (sinks, tile, bathtub)</td><td>Consistent alternative spots, often soft surfaces or specific rooms</td></tr><tr><td>Posture while eliminating</td><td>Hunched, tense, vocalizing, or staying in position longer than usual</td><td>Relaxed, normal posture in the chosen spot</td></tr><tr><td>Other behavior changes</td><td>Lethargy, hiding, appetite loss, excessive genital licking</td><td>Otherwise acting normal between incidents</td></tr><tr><td>Onset timing</td><td>Sudden onset with no household changes</td><td>Correlates with new pet, move, schedule change, or new litter/box</td></tr><tr><td>Urine appearance</td><td>Blood-tinged, unusually strong odor, or cloudy</td><td>Normal color and consistency</td></tr><tr><td>Age consideration</td><td>Senior cats (10+): higher risk of kidney disease, diabetes, arthritis</td><td>Any age, but especially cats with history of anxiety or stress sensitivity</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -150,7 +150,7 @@ Litter box problems are fixable in the vast majority of cases. The cats who end 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32) — Multi-strain probiotic for both dogs and cats — supports digestive health and immune function.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
 

@@ -34,7 +34,7 @@ Your normally enthusiastic Labrador won't jump into the car anymore. He hesitate
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to assess your dog's current arthritis signs and determine when veterinary evaluation is needed.</p>
     <table><thead><tr><th>Sign Category</th><th>Mild (Monitor at Home)</th><th>Moderate (Vet Visit Within 2 Weeks)</th><th>Severe (Vet Visit Within 48 Hours)</th></tr></thead><tbody><tr><td>Morning stiffness</td><td>Slow to rise but loosens up in under 5 minutes</td><td>Stiffness persists 10–20 minutes after waking</td><td>Cannot rise without assistance or stiffness lasts over 30 minutes</td></tr><tr><td>Activity changes</td><td>Hesitates before jumping but still does it</td><td>Avoids stairs, car entry, or furniture entirely</td><td>Refuses walks or stops mid-walk and won't continue</td></tr><tr><td>Gait abnormalities</td><td>Slight favoring of one leg after exercise</td><td>Visible limp that appears daily</td><td>Non-weight-bearing on one or more limbs</td></tr><tr><td>Behavioral shifts</td><td>Less playful but still engages when encouraged</td><td>Growls or moves away when touched near joints</td><td>Snaps when approached, or hides and refuses interaction</td></tr><tr><td>Muscle changes</td><td>Subtle thinning over hips or shoulders</td><td>Noticeable asymmetry between limbs</td><td>Pronounced muscle wasting with visible bone prominences</td></tr><tr><td>Sleep and rest</td><td>Repositions more often at night</td><td>Panting, pacing, or unable to settle for sleep</td><td>Vocalizing (whimpering or crying) when lying down or getting up</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -153,6 +153,6 @@ Managing a dog with arthritis is a long game. There will be medication adjustmen
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

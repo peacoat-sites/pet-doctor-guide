@@ -37,8 +37,8 @@ Let me tell you what's actually going on when this happens.
   <div class="vm-head">When to Worry: 48-Hour Assessment Checklist</div>
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to evaluate whether your non-eating but 'normal-acting' cat needs immediate veterinary attention versus watchful waiting.</p>
-    <table><caption>48-Hour Cat Appetite Loss Assessment</caption><thead><tr><th>Factor to Check</th><th>Lower Concern</th><th>Higher Concern — Call Vet</th></tr></thead><tbody><tr><td>Weight category</td><td>Healthy adult weight, not overweight</td><td>Overweight/obese (hepatic lipidosis risk increases significantly)</td></tr><tr><td>Water intake</td><td>Still drinking normal amounts</td><td>Reduced drinking or no water for 24+ hours</td></tr><tr><td>Litter box output</td><td>Normal urination and defecation</td><td>No urine in 24 hours, straining, or diarrhea</td></tr><tr><td>Age</td><td>Adult cat (2-10 years)</td><td>Kitten under 6 months or senior cat (12+ years)</td></tr><tr><td>Underlying conditions</td><td>No known health issues</td><td>Diabetes, kidney disease, hyperthyroidism, or other chronic condition</td></tr><tr><td>Gum color</td><td>Pink and moist</td><td>Pale, yellow-tinged, tacky/dry, or bright red</td></tr><tr><td>Recent changes</td><td>New food, moved bowl, household stress identified</td><td>No identifiable cause despite review</td></tr><tr><td>Vomiting</td><td>None</td><td>Any vomiting, even once</td></tr><tr><td>Breath odor</td><td>Normal or mild</td><td>Unusually foul, ammonia-like, or fruity smell</td></tr></tbody><tfoot><tr><td colspan="3"><strong>Rule of thumb:</strong> 2+ items in the "Higher Concern" column = same-day vet visit recommended. Even one high-concern factor in an overweight cat warrants calling your vet, as fatty liver disease can develop within 2-3 days of not eating.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <table><caption>48-Hour Cat Appetite Loss Assessment</caption><thead><tr><th>Factor to Check</th><th>Lower Concern</th><th>Higher Concern, Call Vet</th></tr></thead><tbody><tr><td>Weight category</td><td>Healthy adult weight, not overweight</td><td>Overweight/obese (hepatic lipidosis risk increases significantly)</td></tr><tr><td>Water intake</td><td>Still drinking normal amounts</td><td>Reduced drinking or no water for 24+ hours</td></tr><tr><td>Litter box output</td><td>Normal urination and defecation</td><td>No urine in 24 hours, straining, or diarrhea</td></tr><tr><td>Age</td><td>Adult cat (2-10 years)</td><td>Kitten under 6 months or senior cat (12+ years)</td></tr><tr><td>Underlying conditions</td><td>No known health issues</td><td>Diabetes, kidney disease, hyperthyroidism, or other chronic condition</td></tr><tr><td>Gum color</td><td>Pink and moist</td><td>Pale, yellow-tinged, tacky/dry, or bright red</td></tr><tr><td>Recent changes</td><td>New food, moved bowl, household stress identified</td><td>No identifiable cause despite review</td></tr><tr><td>Vomiting</td><td>None</td><td>Any vomiting, even once</td></tr><tr><td>Breath odor</td><td>Normal or mild</td><td>Unusually foul, ammonia-like, or fruity smell</td></tr></tbody><tfoot><tr><td colspan="3"><strong>Rule of thumb:</strong> 2+ items in the "Higher Concern" column = same-day vet visit recommended. Even one high-concern factor in an overweight cat warrants calling your vet, as fatty liver disease can develop within 2-3 days of not eating.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ For everything else, call your regular vet and describe what you're seeing. A go
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
 
 
@@ -116,8 +116,8 @@ For everything else, call your regular vet and describe what you're seeing. A go
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32) — The #1 vet-recommended probiotic for dogs — prescribed to manage diarrhea, vomiting, and intestinal upset.
-- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32) — Multi-strain probiotic for both dogs and cats — supports digestive health and immune function.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
+- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
 

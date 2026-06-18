@@ -34,9 +34,9 @@ Let's talk about what works, what's overhyped, and how to think about supplement
 <div class="value-module">
   <div class="vm-head">Dosing Thresholds by Dog Weight</div>
   <div class="vm-body">
-    <p class="vm-intro">Most joint supplements fail because owners unknowingly underdose—here are the clinically-relevant daily targets for the four core arthritis supplements, scaled by weight.</p>
+    <p class="vm-intro">Most joint supplements fail because owners unknowingly underdose-here are the clinically-relevant daily targets for the four core arthritis supplements, scaled by weight.</p>
     <table><caption>Daily Supplement Dosing Guide for Senior Dogs with Arthritis</caption><thead><tr><th>Dog Weight</th><th>Glucosamine</th><th>Chondroitin</th><th>EPA+DHA (Omega-3)</th><th>Green-Lipped Mussel</th></tr></thead><tbody><tr><td>10–25 lb (small)</td><td>500–750 mg</td><td>200–350 mg</td><td>500–750 mg</td><td>15–20 mg/kg</td></tr><tr><td>26–50 lb (medium)</td><td>1,000–1,250 mg</td><td>400–600 mg</td><td>1,000–1,500 mg</td><td>15–20 mg/kg</td></tr><tr><td>51–75 lb (large)</td><td>1,500 mg</td><td>600–800 mg</td><td>1,500–2,000 mg</td><td>15–20 mg/kg</td></tr><tr><td>76–100+ lb (giant)</td><td>1,500–2,000 mg</td><td>800–1,200 mg</td><td>2,000–2,500 mg</td><td>15–20 mg/kg</td></tr></tbody><tfoot><tr><td colspan="5">Loading phase (first 4–6 weeks): double the glucosamine/chondroitin dose, then taper to maintenance. Omega-3 figures refer to combined EPA+DHA, not total fish oil. Always confirm with your veterinarian before starting a regimen.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -119,7 +119,7 @@ Your dog can't tell you where it hurts or whether the supplements are helping. T
 
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
 *Photo: [Alessandro Antonio Serra](https://www.pexels.com/@alessandro-antonio-serra-2148929360) via Pexels*
@@ -136,8 +136,8 @@ Your dog can't tell you where it hurts or whether the supplements are helping. T
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

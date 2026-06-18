@@ -36,9 +36,9 @@ High-protein diets work differently. Protein is thermogenic, meaning the body bu
 <div class="value-module">
   <div class="vm-head">Protein & Calorie Comparison: Weight Loss Kibbles</div>
   <div class="vm-body">
-    <p class="vm-intro">This table compares typical nutritional profiles across diet food categories to illustrate why label claims can be misleading—use dry matter protein as your true comparison metric.</p>
+    <p class="vm-intro">This table compares typical nutritional profiles across diet food categories to illustrate why label claims can be misleading-use dry matter protein as your true comparison metric.</p>
     <table><thead><tr><th>Food Category</th><th>Typical As-Fed Protein</th><th>Typical Dry Matter Protein</th><th>Calories (per cup)</th><th>Weight Loss Suitability</th></tr></thead><tbody><tr><td>Standard "Light" kibble</td><td>18–24%</td><td>20–27%</td><td>280–320</td><td>Poor: low protein promotes muscle loss</td></tr><tr><td>Premium weight management</td><td>26–30%</td><td>28–33%</td><td>250–300</td><td>Moderate: adequate protein but watch carb fillers</td></tr><tr><td>High-protein weight loss formula</td><td>32–38%</td><td>35–42%</td><td>300–360</td><td>Good: preserves muscle; requires strict portioning</td></tr><tr><td>Veterinary metabolic diet</td><td>28–35%</td><td>30–38%</td><td>240–290</td><td>Best: formulated for satiety + muscle retention</td></tr><tr><td>Raw/freeze-dried (rehydrated)</td><td>12–16% as-fed</td><td>40–55%</td><td>Varies widely</td><td>Variable: very high protein but hard to calorie-control</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -112,6 +112,6 @@ Watching a dog get to a healthy weight is genuinely one of the more satisfying t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

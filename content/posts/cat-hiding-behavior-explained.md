@@ -36,7 +36,7 @@ You came home from work, called your cat's name, and heard nothing. No jingling 
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to evaluate whether your cat's hiding requires monitoring, a vet call, or immediate action.</p>
     <table><caption>Cat Hiding Behavior Decision Matrix</caption><thead><tr><th>Factor</th><th>Likely Normal</th><th>Schedule Vet Visit</th><th>Urgent/Emergency</th></tr></thead><tbody><tr><td>Duration</td><td>Under 4 hours; emerges for food/litter</td><td>12–24 hours with reduced activity</td><td>24+ hours without emerging for food or water</td></tr><tr><td>Eating/Drinking</td><td>Normal appetite when offered</td><td>Eating less than 50% of normal for 1 day</td><td>No food/water intake for 24+ hours</td></tr><tr><td>Litter Box Use</td><td>Using normally</td><td>Decreased frequency or straining observed</td><td>No urination in 12+ hours (especially male cats)</td></tr><tr><td>Known Trigger</td><td>New guest, loud noise, moved furniture, vet visit</td><td>Minor household change but prolonged hiding</td><td>No identifiable trigger; sudden onset</td></tr><tr><td>Response When Found</td><td>Alert, may hiss or leave but mobile</td><td>Lethargic, slow to respond, reluctant to move</td><td>Unresponsive, crying when touched, or unable to stand</td></tr><tr><td>Physical Signs</td><td>Normal breathing, eyes, posture</td><td>Slightly hunched, third eyelid visible, dull coat</td><td>Open-mouth breathing, vomiting, distended abdomen, limping</td></tr><tr><td>Baseline Comparison</td><td>Cat has history of hiding in similar situations</td><td>Hiding more than typical for this cat</td><td>Dramatic departure from cat's normal behavior</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -177,7 +177,7 @@ Cats communicate by subtraction. They take things away: their presence, their ap
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32) — Multi-strain probiotic for both dogs and cats — supports digestive health and immune function.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
 

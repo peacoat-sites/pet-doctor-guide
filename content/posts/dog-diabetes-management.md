@@ -34,7 +34,7 @@ Your dog has been drinking water like he's trying to drain the bowl, getting up 
   <div class="vm-body">
     <p class="vm-intro">Use this quick-reference table to interpret your dog's glucose readings and know when to act.</p>
     <table><thead><tr><th>Glucose Reading (mg/dL)</th><th>Status</th><th>What You Should Do</th><th>Timing Context</th></tr></thead><tbody><tr><td>Below 60</td><td>Hypoglycemia (dangerous)</td><td>Give corn syrup or honey on gums immediately; call vet/emergency clinic</td><td>Any time</td></tr><tr><td>60–80</td><td>Low (caution zone)</td><td>Feed a small meal; recheck in 30 min; skip or reduce insulin dose only per vet protocol</td><td>Pre-insulin check</td></tr><tr><td>80–150</td><td>Ideal fasting range</td><td>Proceed with normal insulin and feeding routine</td><td>Pre-meal/pre-insulin</td></tr><tr><td>150–250</td><td>Acceptable post-meal</td><td>No action needed if within 2–4 hours of eating</td><td>Post-meal peak</td></tr><tr><td>250–400</td><td>Elevated (common early in regulation)</td><td>Continue current protocol; note for next vet review</td><td>Any time during regulation</td></tr><tr><td>Above 400</td><td>Poorly controlled</td><td>Contact vet within 24–48 hours for dose adjustment discussion</td><td>Persistent readings</td></tr><tr><td>Above 500 with vomiting/lethargy</td><td>Possible diabetic ketoacidosis</td><td>Emergency vet visit immediately</td><td>Any time</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -135,6 +135,6 @@ The learning curve is real, and the first few weeks are the hardest. But I've wa
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

@@ -38,7 +38,7 @@ Most articles about French Bulldog health read like a liability waiver: vague li
   <div class="vm-body">
     <p class="vm-intro">Use this matrix to distinguish routine management from urgent situations across the most common French Bulldog health problems.</p>
     <table><thead><tr><th>Condition</th><th>Normal for Breed (Monitor)</th><th>Call Vet Within 24 Hours</th><th>Emergency – Go Now</th></tr></thead><tbody><tr><td>Airway (BOAS)</td><td>Audible breathing at rest; snoring during sleep; occasional reverse sneezing</td><td>Gagging after meals increasing in frequency; exercise intolerance worsening; new honking sounds</td><td>Open-mouth breathing won't resolve with cooling; blue/gray/white gums; collapse; breathing rate &gt;40/min at rest</td></tr><tr><td>Skin/Allergies</td><td>Mild seasonal itching; occasional paw licking; routine fold cleaning needed</td><td>Persistent scratching causing hair loss; red/inflamed skin folds; head shaking &gt;5x daily</td><td>Facial swelling (possible anaphylaxis); hot, painful skin with discharge; hives spreading rapidly</td></tr><tr><td>Spine (IVDD)</td><td>Reluctance to jump on furniture; mild stiffness after rest</td><td>Yelping when picked up; hunched posture; reluctance to climb stairs</td><td>Dragging rear legs; sudden inability to walk; loss of bladder/bowel control</td></tr><tr><td>Eyes</td><td>Mild tear staining; occasional clear discharge</td><td>Squinting; pawing at eye; thick yellow/green discharge; cloudiness</td><td>Eye bulging from socket; visible scratch/ulcer on cornea; sudden blindness</td></tr><tr><td>GI/Eating</td><td>Soft stool 1x after dietary change; occasional regurgitation of food eaten too fast</td><td>Vomiting &gt;2x in 24 hours; diarrhea lasting &gt;48 hours; appetite loss &gt;1 day</td><td>Nonproductive retching (bloat risk); bloody vomit/stool; abdominal distension with pain</td></tr><tr><td>Overheating</td><td>Panting after 10–15 min mild exercise; seeking cool floors</td><td>Recovery from panting takes &gt;30 min in AC; refusing walks in temperatures previously tolerated</td><td>Rectal temp &gt;104°F; staggering; vomiting; unresponsive to cooling within 10 min</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -119,7 +119,7 @@ The avoidance strategy is simple: early morning or evening walks, hard stop on o
 
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [🇻🇳🇻🇳 Việt Anh Nguyễn 🇻🇳🇻🇳](https://www.pexels.com/@vi-t-anh-nguy-n-2150409023) via Pexels*
@@ -136,6 +136,6 @@ The avoidance strategy is simple: early morning or evening walks, hard stop on o
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

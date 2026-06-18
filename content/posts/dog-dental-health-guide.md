@@ -34,7 +34,7 @@ Most dog owners don't realize their pet has a dental problem until the smell hit
   <div class="vm-body">
     <p class="vm-intro">Use this checklist during monthly mouth inspections to catch problems before they become painful or expensive.</p>
     <table><thead><tr><th>What to Check</th><th>Healthy Sign</th><th>Warning Sign</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Gum color</td><td>Pink, consistent tone</td><td>Red, white, or purple areas</td><td>Any color change lasting 2+ days → vet visit</td></tr><tr><td>Gum texture</td><td>Firm, smooth surface</td><td>Swollen, bleeding when touched</td><td>Bleeding with gentle pressure → vet within 1 week</td></tr><tr><td>Tartar buildup</td><td>Teeth white or minimal yellowing</td><td>Brown/yellow crust at gumline</td><td>Visible crust on 3+ teeth → schedule cleaning</td></tr><tr><td>Tooth integrity</td><td>All teeth present, no chips</td><td>Cracked, loose, or missing teeth</td><td>Any loose or fractured tooth → vet within days</td></tr><tr><td>Breath odor</td><td>Mild or neutral smell</td><td>Strong, rotten, or metallic odor</td><td>Sudden odor change → vet within 2 weeks</td></tr><tr><td>Eating behavior</td><td>Chews on both sides normally</td><td>Dropping food, chewing one-sided</td><td>Consistent difficulty eating → vet promptly</td></tr><tr><td>Drooling</td><td>Normal for breed</td><td>Excessive or bloody saliva</td><td>Blood in saliva → same-day vet call</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -152,7 +152,7 @@ Dental disease is one of the most preventable chronic conditions in dogs, and ye
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32) — The #1 vet-recommended probiotic for dogs — prescribed to manage diarrhea, vomiting, and intestinal upset.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
 

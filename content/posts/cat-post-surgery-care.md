@@ -34,7 +34,7 @@ Most people assume the hard part is over once their cat wakes up from anesthesia
   <div class="vm-body">
     <p class="vm-intro">Use this checklist each day for the first 10–14 days post-surgery to catch problems before they escalate.</p>
     <table><thead><tr><th>What to Check</th><th>Normal Range</th><th>Call Vet Within 24 Hours</th><th>Emergency (Call Now)</th></tr></thead><tbody><tr><td>Swelling around incision</td><td>Mild puffiness, decreasing daily</td><td>Swelling increasing after day 2–3</td><td>Sudden large swelling, feels hot</td></tr><tr><td>Discharge</td><td>None, or tiny amount of clear fluid day 1</td><td>Any discharge after day 2; yellow/green tint</td><td>Active bleeding, pus, foul odor</td></tr><tr><td>Incision edges</td><td>Closed, slightly pink, edges touching</td><td>Gap &lt;¼ inch, redness spreading beyond ½ inch from incision</td><td>Gap &gt;¼ inch, visible tissue beneath skin</td></tr><tr><td>Skin color near site</td><td>Pink or normal fur-covered skin</td><td>Redness extending &gt;1 inch from incision line</td><td>Purple, black, or grey discoloration</td></tr><tr><td>Licking/chewing behavior</td><td>Occasional glance, no contact</td><td>Frequent attempts despite e-collar</td><td>E-collar removed, active wound damage visible</td></tr><tr><td>Sutures/staples</td><td>All intact, evenly spaced</td><td>1 suture loose or missing, skin still closed</td><td>Multiple sutures missing, wound opening</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -116,8 +116,8 @@ The recovery period is unglamorous, a little tedious, and genuinely important. Y
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 ---
@@ -132,6 +132,6 @@ The recovery period is unglamorous, a little tedious, and genuinely important. Y
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

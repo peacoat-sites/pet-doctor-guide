@@ -34,7 +34,7 @@ Your cat has been acting completely normal. Eating well, playing occasionally, s
   <div class="vm-body">
     <p class="vm-intro">Use this decision matrix to determine what your cat actually needs at each life stage, with specific test frequencies and cost expectations.</p>
     <table><caption>Annual Wellness Exam Components by Cat Age</caption><thead><tr><th>Age Range</th><th>Exam Frequency</th><th>Recommended Tests</th><th>Key Conditions to Screen</th><th>Typical Cost Range (Illustrative)</th></tr></thead><tbody><tr><td>Kitten (0–1 year)</td><td>3–4 visits first year</td><td>Fecal parasite test, FeLV/FIV test, core vaccines (FVRCP, rabies)</td><td>Intestinal parasites, congenital heart defects, upper respiratory infections</td><td>$150–$400 total first year</td></tr><tr><td>Adult (1–6 years)</td><td>Once yearly</td><td>Physical exam, fecal test every 1–2 years, baseline bloodwork at age 5–6</td><td>Dental disease, weight changes, early heart murmurs</td><td>$75–$200 per visit</td></tr><tr><td>Mature (7–10 years)</td><td>Once yearly (consider twice)</td><td>CBC, chemistry panel, urinalysis, thyroid (T4), blood pressure</td><td>Early kidney disease, hyperthyroidism, diabetes, hypertension</td><td>$200–$400 with bloodwork</td></tr><tr><td>Senior (11+ years)</td><td>Twice yearly</td><td>All above plus chest X-ray if indicated, more frequent blood pressure</td><td>Chronic kidney disease progression, cardiac disease, cancer</td><td>$250–$500 per visit</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -126,7 +126,7 @@ The annual wellness exam isn't a box to check. It's the one consistent opportuni
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 
