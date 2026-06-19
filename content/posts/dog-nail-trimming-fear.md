@@ -25,7 +25,6 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 
 ---
-
 If I had to name the single most avoided part of dog care, nail trims would win by a landslide. Not vaccines. Not ear cleaning. Nails. I've watched confident, capable dog owners go completely pale when I bring out the clippers, and I've watched dogs who are otherwise perfectly chill turn into something resembling a small, furry tornado. So if your dog loses their mind at nail time, you're in very good company.
 
 Here's what I want you to understand before anything else: this isn't a training failure on your part, and it's not a "bad dog." Nail trimming hits a specific nerve (sometimes literally, if there was a quicking incident in the past) because it involves restraint, an unfamiliar tool, pressure on a sensitive body part, and the inability to predict what's coming next. That's a lot to ask of an animal. Most dogs aren't born hating it. They learn to.
@@ -34,15 +33,13 @@ Here's what I want you to understand before anything else: this isn't a training
 
 Nine times out of ten, nail fear traces back to one of two things: a quicking incident, or just never being properly introduced to the process as a puppy. The quick is the blood vessel that runs through the nail. On white or light-colored nails you can see it as a pink line. On black nails, it's invisible, which is genuinely stressful even for experienced people. When you cut into it, it bleeds, and it hurts. One bad quicking can create a fear response that lasts years.
 
-But even dogs who've never been quicked can be terrified. If the first few times nails got trimmed involved a lot of force, rushing, or one person holding the dog down while another grabbed a paw, the dog learned: this situation means I have no control and something uncomfortable is happening. That memory is sticky.
+But even dogs who've never been quicked can be terrified. If the first few times nails got trimmed involved a lot of force, rushing, or one person holding the dog down while another grabbed a paw, the dog learned something clear: this situation means I have no control and something uncomfortable is happening. That memory sticks around.
 
 There's also a subset of dogs with what I'd call sensory sensitivity around their feet specifically. Some dogs just don't like their paws touched, independent of nails entirely. You'll need to address that layer too before the clippers ever come out.
 
 ## Desensitization Is the Only Shortcut (Even Though It Doesn't Feel Like One)
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I know what you want. You want a technique that works this Saturday. I'm going to be honest with you: if your dog has a genuine fear response, meaning they're shaking, snapping, or completely shutting down, there is no one-session fix. What actually works is desensitization, and it takes days to weeks, not hours.
 
@@ -54,7 +51,7 @@ Then progress to holding the paw briefly, then pressing on each toe individually
 
 Only after you can touch every nail with the clippers while your dog is relaxed and eating should you attempt an actual trim. And your first session? One nail. Maybe two. That's it. End on a win.
 
-The LickiMat Splash (around $12 on Amazon) is genuinely useful here. Smear it with peanut butter or wet food, freeze it, and use it as your distraction tool during touch practice. [The site may earn a small commission on Amazon links.] Having something to lick occupies the dog's brain in a way that just holding a treat doesn't, and it buys you more seconds of calm.
+The LickiMat Splash (around $12 on Amazon) is genuinely useful here. Smear it with peanut butter or wet food, freeze it, and use it as your distraction tool during touch practice. Having something to lick occupies the dog's brain in a way that just holding a treat doesn't, and it buys you more seconds of calm.
 
 ## The Grinder vs. Clipper Debate
 
@@ -74,11 +71,6 @@ A certified professional dog trainer or a veterinary behaviorist can also help y
 
 One more thing: if your dog's nails are already very long, meaning they're touching the ground or curling, and you can't safely trim them at home, please don't wait until you've finished a weeks-long desensitization program. Get to a groomer or vet for a quick trim-down first. Nails that are too long cause real discomfort and can actually affect how the dog walks.
 
----
-
-
----
-
 The dogs I've seen make the most progress with nail fear aren't the ones whose owners powered through it. They're the ones whose owners slowed all the way down, treated it seriously, and stopped measuring success by whether nails got trimmed that day. Give your dog some credit. They're not being dramatic. They're scared. Work with that, and you'll get somewhere.
 
 ## Helpful Resources
@@ -88,7 +80,6 @@ The dogs I've seen make the most progress with nail fear aren't the ones whose o
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 
@@ -104,4 +95,3 @@ The dogs I've seen make the most progress with nail fear aren't the ones whose o
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

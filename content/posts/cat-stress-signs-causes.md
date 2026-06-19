@@ -25,7 +25,6 @@ author_title: "Emergency Care Writer"
 author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
 
 ---
-
 Your cat has been hiding under the bed for three days. She's barely touched her food. When you try to coax her out, she hisses, which she has never done before. You're worried, but you're also second-guessing yourself: is this stress, is she sick, or is this just a cat being a cat? The truth is, those three things are often tangled together, and figuring out which is which can genuinely change how fast she gets better.
 
 Cats are hardwired to mask vulnerability. In the wild, showing weakness invites predators, so they've evolved to bottle things up until they can't anymore. That's not dramatic instinct leftover from ancient ancestors. It shows up every single day in domestic cats, making stress one of the most underdiagnosed problems in feline medicine. I've worked with hundreds of cats over the years, and the ones who come in for "sudden vomiting" or "stopped using the litter box" are often cats who've been quietly stressed for weeks before the physical symptoms finally broke through.
@@ -36,7 +35,7 @@ Stress in cats isn't always obvious. It rarely announces itself. What it does in
 
 Behavioral signs are usually the first clues. Hiding is the big one, and our article on [cat hiding behavior explained](/cat-hiding-behavior-explained/) goes deep on why cats retreat and when it crosses from normal into concerning. Beyond hiding, watch for reduced grooming or, conversely, over-grooming to the point of creating bald patches (called psychogenic alopecia). Watch for aggression that feels out of character. Watch for a cat who suddenly seems glued to your side when they've always been independent, or one who wants nothing to do with you when they used to be your shadow.
 
-Physical signs follow when stress becomes chronic. These include:
+Physical signs follow when stress becomes chronic:
 
 - Vomiting or diarrhea without a clear dietary cause
 - Urinating or defecating outside the litter box
@@ -49,25 +48,23 @@ The physical and behavioral signs overlap constantly. A stressed cat may stop us
 
 ## The Most Common Causes of Stress in Cats
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Understanding the trigger is half the solution. Cats are territorial, routine-dependent, and acutely sensitive to change. What seems minor to you can genuinely destabilize their world.
 
 **Changes in the home environment** are the leading cause I see in practice. A new baby, a new pet, moving to a new house, even rearranging furniture or bringing home a new couch that smells unfamiliar. One client's cat started spraying the walls after a renovation that lasted six weeks. The noise, the strangers, the disrupted layout, it was too much.
 
-**Multi-cat household tension** is massively underestimated. Cats are not pack animals. They don't naturally enjoy sharing resources, and subtle bullying between cats often goes unnoticed by owners. If one cat is blocking another's access to food, water, or the litter box, that blocked cat may be chronically stressed without a single dramatic fight ever taking place.
+**Multi-cat household tension** is massively underestimated. Cats aren't pack animals. They don't naturally enjoy sharing resources, and subtle bullying between cats often goes unnoticed by owners. If one cat is blocking another's access to food, water, or the litter box, that blocked cat may be chronically stressed without a single dramatic fight ever happening.
 
 **Medical pain or discomfort** can look exactly like stress. A cat with dental disease, arthritis, or a urinary tract infection may become withdrawn, irritable, and hide. This is why ruling out physical causes with a vet visit matters. You can't destress a cat who's actually in pain.
 
-**Changes in the owner's schedule or absence** also hit cats harder than most people expect. Long work trips, shifts in your daily routine, even a new work-from-home arrangement that disrupts the cat's quiet alone time can all create stress responses.
+**Changes in the owner's schedule or absence** also hit cats harder than most people expect. Long work trips, shifts in your daily routine, even a new work-from-home arrangement that disrupts the cat's quiet alone time can all trigger stress responses.
 
 **Outdoor stressors** the owner can't always see include neighborhood cats visible through windows, wildlife, construction noise nearby, or a barking dog next door. The cat is reacting to something, even if you're not sure what.
 
+> **Helpful resource:** [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) (~$32) is a solid option for emergencies. *(As an Amazon Associate this site earns from qualifying purchases.)*
+
 ## Stress and Urinary Problems: The Connection You Need to Know
 
-This link is so important I want to give it its own section. Feline idiopathic cystitis (FIC), often called stress cystitis, is a condition where stress directly causes inflammation in the bladder without any infection present. The cat strains to urinate, may have blood in the urine, and often stops using the litter box entirely. You can read more about the signs in our piece on [cat urinary tract infection signs](/cat-urinary-tract-infection-signs/), but be aware that stress-triggered cystitis is not technically an infection and won't respond to antibiotics.
+This link matters enough to deserve its own section. Feline idiopathic cystitis (FIC), often called stress cystitis, is a condition where stress directly causes inflammation in the bladder without any infection present. The cat strains to urinate, may have blood in the urine, and often stops using the litter box entirely. You can read more about the signs in our piece on [cat urinary tract infection signs](/cat-urinary-tract-infection-signs/), but be aware that stress-triggered cystitis isn't technically an infection and won't respond to antibiotics.
 
 In male cats especially, this can escalate quickly into a urethral blockage, which is a genuine, life-threatening emergency. If your male cat is straining to urinate and producing little or nothing, don't wait. Don't try home remedies. Go to an emergency vet now.
 
@@ -101,37 +98,15 @@ Once you've ruled out or treated medical causes, environmental changes can make 
 
 **Follow the multicat resource rule.** The general guideline from feline behavior specialists is one litter box per cat plus one extra. Same logic applies to food bowls and water sources. Place them in different locations so no single cat can guard all of them.
 
-**Use synthetic pheromone products.** Feliway is the most studied brand. It mimics feline facial pheromones and can reduce tension and marking behavior. It won't fix a severe stress situation alone, but as part of a broader plan it genuinely helps many cats. You'll find Feliway diffusers available on Amazon (note that this site may earn a commission from qualifying purchases), and your vet may carry them as well.
+**Use synthetic pheromone products.** Feliway is the most studied brand. It mimics feline facial pheromones and can reduce tension and marking behavior. It won't fix a severe stress situation alone, but as part of a broader plan it genuinely helps many cats.
 
 **Maintain routine as much as possible.** Feed at the same time. Keep litter boxes clean on a predictable schedule. If you know a stressor is coming (a move, a new pet, houseguests), set up a quiet room the cat can retreat to ahead of time.
 
-**Consider puzzle feeders.** Mental stimulation reduces stress hormones in cats, and a bored indoor cat is often a stressed one. Puzzle feeders available on Amazon can give your cat a productive outlet for energy (this site may earn a commission on purchases). Your vet can also recommend options appropriate for your cat's age and mobility.
+**Consider puzzle feeders.** Mental stimulation reduces stress hormones in cats, and a bored indoor cat is often a stressed one. Puzzle feeders can give your cat a productive outlet for energy. Your vet can recommend options appropriate for your cat's age and mobility.
 
-For cats with significant anxiety, your vet may discuss medications like gabapentin for short-term situational stress, or longer-term options like fluoxetine for chronic anxiety. Don't dismiss these options. Behavioral medication in cats is not a last resort. In many cases it's genuinely the kindest intervention available.
-
----
-
-
----
+For cats with significant anxiety, your vet may discuss medications like gabapentin for short-term situational stress, or longer-term options like fluoxetine for chronic anxiety. Don't dismiss these options. Behavioral medication in cats isn't a last resort. In many cases it's genuinely the kindest intervention available.
 
 Stress in cats is real, it's common, and it's treatable. The goal isn't to bubble-wrap your home or panic at every hiss. It's to know your cat well enough to notice when something is genuinely off, understand what might be driving it, and take appropriate action without either dismissing it or catastrophizing. You've clearly got the first part handled. Trust that instinct, and don't hesitate to bring in your vet when the picture isn't clear.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
-
----
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
----
 
 ## Recommended Resources
 
@@ -140,3 +115,6 @@ Stress in cats is real, it's common, and it's treatable. The goal isn't to bubbl
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
+---
+
+*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*

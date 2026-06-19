@@ -25,14 +25,11 @@ author_title: "Emergency Care Writer"
 author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
 
 ---
-
 Bloat kills fast. Not "maybe serious if untreated" fast. More like "your dog was fine at dinner and gone by midnight" fast. I've seen it happen, and I'd rather walk you through this in graphic detail right now than have you Google symptoms at 11 PM while your dog is in the car.
 
 The medical term is GDV: gastric dilatation-volvulus. The stomach fills with gas, then twists on itself, cutting off blood supply to the stomach wall and, through pressure on major vessels, to the rest of the body. The dilation alone can kill. The volvulus makes it a near-certain death sentence without surgery. You cannot fix this at home, you cannot wait until morning, and no amount of Gas-X is going to help once the stomach has rotated.
 
 That's the thing most articles bury in paragraph six. I'm putting it here.
-
----
 
 ## What Bloat Actually Looks Like (And What People Miss)
 
@@ -54,25 +51,17 @@ Pale gums mean shock is setting in. If you're checking gums and they're white or
 
 One thing that trips people up: early bloat can look like a dog that ate too much and is uncomfortable. The difference is trajectory. A dog who ate too much will usually settle down within 30-45 minutes. A dog with GDV gets progressively worse, not better.
 
----
-
 ## The Breeds and Risk Factors That Matter
-
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Deep-chested, large breeds are the textbook cases. Great Danes have a lifetime bloat risk somewhere around 37%, which sounds unreal until you've worked in a practice that sees them regularly. Other high-risk breeds include Standard Poodles, German Shepherds, Weimaraners, Saint Bernards, Gordon Setters, and Irish Wolfhounds. Dobermans. Boxers less so, but still worth knowing.
 
 That said, I've seen bloat in a Dachshund. Size isn't a guarantee of safety.
 
-Risk factors beyond breed: eating one large meal a day (versus two or three smaller ones), eating very fast, exercising vigorously right after eating, stress, and a first-degree relative who has had GDV. A dog who has already had a GDV, even one that was treated surgically with a prophylactic gastropexy (where they tack the stomach down to prevent future rotation), is at reduced risk of the twist, but can still experience dilation.
+Risk factors beyond breed: eating one large meal a day (versus two or three smaller ones), eating very fast, exercising vigorously right after eating, stress, and a first-degree relative who's had GDV. A dog who's already had a GDV, even one that was treated surgically with a prophylactic gastropexy (where they tack the stomach down to prevent future rotation), is at reduced risk of the twist, but can still experience dilation.
 
 Age matters too. Middle-aged to older large-breed dogs are at higher risk. That doesn't mean a two-year-old Great Dane can't bloat. They can.
 
 If you have a high-risk breed, ask your vet specifically about preventive gastropexy, ideally at the time of spay or neuter. It doesn't prevent all bloat, but it prevents the fatal twist. The [AAHA hospital accreditation standards](https://www.aaha.org/) include GDV as a condition where informed owner education is expected. A good practice will bring this up with you. If they haven't, ask.
-
----
 
 ## When to Go Right Now vs. When You Have Five Minutes
 
@@ -86,13 +75,11 @@ Your dog is retching repeatedly without producing anything. Your dog has a visib
 
 **You might have a few minutes to assess, but don't wait long:**
 
-Your dog ate a large meal and seems uncomfortable, is mildly restless, but is not retching. Gums are pink, the belly isn't obviously tight. In this case, watch closely for 20 minutes, max. If things are improving, you're probably okay. If things are staying the same or getting worse, go.
+Your dog ate a large meal and seems uncomfortable, is mildly restless, but isn't retching. Gums are pink, the belly isn't obviously tight. In this case, watch closely for 20 minutes, max. If things are improving, you're probably okay. If things are staying the same or getting worse, go.
 
 There's no home test for GDV. You cannot tell from outside whether the stomach has twisted. X-rays confirm the diagnosis, and surgery is the only treatment once volvulus has occurred. The window between onset and death without treatment can be as short as a few hours.
 
 Call ahead to the emergency clinic while someone else drives. They can prep for a potential GDV patient and have things ready when you arrive. Don't waste time in the parking lot filling out forms.
-
----
 
 ## What Happens at the Vet
 
@@ -106,8 +93,6 @@ Survival rates for GDV surgery at well-equipped facilities run roughly 80-85% wh
 
 Cost is real and I won't pretend otherwise. GDV surgery at an emergency facility can run anywhere from $3,000 to $8,000 or more depending on location, complexity, and whether complications arise. Pet insurance that covers emergencies is genuinely worth it for large-breed dogs. If you have a Great Dane or a Standard Poodle and you don't have insurance, think hard about that.
 
----
-
 ## A Note on False Bloat
 
 Not every distended belly is GDV. A dog can have simple gastric dilatation without volvulus, meaning the stomach is very gassy and stretched but hasn't twisted. This is still uncomfortable and still worth a vet visit, but it's not immediately life-threatening in the same way.
@@ -118,31 +103,9 @@ There's also a condition called splenic torsion that can look similar. Same urge
 
 ---
 
-
----
-
 The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) gets a lot of calls from panicked owners at midnight, and so do emergency vet clinics. Being that panicked owner is not something to be embarrassed about. What matters is that you went.
 
 Trust your gut about your dog. You know what "normal" looks like for them. If something feels wrong and you can't shake it, that's worth a phone call to an emergency line, even just to describe what you're seeing. A good emergency clinic would rather talk you through it than have you wait too long.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
-
-*Photo: [Nans K](https://www.pexels.com/@nans1419) via Pexels*
-
----
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
----
 
 ## Recommended Resources
 
@@ -151,3 +114,8 @@ Trust your gut about your dog. You know what "normal" looks like for them. If so
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
+---
+
+*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
+
+*Photo: [Nans K](https://www.pexels.com/@nans1419) via Pexels*

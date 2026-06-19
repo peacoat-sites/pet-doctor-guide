@@ -25,49 +25,42 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 
 ---
-
-Three days into what looked like allergies, the dog is honking like a goose and the owner is convinced she's dying. I've had that phone call more times than I can count. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary on the couch at 11pm, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. Knowing the difference between "this is normal kennel cough" and "this dog needs to be seen today" is the whole game.
+Three days into what looked like allergies, the dog is honking like a goose and the owner is convinced she's dying. I've had that phone call more times than I can count. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary at 11pm when you're Googling worst-case scenarios, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. Knowing the difference between "this is normal kennel cough" and "this dog needs to be seen today" is the whole game.
 
 ## What Kennel Cough Actually Sounds Like (and Doesn't)
 
-The name is a little misleading because it implies your dog had to go to a boarding facility. They didn't. Dog parks, pet stores, even a quick sniff through a chain-link fence with the neighbor's dog can transmit it. Bordetella bronchiseptica is the most common bacterial culprit, but canine parainfluenza virus, canine adenovirus type 2, and a few other pathogens all cause the same general syndrome. It's a respiratory infection, basically the dog equivalent of a chest cold.
+The name's misleading because it implies your dog had to go to a boarding facility. They didn't. Dog parks, pet stores, even a quick sniff through a chain-link fence with the neighbor's dog can transmit it. Bordetella bronchiseptica is the most common bacterial culprit, but canine parainfluenza virus, canine adenovirus type 2, and a few other pathogens all cause the same general syndrome. It's a respiratory infection, basically the dog equivalent of a chest cold.
 
-The cough itself is distinctive once you've heard it. It's loud, harsh, and honking. Some people describe it as the dog trying to clear something stuck in its throat. That's actually a useful description because that's exactly what it looks and sounds like. The dog will often retch at the end of a cough, sometimes bringing up small amounts of white, foamy mucus. First-time dog owners almost always think that's vomiting. It's not.
+The cough itself is distinctive once you've heard it. It's loud, harsh, and honking. Some people describe it as the dog trying to clear something stuck in its throat, which is actually a useful way to think about it because that's exactly what it looks and sounds like. The dog will often retch at the end of a cough, sometimes bringing up small amounts of white, foamy mucus. First-time dog owners almost always think that's vomiting. It's not.
 
-What you usually won't see: high fever, lethargy, loss of appetite, or labored breathing. If those are present, you're no longer looking at straightforward kennel cough. More on that in a minute.
+What you usually won't see: high fever, lethargy, loss of appetite, or labored breathing. If those are present, you're no longer looking at straightforward kennel cough.
 
 ## How Long It Lasts
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+In a healthy adult dog with a functioning immune system, kennel cough typically runs its course in 1 to 3 weeks. The first 5 to 7 days are usually the worst, with the cough being most frequent and most dramatic. By day 10, most dogs are noticeably improving. By day 14 to 21, the majority are back to normal.
 
+Puppies, senior dogs, and immunocompromised dogs take longer and carry more risk. In those cases, the infection can progress to pneumonia, which is genuinely serious. If your dog is under 6 months old, over 10 years old, or has a known health condition affecting their immune system, I'd call your vet at the first sign of respiratory symptoms rather than waiting to see how things develop.
 
-
-Here's the part most online sources bury under so much hedging it becomes useless. In a healthy adult dog with a functioning immune system, kennel cough typically runs its course in 1 to 3 weeks. The first 5 to 7 days are usually the worst, with the cough being most frequent and most dramatic. By day 10, most dogs are noticeably improving. By day 14 to 21, the majority are back to normal.
-
-Puppies, senior dogs, and immunocompromised dogs take longer and carry more risk. In those cases, the infection can progress to pneumonia, which is a genuinely serious situation. If your dog is under 6 months old, over 10 years old, or has a known health condition affecting their immune system, I'd call your vet at the first sign of respiratory symptoms rather than waiting to see how things develop.
-
-One thing that catches a lot of people off guard: the cough can briefly sound worse around day 3 or 4, right when you'd expect improvement. That's just the normal arc of the illness. It doesn't mean your dog is deteriorating.
+One thing that catches people off guard: the cough can briefly sound worse around day 3 or 4, right when you'd expect improvement. That's just the normal arc of the illness. It doesn't mean your dog is deteriorating.
 
 ## When to Go to the Vet and When to Wait
 
 I'll be direct about this because it's where I see owners either over-panic or under-react.
 
 **You can reasonably monitor at home if:**
-- Your dog is an otherwise healthy adult (roughly 1 to 9 years old with no known health issues)
+- Your dog is otherwise healthy (roughly 1 to 9 years old with no known health issues)
 - They're eating, drinking, and interested in their surroundings
 - The cough is the primary symptom, with or without minor clear nasal discharge
 - They're not breathing with effort or showing any blue tint to gums or tongue
 
-**Call your vet or go to an urgent care clinic if:**
-- The dog is a puppy, a senior, pregnant, or immunocompromised
+**Call your vet or go to urgent care if:**
+- The dog is a puppy, senior, pregnant, or immunocompromised
 - Coughing is accompanied by lethargy or significant appetite loss for more than 24 hours
 - You notice labored breathing, rapid breathing, or any open-mouth breathing at rest
 - The dog seems genuinely distressed, not just annoying to listen to
 - Symptoms aren't improving at all after 7 to 10 days
 
-The ASPCA Poison Control Center isn't the first call here, but PetMD's veterinary resource library has a solid breakdown of kennel cough severity indicators that's worth bookmarking for reference.
-
-Honestly, a lot of vets will treat uncomplicated kennel cough with a prescription for doxycycline even when antibiotics don't meaningfully shorten the course of a viral component. I'm not saying skip the vet if you're worried. I'm saying if your healthy 4-year-old Labrador has been honking for 3 days, is eating his food, and trotted over to greet you at the door, you probably don't need to spend the money on an emergency visit this weekend.
+A lot of vets will treat uncomplicated kennel cough with doxycycline even when antibiotics don't meaningfully shorten the course of a viral component. I'm not saying skip the vet if you're worried. I'm saying if your healthy 4-year-old Labrador has been honking for 3 days, is eating his food, and trotted over to greet you at the door, you probably don't need to spend the money on an emergency visit this weekend.
 
 ## How to Keep Your Dog Comfortable During Recovery
 
@@ -79,16 +72,13 @@ A humidifier in the room where your dog sleeps can take some of the edge off. Pl
 
 Keep them away from other dogs until the cough has been gone for at least 48 to 72 hours. Kennel cough is highly contagious. The incubation period is typically 2 to 14 days, which means a dog can be spreading it before showing any symptoms at all. Heads up if you have a multi-dog household.
 
-If you don't already have a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) on hand, now is a decent time to think about it. Nothing in a first aid kit treats kennel cough, but being able to take a temperature accurately (normal is 101 to 102.5°F in dogs) helps you make better decisions about whether to call the vet. (Disclosure: this site may earn a commission on purchases through that link.)
+Being able to take a temperature accurately (normal is 101 to 102.5°F in dogs) helps you make better decisions about whether to call the vet. A [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) with a thermometer is useful to have on hand.
 
 ## The Vaccine Question
 
 Bordetella vaccines exist, and they're worth having if your dog boards, goes to daycare, visits dog parks, or attends group training classes. That said, the vaccine doesn't guarantee your dog won't get kennel cough. It covers the most common strains but the syndrome can be caused by multiple pathogens. Think of it less like a guarantee and more like a flu shot: not foolproof, but genuinely helpful at reducing severity and likelihood.
 
-Most boarding facilities require it, which is the most common reason dogs get it in the first place.
-
----
-
+Most boarding facilities require it anyway, which is the most common reason dogs get it in the first place.
 
 ## Helpful Resources
 
@@ -113,4 +103,3 @@ Most boarding facilities require it, which is the most common reason dogs get it
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

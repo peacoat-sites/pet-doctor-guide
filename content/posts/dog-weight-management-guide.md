@@ -25,26 +25,21 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 
 ---
-
 Your dog's ribs should be easy to feel but not easy to see. Run your fingers along his side right now. If you're pressing through more than a thin layer of fat before you feel bone, your dog is likely overweight. If you can't feel them at all, he may be obese. It sounds harsh, but here's the reality: the Association for Pet Obesity Prevention estimates that over 55% of dogs in the United States are overweight or obese. That means the chunky, round-bellied dog you're picturing is actually the norm in most American households. And that norm is quietly shortening dogs' lives.
 
 ## Why Dog Weight Actually Matters (More Than You Think)
 
-Excess weight isn't just a cosmetic issue. In dogs, carrying extra body fat is directly linked to a shorter lifespan, earlier onset of arthritis, increased risk of diabetes, breathing difficulties, heart disease, and certain cancers. A landmark Purina study that followed Labrador Retrievers for their entire lives found that dogs kept lean lived a median of 1.8 years longer than their heavier littermates. For a breed that already has a relatively short lifespan, that's enormous.
+Excess weight isn't just a cosmetic issue. In dogs, carrying extra body fat directly links to a shorter lifespan, earlier arthritis, increased diabetes risk, breathing difficulties, heart disease, and certain cancers. A landmark Purina study that followed Labrador Retrievers for their entire lives found that dogs kept lean lived a median of 1.8 years longer than their heavier littermates. For a breed that already has a relatively short lifespan, that's enormous.
 
-I've seen it play out in the clinic many times. A 9-year-old Beagle comes in struggling to walk because her joints are already badly arthritic, and the owner can't quite connect the dots between the extra treats given over years and what's happening now. The weight didn't cause the arthritis on its own, but it almost certainly accelerated it. Every pound of excess weight on a dog puts roughly four to five pounds of additional pressure on joints. A 10-pound Dachshund who's actually supposed to weigh 8 pounds is, mechanically speaking, working much harder than you'd think.
+I've seen it in the clinic many times. A 9-year-old Beagle comes in struggling to walk because her joints are already badly arthritic, and the owner can't quite connect the dots between the extra treats given over years and what's happening now. The weight didn't cause the arthritis on its own, but it almost certainly accelerated it. Every pound of excess weight on a dog puts roughly four to five pounds of additional pressure on joints. A 10-pound Dachshund who's actually supposed to weigh 8 pounds is, mechanically speaking, working much harder than you'd think.
 
 Overweight dogs are also at higher anesthetic risk during surgeries and dental cleanings, which matters when you think about how many procedures a dog might need over a lifetime. If you've ever wondered why your vet keeps mentioning your dog's weight, this is why. It's not a judgment call. It's a clinical one.
 
 ## How to Know If Your Dog Is Overweight
 
-> **Helpful resource:** [Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The scale isn't the only tool here, and honestly it's not even the most useful one. Two dogs can weigh the same and have very different body compositions. What vets use is called a Body Condition Score, or BCS. Most clinics use a scale from 1 to 9, where 1 is emaciated, 5 is ideal, and 9 is severely obese. A score of 6 or 7 means the dog is overweight. An 8 or 9 is obese territory.
 
-Here's how to do a basic assessment at home:
+Here's how to do a basic assessment at home.
 
 **Rib check:** Place both thumbs on your dog's spine and spread your fingers out over the rib cage. You should feel individual ribs without pressing hard. There should be a thin layer of fat over them, like touching the back of your hand. If it feels more like pressing through your palm, there's too much fat.
 
@@ -52,7 +47,7 @@ Here's how to do a basic assessment at home:
 
 **Abdominal tuck:** View your dog from the side. The belly should tuck upward between the rib cage and hind legs. A sagging belly or a belly that hangs level with the chest is a sign of excess weight.
 
-Different breeds have different ideal body types. A Greyhound's ribs are normally visible and that's healthy. A Labrador should have no visible ribs but easily palpable ones. If you're unsure, bring your dog in and ask your vet to officially score the BCS. It takes 60 seconds, and [a regular annual exam](/cat-annual-vet-visit-what-to-expect/) is a perfect opportunity to track it over time, even though that link is written for cats, the visit structure applies to dogs too.
+Different breeds have different ideal body types. A Greyhound's ribs are normally visible and that's healthy. A Labrador should have no visible ribs but easily palpable ones. If you're unsure, bring your dog in and ask your vet to officially score the BCS. It takes 60 seconds, and a regular annual exam is a perfect opportunity to track it over time.
 
 ## What's Actually Causing the Weight Gain
 
@@ -86,11 +81,11 @@ This is the part most guides skip over or make vague. Here's a concrete approach
 
 **Step 7: Weigh monthly and adjust.** A safe weight loss rate for dogs is 1 to 2% of body weight per week. A 50-pound dog losing half a pound per week is right on track. Faster than that and you risk muscle loss. If your dog isn't losing after 4 to 6 weeks of strict adherence to the plan, go back to your vet. It might be time for bloodwork.
 
-If a dog is also showing [signs of limping or reluctance to exercise](/dog-limping-causes-treatment/), get that evaluated before ramping up activity. Pain will tank any weight loss program because a dog in pain won't want to move.
+If a dog is also showing signs of limping or reluctance to exercise, get that evaluated before ramping up activity. Pain will tank any weight loss program because a dog in pain won't want to move.
 
 ## Nutrition Labels and Food Comparison
 
-Not all dog food is equal, and comparing options can feel overwhelming. Here's a basic comparison framework:
+Not all dog food is equal, and comparing options can feel overwhelming. Here's a basic comparison framework.
 
 | Food Type | Typical Calorie Density | Satiety | Best For |
 |---|---|---|---|
@@ -103,38 +98,19 @@ Not all dog food is equal, and comparing options can feel overwhelming. Here's a
 
 When switching foods, do it gradually over 7 to 10 days to avoid digestive upset. Mix 25% new food with 75% old food for a few days, then go 50/50, and so on.
 
-You might also consider a [quality joint supplement](https://www.amazon.com/s?k=dog+joint+supplement&tag=contentportfo-20) if your overweight dog is already showing stiffness, since weight loss alone takes time and joints need support in the meantime. (Disclosure: this site may earn a commission from qualifying purchases.) Always check with your vet before starting any supplement.
-
----
-
-
----
+You might also consider a quality joint supplement if your overweight dog is already showing stiffness, since weight loss alone takes time and joints need support in the meantime. Always check with your vet before starting any supplement.
 
 Weight management is one of the few things you can do for your dog that has a measurable, meaningful impact on both how long they live and how good those years feel. It's not glamorous. It involves saying no to the begging face and actually measuring food every single day. But I've watched dogs go from barely being able to get up off the floor to trotting around a yard again after losing 15% of their body weight. The change is real and it's worth the effort. Your dog can't make these choices for himself. You're the one who can.
 
-## Helpful Resources
+## Recommended Resources
 
-*As an Amazon Associate this site earns from qualifying purchases.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32): Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36): The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
 *Photo: [Son Tuyen Dinh](https://www.pexels.com/@son-tuyen-dinh-1298468817) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

@@ -25,7 +25,6 @@ author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 
 ---
-
 Most dog owners know grapes are bad. What fewer people realize is that a single grape can potentially cause acute kidney failure in a 20-pound dog, and toxicologists still don't fully understand why. That's the part that gets me every time I tell clients this. It's not a dose-dependent toxin where "a little is probably fine." There's no safe threshold anyone can point to with confidence. After 13 years of watching owners come in panicked, receipt in one hand and dog on leash in the other, I decided to go deep on this topic, not to write another bland "avoid chocolate" list, but to actually explain what these foods do inside your dog's body, why some are genuinely terrifying, and how to tell the difference between a real emergency and a call-your-vet-Monday situation.
 
 ---
@@ -49,10 +48,6 @@ Let's get specific, because vague warnings don't help you at 10pm on a Saturday.
 ---
 
 ## Foods That Surprise People (Including Me)
-
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 What surprised me when I went deeper on this was how many borderline or commonly misunderstood foods show up in emergency cases.
 
@@ -87,8 +82,6 @@ This is the section that actually matters when you're standing in your kitchen a
 
 **Step 5: Bring the packaging.** If your dog got into a product, bring the label. Toxicologists need to know the specific ingredients, especially for things like xylitol-containing products where the formulation changes by brand.
 
-Having a well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) on hand (note: we may earn a commission on purchases) keeps you organized in these moments, even if the kit itself won't treat most toxic ingestions. Knowing where things are when you're panicked is genuinely useful.
-
 ---
 
 ## A Quick-Reference Comparison: Emergency Now vs. Call Your Vet vs. Monitor at Home
@@ -122,25 +115,11 @@ A few things that actually work in a real household:
 
 **Think about garbage and countertops differently.** Dogs are opportunists. If something is within reach and smells good, it's fair game from their perspective. Baby locks on low cabinets, trash cans with locking lids, and counter surfing management save vet visits.
 
-**Puzzle feeders and enrichment reduce food-seeking behavior.** Dogs who are mentally stimulated are less likely to compulsively raid the kitchen. A quality [puzzle feeder](https://www.amazon.com/s?k=dog+puzzle+feeder&tag=contentportfo-20) (we may earn a commission) gives them an outlet and slows down fast eaters. Talk to your vet about what's appropriate for your dog's age and ability.
-
----
-
+**Puzzle feeders and enrichment reduce food-seeking behavior.** Dogs who are mentally stimulated are less likely to compulsively raid the kitchen. A quality puzzle feeder gives them an outlet and slows down fast eaters. Talk to your vet about what's appropriate for your dog's age and ability.
 
 ---
 
 The honest takeaway from going deep on this topic is that the stakes are genuinely uneven. Some of these foods will cause mild GI upset. Others can cause irreversible kidney failure before your dog shows obvious symptoms. That unevenness is exactly why the "just watch them and see" instinct can be so dangerous. You don't always have the visual cues you think you do. Keep the ASPCA Poison Control number saved in your phone, know your dog's weight, and when something uncertain happens, make the call. Five minutes of advice from a professional beats three days of worry, and in the case of grapes or xylitol, it could genuinely save your dog's life.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
-
-*Photo: [Sharon  Snider](https://www.pexels.com/@sharon-snider-2339082) via Pexels*
 
 ---
 
@@ -148,12 +127,13 @@ The honest takeaway from going deep on this topic is that the stakes are genuine
 
 ---
 
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32): Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36): The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
+---
+
+*Photo: [Sharon Snider](https://www.pexels.com/@sharon-snider-2339082) via Pexels*

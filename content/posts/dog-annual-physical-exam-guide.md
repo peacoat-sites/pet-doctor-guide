@@ -25,46 +25,35 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 
 ---
-
 Most dog owners walk into the annual exam thinking it's basically a formality: the vet listens to the heart, gives a few shots, and everyone goes home. I thought the same thing for years, honestly. What surprised me when I started working in clinical practice was just how much gets caught in those 20-30 minutes that owners had no idea about. Heart murmurs in seemingly healthy 4-year-olds. Early kidney disease in dogs showing zero symptoms. Dental disease so advanced in a dog whose owner thought "bad breath is just a dog thing" that three teeth had to come out that same week. The annual physical isn't a formality. It's often the only safety net your dog has.
-
----
 
 ## What Actually Happens During the Exam (It's More Than You Think)
 
 A thorough annual exam follows a head-to-tail systematic approach, and a good veterinarian will talk you through findings as they go. Here's what's actually being evaluated:
 
-**Eyes and ears:** The vet checks for early signs of cataracts, pressure abnormalities that could indicate glaucoma, ear canal inflammation, and yeast or bacterial overgrowth. A lot of ear infections are caught here before the dog is visibly bothered.
+**Eyes and ears:** The vet checks for early signs of cataracts, pressure abnormalities that could indicate glaucoma, ear canal inflammation, and yeast or bacterial overgrowth. A lot of ear infections get caught here before the dog even seems bothered.
 
 **Mouth and teeth:** Dental disease affects an estimated 80% of dogs over age 3, according to [the American Veterinary Medical Association (AVMA)](https://www.avma.org/). The vet grades dental tartar and gingivitis on a scale of 1-4 and flags anything that needs professional cleaning or extraction.
 
-**Heart and lungs:** A stethoscope exam listens for murmurs (graded 1-6), arrhythmias, and abnormal lung sounds like crackles or wheezes. This is how early mitral valve disease gets caught in breeds like Cavalier King Charles Spaniels long before clinical signs appear.
+**Heart and lungs:** A stethoscope exam listens for murmurs (graded 1-6), arrhythmias, and abnormal lung sounds like crackles or wheezes. This is how early mitral valve disease gets caught in breeds like Cavalier King Charles Spaniels long before any symptoms show up.
 
 **Abdomen:** Palpation checks organ size, any masses, fluid, pain, or unusual firmness. Enlarged spleens, thickened intestinal loops, bladder stones, and early tumors have all been found this way.
 
-**Lymph nodes, skin, and coat:** Swollen lymph nodes can be the first sign of lymphoma. Skin lumps are measured and sometimes aspirated. Coat quality gives clues about thyroid function and nutritional status.
+**Lymph nodes, skin, and coat:** Swollen lymph nodes can be the first sign of lymphoma. Skin lumps get measured and sometimes aspirated. Coat quality gives clues about thyroid function and nutritional status.
 
 **Musculoskeletal:** Range of motion in every joint, muscle mass comparison side to side, and gait observation. Early hip dysplasia and elbow arthritis show up here.
 
 **Weight and body condition score:** Obesity is one of the most under-addressed health problems in pet dogs. The vet assigns a body condition score (BCS) on a 1-9 scale, where 4-5 is ideal.
 
----
-
 ## The Bloodwork Question: When Do You Actually Need It?
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-This is where I'll be honest: there's no universal answer, and the research here is somewhat mixed on exact timing. General practice guidelines tend to recommend baseline bloodwork starting around age 1 to 3, then annually from age 7 onward when dogs are considered seniors. For large breeds, "senior" often starts at 6.
+Here's where I'll be honest: there's no universal answer, and the research is somewhat mixed on exact timing. General practice guidelines tend to recommend baseline bloodwork starting around age 1 to 3, then annually from age 7 onward when dogs are considered seniors. For large breeds, "senior" often starts at 6.
 
 A basic wellness panel typically includes a complete blood count (CBC) and a chemistry panel. The CBC checks red cells, white cells, and platelets. The chemistry panel evaluates kidney and liver function, blood sugar, and electrolytes. Some practices also add a urinalysis and thyroid screening (T4) for seniors.
 
-What surprised me in practice is how often "completely healthy" middle-aged dogs came back with mildly elevated BUN or creatinine, early indicators of kidney insufficiency, that their owners had no idea about. Catching that at Stage 1 versus Stage 3 kidney disease is a completely different prognosis.
+What struck me in practice is how often "completely healthy" middle-aged dogs came back with mildly elevated BUN or creatinine, early indicators of kidney insufficiency, that their owners had no idea about. Catching that at Stage 1 versus Stage 3 kidney disease is a completely different prognosis.
 
 If your dog is on long-term medications like NSAIDs, phenobarbital, or cyclosporine, bloodwork isn't optional. It's essential every 6 months to monitor organ health.
-
----
 
 ## Vaccinations: Core vs. Non-Core and How to Have the Right Conversation
 
@@ -76,21 +65,17 @@ Vaccines at the annual visit aren't automatically given every year anymore, and 
 
 Ask your vet directly: "Which of these does my dog's actual lifestyle warrant?" You're entitled to that conversation. Clinics that have earned [AAHA hospital accreditation](https://www.aaha.org/) are held to standards that include individualized vaccination protocols, so that's a good marker if you're evaluating a new practice.
 
----
-
 ## How to Prepare: A Step-by-Step Guide for Getting the Most Out of the Visit
 
 **Step 1: Write down your observations before you go.** Appetite changes, water intake, any lumps you've noticed, changes in energy, new coughing or sneezing, altered bathroom habits. You will forget half of this in the room. I've watched hundreds of owners walk out, get to the parking lot, and immediately remember something they meant to ask.
 
 **Step 2: Bring a fresh urine sample if you can.** Collect first-morning urine in a clean container and refrigerate it. Many clinics ask you to bring one but forget to mention it until you arrive.
 
-**Step 3: Know your dog's current flea, tick, and heartworm prevention status.** Bring the product packaging or the name/dosage if you can. Your vet needs to know what you're using to avoid drug interactions and to assess whether it's working.
+**Step 3: Know your dog's current flea, tick, and heartworm prevention status.** Bring the product packaging or the name and dosage if you can. Your vet needs to know what you're using to avoid drug interactions and to assess whether it's working.
 
 **Step 4: Bring any supplements or over-the-counter products you give regularly.** Fish oil, joint supplements, dental chews. Everything is relevant. If you're using a [joint supplement like Nutramax Cosequin](https://www.amazon.com/s?k=dog+joint+supplement+cosequin&tag=contentportfo-20) *(affiliate link, we may earn a commission)*, tell your vet so they can factor it into musculoskeletal assessment.
 
 **Step 5: Ask for a written visit summary.** Most practices now send these by email or through a client portal. If yours doesn't, ask for one. Having a written record of weight, BCS, vaccine dates, and any findings discussed is genuinely useful year to year.
-
----
 
 ## A Quick Comparison: Puppy vs. Adult vs. Senior Exam Priorities
 
@@ -100,11 +85,6 @@ Ask your vet directly: "Which of these does my dog's actual lifestyle warrant?" 
 | Young adult (1-6 yrs) | Annually | Dental health, weight, vaccines, baseline bloodwork |
 | Middle age (5-7 yrs, breed dependent) | Annually, consider 6-month checkups | Early organ disease screening, joint health, skin masses |
 | Senior (7+ yrs, earlier for large breeds) | Every 6 months | Full bloodwork, blood pressure, thyroid, arthritis management |
-
----
-
-
----
 
 The annual exam is one of the highest-value hours you'll spend on your dog's health. Not because something is always wrong, but because when something is developing quietly, this is how you find it while options are still wide open. Go in prepared, ask your questions, and push back if an exam feels rushed or incomplete. Your dog can't advocate for themselves in that room. That's your job, and it matters.
 
@@ -116,14 +96,7 @@ The annual exam is one of the highest-value hours you'll spend on your dog's hea
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
 - **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
-
----
-
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
----
 
 ## Recommended Resources
 
@@ -132,4 +105,3 @@ The annual exam is one of the highest-value hours you'll spend on your dog's hea
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

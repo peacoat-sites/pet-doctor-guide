@@ -25,30 +25,21 @@ author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
 
 ---
-
-You bring home an eight-week-old puppy on a Saturday afternoon, and by Sunday morning you're already Googling "when does my puppy need shots." That frantic search is one of the most common things new puppy owners do, and honestly, it makes sense. The first year of a dog's life is medically the most dense period they'll ever go through. More vaccines, more parasite prevention decisions, more developmental checkpoints crammed into twelve months than at any other point in their life. Getting it right from the start protects your dog for years to come. Getting it wrong can mean preventable illness, legal liability with licensing, and a vet relationship built on playing catch-up.
-
----
+You bring home an eight-week-old puppy on a Saturday afternoon, and by Sunday morning you're already Googling "when does my puppy need shots." That search is something nearly every new puppy owner does, and for good reason. The first year of a dog's life is medically the densest period they'll ever experience. More vaccines, more parasite prevention choices, more developmental checkpoints crammed into twelve months than at any other time. Get it right from the start, and you're protecting your dog for years. Get it wrong, and you're looking at preventable illness, legal liability with licensing, and a vet relationship built on playing catch-up.
 
 ## Why the First Year Is So Critical
 
-Puppies are born with some passive immunity transferred through their mother's colostrum, the antibody-rich first milk. But that protection fades. The problem is, it doesn't fade at the same rate for every puppy. Some lose maternal antibodies at six weeks, others hang onto them until twelve weeks or later. The reason your vet recommends a *series* of puppy vaccines rather than a single shot is specifically because of this variability. A vaccine given while maternal antibodies are still circulating gets neutralized before the puppy's own immune system can mount a real response. You need repeated doses to catch that window when the puppy's immune system is finally ready to respond on its own.
+Puppies are born with passive immunity from their mother's colostrum, the antibody-rich first milk. But that protection doesn't stick around. The problem is it doesn't fade at the same rate for every puppy. Some lose maternal antibodies at six weeks, others hang onto them until twelve weeks or beyond. This is why your vet recommends a *series* of puppy vaccines rather than a single shot. A vaccine given while maternal antibodies are still circulating gets neutralized before the puppy's own immune system can mount a real response. You need repeated doses to catch that window when the puppy's immune system is finally ready to work on its own.
 
-This is also why "my breeder gave one vaccine at six weeks and said that was enough" is not sufficient. It isn't. One dose at six weeks in a litter setting provides some protection, but it almost certainly doesn't complete the series. Distemper and parvovirus especially require that full booster schedule to confer reliable protection.
+This is also why "my breeder gave one vaccine at six weeks and said that was enough" falls short. One dose at six weeks in a litter setting provides some protection, but it almost certainly doesn't complete the series. Distemper and parvovirus especially need that full booster schedule to confer reliable protection.
 
-Beyond vaccines, the first year involves spay/neuter timing decisions, heartworm prevention, flea and tick control, dental health foundations, intestinal parasite screening, and socialization checkpoints that have real medical relevance. It's a lot. Let's break it down week by week.
-
----
+Beyond vaccines, the first year involves spay and neuter timing decisions, heartworm prevention, flea and tick control, dental health foundations, intestinal parasite screening, and socialization checkpoints that have real medical relevance. It's a lot. Let's break it down visit by visit.
 
 ## The Core Vaccine Schedule: What to Expect at Each Visit
 
-> **Helpful resource:** [Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The standard puppy vaccine protocol recommended by most veterinarians, and consistent with guidelines from organizations like [AAHA](https://www.aaha.org/) whose hospital accreditation standards set a high bar for preventive care, looks like this:
 
-**6 to 8 weeks:** First DHPP (distemper, hepatitis/adenovirus, parvovirus, parainfluenza). This is a combination vaccine. Your puppy should also be checked for intestinal parasites, often via fecal flotation test, since roundworms and hookworms are extremely common in young puppies and can be passed to humans.
+**6 to 8 weeks:** First DHPP (distemper, hepatitis and adenovirus, parvovirus, parainfluenza). This is a combination vaccine. Your puppy should also be checked for intestinal parasites, often via fecal flotation test, since roundworms and hookworms are extremely common in young puppies and can be passed to humans.
 
 **10 to 12 weeks:** Second DHPP booster. This is also when bordetella (kennel cough) is often introduced if your puppy will be around other dogs at daycares, dog parks, or boarding facilities. Leptospirosis vaccine may be started here depending on your geographic area and your puppy's lifestyle.
 
@@ -56,21 +47,17 @@ The standard puppy vaccine protocol recommended by most veterinarians, and consi
 
 **12 to 16 months:** One-year boosters for DHPP and rabies. After this, your vet will recommend boosters on a 1-year or 3-year cycle depending on the specific vaccine product used.
 
-A few things about this schedule are worth understanding. DHPP is considered a "core" vaccine, meaning it's recommended for essentially every dog regardless of lifestyle. Bordetella, leptospirosis, Lyme disease, and canine influenza are "non-core" vaccines recommended based on risk factors. Where you live and how your dog lives matters. A dog hiking in tick-heavy New England has different risks than an apartment dog in Phoenix.
-
----
+DHPP is considered a "core" vaccine, meaning it's recommended for essentially every dog regardless of lifestyle. Bordetella, leptospirosis, Lyme disease, and canine influenza are "non-core" vaccines recommended based on risk factors. Where you live and how your dog lives matters. A dog hiking in tick-heavy New England has different risks than an apartment dog in Phoenix.
 
 ## Parasite Prevention: Starting Right From Week One
 
 The parasite conversation starts before vaccines are even complete, and it's just as important. Here's the breakdown:
 
-**Intestinal parasites:** Most puppies have them. Roundworms are transmitted in utero or through nursing, and the CDC estimates a significant percentage of puppies carry them at birth. Your vet will likely deworm your puppy at the first visit regardless of fecal test results, then test a stool sample to confirm. Bring a fresh fecal sample to every puppy appointment. A fresh sample means collected within a few hours, not yesterday's.
+**Intestinal parasites:** Most puppies have them. Roundworms are transmitted in utero or through nursing, and the CDC estimates a significant percentage of puppies carry them at birth. Your vet will likely deworm your puppy at the first visit regardless of fecal test results, then test a stool sample to confirm. Bring a fresh fecal sample to every puppy appointment. Fresh means collected within a few hours, not yesterday's.
 
 **Heartworm prevention:** Monthly prevention should start by eight weeks of age, and some products are labeled for use starting at six weeks. Heartworm disease is transmitted by mosquitoes and is present in all 50 states, though prevalence varies. The preventatives you get from your vet also typically cover intestinal parasites as a bonus. If your puppy is older than six months when starting prevention, a heartworm test is needed first.
 
 **Flea and tick prevention:** Depending on your region and your puppy's outdoor exposure, flea and tick prevention may start at eight weeks. The options range from oral chewables to topical spot-ons to collars. Not all products are safe for puppies under a certain age or weight, so confirm with your vet before buying something over the counter. If you're shopping for a [flea prevention product](https://www.amazon.com/s?k=puppy+flea+prevention&tag=contentportfo-20), look for ones specifically labeled for puppies with clear age and weight minimums. *(Disclosure: this site may earn a commission from qualifying Amazon purchases.)*
-
----
 
 ## What Happens at Each Puppy Wellness Exam
 
@@ -79,16 +66,14 @@ A puppy wellness exam isn't just about shots. A good veterinarian is doing a ful
 | Visit Age | Key Vaccines/Tests | Other Health Checks |
 |---|---|---|
 | 6-8 weeks | DHPP #1, fecal test | Heart murmur screen, hernia check, bite alignment |
-| 10-12 weeks | DHPP #2, bordetella | Eye/ear exam, lymph node palpation, skin/coat check |
-| 14-16 weeks | DHPP #3, rabies | Weight tracking, microchip placement, spay/neuter discussion |
-| 6 months | Rabies booster (some states) | Pre-surgical bloodwork if spay/neuter planned |
+| 10-12 weeks | DHPP #2, bordetella | Eye and ear exam, lymph node palpation, skin and coat check |
+| 14-16 weeks | DHPP #3, rabies | Weight tracking, microchip placement, spay and neuter discussion |
+| 6 months | Rabies booster (some states) | Pre-surgical bloodwork if spay and neuter planned |
 | 12 months | DHPP and rabies boosters | Heartworm test, full physical, dental assessment |
 
 That murmur screen at six to eight weeks isn't a formality. Congenital heart defects in puppies are occasionally caught at this stage, and early detection changes the management plan significantly. I've seen clients come in for a routine first visit and leave with a referral to a cardiologist. It happens.
 
-Microchipping is usually done at one of the early visits, often around 12-16 weeks, or at the time of spay/neuter when the puppy is already under anesthesia. It's a one-time procedure that takes seconds and has reunited countless lost pets with their owners.
-
----
+Microchipping usually happens at one of the early visits, often around 12 to 16 weeks, or at the time of spay and neuter when the puppy is already under anesthesia. It's a one-time procedure that takes seconds and has reunited countless lost pets with their owners.
 
 ## Spay and Neuter: Timing Is More Nuanced Than You Think
 
@@ -98,8 +83,6 @@ This is a real conversation to have with your vet at the 12 to 16-week visit. As
 
 For intact females, each heat cycle they go through before spaying slightly increases the risk of mammary tumors. Spaying before the first heat virtually eliminates this risk. That's a legitimate reason to spay earlier in smaller breeds where the joint health benefits of waiting are less significant.
 
----
-
 ## Don't Forget Dental Health and Behavioral Foundations
 
 Two things new puppy owners consistently underinvest in: dental care and early behavior support.
@@ -108,29 +91,21 @@ Puppies start teething around three to four months, losing their baby teeth by s
 
 On the behavioral side, socialization has a biological deadline. The primary socialization window closes around 12 to 16 weeks. Positive exposure to different people, animals, surfaces, sounds, and environments during this window shapes your dog's temperament for life. Missing it doesn't doom your dog, but it makes things significantly harder later. Talk to your vet about safe socialization options before your puppy is fully vaccinated. Puppy socialization classes run by qualified trainers often accept puppies after just two DHPP vaccines, and the socialization benefits outweigh the small infection risk in a properly vetted class setting.
 
----
-
-
----
-
 Your puppy's first year is a sprint. It's more vet visits, more decisions, and more learning than most pet owners anticipate going in. But each one of those appointments builds the foundation for a healthy adult dog who you'll spend the next decade or more with. Keep a simple notebook or phone note tracking every vaccine date, product name, and parasite preventative given. That record becomes invaluable when you move, switch vets, or deal with a health issue down the line. You're already doing the right thing by looking this up now. That matters.
 
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Catit Flower Fountain,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-
 
 *Photo: [Susanne Jutzeler, suju-foto](https://www.pexels.com/@suju) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ---
 
@@ -142,4 +117,3 @@ Your puppy's first year is a sprint. It's more vet visits, more decisions, and m
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
-

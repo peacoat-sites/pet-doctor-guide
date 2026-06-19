@@ -24,36 +24,31 @@ faqs:
   - q: "Can I give my dog an NSAID I have left over from a previous prescription?"
     a: "Please don't. Prescription NSAIDs are dosed specifically for the dog and condition they were dispensed for. Using leftover medication skips the step where a vet confirms the current diagnosis, checks for drug interactions with anything new your dog is on, and verifies that your dog's organ function can handle it. The savings aren't worth the risk."
 ---
-
-Most dogs who end up in emergency clinics with GI bleeds or acute kidney failure got there because someone gave them ibuprofen from the medicine cabinet, or doubled up on a prescription NSAID without realizing the dog was already on one. I've seen it happen more times than I'd like. The owner is devastated, and the outcome is sometimes terrible, and almost every time it was entirely preventable.
+Most dogs who end up in emergency clinics bleeding internally or with acute kidney failure got there because someone grabbed ibuprofen from the medicine cabinet, or their owner didn't realize the dog was already on a prescription NSAID and gave another one. I've seen it happen more times than I'd like. The owner is devastated. The outcome is sometimes terrible. And almost every time it was entirely preventable.
 
 NSAIDs, non-steroidal anti-inflammatory drugs, are genuinely useful in veterinary medicine. Carprofen (Rimadyl), meloxicam (Metacam), deracoxib (Deramaxx), grapiprant (Gallipro Tabs), and several others are prescribed every single day in practices across the country. For a dog with osteoarthritis, post-surgical pain, or an acute soft tissue injury, they make a real difference. I'm not here to scare you away from them. I'm here to make sure you understand what you're agreeing to when your vet writes that prescription, because I've watched that five-minute discharge conversation go way too fast.
 
 ## What NSAIDs actually do in your dog's body
 
-The short version: NSAIDs work by blocking cyclooxygenase enzymes, COX-1 and COX-2. COX-2 drives the inflammatory response, which is what you want to suppress. The problem is that COX-1 does a lot of protective work in the body, particularly in the GI tract and kidneys. Different NSAIDs target these pathways with different selectivity, which is partly why some dogs tolerate one drug better than another. But none of them are perfectly selective, and all of them carry risk if used carelessly.
+NSAIDs work by blocking cyclooxygenase enzymes, COX-1 and COX-2. COX-2 drives the inflammatory response you want to suppress. But COX-1 does a lot of protective work in the body, particularly in the GI tract and kidneys. Different NSAIDs target these pathways with different selectivity, which is partly why some dogs tolerate one drug better than another. None of them are perfectly selective, though, and all of them carry risk if used carelessly.
 
-The three systems you need to keep in your head: the stomach and intestines, the kidneys, and the liver. Gastrointestinal problems are the most common side effect, ranging from mild stomach upset to frank ulceration and bleeding. Kidney damage is less common but far more serious, especially in older dogs or dogs who are even mildly dehydrated. Liver toxicity is less predictable, more of an idiosyncratic reaction, and the reason bloodwork monitoring matters.
+Keep three systems in your head: the stomach and intestines, the kidneys, and the liver. Gastrointestinal problems are the most common side effect, ranging from mild stomach upset to frank ulceration and bleeding. Kidney damage is less common but far more serious, especially in older dogs or dogs who are even mildly dehydrated. Liver toxicity is less predictable, more of an idiosyncratic reaction, and the reason bloodwork monitoring matters.
 
-What most people don't realize is that these risks stack. A dog on meloxicam who also gets a dose of aspirin "just for extra pain relief" is now hitting both COX pathways hard from two directions. A dog who skips water after a long walk and then gets his evening dose of carprofen is putting stressed kidneys in contact with a drug that further reduces blood flow to them. It's not that one pill causes catastrophic failure. It's that the conditions compound.
+Here's what most people don't realize: these risks stack. A dog on meloxicam who also gets a dose of aspirin "just for extra pain relief" is now hitting both COX pathways hard from two directions. A dog who skips water after a long walk and then gets his evening dose of carprofen is putting stressed kidneys in contact with a drug that further reduces blood flow to them. It's not that one pill causes catastrophic failure. It's that the conditions compound.
 
 ## The human medication problem deserves its own section
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-Please. I'm asking you sincerely. Do not give your dog ibuprofen, naproxen (Aleve), or acetaminophen (Tylenol). Acetaminophen isn't even an NSAID, but I'm including it because people give it to dogs constantly and it can destroy their red blood cells and liver. Ibuprofen has a notoriously narrow margin of safety in dogs. The ASPCA Animal Poison Control Center fields thousands of calls a year about ibuprofen ingestion in pets, and the outcomes range from vomiting and GI hemorrhage at low doses to acute kidney failure at higher ones.
+Please. Do not give your dog ibuprofen, naproxen (Aleve), or acetaminophen (Tylenol). Acetaminophen isn't even an NSAID, but I'm including it because people give it to dogs constantly and it destroys their red blood cells and liver. Ibuprofen has a notoriously narrow margin of safety in dogs. The ASPCA Animal Poison Control Center fields thousands of calls a year about ibuprofen ingestion in pets, and the outcomes range from vomiting and GI hemorrhage at low doses to acute kidney failure at higher ones.
 
 The dose that would give a person mild relief is genuinely dangerous for a medium-sized dog. This isn't about dogs being fragile. It's about species-specific metabolism. Dogs process these drugs very differently than we do, and the safety margins built into human dosing don't transfer.
 
-If your dog is in pain on a Saturday night and your vet is closed, call an emergency clinic or the ASPCA Poison Control line before reaching into your medicine cabinet. Honestly, a well-stocked pet first aid kit matters more in those moments than you'd expect. Something like [this pet first aid kit on Amazon](https://www.amazon.com/s?k=pet+first+aid+kit+dog) won't treat the pain, but it can help you manage wounds or monitor vitals while you figure out your next step. (The site may earn a commission on that link.) What it definitely won't do is hurt your dog the way a random OTC painkiller can.
+If your dog is in pain on a Saturday night and your vet is closed, call an emergency clinic or the ASPCA Poison Control line before reaching into your medicine cabinet. Honestly, a well-stocked pet first aid kit matters more in those moments than you'd expect. Something like the [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) won't treat the pain, but it can help you manage wounds or monitor vitals while you figure out your next step. What it definitely won't do is hurt your dog the way a random OTC painkiller can.
 
 ## Bloodwork: the part people skip
 
 Most veterinarians will recommend baseline bloodwork before starting a dog on long-term NSAID therapy, and recheck panels every six months or so after that. I've met a lot of owners who skip the rechecks because the dog seems fine and the tests feel like unnecessary expense. I understand that impulse. Vet costs today are real, and $150-200 for a chemistry panel when your dog is acting totally normal feels hard to justify.
 
-Here's why I'd push back gently: the early signs of NSAID-related kidney stress aren't always visible. A dog can lose significant kidney function before you notice increased thirst or changes in urination. By the time those symptoms show up, you're already behind. Catching it on a blood panel while values are mildly elevated gives you options, mainly: stop the drug, support the kidneys, and reassess pain management. Catching it in a crisis is a very different conversation.
+Here's why I'd push back: the early signs of NSAID-related kidney stress aren't always visible. A dog can lose significant kidney function before you notice increased thirst or changes in urination. By the time those symptoms show up, you're already behind. Catching it on a blood panel while values are mildly elevated gives you options, mainly stopping the drug, supporting the kidneys, and reassessing pain management. Catching it in a crisis is a very different conversation.
 
 The American Veterinary Medical Association backs routine monitoring for dogs on long-term NSAIDs, and in my clinical experience, the practices that are rigorous about this catch problems early. It's not a money grab. It's how the drug is meant to be used.
 
@@ -67,12 +62,11 @@ Mild stomach upset on the first day or two isn't unusual. Giving the medication 
 
 ## Alternatives and combinations: a word on joint supplements
 
-If your dog has chronic arthritis and you're trying to reduce NSAID reliance long-term, some joint supplements have decent evidence behind them, glucosamine-chondroitin combinations and omega-3 fatty acids in particular. They're not dramatic interventions, and they won't replace an NSAID for a dog in active pain. But some dogs on good quality supplements like [Cosequin DS](https://www.amazon.com/s?k=Cosequin+DS+for+dogs) (widely recommended, reasonably priced) show enough improvement that their vets can reduce NSAID frequency. Worth asking about. (Commission disclosure applies.)
+If your dog has chronic arthritis and you're trying to reduce NSAID reliance long-term, some joint supplements have decent evidence behind them. Glucosamine-chondroitin combinations and omega-3 fatty acids in particular show promise. They're not dramatic interventions, and they won't replace an NSAID for a dog in active pain. But some dogs on quality supplements like [Nutramax Cosequin DS Joint Supplement for Dogs](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20) show enough improvement that their vets can reduce NSAID frequency. Worth asking about.
 
 Physical therapy and weight management also move the needle in ways that genuinely surprise people. But that's a whole other article.
 
 ---
-
 
 ## Helpful Resources
 
@@ -97,4 +91,3 @@ Physical therapy and weight management also move the needle in ways that genuine
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

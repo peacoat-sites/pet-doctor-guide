@@ -25,7 +25,6 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 
 ---
-
 Most puppies come home around 8 weeks old, and within the first 48 hours, at least three people have probably told you something different about vaccines. Your breeder said one thing. Your neighbor said another. Someone in a Facebook group swore their vet does it completely differently. And now you're staring at a piece of paper from your first vet visit wondering what any of it actually means.
 
 You're not confused because you're not paying attention. You're confused because the vaccine schedule genuinely has moving parts, and most handouts do a poor job explaining the *why* behind the timing.
@@ -50,23 +49,25 @@ That's the real reason for multiple visits. Not revenue. Not habit. Biology.
 
 > **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I want to give you an actual schedule here, not just "ask your vet." That said, your vet will customize this based on your location, your puppy's risk factors, and what vaccines your breeder already gave. Think of this as the standard framework most small animal practices use.
 
 **6 to 8 weeks**
+
 This is usually the breeder's territory. If your puppy came from a responsible breeder, they likely gave the first DA2PP (also written as DHPP or DA2PPC) at around 6 weeks. This combo vaccine covers distemper, adenovirus (hepatitis), parainfluenza, and parvovirus. Sometimes leptospirosis is added here depending on the region. If you got your puppy from a shelter, this likely happened before adoption.
 
 **9 to 11 weeks**
-Your first vet visit if the breeder already started the series, or the first DA2PP if they didn't. This is also when some vets start the bordetella vaccine (kennel cough), especially if you're planning on puppy classes, dog parks, boarding, or grooming. Leptospirosis may be introduced here too, though not every practice does it this early.
+
+Your first vet visit if the breeder already started the series, or the first DA2PP if they didn't. This is also when some vets start the bordetella vaccine (kennel cough), especially if you're planning puppy classes, dog parks, boarding, or grooming. Leptospirosis may be introduced here too, though not every practice does it this early.
 
 **12 to 16 weeks**
+
 Another DA2PP booster. Rabies vaccine is given here, typically not before 12 weeks (most states require it by 16 weeks, and many require it by 12 weeks). If leptospirosis was started at the previous visit, the second dose in that series comes now. Bordetella booster if given intranasally at the last visit.
 
 **14 to 16 weeks**
-Final DA2PP in the puppy series. This is the visit most people treat as optional because their puppy "already had shots," and honestly, it's the one I'd fight you on skipping. This last booster is the one that's most likely to land in that sweet spot after maternal immunity has fully waned. Without it, you can't be confident the series actually worked.
 
-A few things worth flagging here. Lyme disease vaccine is recommended in tick-endemic areas (most of the Northeast, upper Midwest, parts of the Pacific Northwest). If you live in or travel to those regions, ask your vet about adding it, typically starting at 9 to 12 weeks with a booster 2 to 4 weeks later. Influenza vaccine (H3N2 and H3N8) is also available but generally recommended only for dogs with significant social exposure, kennels, dog shows, that sort of thing.
+Final DA2PP in the puppy series. This is the visit most people treat as optional because their puppy "already had shots," and honestly, it's the one I'd fight you on skipping. This last booster is most likely to land in that sweet spot after maternal immunity has fully waned. Without it, you can't be confident the series actually worked.
+
+A few things worth flagging. Lyme disease vaccine is recommended in tick-endemic areas (most of the Northeast, upper Midwest, parts of the Pacific Northwest). If you live in or travel to those regions, ask your vet about adding it, typically starting at 9 to 12 weeks with a booster 2 to 4 weeks later. Influenza vaccine (H3N2 and H3N8) is also available but generally recommended only for dogs with significant social exposure, kennels, dog shows, that sort of thing.
 
 ---
 
@@ -88,7 +89,7 @@ The single most useful thing you can do before your first puppy vet visit: get w
 
 If you don't have records, don't panic. It doesn't mean you start from scratch. Your vet can make a reasonable judgment call based on your puppy's age, source, and history. It just means the schedule might get adjusted to be conservative.
 
-One thing I see people skip: writing down questions before the appointment. You'll think of three things in the waiting room and forget all of them the moment your puppy starts crying. Bring a list. Ask about the 3-year rabies vs. 1-year rabies debate for your state (this is a legal question as much as a medical one). Ask about when your puppy will be fully protected and whether it's safe to take them to the dog park before the series is done. (Short answer: most vets recommend waiting one to two weeks after the final booster.)
+One thing I see people skip: writing down questions before the appointment. You'll think of three things in the waiting room and forget all of them the moment your puppy starts crying. Bring a list. Ask about the 3-year rabies vs. 1-year rabies debate for your state (this is a legal question as much as a medical one). Ask about when your puppy will be fully protected and whether it's safe to take them to the dog park before the series is done. Most vets recommend waiting one to two weeks after the final booster.
 
 ---
 
@@ -102,12 +103,7 @@ If your dog has a moderate reaction (hives, slight swelling but acting okay), yo
 
 ---
 
-
----
-
-The first year of puppy vaccines is one of those things that feels overwhelming until you understand the reasoning, and then it makes complete sense. You're not going through a bureaucratic checklist. You're catching a window in your puppy's immune development that closes at 16 weeks and doesn't open again. Getting the timing right is worth the extra trips to the clinic, the copays, the Tuesday afternoon you had to rearrange.
-
-Your puppy is going to live 10 to 15 years. This is four months of appointments, and it matters more than any other four months of veterinary care they'll ever receive.
+The first year of puppy vaccines is one of those things that feels overwhelming until you understand the reasoning, and then it makes complete sense. You're not going through a bureaucratic checklist. You're catching a window in your puppy's immune development that closes at 16 weeks and doesn't open again. Getting the timing right is worth the extra trips to the clinic, the copays, the Tuesday afternoon you had to rearrange. Your puppy is going to live 10 to 15 years. This is four months of appointments, and it matters more than any other four months of veterinary care they'll ever receive.
 
 ## Helpful Resources
 
@@ -117,14 +113,11 @@ Your puppy is going to live 10 to 15 years. This is four months of appointments,
 - **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
-
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ---
 
@@ -135,4 +128,3 @@ Your puppy is going to live 10 to 15 years. This is four months of appointments,
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

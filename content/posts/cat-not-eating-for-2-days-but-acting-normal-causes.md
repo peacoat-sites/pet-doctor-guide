@@ -25,7 +25,6 @@ author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
 
 ---
-
 Two days. That's the number that should shift you from "oh, she's just being picky" to "okay, I actually need to figure out what's going on." Not three days. Not a week. Forty-eight hours of a cat not eating is the point where biology starts working against you, even when your cat seems completely fine otherwise.
 
 And that's exactly what makes this scenario so confusing. A cat who's lethargic, hiding, or crying in pain? You know something's wrong. But a cat who's zooming around at 2am, sitting on your laptop, demanding pets, and just... not eating? That's the one that trips people up. Including, I'll be honest, me early in my career. I used to reassure owners way too quickly when the cat was acting normally. What I've learned over 13 years is that "acting normal" and "is fine" are not the same thing.
@@ -50,50 +49,45 @@ So the first category of causes is the unsexy but common one: something changed.
 
 The second category is stress. Cats are absolute masters at appearing unbothered while being internally stressed out. A new baby, a house guest, construction noise, another pet acting differently, even your own schedule changing can suppress appetite without producing any other obvious symptoms. This is especially common in single-cat households where the cat has a very fixed routine. What surprised me most when I first started really paying attention to this is how often the trigger is something the owner didn't even register as significant.
 
-The third category is where things get more medically interesting.
+Then there's the medical stuff.
 
 ## The medical causes that sneak up quietly
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+Here's where I need to be direct: a cat that's genuinely not eating for two days but otherwise acting normal is not automatically fine. Some conditions present this way on purpose, biologically speaking.
 
+**Dental pain** is probably the most underdiagnosed cause in this scenario. A cat with a fractured tooth, early resorptive lesion, or gum inflammation will often act completely normal between attempts to eat. They'll approach the bowl, maybe sniff it, take one bite, then walk away. Owners read this as picky eating. It's often pain. I'd estimate (rough number from my own clinical impression, not a published stat) that at least a third of cats over age five I've seen for "not eating" had some degree of dental disease contributing.
 
+**Upper respiratory infection** can kill a cat's appetite fast, even before sneezing or discharge shows up. Cats smell their food before they eat it; block the nose, block the appetite. Any squinting? Any subtle nasal discharge? Any change in voice?
 
-Here's where I want to be really clear: a cat that's genuinely not eating for two days but otherwise acting normal is not automatically fine. Some conditions present this way on purpose, biologically speaking.
+**Nausea** from a huge range of causes works the same way. Early kidney disease, hyperthyroidism (very common in cats over ten), pancreatitis, or even constipation can present as a cat who's moving around normally but just doesn't want food. Hyperthyroidism in particular is tricky because early-stage cats often seem hyperactive and "normal" or even more energetic than usual, while quietly not eating well.
 
-**Dental pain** is probably the most underdiagnosed cause in this scenario. A cat with a fractured tooth, early resorptive lesion, or gum inflammation will often act completely normal between attempts to eat. They'll approach the bowl, maybe sniff it, take one bite, then walk away. Owners read this as picky eating. It's often pain. I'd estimate (and this is a rough number from my own clinical impression, not a published stat) that at least a third of cats over age five that I've seen for "not eating" had some degree of dental disease contributing.
-
-**Upper respiratory infection** can kill a cat's appetite fast, even before sneezing or discharge appears. Cats smell their food before they eat it; block the nose, block the appetite. Check: is there any squinting, any subtle nasal discharge, any change in voice?
-
-**Nausea** from a huge range of causes, including early kidney disease, hyperthyroidism (very common in cats over ten), pancreatitis, or even constipation, can present as a cat who's moving around normally but just doesn't want food. Hyperthyroidism in particular is tricky because early-stage cats often seem hyperactive and "normal" or even more energetic than usual, while quietly not eating well.
-
-**Ingestion of something toxic or irritating** is worth considering even if you didn't see anything happen. The [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) has a 24-hour hotline (888-426-4435) and their database covers hundreds of plants, foods, and household products. If you have lilies anywhere in your home and a cat who's not eating, please stop reading this and call them right now. Lily toxicity in cats moves fast and is fatal without treatment.
+**Ingestion of something toxic or irritating** is worth considering even if you didn't see anything happen. The [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) has a 24-hour hotline (888-426-4435) and their database covers hundreds of plants, foods, and household products. If you have lilies anywhere in your home and a cat who's not eating, stop reading this and call them right now. Lily toxicity in cats moves fast and is fatal without treatment.
 
 **Hepatic lipidosis** gets its own mention because it's the reason the two-day threshold matters so much. When a cat stops eating, their body mobilizes fat reserves, which then overwhelm the liver. This can happen in as little as 48-72 hours in cats who are overweight. It's one of the most common serious liver diseases in cats, and it's entirely triggered by not eating. A cat can start this process while still acting relatively normal. That's the cruel part.
 
 ## What you should actually do right now
 
-First, get a clear picture of what's happening. Not eating at all, or eating less? Eating treats but not food? Eating wet but not dry? These distinctions matter enormously for the vet conversation.
+Get a clear picture of what's happening first. Not eating at all, or eating less? Eating treats but not food? Eating wet but not dry? These distinctions matter enormously for the vet conversation.
 
-Check the basics at home: Is your cat drinking water? Any vomiting, even just once? Any change in litter box output (less urine is a red flag)? Gums pink and moist? If gums are pale, tacky, or have any tinge of yellow, that's an emergency call, not a Monday appointment.
+Check the basics at home. Is your cat drinking water? Any vomiting, even just once? Any change in litter box output (less urine is a red flag)? Gums pink and moist? If gums are pale, tacky, or have any tinge of yellow, that's an emergency call, not a Monday appointment.
 
-Weigh your cat if you can. A kitchen food scale works fine for cats. A loss of even half a pound in two days in a small cat is significant.
+Weigh your cat if you can. A kitchen food scale works fine. A loss of even half a pound in two days in a small cat is significant.
 
 Try warming the food slightly (microwave for ten seconds, stir well, check temperature). Try a different protein. Try a different texture. If your cat hasn't eaten in two days and won't take anything, including high-value stuff like plain cooked chicken or a small amount of tuna in water, something is probably medically wrong and you need a vet appointment. Not an emergency necessarily, but not "wait and see" either.
 
-Honestly, my personal threshold is this: if a cat is truly not eating for 48 hours and won't take any high-value food substitutes, I'd call the vet that day even if the cat seems fine. The "acting normal" part shouldn't make you wait longer. It should just tell you you're probably not in a same-day emergency situation.
+My personal threshold: if a cat is truly not eating for 48 hours and won't take any high-value food substitutes, I'd call the vet that day even if the cat seems fine. The "acting normal" part shouldn't make you wait longer. It should just tell you you're probably not in a same-day emergency situation.
 
 For cats over ten, or overweight cats, I'd be even more aggressive about that timeline.
 
 ## When it's actually an emergency
 
-Go now, not Monday, if your cat: hasn't eaten in over 72 hours, is showing any lethargy on top of not eating, is vomiting repeatedly, has yellow-tinged skin or eyes (jaundice), is straining to urinate or not urinating at all (especially male cats, this is a life-threatening emergency), is breathing with open mouth or labored effort, or has gums that are white, blue, or grey.
+Go now, not Monday, if your cat: hasn't eaten in over 73 hours, is showing any lethargy on top of not eating, is vomiting repeatedly, has yellow-tinged skin or eyes (jaundice), is straining to urinate or not urinating at all (especially male cats, this is a life-threatening emergency), is breathing with open mouth or labored effort, or has gums that are white, blue, or grey.
 
 The [American Veterinary Medical Association](https://www.avma.org/) has solid general guidance on pet emergencies if you're trying to calibrate urgency for something not covered here.
 
 For everything else, call your regular vet and describe what you're seeing. A good vet tech on the phone can help you triage. Don't be embarrassed about calling. We'd rather hear from you than find out you waited five days.
 
 ---
-
 
 ## Helpful Resources
 
@@ -102,7 +96,6 @@ For everything else, call your regular vet and describe what you're seeing. A go
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 - **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
 
 *Photo: [Alif Alatas](https://www.pexels.com/@alif-alatas-2158102265) via Pexels*
 
@@ -120,4 +113,3 @@ For everything else, call your regular vet and describe what you're seeing. A go
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
 - **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
-

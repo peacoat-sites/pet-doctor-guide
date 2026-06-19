@@ -25,7 +25,6 @@ author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 
 ---
-
 Your cat turns 11, and suddenly she's sleeping in different spots, drinking more water, and seems a little stiff getting up from her favorite chair. You chalk it up to "just getting older." But here's what a lot of people don't realize: cats are considered senior at age 11, and geriatric by 15. Those subtle changes you're noticing aren't random. They're often the first signals of conditions that are very manageable when caught early, and genuinely serious when they're not.
 
 Senior cats are masters of hiding discomfort. It's built into their biology as prey animals. That's exactly why understanding what's normal aging versus what needs veterinary attention can make a real difference in how many good years your cat has left.
@@ -44,15 +43,13 @@ Muscle mass also decreases with age. This is called sarcopenia, and it's one rea
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll be direct: once your cat hits 11, annual vet visits aren't enough. The American Animal Hospital Association (AAHA), whose hospital accreditation standards set the bar for quality veterinary care in North America, recommends that senior and geriatric cats be seen every six months. Not because vets want to see you more often. Because six months in a cat's life is equivalent to roughly two human years. A lot can change.
 
-Those biannual visits should include bloodwork and a urinalysis. Every time. The combination tells your vet things that a physical exam simply can't, like early kidney disease, elevated thyroid hormone, early diabetes, or liver changes. Catching hyperthyroidism when a cat's T4 level is mildly elevated is a very different treatment situation than catching it after the cat has lost three pounds and developed a heart murmur from uncontrolled disease.
+Those biannual visits should include bloodwork and a urinalysis every single time. The combination tells your vet things that a physical exam simply can't, like early kidney disease, elevated thyroid hormone, early diabetes, or liver changes. Catching hyperthyroidism when a cat's T4 level is mildly elevated is a very different treatment situation than catching it after the cat has lost three pounds and developed a heart murmur from uncontrolled disease.
 
-If you've never been to a detailed wellness visit with a senior cat, our [cat annual vet visit what to expect](/cat-annual-vet-visit-what-to-expect/) article walks through exactly what happens and how to prepare, including questions worth asking your vet about bloodwork panels specifically designed for older cats.
+Our [cat annual vet visit what to expect](/cat-annual-vet-visit-what-to-expect/) article walks through exactly what happens and how to prepare, including questions worth asking your vet about bloodwork panels specifically designed for older cats.
 
-Before each appointment, keep a two-week log of anything unusual. Water intake, litter box trips, appetite changes, vomiting, behavior shifts. Vets have limited appointment time. A written log is one of the best things you can do to make that time count.
+Before each appointment, keep a two-week log of anything unusual: water intake, litter box trips, appetite changes, vomiting, behavior shifts. Vets have limited appointment time. A written log is one of the best things you can do to make that time count.
 
 ## Recognizing the Signs That Need Attention Now vs. Later
 
@@ -77,7 +74,7 @@ Not everything requires a same-day call. But some things do. Here's a practical 
 - Changes in grooming habits.
 - More vocal at night.
 
-For context on when vomiting crosses into concerning territory, the [cat vomiting when to worry](/cat-vomiting-when-to-worry/) article is a solid resource that gives you a clear framework.
+The [cat vomiting when to worry](/cat-vomiting-when-to-worry/) article is a solid resource for context on when vomiting crosses into concerning territory.
 
 ## Comfort and Mobility: The Practical Changes That Matter
 
@@ -111,7 +108,7 @@ Signs that might suggest CDS:
 - Forgetting where the litter box is.
 - Increased anxiety or clinginess, or the opposite, unusual withdrawal.
 
-PetMD's veterinary resource library has solid background on feline cognitive dysfunction if you want more clinical detail on the progression of the condition.
+PetMD's veterinary resource library has solid background on feline cognitive dysfunction if you want more clinical detail on the progression.
 
 Hiding behavior that's new or more frequent in a senior cat is worth taking seriously. Cats often hide when they're not feeling well. Our [cat hiding behavior explained](/cat-hiding-behavior-explained/) article breaks down how to read that behavior in context and when it warrants a vet call.
 
@@ -123,12 +120,7 @@ Dental disease in senior cats isn't just about bad breath. Painful mouths lead c
 
 Many senior cats end up on one or more daily medications, whether for thyroid disease, blood pressure, kidney support, or pain. Getting a cat to take medication daily is its own skill. Pill pockets, compounded transdermal gels applied to the inner ear flap, and flavored liquid formulations are all real options. Be honest with your vet about what's realistic. A medication your cat spits out every day is not doing anything.
 
----
-
-
----
-
-The senior years with a cat can honestly be some of the most rewarding. These animals know their people deeply, and if you know what to look for and stay ahead of what their aging bodies need, many cats live comfortably well into their late teens. You don't need to be reactive and anxious about every change. You just need to be paying attention.
+The senior years with a cat can honestly be some of the most rewarding. These animals know their people deeply. If you know what to look for and stay ahead of what their aging bodies need, many cats live comfortably well into their late teens. You don't need to be reactive and anxious about every change. You just need to be paying attention.
 
 ## Helpful Resources
 
@@ -138,12 +130,9 @@ The senior years with a cat can honestly be some of the most rewarding. These an
 - **[Arm & Hammer Dog Dental Spray,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ---
 
@@ -155,3 +144,4 @@ The senior years with a cat can honestly be some of the most rewarding. These an
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 
+*Photo: ...*

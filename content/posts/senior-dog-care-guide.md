@@ -25,12 +25,9 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 
 ---
-
 Your 9-year-old Lab mix has started sleeping through his morning walk invitation, the one that used to send him skidding across the hardwood floors. He's eating fine, drinking fine, but something has shifted. You can feel it even if you can't quite name it. That subtle change is often the first sign that your dog has crossed into senior territory, and knowing how to respond can genuinely add quality years to his life.
 
 Dogs are generally considered senior at 7 years old, though size matters a lot here. Giant breeds like Great Danes can hit senior status closer to 5 or 6, while small dogs under 20 pounds often don't show meaningful age-related decline until 9 or 10. That variability is exactly why "senior dog care" isn't a one-size checklist. It's a shifting, individualized process that rewards owners who pay close attention.
-
----
 
 ## What's Actually Happening Inside an Aging Dog
 
@@ -40,13 +37,9 @@ Kidney function declines. Liver efficiency drops. The immune system becomes less
 
 The most important thing to understand is that many of these changes are manageable if you catch them early. A dog losing 8% of his muscle mass over one year responds very differently to intervention than a dog who's lost 30% over three years because no one noticed the decline. That's not a scare tactic. That's just how biology works.
 
----
-
 ## Vet Care: Why Twice a Year Is the Right Call
 
 > **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I can't tell you how many clients have pushed back on this. "He seems totally fine, do we really need to come in every six months?" Yes. You really do.
 
@@ -66,8 +59,6 @@ That last cluster of symptoms can signal canine cognitive dysfunction, a conditi
 
 For more context on what a thorough wellness exam covers, [this breakdown of what to expect at your cat's annual vet visit](/cat-annual-vet-visit-what-to-expect/) parallels what a senior dog exam should include, and can help you ask better questions.
 
----
-
 ## Nutrition for Senior Dogs: Rethinking What Goes in the Bowl
 
 Senior dog food marketing is loud and often misleading. "Senior formula" on a bag doesn't automatically mean it's right for your dog. Some senior dogs need fewer calories because their metabolism has slowed. Others, particularly those losing muscle mass, actually need more high-quality protein than a standard senior formula provides.
@@ -84,8 +75,6 @@ Practical nutrition priorities for most senior dogs:
 On the topic of dental health: this matters more than most owners realize. Periodontal disease is nearly universal in dogs over 8, and the bacteria involved don't stay in the mouth. There's a well-documented link between severe dental disease and heart, kidney, and liver damage. The [comprehensive dog dental health guide](/dog-dental-health-guide/) on this site is worth a thorough read. Regular dental cleanings, home brushing, and quality dental chews aren't cosmetic care. They're medical care.
 
 [Veterinary-grade dental chews and joint supplements are available on Amazon](https://www.amazon.com/) if you're looking for day-to-day support between vet visits. The site may earn a commission on purchases, but always check with your vet before starting any new supplement, especially if your dog is on medications.
-
----
 
 ## Mobility, Pain, and the Signals Most Owners Miss
 
@@ -107,17 +96,13 @@ At home, the practical adjustments matter more than most people realize. Orthope
 
 [Orthopedic dog beds and joint support supplements are widely available on Amazon](https://www.amazon.com/), and the quality variance is significant. Look for beds with at least 4 inches of memory foam and a washable cover. As always, consult your vet about which joint supplements are appropriate for your specific dog.
 
----
-
 ## Mental Health, Enrichment, and Why Boredom Hurts Senior Dogs
 
 A dog's brain needs exercise just as much as his body, and in senior dogs, mental stimulation may actually be more critical. Cognitive decline in dogs follows patterns similar to human dementia: disorientation, disrupted sleep-wake cycles, changes in social interaction, and loss of previously learned behaviors. [PetMD's veterinary resource library](https://www.petmd.com/) covers canine cognitive dysfunction in detail, including how it's diagnosed and the current treatment landscape.
 
-The encouraging news is that mental enrichment is genuinely protective. Studies in dogs mirror what we see in humans: brains that stay active show slower cognitive decline. This doesn't mean exhausting your arthritic 12-year-old with agility training. It means puzzle feeders instead of a bowl, short training sessions using positive reinforcement, sniff walks (slow walks where the dog leads and sniffs freely), and social time with familiar people and dogs.
+The encouraging news is that mental enrichment genuinely protects against decline. Studies in dogs mirror what we see in humans: brains that stay active show slower cognitive decline. This doesn't mean exhausting your arthritic 12-year-old with agility training. It means puzzle feeders instead of a bowl, short training sessions using positive reinforcement, sniff walks where the dog leads and sniffs freely, and social time with familiar people and dogs.
 
 Puzzle feeders are particularly underused in senior dogs. Spreading meals across a snuffle mat or a slow feeder engages the nose and brain simultaneously, takes about two minutes to set up, and costs almost nothing in effort. [Puzzle feeders and snuffle mats on Amazon](https://www.amazon.com/) range from very simple to genuinely challenging. Start easy and work up. The site may earn a small commission, but honestly, a $15 snuffle mat is one of the highest-value things you can buy for an aging dog's quality of life.
-
----
 
 ## Practical Senior Dog Care: A Month-by-Month Checklist
 
@@ -133,11 +118,6 @@ This isn't a rigid schedule. It's a framework you adapt based on your dog's spec
 
 The weight check deserves special attention. A 10-pound weight loss in a 70-pound Labrador is a 14% body weight drop. That's significant. Weigh your senior dog monthly and write it down. Trends matter far more than single data points.
 
----
-
-
----
-
 The dogs who age most gracefully aren't necessarily the ones with the best genetics or the most expensive care. They're the ones whose owners noticed the small changes, asked good questions, and adjusted thoughtfully without waiting for a crisis. Your job isn't to reverse aging. It's to make sure your dog's later years are genuinely good ones, full of comfort, engagement, and the kind of quiet daily joy that old dogs do better than anyone.
 
 ## Helpful Resources
@@ -148,14 +128,11 @@ The dogs who age most gracefully aren't necessarily the ones with the best genet
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 
-
 *Photo: [Griffin Wooldridge](https://www.pexels.com/@griffinw) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ---
 
@@ -166,4 +143,3 @@ The dogs who age most gracefully aren't necessarily the ones with the best genet
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-

@@ -25,26 +25,21 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 
 ---
-
 Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms, BUN, ALT, T4, CBC, wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. I've had this exact conversation in the exam room hundreds of times. Here's what I wish every pet owner knew before that appointment.
 
 ---
 
 ## Why Bloodwork Matters More in Senior Pets Than You Think
 
-The honest answer to "does my healthy-seeming older pet really need this?" is yes, and the reason comes down to one frustrating biological fact: dogs and cats are masters at hiding illness. It's a survival instinct baked in over thousands of years. By the time a pet is visibly slowing down, drinking more water, or losing weight, organ disease is often well advanced.
+The honest answer to "does my healthy-seeming older pet really need this?" is yes. The reason comes down to one frustrating biological fact: dogs and cats are masters at hiding illness. It's a survival instinct baked in over thousands of years. By the time a pet is visibly slowing down, drinking more water, or losing weight, organ disease is often well advanced.
 
-Kidney disease is the most common example I reach for. A cat can lose 70 percent of kidney function before showing any symptoms you'd notice at home. Caught at 50 percent loss through routine bloodwork, the disease is manageable for years with diet changes and sometimes medication. Caught at 70 to 75 percent, you're already in crisis management mode.
+Take kidney disease. A cat can lose 70 percent of kidney function before showing any symptoms you'd notice at home. Caught at 50 percent loss through routine bloodwork, the disease is manageable for years with diet changes and sometimes medication. Caught at 70 to 75 percent? You're already in crisis management mode.
 
 Senior bloodwork gives you a baseline. Even if everything comes back normal this year, that result is valuable because it tells your vet what *normal* looks like for your specific animal. Next year, a value that's technically still within the reference range but has jumped significantly from your pet's own baseline can be an early red flag. Population-wide reference ranges don't tell the whole story. Your pet's individual trend does.
 
 ---
 
 ## What's Actually in a Senior Panel
-
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A basic senior panel typically includes two components: a complete blood count (CBC) and a chemistry panel, sometimes with add-ons depending on your pet's age, breed, and history.
 
@@ -58,7 +53,7 @@ A basic senior panel typically includes two components: a complete blood count (
 - **Total protein and albumin**: reflect nutrition, liver function, and gastrointestinal health.
 - **Electrolytes (sodium, potassium, chloride)**: critical for heart function and adrenal health.
 
-**Thyroid testing (T4)** is often added for cats over 7, because hyperthyroidism is the most common hormonal disease in older cats and is very treatable when caught early. Dogs get thyroid testing too, though they tend toward hypothyroidism instead.
+**Thyroid testing (T4)** is often added for cats over 7 because hyperthyroidism is the most common hormonal disease in older cats and is very treatable when caught early. Dogs get thyroid testing too, though they tend toward hypothyroidism instead.
 
 Some vets also recommend a urinalysis alongside bloodwork, because urine-specific gravity gives context to kidney values that blood tests alone can't provide.
 
@@ -91,7 +86,7 @@ Your vet will go over results with you, but if you want to understand the printo
 | High T4 (cats) | Hyperthyroidism | Treatment discussion: medication, radioactive iodine, diet |
 | Anemia (low RBC/HCT) | Blood loss, chronic disease, bone marrow issue | Depends on severity, recheck or further testing |
 
-One thing most people don't realize: a single abnormal value rarely means disaster. Your vet looks at the whole picture, not one number in isolation. A mildly elevated ALT in an otherwise healthy 9-year-old dog who just had a fatty meal is very different from an elevated ALT in a dog who's also lost weight and stopped eating.
+Here's what most people don't realize: a single abnormal value rarely means disaster. Your vet looks at the whole picture, not one number in isolation. A mildly elevated ALT in an otherwise healthy 9-year-old dog who just had a fatty meal is very different from an elevated ALT in a dog who's also lost weight and stopped eating.
 
 ---
 
@@ -100,22 +95,16 @@ One thing most people don't realize: a single abnormal value rarely means disast
 A little preparation makes a real difference, both for the accuracy of results and for your own peace of mind.
 
 **Before the appointment:**
-1. Fast your pet for 8 to 12 hours before bloodwork. Food can elevate glucose, triglycerides, and some liver enzymes, skewing results.
-2. Bring a list of every supplement, medication, or flea/tick preventative your pet takes. Certain products affect bloodwork values.
-3. Note any changes you've observed at home: increased thirst, more frequent urination, changes in appetite or weight, unusual lethargy.
-4. Ask your vet if they plan to run an in-house panel or send it to an outside lab. Outside labs are often more comprehensive and accurate for subtle abnormalities.
+
+Fast your pet for 8 to 12 hours before bloodwork. Food can elevate glucose, triglycerides, and some liver enzymes, skewing results. Bring a list of every supplement, medication, or flea/tick preventative your pet takes, certain products affect bloodwork values. Note any changes you've observed at home: increased thirst, more frequent urination, changes in appetite or weight, unusual lethargy. Ask your vet if they plan to run an in-house panel or send it to an outside lab. Outside labs are often more comprehensive and accurate for subtle abnormalities.
 
 **At the appointment:**
-5. Ask for a printed copy of the results with reference ranges. Many clinics offer portal access now.
-6. Ask your vet to flag which values are outside your pet's own historical baseline, not just outside the population reference range.
+
+Ask for a printed copy of the results with reference ranges. Many clinics offer portal access now. Ask your vet to flag which values are outside your pet's own historical baseline, not just outside the population reference range.
 
 **After results come back:**
-7. If something is abnormal, ask specifically: "What do we watch for at home?" and "What's the timeline for the recheck?" Don't leave without a clear next step.
 
-Having a good [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit) at home won't change your bloodwork results, but it's part of the broader mindset of being proactive with your senior pet's health. (Disclosure: this site may earn a commission from qualifying purchases.)
-
----
-
+If something is abnormal, ask specifically: "What do we watch for at home?" and "What's the timeline for the recheck?" Don't leave without a clear next step.
 
 ---
 
@@ -129,12 +118,9 @@ Senior bloodwork isn't about finding something wrong. It's about knowing your pe
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ---
 
@@ -145,4 +131,3 @@ Senior bloodwork isn't about finding something wrong. It's about knowing your pe
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-

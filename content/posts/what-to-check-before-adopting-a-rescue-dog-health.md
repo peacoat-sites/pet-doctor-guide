@@ -25,7 +25,6 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 
 ---
-
 Roughly half the rescue dogs I've seen come through our clinic in the first 30 days post-adoption had at least one health issue the new owner didn't know about. Not because shelters are hiding things. Because health assessments done on stressed, under-observed animals in noisy kennels miss a lot, and because most adopters don't know what to look for before they sign the paperwork.
 
 Most adoption advice focuses on temperament, training, and whether the dog will get along with your cat. That's all real. But walking home with a dog who has an undiagnosed ear infection, early hip dysplasia, or an intestinal parasite load is a rough start for everyone, and it costs money you could have planned for if you'd known.
@@ -36,15 +35,13 @@ Here's what to actually check.
 
 Before you lay eyes on any dog, pull out the medical records. Shelters are required to provide these, and most will without any fuss. What you're looking for: vaccination history, heartworm test result and date, any treatments administered during the stay, and any vet notes. A dog that came in as a stray with zero history is a different risk profile than an owner surrender with five years of vet records.
 
-Ask specifically: Has this dog been treated for intestinal parasites? Has a fecal test been done, and when? Has the dog shown any respiratory symptoms during its stay? Kennel cough (Bordetella) spreads fast in shelters, and a dog in the tail end of it can look totally fine on a Tuesday and be coughing hard by Friday.
+Ask specifically: Has this dog been treated for intestinal parasites? Has a fecal test been done, and when? Has the dog shown any respiratory symptoms during its stay? Kennel cough spreads fast in shelters, and a dog in the tail end of it can look totally fine on a Tuesday and be coughing hard by Friday.
 
 Also ask how long the dog has been there. Dogs housed in shelters for more than a few weeks are at higher risk for stress-related immune suppression. That doesn't mean don't adopt them. It means go in clear-eyed.
 
 ## Do Your Own Physical Assessment
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You don't need a veterinary degree to notice the obvious. Run through this before you fall in love with a set of ears or a wagging tail.
 
@@ -74,22 +71,19 @@ Get the dog's weight recorded. You'll use this number constantly.
 
 A few things that catch first-time rescue adopters off guard.
 
-Brachycephalic dogs (bulldogs, French bulldogs, pugs, Boston terriers) commonly have structural breathing issues. You can hear this on exam, and it affects anesthesia risk significantly. If you're adopting a brachycephalic breed, ask whether the shelter's vet assessed for BOAS (brachycephalic obstructive airway syndrome). [PetMD's veterinary resource library](https://www.petmd.com/) has a solid plain-language overview of this condition if you want to know what you're dealing with.
+Brachycephalic dogs (bulldogs, French bulldogs, pugs, Boston terriers) commonly have structural breathing issues. You can hear this on exam, and it affects anesthesia risk significantly. If you're adopting one of these breeds, ask whether the shelter's vet assessed for BOAS (brachycephalic obstructive airway syndrome). [PetMD's veterinary resource library](https://www.petmd.com/) has a solid plain-language overview of this condition if you want to know what you're dealing with.
 
-Senior dogs (roughly 7+ years depending on size) should get baseline bloodwork. Kidney disease, liver changes, and thyroid issues are common and manageable if you catch them. They're also much harder and more expensive to treat once they've progressed.
+Senior dogs (roughly 7+ years depending on size) should get baseline bloodwork. Kidney disease, liver changes, and thyroid issues are common and manageable if you catch them early. They're also much harder and more expensive to treat once they've progressed.
 
 Large and giant breed dogs have higher rates of orthopedic issues, cardiac disease, and certain cancers. This isn't a reason not to adopt one. It is a reason to budget for it and get good pet insurance in place immediately, not after you already have a diagnosis.
 
 ## Setting Up for the First Month at Home
 
-Stock a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) before the dog arrives. Keep it somewhere accessible. You'll likely need it less than you think, but new dogs are stressed and stress does weird things to immune systems and digestion.
+Stock a basic pet first aid kit before the dog arrives. Keep it somewhere accessible. You'll likely need it less than you think, but new dogs are stressed and stress does weird things to immune systems and digestion.
 
 Keep the dog away from other household pets for at least 10-14 days if possible. Not because the shelter necessarily missed something catastrophic, but because Giardia and kennel cough can spread before symptoms show, and your resident cat does not need to be collateral damage.
 
 Don't overwhelm the dog with social visits, new environments, and parks in week one. The 3-3-3 rule in rescue circles (3 days to decompress, 3 weeks to learn your routine, 3 months to feel at home) is a simplification, but it's a useful mental frame. A dog who's not showing symptoms in week one might show them in week two once they relax.
-
----
-
 
 ## Helpful Resources
 
@@ -98,7 +92,6 @@ Don't overwhelm the dog with social visits, new environments, and parks in week 
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
@@ -114,4 +107,3 @@ Don't overwhelm the dog with social visits, new environments, and parks in week 
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

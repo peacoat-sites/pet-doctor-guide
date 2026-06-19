@@ -14,7 +14,6 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 
 ---
-
 Your dog just got the worst possible diagnosis from a knee injury, and now you're staring at a bill estimate that made your stomach drop. I've been in that exam room with hundreds of families at this point, watching people do the mental math in real time, trying to figure out whether they're looking at a manageable setback or a genuinely life-altering expense. So let's just talk honestly about what you're actually dealing with.
 
 A torn CCL (that's the canine equivalent of an ACL, though technically we call it the cranial cruciate ligament) is one of the most common orthopedic injuries in dogs. It's also one of the most expensive to treat properly. And there's a lot of information floating around out there that is either incomplete, unrealistically optimistic, or clearly written by someone who has never actually sat with a limping Labrador at 11pm wondering what to do next.
@@ -41,10 +40,6 @@ TPLO is the current gold standard for medium to large dogs, and honestly for mos
 
 ## The Real Cost Breakdown
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Let's get into the numbers, because that's probably why you're here.
 
 TPLO surgery at a veterinary surgical specialist typically runs between $3,500 and $6,500 per leg. In high cost-of-living areas like the Bay Area, Boston, or New York City, you can push past $7,000. TTA tends to come in slightly lower, around $3,000 to $5,500. Lateral suture repair is the least expensive, often $1,200 to $2,500, which is part of why it still gets recommended for small dogs where it performs comparably.
@@ -53,7 +48,7 @@ What's included in that estimate matters a lot. Ask specifically whether pre-sur
 
 Then there's the recovery phase. Post-operative pain medication (typically carprofen or meloxicam plus a short course of gabapentin) runs maybe $80 to $120 for the initial supply. Physical rehabilitation, which I'll get to in a moment, can add another $100 to $250 per session if you go to a certified canine rehab therapist. You won't need dozens of sessions, but four to six over the recovery period is pretty standard and genuinely worth it.
 
-If your dog tears the other CCL (which happens in roughly 40-60% of dogs within two years, a statistic that deserves its own moment of silence), you're looking at doing this all over again.
+If your dog tears the other CCL (which happens in roughly 40-60% of dogs within two years), you're looking at doing this all over again. I won't sugarcoat it.
 
 Pet insurance is the obvious conversation here. If your dog isn't injured yet and you're reading this as research: get insurance now, before any lameness symptoms appear, because virtually every insurer excludes pre-existing orthopedic conditions. Policies through Trupanion or Healthy Paws tend to cover TPLO well if the injury happens after the waiting period. If you're already past that point, CareCredit is accepted at most specialty practices and gives you 12 to 24 months of no-interest financing if you pay it down within the promotional period.
 
@@ -63,7 +58,9 @@ This is where I want to be really direct with you, because the timeline your vet
 
 The official "return to full activity" number for TPLO is typically 12 to 16 weeks. That's accurate for most dogs in terms of bone healing on radiographs. But functional, confident, this-dog-runs-like-nothing-happened recovery is often closer to six months. Some dogs, especially those who had significant muscle atrophy before surgery, take a full year to feel completely like themselves. I'm not trying to scare you. I'm trying to save you from the frustration of expecting a 14-week miracle and being worried when your dog is still favoring the leg at week 18.
 
-The first two weeks are brutal for everyone. Your dog will be on strict crate rest, which means a genuinely small space, leash walks for bathroom breaks only, no stairs, no jumping, no playing with other pets. This is non-negotiable. The bone cut made during TPLO is held together with a bone plate and screws, and it needs time to start healing before any load is placed on it beyond controlled walking. People underestimate how hard crate rest is on an otherwise healthy, energetic dog. Puzzle feeders help. A lot. Something like the Outward Hound Nina Ottosson puzzle toys (around $15 to $30 on Amazon, and yes, the site may earn a small commission on that link) can burn mental energy without any physical movement. Lick mats with frozen peanut butter or plain Greek yogurt are genuinely one of the best tools I've seen for keeping dogs calm during restricted activity.
+The first two weeks are brutal for everyone. Your dog will be on strict crate rest, which means a genuinely small space, leash walks for bathroom breaks only, no stairs, no jumping, no playing with other pets. This is non-negotiable. The bone cut made during TPLO is held together with a bone plate and screws, and it needs time to start healing before any load is placed on it beyond controlled walking. People underestimate how hard crate rest is on an otherwise healthy, energetic dog.
+
+Puzzle feeders help. A lot. Something like the Outward Hound Nina Ottosson puzzle toys (around $15 to $30 on Amazon) can burn mental energy without any physical movement. Lick mats with frozen peanut butter or plain Greek yogurt are genuinely one of the best tools I've seen for keeping dogs calm during restricted activity.
 
 Weeks two through eight involve gradual, controlled leash walking. Your surgeon will give you a protocol: five minutes twice a day at week two, increasing by five minutes every week or two depending on progress. You'll have a recheck radiograph around week six to eight to assess bone healing. This is the appointment that determines whether you get to start increasing activity or whether you're staying conservative. Don't skip it.
 
@@ -80,8 +77,6 @@ Call your vet or the surgical team if: your dog's incision is red, hot, or has d
 The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) is a good resource to have bookmarked during recovery, not because of the surgery itself, but because dogs on restricted activity sometimes get creative about finding things to chew or ingest out of boredom. It happens more than you'd think.
 
 For additional information on post-surgical care specifics and what normal healing looks like week by week, [PetMD's veterinary resource library](https://www.petmd.com/) has solid, vet-reviewed articles that can help you know what questions to bring to your recheck appointments.
-
----
 
 ### Frequently Asked Questions
 
@@ -134,4 +129,3 @@ Six months from now, most dogs who've gone through TPLO are running around like 
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

@@ -25,7 +25,6 @@ author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
 
 ---
-
 Your small dog has been slowing down a little. Maybe they used to meet you at the door and now they're still on the couch when you get home. Or you've noticed a cough that shows up after excitement, or they seem to tire faster on walks than they did six months ago. You've been telling yourself it's probably just age. You might be wondering if you're being paranoid.
 
 You're not being paranoid. And the fact that you're paying attention might genuinely matter.
@@ -43,10 +42,6 @@ For a while, the heart compensates. It works harder, enlarges slightly, and mana
 Then comes the point where compensation starts to fail. The heart can't keep up. Fluid builds up in the lungs (pulmonary edema) or the chest cavity. This is Stage C, and this is where symptoms become visible. The good news: a vet with a stethoscope can hear the murmur long before you'd ever see anything wrong. Which is why annual wellness exams for small breeds aren't optional in my opinion. They're the whole strategy.
 
 ## The Signs You Can Actually Observe at Home
-
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A soft, intermittent cough. This is often the first thing owners notice and the first thing they dismiss. I can't tell you how many times I've heard "oh, she does that little cough but she's always done it." Pay attention to *when* it happens. A cardiac cough tends to show up after lying down, after excitement, or at night. It's often soft and low, sometimes sounds like they're trying to clear something from their throat. People sometimes confuse it with reverse sneezing, which is common in small breeds and usually harmless. The difference: reverse sneezing is short, snorty, and stops quickly. A cardiac cough tends to linger a little and often happens in patterns.
 
@@ -86,12 +81,7 @@ If your vet detects a murmur, [PetMD's veterinary resource library](https://www.
 
 Keep a simple log at home: resting respiratory rates, when coughing occurs, any changes in exercise tolerance or sleeping position. Bring it with you. Vets genuinely appreciate objective, time-stamped observations. It makes your appointment more productive.
 
----
-
-
----
-
-The cough you're hearing, the slowing down you've noticed, the gut feeling that something's a little off -- these aren't nothing. Small breed dogs are prone to heart disease in a way that other dogs simply aren't, and catching it before symptoms become severe genuinely changes what's possible. You know your dog. Trust what you're seeing, write it down, and say something at your next appointment.
+The cough you're hearing, the slowing down you've noticed, the gut feeling that something's a little off. These aren't nothing. Small breed dogs are prone to heart disease in a way that other dogs simply aren't, and catching it before symptoms become severe genuinely changes what's possible. You know your dog. Trust what you're seeing, write it down, and say something at your next appointment.
 
 ## Helpful Resources
 
@@ -101,14 +91,9 @@ The cough you're hearing, the slowing down you've noticed, the gut feeling that 
 - **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
-
 *Photo: [Alexey Demidov](https://www.pexels.com/@alexeydemidov) via Pexels*
 
----
-
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ## Recommended Resources
 
@@ -116,4 +101,3 @@ The cough you're hearing, the slowing down you've noticed, the gut feeling that 
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

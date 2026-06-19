@@ -25,10 +25,9 @@ author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
 
 ---
+Your dog's been shaking his head for two days straight. You notice him pawing at his left ear, and when you lean in close, there's a smell that stops you cold. You're not imagining it. That's almost certainly an ear infection, and if you've never dealt with one before, the combination of symptoms can feel alarming.
 
-Your dog has been shaking his head for two days straight. You notice him pawing at his left ear, and when you lean in close, there's a smell that stops you cold. You're not imagining it. That's almost certainly an ear infection, and if you've never dealt with one before, the combination of symptoms can feel alarming. Here's the thing: ear infections are one of the most common reasons dogs visit the vet. According to the [American Veterinary Medical Association (AVMA)](https://www.avma.org/), otitis externa (infection of the outer ear canal) accounts for a significant portion of all small animal veterinary visits. Knowing what you're looking at, when you need to move fast, and how treatment actually works will help you act confidently instead of spiraling into 2 a.m. Google panic.
-
----
+Here's the thing: ear infections are one of the most common reasons dogs visit the vet. According to the [American Veterinary Medical Association (AVMA)](https://www.avma.org/), otitis externa (infection of the outer ear canal) accounts for a significant portion of all small animal veterinary visits. Knowing what you're looking at, when you need to move fast, and how treatment actually works will help you act confidently instead of spiraling into 2 a.m. Google panic.
 
 ## What Ear Infections Actually Look Like in Dogs
 
@@ -47,29 +46,21 @@ The head shaking and pawing are usually the first things owners notice, but the 
 - Visible crusting around the ear opening
 - Hair loss around the ear from constant scratching
 
-**The smell.** I cannot stress this enough. A healthy ear has almost no odor, or at most a very faint, neutral scent. An infected ear often smells yeasty (think: bread or corn chips), foul and musty, or in bacterial infections, sometimes frankly putrid. If you're hit with a smell when you look in your dog's ear, that alone is enough to call your vet.
+**The smell.** I can't overstate this. A healthy ear has almost no odor, or maybe a very faint, neutral scent. An infected ear often smells yeasty (think: bread or corn chips), foul and musty, or in bacterial infections, sometimes frankly putrid. If you're hit with a smell when you look in your dog's ear, that's enough reason to call your vet.
 
-One thing that trips people up: some dogs have chronic, low-grade infections that build slowly. The dog has learned to live with mild discomfort, and the owner doesn't notice until discharge shows up on the pillow or furniture. A once-a-week ear check during grooming takes 30 seconds and will catch these early.
-
----
+One thing that trips people up: some dogs have chronic, low-grade infections that build slowly. The dog's learned to live with mild discomfort, and the owner doesn't notice until discharge shows up on the pillow or furniture. A once-a-week ear check during grooming takes 30 seconds and catches these early.
 
 ## What's Actually Causing the Infection
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+Not all ear infections are the same, and this matters for treatment. Three main culprits: yeast, bacteria, and ear mites. Sometimes you get a combination.
 
-
-
-Not all ear infections are the same, and this matters for treatment. There are three main culprits: yeast, bacteria, and ear mites. Sometimes you get a combination.
-
-**Yeast (Malassezia)** is the most common offender, especially in dogs with floppy ears, allergies, or dogs that swim frequently. Yeast love warm, dark, moist environments, and a floppy ear that traps humidity is basically a resort for them. The discharge tends to be brown and waxy, and that corn-chip smell is classic.
+**Yeast (Malassezia)** is the most common offender, especially in dogs with floppy ears, allergies, or dogs that swim frequently. Yeast love warm, dark, moist environments, and a floppy ear that traps humidity is basically a resort for them. The discharge tends to be brown and waxy, and that corn-chip smell is the giveaway.
 
 **Bacteria** can cause infections on their own or pile in after yeast creates inflammation that compromises the ear's natural defenses. Bacterial infections often produce more discharge, more pain, and more severe redness. Pseudomonas is a particularly stubborn bacterial culprit in chronic or recurring cases.
 
-**Ear mites (Otodectes cynotis)** are more common in puppies and in cats (who can pass them to dogs in multi-pet households). The discharge looks like dark, dry, crumbly coffee grounds. Dogs with mites tend to scratch intensely, and you may see the tiny white dots of live mites if you look closely with good lighting, though they're small enough to miss.
+**Ear mites (Otodectes cynotis)** are more common in puppies and in cats (who can pass them to dogs in multi-pet households). The discharge looks like dark, dry, crumbly coffee grounds. Dogs with mites tend to scratch intensely, and you may see tiny white dots of live mites if you look closely with good lighting, though they're small enough to miss.
 
-**Underlying causes matter enormously.** Most ear infections don't just happen in a vacuum. In my experience, dogs that get recurring infections almost always have an underlying driver: environmental allergies, food sensitivities, hypothyroidism, or an anatomical quirk like very narrow ear canals. Treating the infection without addressing the root cause is like mopping up a leaky sink without turning off the faucet.
-
----
+**Underlying causes matter enormously.** Most ear infections don't just happen in a vacuum. Dogs that get recurring infections almost always have an underlying driver: environmental allergies, food sensitivities, hypothyroidism, or an anatomical quirk like very narrow ear canals. Treating the infection without addressing the root cause is like mopping up a leaky sink without turning off the faucet.
 
 ## When It's an Emergency vs. When It Can Wait
 
@@ -82,20 +73,18 @@ This is the section I know you actually need, so let me be direct.
 - Swelling that looks like a soft, fluid-filled bubble on the ear flap. That's an aural hematoma, which usually needs same-day or next-day veterinary attention.
 - Any of the above symptoms in a dog that also seems systemically unwell (lethargic, not eating, vomiting)
 
-**This can usually wait until a regular appointment (call Monday morning):**
+**This can usually wait until a regular appointment:**
 - Mild head shaking that started within the last 24-48 hours
 - Slight redness with a small amount of dark discharge, no strong odor, and the dog is still comfortable being handled
 - A dog that's scratching occasionally but isn't in obvious distress
 
 **The gray zone:** If your dog is clearly uncomfortable but not in the "emergency" category above, most clinics appreciate a same-day call. Describe the smell, discharge color, how long it's been going on, and whether the dog is eating and acting normally otherwise. That gives the staff enough to triage appropriately.
 
-One hard truth: do not put anything in your dog's ear canal before a vet examines it. Not hydrogen peroxide, not olive oil, not diluted vinegar. If the eardrum is ruptured (which you cannot diagnose at home), introducing any liquid can cause serious damage. Leave the canal alone.
-
----
+One hard truth: don't put anything in your dog's ear canal before a vet examines it. Not hydrogen peroxide, not olive oil, not diluted vinegar. If the eardrum is ruptured (which you can't diagnose at home), introducing any liquid can cause serious damage. Leave the canal alone.
 
 ## How Ear Infections Are Diagnosed and Treated
 
-When your vet looks in your dog's ear, they're not just eyeballing it. They'll use an otoscope to visualize the canal and check eardrum integrity. The key diagnostic step is a cytology swab: they'll take a sample from the ear, stain it, and look at it under a microscope. This tells them within minutes whether they're dealing with yeast, bacteria, or both, and in what proportions. For chronic or stubborn infections, they may send a culture out to identify exactly which bacteria are present and which antibiotics will work against it.
+When your vet looks in your dog's ear, they're not just eyeballing it. They'll use an otoscope to visualize the canal and check eardrum integrity. The key diagnostic step is a cytology swab: they'll take a sample from the ear, stain it, and look at it under a microscope. This tells them within minutes whether they're dealing with yeast, bacteria, or both, and in what proportions. For chronic or stubborn infections, they may send a culture out to identify exactly which bacteria are present and which antibiotics will work against them.
 
 **Typical treatment for a standard outer ear infection:**
 
@@ -116,8 +105,6 @@ When your vet looks in your dog's ear, they're not just eyeballing it. They'll u
 
 Treatment duration for a first-time, uncomplicated infection is typically 7-14 days. Recheck cytology at the end of treatment confirms the infection is actually cleared, not just quiet. Skipping that recheck is how chronic infections start.
 
----
-
 ## Prevention: What Actually Works
 
 Keeping ear infections from coming back is about addressing risk factors, not magic.
@@ -130,23 +117,17 @@ Keeping ear infections from coming back is about addressing risk factors, not ma
 
 **Keep hair around the ear opening trimmed** if your dog has heavy furnishings that trap moisture and debris.
 
-A well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) is something I always recommend keeping on hand. It won't treat an ear infection, but having gauze, gloves, and basic supplies means you're ready to assess and document what you're seeing before you call the vet. *(This site may earn a commission from qualifying purchases.)*
-
 ---
 
-
----
-
-Ear infections are uncomfortable and sometimes painful for your dog, but they're also genuinely treatable when caught and addressed correctly. The difference between a dog that clears up cleanly after one round of treatment and a dog that cycles through infections for years usually comes down to how thoroughly the first infection was worked up and whether the follow-through happened. Take the recheck seriously. Address the underlying cause if your vet identifies one. And trust your nose: if the ear smells wrong, something is wrong.
+Ear infections are uncomfortable and sometimes painful for your dog, but they're genuinely treatable when caught and addressed correctly. The difference between a dog that clears up cleanly after one round of treatment and a dog that cycles through infections for years usually comes down to how thoroughly the first infection was worked up and whether the follow-through happened. Take the recheck seriously. Address the underlying cause if your vet identifies one. Trust your nose: if the ear smells wrong, something is wrong.
 
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Arm & Hammer Dog Dental Spray,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 
@@ -154,14 +135,9 @@ Ear infections are uncomfortable and sometimes painful for your dog, but they're
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
----
-
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32). Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36). The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

@@ -25,12 +25,9 @@ author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
 
 ---
-
 Your cat acts completely normal all year, eats well, plays occasionally, and then the vet finds a heart murmur at a routine checkup. That's not a rare story. I've seen it play out dozens of times in the exam room, and it's exactly why annual wellness visits matter even when your cat seems absolutely fine. Cats are masters of hiding illness, a survival instinct baked in from their wild ancestors, and by the time symptoms become obvious to you at home, a condition is often well advanced.
 
 If you've got an annual visit coming up and you're not sure what actually happens during one of these appointments, this guide will walk you through every piece of it, including what the vet is checking, what questions to ask, and how to tell if something found during the exam actually needs urgent follow-up.
-
----
 
 ## What Happens During the Physical Exam
 
@@ -52,13 +49,7 @@ Here's what's typically being evaluated:
 
 **Skin and coat, musculoskeletal.** They're watching how your cat moves, feeling for muscle mass loss (especially over the spine and hindquarters), and checking the skin for lumps, fleas, or coat changes.
 
----
-
 ## Vaccines, Parasite Prevention, and Lab Work
-
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 After the physical exam, the conversation shifts to preventive care. What's due, what's appropriate for your cat's lifestyle, and what the bloodwork says.
 
@@ -67,8 +58,6 @@ After the physical exam, the conversation shifts to preventive care. What's due,
 **Parasite screening.** A fecal exam checks for intestinal parasites: roundworms, hookworms, tapeworms, giardia, and others. Indoor cats can still get parasites, particularly if they hunt or eat insects. Heartworm is less common in cats than dogs but absolutely happens, and it's frequently fatal in cats because there's no approved treatment. The ASPCA Poison Control Center's resources on toxic exposures often overlap with parasite prevention discussions because many common household items interact poorly with certain dewormers and topical treatments, so always confirm products with your vet before combining them.
 
 **Blood and urine testing.** For cats under 7, the vet might offer baseline bloodwork but not always push for it unless something in the physical raises a flag. For cats 7 and older, a complete blood count (CBC), chemistry panel, and urinalysis are highly recommended annually. These tests catch kidney disease, diabetes, hyperthyroidism, and anemia long before outward symptoms appear. Early-stage kidney disease (CKD) diagnosed via bloodwork is manageable in a way that late-stage disease simply is not.
-
----
 
 ## What Your Cat's Age Changes About the Visit
 
@@ -81,8 +70,6 @@ A 2-year-old cat and a 12-year-old cat are not getting the same appointment, and
 **Senior cats (7-10 years):** Bloodwork becomes standard, not optional. Blood pressure measurement should be added. Hyperthyroidism screening is critical. Joint pain starts becoming relevant.
 
 **Geriatric cats (10+ years):** Some veterinarians recommend twice-yearly exams for cats over 10, and that's genuinely good advice. A lot can change in six months at this age. Cognitive decline, kidney disease progression, and cancer become more common concerns.
-
----
 
 ## How to Prepare for the Visit (A Practical Checklist)
 
@@ -102,13 +89,11 @@ Going in prepared makes the appointment more efficient and helps you get better 
 
 7. **Know your cat's vaccine history.** Bring the records or make sure the clinic already has them. Overvaccinating is a real concern, and vets need records to make appropriate decisions.
 
----
-
 ## Understanding the Vet's Findings and What Comes Next
 
 This is the part that trips people up. The vet says something, uses a term you don't recognize, and you nod politely and leave confused. Don't do that.
 
-**Ask for clarification in plain language.** "What does that mean for her daily life?" is a completely reasonable question. So is "How urgent is this?"
+Ask for clarification in plain language. "What does that mean for her daily life?" is a completely reasonable question. So is "How urgent is this?"
 
 Here's a general framework for thinking about findings:
 
@@ -125,35 +110,28 @@ The key word the vet uses is "monitor" versus "treat." Monitor means watch and r
 
 ---
 
-
----
-
-A yearly vet visit is genuinely one of the highest-value things you can do for a cat's long-term health, not because something dramatic always gets found, but because of the cumulative picture it builds over years. If you want to support your cat's health between visits, products like [dental chews formulated for cats](https://www.amazon.com/s?k=dental+chews+for+cats&tag=contentportfo-20) and [joint supplements for senior cats](https://www.amazon.com/s?k=joint+supplements+for+senior+cats&tag=contentportfo-20) can be useful additions to daily care (the site may earn a commission on purchases). But none of those replace hands-on assessment from someone who's been trained to find what you can't see. Bring your questions, bring your stool sample, and don't leave until you understand what the vet found and what to do about it.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
-
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
-
----
+A yearly vet visit is genuinely one of the highest-value things you can do for a cat's long-term health, not because something dramatic always gets found, but because of the cumulative picture it builds over years. If you want to support your cat's health between visits, products like dental chews formulated for cats and joint supplements for senior cats can be useful additions to daily care. But none of those replace hands-on assessment from someone who's been trained to find what you can't see. Bring your questions, bring your stool sample, and don't leave until you understand what the vet found and what to do about it.
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
----
+### What should I bring to my cat's annual vet visit?
 
----
+Bring your cat in a secure carrier, a fresh stool sample if possible, your cat's medical records and vaccine history, a list of current medications and supplements, and any notes about behavioral or physical changes you've noticed over the past year.
 
-## Recommended Resources
+### How often should senior cats see the vet?
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+Cats over 10 years old should ideally have twice-yearly exams rather than just annual ones. A lot can change in six months at that age, and conditions like kidney disease, cognitive decline, and cancer progress faster in geriatric cats.
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+### Are vaccines necessary for indoor cats?
 
+Core vaccines (rabies and FVRCP) are recommended for all cats, including indoor-only ones, because they're required by law in many places and provide protection against serious diseases. Non-core vaccines like FeLV (feline leukemia) depend on your cat's specific lifestyle and risk factors.
+
+### What does it mean if the vet finds a heart murmur?
+
+A heart murmur detected during a routine exam doesn't automatically mean your cat is in crisis. Grade 1-2 murmurs typically require monitoring and possibly an echocardiogram to determine the underlying cause, with rechecks every 6-12 months. Higher grades or murmurs with other symptoms are more serious and need prompt follow-up.
+
+### Why is bloodwork recommended for older cats?
+
+Bloodwork catches kidney disease, diabetes, hyperthyroidism, and anemia long before your cat shows obvious symptoms at home. Early detection, especially for conditions like chronic kidney disease, makes a huge difference in how well you can manage the condition and maintain your cat's quality of life.
+
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*

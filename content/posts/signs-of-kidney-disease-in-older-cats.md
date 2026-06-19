@@ -25,7 +25,6 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 
 ---
-
 Your 14-year-old cat has been drinking water like she's training for a marathon. You noticed it a few weeks ago but chalked it up to the heat, or maybe a preference shift. Then you realized her litter box is suddenly full every single day, she's dropped weight without any diet change, and her coat looks a little dull. You Google "older cat drinking a lot of water" and three words keep coming up: chronic kidney disease. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. That number shocked me when I first encountered it in clinical literature. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.
 
 ## Why Cats Are So Vulnerable to Kidney Failure (And Why We Miss It So Long)
@@ -37,10 +36,6 @@ What surprises most owners, and honestly surprised me too when I started seeing 
 This is why vets push for bloodwork starting at age 7. Catching early-stage chronic kidney disease (CKD) on labwork, before symptoms appear, gives you and your cat the longest runway for management. The International Renal Interest Society (IRIS) stages CKD from 1 to 4 based on creatinine and SDMA values. Many cats at Stage 1 feel completely fine. By Stage 3 or 4, things get much harder to manage.
 
 ## The Symptoms You'll Actually See: A Real List
-
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I've watched owners scan symptom lists and feel overwhelmed, so let me break this down into what you'll likely notice first versus what shows up later.
 
@@ -68,7 +63,7 @@ If you bring a senior cat in with any of the signs above, here's what your vet w
 
 A standard chemistry panel will look at BUN (blood urea nitrogen) and creatinine, the classic kidney markers. But there's a newer, more sensitive marker called SDMA (symmetric dimethylarginine) that can flag kidney dysfunction earlier than creatinine alone. Many cats who look normal on older panels show elevated SDMA. PetMD's veterinary resource library has a solid breakdown of how SDMA changed feline kidney disease diagnostics, and it's worth reading if you want to understand your cat's labwork more deeply.
 
-Your vet will also check phosphorus (elevated in kidney disease and a major driver of progression), potassium (often low), red blood cell count (anemia is common in CKD), and blood pressure. Hypertension affects about 20 to 65 percent of cats with CKD depending on the stage, and it causes retinal damage and neurological changes if untreated.
+Your vet will also check phosphorus (elevated in kidney disease and a major driver of progression), potassium (often low), red blood cell count (anemia is common in CKD), and blood pressure. Hypertension affects about 20 to 65 percent of cats with CKD depending on the stage, and it causes retinal damage and neurological changes if left untreated.
 
 Urine specific gravity is critical. A healthy cat concentrates urine to 1.035 or above. A cat with failing kidneys often produces dilute urine below 1.020, sometimes 1.008 or 1.010. This single number tells your vet a lot about how hard the kidneys are still working.
 
@@ -80,7 +75,7 @@ Here's the section I know you're really looking for. I'll give it to you straigh
 
 **Hydration is your biggest lever.** The goal is to flood those compromised kidneys with as much water as possible. Transitioning to wet food is one of the most impactful things you can do. Canned food is roughly 70 to 80 percent moisture. Dry kibble is 8 to 10 percent. That difference is enormous when your cat's kidneys need to stay flushed. Some cats resist the transition, but many will accept it with patience and gradual mixing.
 
-A pet water fountain can increase water intake significantly for many cats. Cats are instinctively drawn to moving water. If you're looking for a starting point, there are well-reviewed options on Amazon (the site may earn a small commission on purchases) that filter continuously and hold enough water to keep things fresh between refills.
+A pet water fountain can increase water intake significantly for many cats. Cats are instinctively drawn to moving water. The [Catit Flower Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a solid option that filters continuously and holds enough water to keep things fresh between refills. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 **Phosphorus restriction matters a lot once CKD is confirmed.** Phosphorus retention in the blood accelerates kidney damage, and prescription renal diets like Hill's k/d or Royal Canin Renal Support are formulated specifically to reduce phosphorus load. I'll be honest: these diets are controversial among cat owners because some cats refuse them. Don't force it to the point of anorexia. A cat who won't eat the prescription food is worse off than a cat eating an imperfect diet. Discuss alternatives with your vet.
 
@@ -94,7 +89,7 @@ For cats in later stages, some owners learn to give subcutaneous fluids at home.
 
 ## Monitoring Over Time: What to Track and When to Worry
 
-CKD management is not a one-and-done fix. It's an ongoing relationship with your vet over months or years. Here's a simple framework for what to track at home:
+CKD management isn't a one-and-done fix. It's an ongoing relationship with your vet over months or years. Here's a simple framework for what to track at home:
 
 | Sign to Monitor | How Often | When to Call Your Vet |
 |---|---|---|
@@ -115,21 +110,15 @@ Chronic kidney disease in cats is manageable but not curable. Many cats live 2 t
 
 In my experience, the owners who do best are the ones who decide early what their threshold is. When will intervention no longer be about helping her live well, but about postponing something inevitable? That's a conversation worth having with your vet before you're in crisis, not during it. Ask directly: what does end-stage kidney disease look like in cats? What would tell you we've done everything reasonable? A good vet will talk you through it without making you feel like you're giving up.
 
----
-
-
----
-
 The best thing you can do right now, if any of this felt uncomfortably familiar while you were reading, is make the appointment. Not next month. This week. Early detection genuinely changes outcomes with kidney disease, and an older cat who's drinking too much water deserves a real answer, not a wait-and-see. You've clearly got the instincts to notice something was off. That matters more than most people realize.
 
 ## Helpful Resources
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
 
 ---
 
@@ -137,12 +126,4 @@ The best thing you can do right now, if any of this felt uncomfortably familiar 
 
 ---
 
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*

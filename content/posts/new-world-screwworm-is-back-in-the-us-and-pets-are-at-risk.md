@@ -13,48 +13,45 @@ author_bio: "Tom Harris has kept and cared for exotic animals since childhood an
 slug: "new-world-screwworm-is-back-in-the-us-and-pets-are-at-risk"
 affiliate_disclosure: true
 ---
-
-If you've been following the news this week and found yourself Googling "screwworm Texas dog" at 11pm, you're in good company. A lot of pet owners are doing exactly that right now, and the anxiety is completely understandable. Here's what's actually happening: on June 3, 2026, the USDA APHIS confirmed the first New World screwworm detection in the United States in decades, finding larvae in the umbilical area of a 3-week-old calf in Zavala County, Texas. Within six days, the case count climbed to five confirmed detections across Texas and New Mexico. And the one that's gotten pet owners' attention: a dog in Lea County, New Mexico became the first confirmed companion animal case in this outbreak, reported June 8. This isn't a theoretical threat anymore. It's here, it's moving fast, and your outdoor pets are vulnerable.
+If you've been Googling "screwworm Texas dog" at 11pm this week, you're not alone. Plenty of pet owners are doing exactly that right now, and the worry makes sense. Here's what's actually going on: on June 3, 2026, the USDA APHIS confirmed the first New World screwworm detection in the United States in decades, finding larvae in the umbilical area of a 3-week-old calf in Zavala County, Texas. Within six days, case count jumped to five confirmed across Texas and New Mexico. Then came the one that got pet owners' attention: a dog in Lea County, New Mexico became the first confirmed companion animal case in this outbreak, reported June 8. This isn't theoretical anymore. It's here. It's moving fast. Your outdoor pets are vulnerable.
 
 ## What New World Screwworm Actually Does (and Why It's So Serious)
 
-You might be wondering what makes this parasite different from the usual summer bug concerns. The answer is that the screwworm fly, *Cochliomyia hominivorax*, doesn't just bite or feed on the surface. The female lays her eggs in open wounds or body orifices, including wounds as small as a tick bite, a small scratch, or even a raw spot from excessive licking. When the eggs hatch, the larvae don't just sit there. They actively burrow into living tissue, feeding and tunneling deeper as they grow. The name isn't dramatic flair; the larvae move in a screwing motion as they invade.
+The screwworm fly, *Cochliomyia hominivorax*, doesn't just bite or feed on the surface like a regular bug. The female lays eggs in open wounds or body orifices, including wounds as small as a tick bite, a scratch, or a raw spot from excessive licking. When the eggs hatch, the larvae don't just sit there. They actively burrow into living tissue, feeding and tunneling deeper as they grow. The name isn't dramatic flair. The larvae move in a screwing motion as they invade.
 
-Without treatment, the damage compounds quickly. Infested tissue becomes necrotic. The wound grows. The animal's pain escalates. Secondary infections set in. In severe or untreated cases, this can be fatal. This is why New World screwworm was eradicated from the US through a decades-long sterile insect technique program, and why its return is being treated as a true agricultural and public health emergency.
+Without treatment, damage compounds fast. Infested tissue becomes necrotic. The wound grows. Your animal's pain escalates. Secondary infections set in. In severe or untreated cases, this kills the animal. That's why New World screwworm was eradicated from the US through a decades-long sterile insect technique program, and why its return is being treated as a true agricultural and public health emergency.
 
-The USDA and the Texas Animal Health Commission have activated a unified Incident Command with 75 personnel on the ground. Each confirmed detection triggers a 20-kilometer quarantine and movement-control zone around that location. That's not the scale of response you see for a minor concern.
+The response scale tells you everything. The USDA and Texas Animal Health Commission activated a unified Incident Command with 75 personnel on the ground. Each confirmed detection triggers a 20-kilometer quarantine and movement-control zone around that location. That's not the scale of response for a minor concern.
 
 ## What the Risk Actually Looks Like for Pets Right Now
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-Here's what I tell people when they call worried: location matters enormously right now. If you're in south Texas, southeastern New Mexico, or anywhere near the current detection zones, your risk calculus is genuinely different from someone in, say, Colorado or Georgia. That said, this situation is moving quickly, and the case count doubled within one week of the first detection.
+Location matters enormously right now. If you're in south Texas, southeastern New Mexico, or anywhere near the current detection zones, your risk calculus is genuinely different from someone in, say, Colorado or Georgia. That said, this situation is moving quickly. The case count doubled within one week of the first detection.
 
 Dogs are at higher risk than cats simply because of lifestyle. Dogs who roam, hunt, spend long hours outdoors, or have any kind of skin wound, healing surgery site, ear infection, or existing skin condition are more exposed. Any opening in the skin is a potential entry point. Cats who go outside carry risk too, though their grooming behavior and tendency to stay cleaner can offer some incidental protection. It doesn't eliminate risk.
 
-The first companion animal case in a dog in New Mexico, confirmed just five days after the initial Texas cattle detection, tells us the fly isn't limiting itself to livestock. If you're in or near affected areas, treat this as a real concern for your pets, not a farming story that doesn't involve you.
+The first companion animal case in a dog in New Mexico, confirmed just five days after the initial Texas cattle detection, tells us the fly isn't limiting itself to livestock. If you're in or near affected areas, treat this as a real concern for your pets, not just a farming story that doesn't involve you.
+
+> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## How to Actually Protect Your Pet Right Now
 
-The most concrete thing you can do is talk to your veterinarian this week, especially if you're in Texas or New Mexico. Vets in affected areas are already recommending isoxazoline-based combination parasite prevention products as a frontline protective measure. NexGard specifically is among the products that received FDA Emergency Use Authorization for screwworm myiasis treatment. According to the FDA's guidance on animal drugs for New World screwworm, the agency has issued multiple EUAs since late 2025, including one on February 18, 2026 covering NexGard and NexGard COMBO, and authorization for generic nitenpyram tablets, notably the first generic animal drug ever authorized under an FDA EUA. These aren't just theoretical options. They're actively authorized and available.
+Talk to your veterinarian this week if you're in Texas or New Mexico. Vets in affected areas are already recommending isoxazoline-based combination parasite prevention products as frontline protection. NexGard specifically is among the products that received FDA Emergency Use Authorization for screwworm myiasis treatment. According to the FDA's guidance on animal drugs for New World screwworm, the agency has issued multiple EUAs since late 2025, including one on February 18, 2026 covering NexGard and NexGard COMBO, and authorization for generic nitenpyram tablets, notably the first generic animal drug ever authorized under an FDA EUA. These aren't just theoretical options. They're actively authorized and available right now.
 
-Beyond medication, do a daily wound check on any outdoor pet. Look at their paws, ears, groin, belly, any spot where two skin surfaces meet, and any area they've been chewing or scratching at. A wound doesn't have to look dramatic. A small raw area with unusual discharge, a smell that seems off, or maggot-like white larvae visible in the wound means you call your vet immediately. Don't wait until Monday. Don't try to treat this at home.
+Beyond medication, do a daily wound check on any outdoor pet. Look at their paws, ears, groin, belly, any spot where two skin surfaces meet, and any area they've been chewing or scratching. A wound doesn't have to look dramatic. A small raw area with unusual discharge, an off smell, or maggot-like white larvae visible in the wound means you call your vet immediately. Don't wait until Monday. Don't try treating this at home.
 
-The AVMA's New World Screwworm Resource Hub, which has been actively updated through June 2026, is a solid place to check if you want to track confirmed detection locations and get current veterinary guidance.
+The AVMA's New World Screwworm Resource Hub, actively updated through June 2026, is a solid place to track confirmed detection locations and get current veterinary guidance.
 
 ## What to Do If You Think Your Pet Has Been Infested
 
-This is the part where I'm going to be straightforward with you: suspected screwworm infestation is an emergency. Not "call during business hours" territory. Same-day care territory.
+Suspected screwworm infestation is an emergency. Not "call during business hours" territory. Same-day care territory.
 
-Signs to watch for include a wound that seems to be getting larger or deeper rather than healing, visible small larvae in or around the wound (they're cream-colored and can be hard to see at first), an unusual or foul odor from a wound, your pet showing pain or agitation around a specific area, or excessive licking or attention to one spot. Any of those signs in a dog or cat who's been outdoors in Texas or New Mexico warrants an immediate call to your vet or an emergency clinic.
+Watch for a wound that's getting larger or deeper rather than healing, visible small larvae in or around the wound (they're cream-colored and can be hard to spot at first), unusual or foul odor from a wound, your pet showing pain or agitation around a specific area, or excessive licking or attention to one spot. Any of those signs in a dog or cat who's been outdoors in Texas or New Mexico warrants an immediate call to your vet or an emergency clinic.
 
-When you call, tell them upfront: you're concerned about New World screwworm, the animal has been outdoors in an affected area, and you're seeing these specific signs. That framing helps your vet triage the situation appropriately. As dvm360 reported in their live tracking coverage of this outbreak, the companion animal case in New Mexico represents a documented precedent. Vets in affected areas are already thinking about this. You won't sound like you're overreacting.
+When you call, tell them upfront: you're concerned about New World screwworm, the animal has been outdoors in an affected area, and you're seeing these specific signs. That framing helps your vet triage appropriately. As dvm360 reported in their live tracking coverage of this outbreak, the companion animal case in New Mexico represents a documented precedent. Vets in affected areas are already thinking about this. You won't sound like you're overreacting.
 
 Do not attempt to remove larvae yourself. The instinct is understandable, but incomplete removal can worsen the wound and delay proper treatment. Get the animal to professional care.
 
-The situation is evolving, probably faster than any of us would like. Five confirmed cases in six days, the first in a companion animal already on record, and the fly season still has months ahead of it. If you're in an affected area, this week is the right time to get your pet on appropriate parasite prevention, do daily checks, and have your vet's emergency number saved in your phone. That's not panic. That's just being prepared.
+Five confirmed cases in six days. The first in a companion animal already on record. Fly season still has months ahead. If you're in an affected area, this week is the right time to get your pet on appropriate parasite prevention, do daily checks, and have your vet's emergency number saved in your phone. That's not panic. That's preparation.
 
 ## Sources
 
@@ -73,7 +70,6 @@ The situation is evolving, probably faster than any of us would like. Five confi
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
-
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
@@ -88,4 +84,3 @@ The situation is evolving, probably faster than any of us would like. Five confi
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

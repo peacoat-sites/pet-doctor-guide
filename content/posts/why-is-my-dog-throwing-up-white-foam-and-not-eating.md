@@ -25,7 +25,6 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 
 ---
-
 White foam vomit from a dog who won't eat is one of those symptoms that genuinely ranges from "wait until morning" to "drive to the emergency clinic right now," and most of the advice online makes it sound like it's always one or the other. I'll be honest: that ambiguity used to frustrate me too, even after years in a clinical setting. So let me give you the real breakdown.
 
 ## What's Actually Happening When a Dog Vomits White Foam
@@ -47,10 +46,6 @@ The white foam can show up in almost all of these. That's why symptom-chasing th
 
 ## The One You Should Be Most Worried About: Bloat
 
-> **Helpful resource:** [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I want to lead with this because it gets buried in generic lists and it shouldn't. Gastric dilatation-volvulus is a condition where the stomach fills with gas and then twists on itself, cutting off blood flow. Dogs with GDV will often attempt to vomit repeatedly but bring up little or nothing, or produce small amounts of white foam. They're usually extremely restless, their abdomen may look distended or feel tight like a drum, and they're clearly uncomfortable.
 
 What surprised me, doing a deep look at this, is how quickly it can go fatal. We're often talking 2 to 6 hours from onset to death without surgery. Large, deep-chested breeds like Great Danes, German Shepherds, Dobermans, Standard Poodles, and Weimaraners are highest risk, but I've personally seen it in a Cocker Spaniel. It can happen to smaller dogs too.
@@ -69,9 +64,9 @@ If your dog is otherwise acting normal, drinking water, has good energy, and the
 
 Here's where I need to get a little more serious with you. Vomiting white foam on its own, with a dog who is otherwise bright, alert, and interested in life? Often manageable at home for 12 to 24 hours with a bland diet and rest.
 
-But a dog who is *both* vomiting and refusing food is a different animal. Literally.
+But a dog who is *both* vomiting and refusing food is a different situation entirely.
 
-Appetite loss combined with repeated vomiting can signal pancreatitis, kidney failure, parvovirus, intestinal obstruction, or toxin ingestion. These are not "wait and see" situations beyond 24 hours, and some of them (obstruction, toxin, parvo) need attention far sooner than that.
+Appetite loss combined with repeated vomiting can signal pancreatitis, kidney failure, parvovirus, intestinal obstruction, or toxin ingestion. These aren't "wait and see" situations beyond 24 hours, and some of them (obstruction, toxin, parvo) need attention far sooner than that.
 
 Ask yourself these questions:
 
@@ -89,7 +84,7 @@ If your dog vomited white foam once or twice, isn't showing any of the danger si
 
 Withhold food for 4 to 6 hours to let the stomach settle. Not longer than that, especially for small dogs or puppies who can go hypoglycemic. After that, offer a small amount of bland food: plain boiled chicken and white rice is the classic, or a prescription GI food like Hill's i/d if you have it on hand. Offer small amounts every few hours rather than one big meal. Keep fresh water available and watch whether they're drinking.
 
-What I'd keep in a good home pet first aid kit: a digital rectal thermometer, [a solid pet first aid kit like the Rayco International one on Amazon](https://www.amazon.com/s?k=pet+first+aid+kit) that includes basic supplies, and familiarity with your nearest 24-hour emergency clinic's address before you ever need it. (The site may earn a commission from that link, full transparency.)
+What I'd keep in a good home pet first aid kit: a digital rectal thermometer, supplies for basic injuries and emergencies, and familiarity with your nearest 24-hour emergency clinic's address before you ever need it. The [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) (~$32) covers cuts, burns, sprains, and provides essentials until you can reach a vet.
 
 What you cannot fix at home: dehydration that's progressed more than mildly, an obstruction, GDV, parvo, pancreatitis, or kidney disease. These all need diagnostic tools: bloodwork, x-rays, ultrasound. A vet can find things you simply cannot by watching your dog from the couch.
 
@@ -101,31 +96,9 @@ One thing that doesn't always make the top of the "reasons dogs vomit white foam
 
 If your dog has been in a boarding facility, dog park, groomer, or any high-dog-contact situation in the past 5 to 10 days and is now vomiting-looking foam along with a honking cough, kennel cough is high on the list. Most healthy adult dogs get through it without antibiotics. But it still warrants a call to your vet, because severe cases or secondary pneumonia need treatment.
 
----
-
-
----
-
 Most of the time, this symptom resolves on its own or with simple management. But "most of the time" isn't all the time, and knowing the difference is what I hope you're walking away with here. Trust your gut about your dog. You know what "off" looks like for them better than any article does.
 
 ## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-
-
-*Photo: [Gorky Sinha](https://www.pexels.com/@gorky) via Pexels*
-
----
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
-## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
@@ -134,3 +107,6 @@ Most of the time, this symptom resolves on its own or with simple management. Bu
 - **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
 - **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
 
+*Photo: [Gorky Sinha](https://www.pexels.com/@gorky) via Pexels*
+
+*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*

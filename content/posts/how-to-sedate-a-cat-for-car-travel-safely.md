@@ -25,7 +25,6 @@ author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 
 ---
-
 Most articles about sedating cats for travel bury the actual useful information under so many "always ask your vet first" disclaimers that you finish reading knowing nothing more than when you started. So let's fix that.
 
 Here's the real situation: cats can be safely sedated or chemically calmed for car trips, but the method that works depends on your cat's health status, the length of the trip, and whether you've tested anything before the day you actually need it to work. That last part is where most people fail.
@@ -37,10 +36,6 @@ People use "sedation" loosely. What you're usually after is one of three things:
 The distinction matters because different products target different levels, and using the wrong one is how you end up with a cat who's either still screaming at mile 40 or dangerously over-sedated.
 
 ## Prescription Options: What Your Vet Can Actually Give You
-
-> **Helpful resource:** [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Gabapentin is, genuinely, the current go-to for feline travel anxiety. It's a nerve pain medication that happens to produce significant sedation and anxiolysis in cats at appropriate doses. Vets typically prescribe somewhere in the range of 50-100mg, given 1.5 to 2 hours before travel. A 2017 study in the *Journal of the American Veterinary Medical Association* found gabapentin meaningfully reduced fear and aggression scores in cats during veterinary visits, and most vets have since extrapolated that to travel. It works well. It's inexpensive (often just a few dollars per dose). And it has a solid safety margin compared to older options.
 
@@ -62,7 +57,7 @@ Do the trial on a normal day at home, 1-2 weeks before the trip. Give the prescr
 
 There are three OTC categories worth discussing: pheromone products, supplements, and herbal formulas.
 
-Feliway spray (synthetic feline facial pheromone) is the most evidence-backed OTC option. Spritz it in the carrier 15-30 minutes before loading the cat, not directly on the cat. It won't sedate anything, but it genuinely reduces carrier stress for many cats and it's safe to combine with anything. A bottle runs about $20-25. Worth keeping on hand. (You can [find Feliway spray on Amazon here](https://www.amazon.com/s?k=feliway+spray+for+cats) -- the site may earn a small commission if you purchase through that link.)
+Feliway spray (synthetic feline facial pheromone) is the most evidence-backed OTC option. Spritz it in the carrier 15-30 minutes before loading the cat, not directly on the cat. It won't sedate anything, but it genuinely reduces carrier stress for many cats and it's safe to combine with anything. A bottle runs about $20-25. Worth keeping on hand.
 
 Zylkene (alpha-casozepine, derived from milk protein) is taken daily for several days before travel. There's reasonable evidence it reduces anxiety in cats, though it's milder than prescription options. Good choice if your cat's travel anxiety is moderate and you can't get a vet appointment. Sold in capsules, easy to open and mix into food.
 
@@ -80,26 +75,6 @@ For longer trips, check in on your cat at stops. If you see labored breathing, e
 
 Keep [the ASPCA Poison Control Center number](https://www.aspca.org/pet-care/animal-poison-control) saved on your phone: (888) 426-4435. If anything about your cat's response looks wrong, you want that number accessible without searching.
 
----
-
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
-
-*Photo: [Maria Sanchez](https://www.pexels.com/@mariisanz11) via Pexels*
-
----
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -107,3 +82,8 @@ Keep [the ASPCA Poison Control Center number](https://www.aspca.org/pet-care/ani
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
+---
+
+*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
+
+*Photo: [Maria Sanchez](https://www.pexels.com/@mariisanz11) via Pexels*

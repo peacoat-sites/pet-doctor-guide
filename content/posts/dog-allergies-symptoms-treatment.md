@@ -25,7 +25,6 @@ author_title: "Emergency Care Writer"
 author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
 
 ---
-
 Your dog has been scratching the same spot on his belly for three weeks straight. You've checked for fleas twice, switched his shampoo, and he's *still* going at it. Sound familiar? Allergies are one of the most common reasons dogs end up at the vet, accounting for a significant chunk of all dermatology-related visits in small animal practice. And yet they're also one of the most misunderstood conditions dog owners deal with, partly because the symptoms can look like a dozen other things, and partly because there's no single cure that works for every dog.
 
 This guide breaks down what's actually happening in your dog's body, how to recognize the difference between allergy types, and what your realistic treatment options look like, from things you can manage at home to when you genuinely need professional help.
@@ -44,15 +43,11 @@ Allergies can also develop over time. A dog can tolerate chicken-based food for 
 
 ## The Three Main Types of Dog Allergies
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Not all allergies are the same, and treatment depends entirely on which type you're dealing with. Mixing them up is how owners end up spending money on things that won't help.
 
 **Environmental allergies (atopic dermatitis)** are triggered by airborne or contact allergens: pollen, mold spores, dust mites, and grass are the biggest culprits. These often follow a seasonal pattern, though dust mite allergies can cause year-round symptoms. Atopic dermatitis is the most common allergic skin disease in dogs, full stop.
 
-**Food allergies** are less common than most people assume. True food allergies account for roughly 10-15% of all allergic skin disease in dogs, according to veterinary dermatology literature referenced by resources like [PetMD's veterinary resource library](https://www.petmd.com/). The most common food allergens are beef, dairy, chicken, wheat, and lamb, in roughly that order. Importantly, food allergies don't cause vomiting and diarrhea in most dogs. They usually cause skin problems, just like environmental allergies, which is why they're frequently missed.
+**Food allergies** are less common than most people assume. True food allergies account for roughly 10-15% of all allergic skin disease in dogs, according to veterinary dermatology literature referenced by resources like [PetMD's veterinary resource library](https://www.petmd.com/). The most common food allergens are beef, dairy, chicken, wheat, and lamb, in roughly that order. Here's the thing most people get wrong: food allergies don't usually cause vomiting and diarrhea. They cause skin problems, just like environmental allergies, which is why they're frequently missed.
 
 **Flea allergy dermatitis (FAD)** is triggered not by the flea itself but by proteins in flea saliva. A single flea bite can cause a reaction that lasts for weeks in a sensitized dog. You don't need to find a flea on your dog to diagnose this. If you see even one flea, or your dog has been in a yard where other animals roam, FAD is on the table. Read more about staying ahead of this with year-round [flea and tick prevention for dogs](/flea-tick-prevention-dogs/).
 
@@ -70,10 +65,9 @@ The classic symptom everyone knows is scratching, but allergies in dogs produce 
 - Recurring skin infections (bacterial or yeast), which smell musty or sour
 - Hair loss in the areas being scratched or licked
 
-**Ear symptoms:**
-Allergic dogs get ear infections constantly. If your dog has had more than one ear infection in a year, allergies should be on your radar. The inflammation from allergies changes the environment in the ear canal and makes it a perfect breeding ground for yeast and bacteria. You can read more about what those infections look like in our guide to [dog ear infection symptoms and treatment](/dog-ear-infection-symptoms-treatment/).
+**Ear symptoms:** Allergic dogs get ear infections constantly. If your dog has had more than one ear infection in a year, allergies should be on your radar. The inflammation from allergies changes the environment in the ear canal and makes it a perfect breeding ground for yeast and bacteria. You can read more about what those infections look like in our guide to [dog ear infection symptoms and treatment](/dog-ear-infection-symptoms-treatment/).
 
-**Gastrointestinal symptoms** (more specific to food allergies): loose stools, gas, or occasional vomiting. If your dog's GI symptoms coincide with skin problems, food allergy moves up the list.
+**Gastrointestinal symptoms** (more specific to food allergies) include loose stools, gas, or occasional vomiting. If your dog's GI symptoms coincide with skin problems, food allergy moves up the list.
 
 One practical note: the *location* of itching can point to the cause. Atopic dogs tend to scratch the face, feet, belly, and ears. FAD typically causes intense scratching at the base of the tail and over the rump. Food allergy can look like either, which is why it's the hardest to pin down by symptoms alone.
 
@@ -85,7 +79,7 @@ Here's the honest truth: diagnosing allergies takes time and patience. There's n
 
 For environmental allergies, intradermal skin testing (where tiny amounts of allergens are injected just under the skin and reactions are observed) is considered the gold standard. Blood allergy tests are more convenient but have higher rates of false positives and negatives. A board-certified veterinary dermatologist will typically perform intradermal testing and is worth the referral if your dog has been miserable for months with no clear answers.
 
-For food allergies, the only reliable diagnostic tool is an **elimination diet trial**. This means feeding your dog a strict hydrolyzed protein or novel protein diet for 8 to 12 weeks, with absolutely nothing else. No treats, no flavored supplements, no table scraps. After the trial, you reintroduce ingredients one at a time and watch for reactions. If symptoms clear on the elimination diet and return with a specific ingredient, you've found your allergen. Allergy blood tests for food are unreliable and generally not recommended by veterinary dermatologists.
+For food allergies, the only reliable diagnostic tool is an **elimination diet trial**. Feed your dog a strict hydrolyzed protein or novel protein diet for 8 to 12 weeks, with absolutely nothing else. No treats, no flavored supplements, no table scraps. After the trial, you reintroduce ingredients one at a time and watch for reactions. If symptoms clear on the elimination diet and return with a specific ingredient, you've found your allergen. Allergy blood tests for food are unreliable and generally not recommended by veterinary dermatologists.
 
 Flea allergy dermatitis is diagnosed largely by history and response to treatment. Aggressive, consistent flea control that eliminates the dog's flea exposure, followed by resolution of symptoms, confirms the diagnosis.
 
@@ -105,8 +99,6 @@ Treatment depends on the allergy type and severity, but here's a practical break
 | Medicated shampoos | All types | Adjunct therapy; helps reduce bacterial/yeast load |
 | Omega-3 supplements | All types | Supports skin barrier; modest effect on its own |
 | Steroids (prednisone) | Short-term flares | Effective but side effects limit long-term use |
-
-A few things worth knowing about these options:
 
 Cytopoint and Apoquel have genuinely changed how manageable atopic dermatitis is for many dogs. They target specific inflammatory pathways rather than suppressing the whole immune system the way steroids do. They're not cheap, but dogs who've been miserable for years often respond dramatically. [The AAHA hospital accreditation standards](https://www.aaha.org/) emphasize individualized treatment planning for chronic conditions, and that absolutely applies here. There's no one-size-fits-all allergy protocol.
 
@@ -136,9 +128,6 @@ If your dog's symptoms include vomiting alongside the skin issues, check out our
 
 ---
 
-
----
-
 Living with an allergic dog is genuinely challenging, and I won't pretend otherwise. But it's also manageable, often very well, once you identify the trigger and find the right combination of treatments. The key is not to spin your wheels guessing when a proper diagnosis can give you a real roadmap. If your dog has been uncomfortable for weeks, that's not a "wait and see." That's a Tuesday appointment at the clinic.
 
 ## Helpful Resources
@@ -149,14 +138,11 @@ Living with an allergic dog is genuinely challenging, and I won't pretend otherw
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
-
 *Photo: [Anastasia Lashkevich](https://www.pexels.com/@immortelleana) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ---
 
@@ -166,4 +152,3 @@ Living with an allergic dog is genuinely challenging, and I won't pretend otherw
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

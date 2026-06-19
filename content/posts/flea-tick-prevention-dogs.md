@@ -25,7 +25,6 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 
 ---
-
 A single flea can lay up to 50 eggs per day. By the time you spot one flea on your dog, there's a good chance a few hundred eggs are already scattered through your carpet, bedding, and couch cushions. That's not a scare tactic. That's just flea biology, and it's exactly why prevention is so much easier than treatment. Ticks are a different kind of trouble, capable of transmitting Lyme disease, Rocky Mountain spotted fever, and ehrlichiosis, sometimes within 24 to 48 hours of attachment. The good news is that protecting your dog from both is genuinely straightforward once you understand your options and pick the right product for your situation.
 
 ## Why Year-Round Prevention Actually Matters (Even If You Live Somewhere Cold)
@@ -38,11 +37,7 @@ If your dog goes outside at all, they're at risk. Year-round prevention isn't up
 
 ## The Main Types of Prevention Products: A Honest Comparison
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-This is where people get overwhelmed. Walk into any pet store and you'll see 30 different products promising protection. Let me break down the actual categories so you can make an informed decision with your vet.
+Walk into any pet store and you'll see 30 different products promising protection. Let me break down the actual categories so you can make an informed decision with your vet.
 
 **Oral Chewables**
 
@@ -122,31 +117,7 @@ Dogs at higher risk include: hunting dogs, dogs who hike with their owners regul
 
 There's also a breed consideration that doesn't get talked about enough. Collies, Shetland sheepdogs, Australian shepherds, and related herding breeds can carry the MDR1 (ABCB1) gene mutation, which affects how certain drugs are processed. Some antiparasitic drugs can cause serious neurological toxicity in these dogs at doses that are completely safe for other breeds. If you have a herding breed, ask your vet specifically about MDR1 testing before starting any new prevention medication.
 
----
-
-
----
-
-The goal with flea and tick prevention is simple: pick a product appropriate for your dog's age, weight, breed, and lifestyle, apply it correctly, and keep it consistent. One missed month, one incorrect application, one product chosen without considering your environment can leave a real gap. A [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) that includes tick removal tools is worth keeping on hand too, since prevention isn't perfect and being prepared for the occasional tick encounter makes a real difference. *(Affiliate link, site may earn a commission.)*  Your vet is always the best person to help you navigate the specific options available in your area and for your individual dog. But now you're walking into that conversation knowing exactly what questions to ask.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-
-
-*Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
-
----
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
----
+The goal with flea and tick prevention is simple: pick a product appropriate for your dog's age, weight, breed, and lifestyle, apply it correctly, and keep it consistent. One missed month, one incorrect application, one product chosen without considering your environment can leave a real gap. An [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) (~$32) that includes tick removal tools is worth keeping on hand, since prevention isn't perfect and being prepared for the occasional tick encounter makes a real difference. Your vet is always the best person to help you navigate the specific options available in your area and for your individual dog. But now you're walking into that conversation knowing exactly what questions to ask.
 
 ## Recommended Resources
 
@@ -157,3 +128,8 @@ The goal with flea and tick prevention is simple: pick a product appropriate for
 - **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
 - **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price, 6-month supply.
 
+*Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
+
+---
+
+*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*

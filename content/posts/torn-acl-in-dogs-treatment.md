@@ -24,69 +24,63 @@ faqs:
   - q: "How do I know if my dog tore the other ACL too?"
     a: "Sudden lameness in the opposite hind leg, especially after a period of over-relying on it during recovery, is the main sign. Your vet will do the same drawer and thrust tests on that leg. If your dog has already had one CCL tear, mention it immediately, because the suspicion should be high."
 ---
+Your dog limps in from the backyard after a game of fetch, and suddenly you're staring at a $4,000 surgical estimate. Most articles about this injury waste three paragraphs explaining what a ligament is before telling you anything worth knowing. I'm skipping that part.
 
-Your dog comes up lame after a game of fetch, and suddenly you're staring down a $4,000 surgical estimate with a vet who mentioned it almost casually. Most articles about canine ACL tears spend three paragraphs explaining what a ligament is before telling you anything useful. Let's skip that.
-
-The real name is CCL, cranial cruciate ligament. "ACL" is the human equivalent, but the injury is similar enough that everyone uses the terms interchangeably. What matters is that this ligament stabilizes your dog's knee (the stifle joint), and when it tears, the joint becomes unstable, painful, and prone to arthritis that accumulates fast. This is the single most common orthopedic injury in dogs, and it's one where the treatment decision you make in the first few weeks has real, lasting consequences.
+The ligament in question is the CCL (cranial cruciate ligament). "ACL" is the human version, but the injuries are similar enough that everyone uses the terms interchangeably. What actually matters: this ligament stabilizes your dog's knee, called the stifle joint. When it tears, the joint becomes unstable and painful, and arthritis develops fast. It's the single most common orthopedic injury in dogs, period. The treatment decision you make in the first few weeks has real, lasting consequences.
 
 ## Recognizing It: What You're Actually Seeing
 
-A complete rupture is usually obvious. Your dog won't bear weight on the leg, or will barely touch the toe down. But partial tears are sneaky. The dog might limp for a few days, seem to improve, then go lame again. I've seen owners go through three rounds of "rest and anti-inflammatories" over several months before getting a definitive diagnosis, and by then the joint has more damage.
+A complete rupture is usually obvious. Your dog won't put weight on the leg, or barely touches the toe down. Partial tears? Those are sneaky. The dog limps for a few days, seems to improve, then goes lame again. I've watched owners cycle through "rest and anti-inflammatories" three or four times over several months before anyone gets a definitive diagnosis. By then the joint has accumulated serious damage.
 
-The classic home sign is called the "sitting sign": a dog with a CCL injury often can't flex the knee normally, so they sit with the affected leg kicked out to the side instead of tucked under. Not diagnostic on its own, but worth noting.
+The "sitting sign" is worth watching for: dogs with a CCL injury often can't flex the knee normally, so they sit with the affected leg kicked out to the side instead of tucked under. Not definitive on its own, but telling.
 
-Your vet will do a drawer test and a tibial thrust test in the exam room, feeling for abnormal joint movement. Most of the time this is enough for a diagnosis. Sometimes sedation is needed if the dog is too tense, or an X-ray is ordered to assess arthritis and rule out bone issues. Definitive imaging (MRI or arthroscopy) exists but usually isn't necessary to decide on treatment.
+Your vet will perform a drawer test and a tibial thrust test, feeling for abnormal joint movement. Usually that's enough for a diagnosis. Sometimes sedation is needed if the dog's too tense, or an X-ray gets ordered to assess existing arthritis and rule out bone problems. MRI or arthroscopy exists if you need absolute certainty, but most of the time those aren't necessary to decide on treatment.
 
-Don't wait six weeks to get this looked at. The meniscus, a cartilage cushion inside the joint, often tears secondarily. Getting treatment earlier reduces that risk.
+Don't wait six weeks. The meniscus, a cartilage cushion inside the joint, often tears secondarily. Treating it earlier reduces that risk significantly.
 
 ## Surgery vs. Conservative Management: The Honest Version
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+Most information online either oversimplifies or scares you into a decision. The actual situation is messier than that.
 
+**For dogs over 20-25 pounds, surgery is usually the right call.** The joint won't stabilize on its own, and the arthritis that follows untreated instability is genuinely debilitating. Research backs this up consistently: the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) and board-certified veterinary surgeons recommend surgical intervention for medium and large dogs.
 
-Here's where most information online either oversimplifies or scares you into a decision. The truth is messier.
+Three main procedures come up:
 
-**For dogs over 20-25 pounds, surgery is usually the right call.** The joint won't stabilize adequately on its own, and the arthritis that follows untreated instability is genuinely debilitating. This is where the research is consistent: the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) and most board-certified veterinary surgeons recommend surgical intervention for medium and large dogs.
+**TPLO (Tibial Plateau Leveling Osteotomy)** is the current gold standard. The surgeon cuts and rotates the tibia to change the joint angle, making the CCL functionally unnecessary. It sounds alarming. The outcomes are excellent. Recovery takes roughly 12-16 weeks of restricted activity, and most dogs return to full function.
 
-There are three main procedures you'll hear about:
+**TTA (Tibial Tuberosity Advancement)** achieves similar biomechanical goals through a different approach. Outcomes match TPLO closely. Some surgeons prefer one or the other strongly; in my experience, surgeon familiarity with the technique matters more than which technique gets chosen.
 
-**TPLO (Tibial Plateau Leveling Osteotomy)** is the current gold standard for most dogs. The surgeon cuts and rotates the tibia to change the angle of the joint, making the CCL functionally unnecessary. It sounds alarming. The outcomes are excellent. Recovery is roughly 12-16 weeks of restricted activity, and most dogs return to full function.
+**Extracapsular repair** (lateral suture or the newer TightRope variation) places a heavy suture outside the joint to mimic the ligament. Less invasive, cheaper (often $1,500-2,500 versus $3,500-5,000 for TPLO), and perfectly appropriate for dogs under 30 pounds or older, lower-activity dogs. For a 70-pound Labrador? I'd push hard for TPLO.
 
-**TTA (Tibial Tuberosity Advancement)** achieves similar biomechanical goals through a slightly different approach. Outcomes are comparable to TPLO. Some surgeons strongly prefer one or the other; in my experience, the surgeon's familiarity with the technique matters more than the technique itself.
-
-**Extracapsular repair (lateral suture or the newer TightRope variation)** places a heavy suture outside the joint to mimic the ligament. Less invasive, cheaper (often $1,500-2,500 versus $3,500-5,000 for TPLO), and perfectly appropriate for dogs under 30 pounds or older, lower-activity dogs. For a 70-pound Labrador? I'd push for TPLO.
-
-**For dogs under 15-20 pounds**, conservative management is a legitimate option. Strict rest, physical therapy, and a dog who's not going to be doing agility courses. A lot of small dogs do well. The [AAHA hospital accreditation standards](https://www.aaha.org/) support discussing all options with owners, and an honest vet will walk through this with you based on your specific dog's size, age, and lifestyle.
+**For dogs under 15-20 pounds**, conservative management actually works. Strict rest, physical therapy, and accepting that your dog isn't running agility courses. Plenty of small dogs do well with it. The [AAHA hospital accreditation standards](https://www.aaha.org/) support discussing all options with owners, and an honest vet will walk through this based on your specific dog's size, age, and lifestyle.
 
 ## Finding the Right Surgeon
 
-Your general practice vet can diagnose this. The surgery itself should usually be done by a board-certified veterinary surgeon (DACVS credential) or a vet with significant TPLO experience. Ask directly: "How many TPLOs have you performed?" Under 50 is not reassuring. Over 200, you're in good hands.
+Your regular vet can diagnose this. The surgery should go to a board-certified veterinary surgeon (DACVS credential) or a vet with significant TPLO experience. Ask directly: "How many TPLOs have you performed?" Under 50 isn't reassuring. Over 200, you're in good hands.
 
-University veterinary hospitals are worth calling. Wait times are sometimes longer, but the surgical teams are excellent and costs can be 15-30% lower than private specialty practices. If the estimate from your regular vet's referral feels impossible, call your nearest vet school.
+University veterinary hospitals are worth calling. Wait times can be longer, but the surgical teams are excellent and costs run 15-30% lower than private specialty practices. If your regular vet's referral estimate feels impossible, call your nearest vet school.
 
-Pet insurance matters here enormously, and I'll be blunt: if you don't have it yet and your dog just blew a CCL, most policies won't cover it now because it's a pre-existing condition. For future reference, get insurance before problems arise. Both [Healthy Paws](https://www.amazon.com/s?k=pet+insurance) and Trupanion are names I hear frequently from clients who've actually had to use it.
+Pet insurance matters enormously here, and I'll be blunt: if you don't have it yet and your dog just blew a CCL, most policies won't cover it because it's now a pre-existing condition. Before problems happen, get insurance. Both [Healthy Paws](https://www.amazon.com/s?k=pet+insurance) and Trupanion are names I hear repeatedly from clients who've actually had to use them.
 
 ## The Recovery: What Nobody Warns You About
 
-Surgery goes well. Recovery is where people struggle.
+Surgery goes well. Recovery is where things get hard.
 
-Twelve to sixteen weeks of restricted activity means no running, no stairs unsupervised, no jumping on furniture, no fetch. Your dog will feel better at week three and will absolutely try to act like nothing happened. They're wrong. The bone is still healing. Leash walks only, on a non-retractable leash, until your surgeon clears you.
+Twelve to sixteen weeks of restricted activity means no running, no stairs unsupervised, no jumping on furniture, no fetch. Your dog will feel better at week three and will absolutely try to act normal. They're wrong. The bone is still healing. Leash walks only, on a non-retractable leash, until your surgeon clears you.
 
-A few things that genuinely help:
+A few things that actually help:
 
-Renting or buying a recovery crate or pen to limit your dog's space. An orthopedic dog bed keeps the joint comfortable during the long weeks of rest. Get one with memory foam, not cheap fiberfill. Something like the [Big Barker orthopedic dog bed](https://www.amazon.com/s?k=big+barker+orthopedic+dog+bed) (affiliate link, site may earn a commission) is the one I recommend most often.
+Rent or buy a recovery crate or pen to limit your dog's space. An orthopedic dog bed keeps the joint comfortable during long weeks of rest. Get one with memory foam, not cheap fiberfill. Something like the [Big Barker orthopedic dog bed](https://www.amazon.com/s?k=big+barker+orthopedic+dog+bed) (affiliate link, site may earn a commission) is what I recommend most often.
 
-Physical rehabilitation is not a luxury. Canine rehab therapists use underwater treadmills, therapeutic exercises, and laser therapy to speed recovery and reduce complications. If there's a certified canine rehabilitation practitioner (CCRP) near you, ask your surgeon about a referral. The difference in 6-month outcomes between dogs who did formal rehab versus strict rest alone is noticeable.
+Physical rehabilitation isn't a luxury. Canine rehab therapists use underwater treadmills, therapeutic exercises, and laser therapy to speed recovery and prevent complications. If a certified canine rehabilitation practitioner (CCRP) exists near you, ask your surgeon for a referral. The difference in 6-month outcomes between dogs who did formal rehab versus strict rest alone is noticeable.
 
-Watch the incision daily for the first two weeks. Swelling that increases after day 3-4, heat, discharge, or a dog who's running a fever and going off food: call your vet same day. Minor swelling in the first 48 hours is normal. A warm, angry-looking incision at day 10 is not.
+Watch the incision daily for the first two weeks. Swelling that increases after day 3-4, heat, discharge, or a dog running fever and refusing food: call your vet the same day. Minor swelling in the first 48 hours is normal. A warm, angry-looking incision at day 10 is not.
 
-Joint supplements: glucosamine and omega-3 fatty acids won't fix instability, but they support joint health long-term. Something like [Cosequin DS](https://www.amazon.com/s?k=cosequin+ds+for+dogs) (affiliate link) is what I've seen vets recommend consistently, and it's inexpensive. Start it post-op and keep it going.
+Joint supplements like glucosamine and omega-3 fatty acids won't fix instability, but they support long-term joint health. Something like [Cosequin DS](https://www.amazon.com/s?k=cosequin+ds+for+dogs) (affiliate link) is what vets recommend consistently, and it's inexpensive. Start it post-op and keep going.
 
-One more thing about the other leg: studies consistently show that 40-60% of dogs who tear one CCL will tear the other within two years. Keep that dog at a healthy weight, forever. Every extra pound is compressive load on a joint that's already been through something.
-
----
-
+One last thing about the other leg: 40-60% of dogs who tear one CCL will tear the other within two years, according to studies. Keep that dog at a healthy weight, forever. Every extra pound is compressive load on a joint that's already been through something.
 
 ## Helpful Resources
 
@@ -95,7 +89,6 @@ One more thing about the other leg: studies consistently show that 40-60% of dog
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
 
 *Photo: [Andreas Schnabl](https://www.pexels.com/@andreas-schnabl-1775843) via Pexels*
 
@@ -111,4 +104,3 @@ One more thing about the other leg: studies consistently show that 40-60% of dog
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

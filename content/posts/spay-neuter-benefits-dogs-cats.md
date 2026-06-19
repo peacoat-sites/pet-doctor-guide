@@ -25,7 +25,6 @@ author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
 
 ---
-
 Most people already know spaying and neutering "is good." What they don't know is *why* it's good in ways that go beyond population control talking points, which specific risks it eliminates versus which ones it merely reduces, and how age and breed factor into timing in ways that can genuinely affect your individual dog or cat. The blanket "fix your pet at six months" advice has been quietly revised by veterinary science over the last decade, and if your vet hasn't mentioned that, you deserve to know.
 
 ## What Spaying and Neutering Actually Do to the Body
@@ -39,10 +38,6 @@ Neutering (orchiectomy) removes both testicles, dropping testosterone to near ze
 Both procedures eliminate the animals' ability to reproduce, which matters for population reasons. But the medical effects on the individual animal are what most articles skip over in favor of shelter statistics.
 
 ## The Genuine Health Benefits, Ranked by Strength of Evidence
-
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Some benefits are near-certain. Others are real but probabilistic. Here's how they actually stack up.
 
@@ -90,7 +85,7 @@ These aren't rigid cutoffs. They're conversation starters. Your vet's recommenda
 
 Most articles wave at "keep them calm for a few days" and move on. That's not useful.
 
-Cats typically bounce back fast. Most are eating normally within 24 hours and acting annoyed about their cone by day two. Restrict jumping for 7-10 days. The incision site is small, and complications are uncommon in otherwise healthy cats.
+Cats typically bounce back fast. Most are eating normally within 24 hours and annoyed about their cone by day two. Restrict jumping for 7-10 days. The incision site is small, and complications are uncommon in otherwise healthy cats.
 
 Female dogs have a more significant abdominal surgery and need real restriction for 10-14 days. No running, no jumping, no rough play, no stairs if you can avoid it. The internal sutures take time to heal even when the skin looks fine on the outside. I've seen owners let their dog race around the yard on day five because "she seems totally fine," then end up back at the vet with a complication. Don't do that.
 
@@ -100,7 +95,7 @@ Signs that need same-day attention: excessive swelling, discharge from the incis
 
 A properly fitted Elizabethan collar is non-negotiable for the first 7-10 days. The inflatable donuts some people prefer are fine for large dogs who aren't flexible enough to work around them, but a determined cat or small dog will absolutely reach an incision through an inflatable collar. The [AAHA hospital accreditation standards](https://www.aaha.org/) include guidance on post-operative care protocols, and a good practice will send you home with written instructions, an emergency contact, and a clear list of warning signs.
 
-Having a proper recovery setup before surgery day matters. A good [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) *(note: this site may earn a commission from qualifying purchases)* with saline wound wash and gauze is useful for monitoring the incision without touching it. You shouldn't be treating the wound at home, but being able to look at it clearly makes it easier to decide whether something is normal or worth a call.
+Having a proper recovery setup before surgery day matters. A good pet first aid kit with saline wound wash and gauze is useful for monitoring the incision without touching it. You shouldn't be treating the wound at home, but being able to look at it clearly makes it easier to decide whether something is normal or worth a call.
 
 ## The Honest Counterarguments
 
@@ -114,36 +109,15 @@ Neutered dogs have a higher incidence of hypothyroidism and obesity compared to 
 
 Acknowledging these things doesn't argue against spaying and neutering. For most pets in most situations, the benefits still outweigh the risks substantially. But knowing the full picture helps you make an informed decision and watch for the right things after surgery.
 
----
-
-
----
-
 The decision to spay or neuter your pet is almost always the right one, but the timing and specifics deserve more than a default appointment. Push your vet for the individualized conversation your animal deserves, ask about current research on large breed timing if it applies, and go into surgery day knowing exactly what recovery looks like and what would send you back in. That's how you get the full benefit and avoid the avoidable complications.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-
-
-*Photo: [JacLou- DL](https://www.pexels.com/@jaclou-dl) via Pexels*
-
----
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
----
 
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
+*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
+
+*Photo: [JacLou- DL](https://www.pexels.com/@jaclou-dl) via Pexels*

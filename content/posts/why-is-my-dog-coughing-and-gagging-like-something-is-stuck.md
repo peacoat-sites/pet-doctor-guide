@@ -25,7 +25,6 @@ author_title: "Emergency Care Writer"
 author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
 
 ---
-
 Your dog is coughing like he swallowed a pinecone and you're standing there doing the mental math: is this an emergency or will it pass in two minutes? Most articles punt immediately with "take your dog to the vet" and leave you no smarter than when you started. That's not useful. Let me actually help you figure out what's going on.
 
 ## The Cough-Gag That Looks Like Choking (But Usually Isn't)
@@ -38,43 +37,39 @@ The two most common culprits in an otherwise healthy dog are kennel cough and re
 
 **Kennel cough** (infectious tracheobronchitis) produces a harsh, honking cough, often followed by a gag or retch that brings up white foamy mucus. The cough usually worsens with excitement or pulling on a leash. Your dog otherwise acts relatively normal, is still interested in food, and has no labored breathing at rest. It spreads dog-to-dog, so if your dog was recently at a boarding facility, a dog park, or a groomer, this moves to the top of the list immediately. Kennel cough in a healthy adult dog is the equivalent of a chest cold. Uncomfortable, annoying, not typically dangerous.
 
-**Reverse sneezing** sounds like a goose honk crossed with a pig snort and lasts 15 to 30 seconds. The dog stands still, extends his neck, and looks absolutely horrified, then it stops as suddenly as it started. Small and brachycephalic breeds (Bulldogs, Pugs, Cavalier King Charles Spaniels) get it constantly. It's caused by a spasm of the soft palate and is almost always benign, though it can be triggered by allergies, excitement, eating too fast, or inhaling an irritant. If you've never seen it before, here's what to do: find a video of it online before you panic. You'll recognize it immediately.
+**Reverse sneezing** sounds like a goose honk crossed with a pig snort and lasts 15 to 30 seconds. The dog stands still, extends his neck, and looks absolutely horrified, then it stops as suddenly as it started. Small and brachycephalic breeds (Bulldogs, Pugs, Cavalier King Charles Spaniels) get it constantly. It's caused by a spasm of the soft palate and is almost always benign, though it can be triggered by allergies, excitement, eating too fast, or inhaling an irritant. If you've never seen it before, find a video of it online before you panic. You'll recognize it immediately.
 
 ## When It Actually Is Something Stuck
-
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Occasionally, yes, there genuinely is a foreign object involved. Dogs eat things. All things.
 
 A dog with a real foreign body lodged in the esophagus or back of the throat will often swallow repeatedly and compulsively, like he's trying to clear something. He may drool excessively, refuse food even when hungry, or extend his neck in an odd way. He might cough productively at first, then shift to dry, repetitive retching that produces nothing. The thing that tells you this is different from kennel cough: the distress escalates rather than coming in waves. He can't get comfortable. He keeps going back to that same motion over and over.
 
-Bones are the classic culprit, particularly cooked chicken bones, which splinter into sharp shards. Rawhide chunks, sticks, corn cobs (corn cobs are freakishly common), pieces of toys. I've seen cases come into the clinic where the owners were absolutely certain their dog hadn't eaten anything unusual, and yet there it was on the X-ray.
+Bones are the classic culprit, particularly cooked chicken bones, which splinter into sharp shards. Rawhide chunks, sticks, corn cobs (corn cobs are freakishly common), pieces of toys. I've seen cases where the owners were absolutely certain their dog hadn't eaten anything unusual, and yet there it was on the X-ray.
 
-If you suspect a genuine foreign body, this is not a wait-and-see situation. A lodged esophageal foreign body can cause perforation within hours, and a sharp fragment in soft tissue is a surgical emergency. Call your vet or the nearest emergency clinic. Don't try to induce vomiting at home to dislodge it, because if the object is sharp, you can cause far more damage on the way back up.
+If you suspect a genuine foreign body, don't wait. A lodged esophageal foreign body can cause perforation within hours, and a sharp fragment in soft tissue is a surgical emergency. Call your vet or the nearest emergency clinic immediately. Don't try to induce vomiting at home to dislodge it, because if the object is sharp, you can cause far more damage on the way back up.
 
 ## The Respiratory Conditions That Get Mistaken for Choking
 
-Collapsing trachea is chronically underdiagnosed in small breeds, mostly because owners chalk the cough up to "just a Chihuahua thing" for years before it gets evaluated. The sound is distinctive: a dry, goose-honk cough that worsens when the dog is excited, drinks water, or has anything pressing on his neck (like a collar rather than a harness). If your small dog coughs every time he takes a drink of water and has done so for months, please mention this to your vet specifically. Don't wait for your vet to connect the dots.
+Collapsing trachea is chronically underdiagnosed in small breeds, mostly because owners chalk the cough up to "just a Chihuahua thing" for years before it gets evaluated. The sound is distinctive: a dry, goose-honk cough that worsens when the dog is excited, drinks water, or has anything pressing on his neck (like a collar rather than a harness). If your small dog coughs every time he takes a drink of water and has done so for months, tell your vet specifically. Don't wait for your vet to connect the dots.
 
-Congestive heart failure can cause a soft, persistent cough that looks like gagging, especially in older dogs and in breeds like Cavalier King Charles Spaniels, Dachshunds, and Dobermans who are genetically predisposed to cardiac disease. The cough from heart failure tends to be worse at night and after exercise, and you may notice the dog tiring faster on walks. The AAHA's [cardiac care guidelines](https://www.aaha.org/) actually recommend that certain high-risk breeds start getting annual cardiac screenings earlier than most owners realize, sometimes as young as two or three years old.
+Congestive heart failure can cause a soft, persistent cough that looks like gagging, especially in older dogs and breeds like Cavalier King Charles Spaniels, Dachshunds, and Dobermans who are genetically predisposed to cardiac disease. The cough from heart failure tends to be worse at night and after exercise, and you may notice the dog tiring faster on walks. The AAHA's [cardiac care guidelines](https://www.aaha.org/) actually recommend that certain high-risk breeds start getting annual cardiac screenings earlier than most owners realize, sometimes as young as two or three years old.
 
-Pneumonia and severe respiratory infections produce a wet, productive cough, sometimes with nasal discharge, lethargy, and reduced appetite. If your dog seems genuinely unwell alongside the coughing, that changes the calculus significantly.
+Pneumonia and severe respiratory infections produce a wet, productive cough, sometimes with nasal discharge, lethargy, and reduced appetite. If your dog seems genuinely unwell alongside the coughing, that changes everything.
 
 ## The Triage You Need to Do Right Now
 
-Stop and look at your dog for thirty seconds before you do anything else. Ask yourself:
+Stop and look at your dog for thirty seconds before you do anything else.
 
-Can he breathe? Is his chest rising and falling? Is he making noise with the cough? (Noise equals air movement, air movement equals not fully obstructed.)
+Can he breathe? Is his chest rising and falling? Is he making noise with the cough? Noise equals air movement. Air movement equals not fully obstructed.
 
-What color are his gums? Press a finger against his gums and look. Pink and moist is normal. Pale, white, blue, or gray gums mean something is seriously wrong with oxygen delivery or circulation, and you need an emergency vet immediately. No waiting.
+What color are his gums? Press a finger against his gums and look. Pink and moist is normal. Pale, white, blue, or gray means something is seriously wrong with oxygen delivery or circulation, and you need an emergency vet immediately.
 
-Is he in distress right now or did it stop? A coughing episode that lasted two minutes and then resolved, and your dog is now sitting there looking at you expectantly, is very different from a dog that is actively struggling to breathe.
+Is he in distress right now or did it stop? A coughing episode that lasted two minutes and then resolved, with your dog now sitting there looking at you expectantly, is very different from a dog that is actively struggling to breathe.
 
 Is he eating, drinking, acting mostly like himself? This is your single most useful data point. A dog who coughed weirdly this morning but ate his breakfast and is pestering you for a walk probably needs a vet appointment this week, not a midnight emergency clinic visit.
 
-If the answer to any of these concern you, use your gut. Emergency clinics exist for a reason. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) is the go-to for toxin questions (their hotline is 888-426-4435), but for acute respiratory distress, your local emergency vet is where you need to be.
+If any of these concern you, use your gut. Emergency clinics exist for a reason. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) handles toxin questions at 888-426-4435, but for acute respiratory distress, your local emergency vet is where you need to be.
 
 ## What Helps at Home (and What Doesn't)
 
@@ -84,36 +79,19 @@ Definitely do not give your dog human cough suppressants containing dextromethor
 
 If your dog has a persistent cough lasting more than a week, or if he's very young, very old, immunocompromised, or has a known heart or respiratory condition, kennel cough warrants veterinary treatment. There are effective veterinary cough suppressants and antibiotics (for secondary bacterial infections) that make a real difference.
 
-A [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) won't help with a cough directly, but having one means you're already in the habit of being prepared. (Disclosure: the site may earn a commission on that link.)
-
----
-
-
----
+A well-stocked pet first aid kit won't help with a cough directly, but having one means you're already in the habit of being prepared.
 
 Most of the time, a dog coughing and gagging like something is stuck in his throat is dealing with something uncomfortable but manageable. The skill is in knowing which cases to act on immediately. When the gums stay pink, the dog can breathe, and he perks up between episodes, you've got time to think. When any of those change, you don't.
 
 ## Helpful Resources
 
-*As an Amazon Associate this site earns from qualifying purchases.*
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
 
 *Photo: [Олександр К](https://www.pexels.com/@1609538911) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-
