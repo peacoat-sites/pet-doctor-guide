@@ -111,6 +111,15 @@ Generally, no. Hot spots need air exposure to dry out and heal. Covering them tr
 
 ## Recommended Resources
 
+## Sources
+
+- [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
+- [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=youraffiliatetag-20)
+- [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
+- [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)
+- [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.

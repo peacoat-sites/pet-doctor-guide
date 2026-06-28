@@ -109,6 +109,15 @@ Trust your gut about your dog. You know what "normal" looks like for them. If so
 
 ## Recommended Resources
 
+## Sources
+
+- [AAHA hospital accreditation standards](https://www.aaha.org/)
+- [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
+- [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
+- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
+- [Nans K](https://www.pexels.com/@nans1419)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

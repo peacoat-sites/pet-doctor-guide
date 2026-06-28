@@ -141,6 +141,15 @@ You can't prevent every accident. You can't be a vet with a first aid kit. But y
 
 ## Recommended Resources
 
+## Sources
+
+- [pet first aid kit from Amazon](https://www.amazon.com/s?k=pet+first+aid+kit)
+- [Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
+- [quality dental chews](https://www.amazon.com/s?k=dental+chews+for+dogs)
+- [hospital accreditation standards](https://www.aaha.org/)
+- [joint supplements](https://www.amazon.com/s?k=joint+supplements+for+dogs)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

@@ -100,6 +100,15 @@ One last thing about the other leg: 40-60% of dogs who tear one CCL will tear th
 
 ## Recommended Resources
 
+## Sources
+
+- [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
+- [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
+- [AAHA hospital accreditation standards](https://www.aaha.org/)
+- [Healthy Paws](https://www.amazon.com/s?k=pet+insurance)
+- [Big Barker orthopedic dog bed](https://www.amazon.com/s?k=big+barker+orthopedic+dog+bed)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

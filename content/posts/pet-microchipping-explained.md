@@ -101,6 +101,15 @@ If your pet isn't microchipped yet, the good news is that fixing that is one of 
 
 ## Recommended Resources
 
+## Sources
+
+- [hospital accreditation standards](https://www.aaha.org/)
+- [AAHA Universal Pet Microchip Lookup Tool](https://www.aaha.org/)
+- [veterinary resource library](https://www.petmd.com/)
+- [this vet-approved option on Amazon](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
+- [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
+
+
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

@@ -123,6 +123,15 @@ Your dog can't tell you where it hurts or whether the supplements are helping. T
 
 ## Recommended Resources
 
+## Sources
+
+- [You can find it on Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=contentportfo-20)
+- [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
+- [Check it on Amazon](https://www.amazon.com/s?k=green+lipped+mussel+dog+supplement&tag=contentportfo-20)
+- [ASPCA's Animal Poison Control resources](https://www.aspca.org/pet-care/animal-poison-control)
+- [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

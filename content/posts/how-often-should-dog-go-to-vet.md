@@ -151,6 +151,15 @@ The relationship between you, your dog, and your vet works best when it's consis
 
 ## Recommended Resources
 
+## Sources
+
+- [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)
+- [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
+- [dental chews](https://www.amazon.com/s?k=dog+dental+chews&tag=contentportfo-20)
+- [AAHA hospital accreditation standards](https://www.aaha.org/)
+- [joint supplements](https://www.amazon.com/s?k=dog+joint+supplements&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

@@ -134,6 +134,15 @@ Most dogs who skip a meal are fine by the next morning, and you'll look back and
 
 ## Recommended Resources
 
+## Sources
+
+- [EVERLIT's 95-piece vet-approved kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
+- [Purina Pro Plan FortiFlora](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)
+- [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
+- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
+- [Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

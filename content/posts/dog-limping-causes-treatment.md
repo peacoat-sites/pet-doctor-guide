@@ -113,6 +113,15 @@ Watching your dog struggle to walk is genuinely hard. The good news is that most
 
 ## Recommended Resources
 
+## Sources
+
+- [PetMD's veterinary resource library](https://www.petmd.com/)
+- [AAHA hospital accreditation standards](https://www.aaha.org/)
+- [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
+- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
+- [Mathias Reding](https://www.pexels.com/@matreding)
+
+
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32). Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.

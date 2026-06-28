@@ -138,6 +138,15 @@ The dogs who age most gracefully aren't necessarily the ones with the best genet
 
 ## Recommended Resources
 
+## Sources
+
+- [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
+- [AAHA hospital accreditation standards](https://www.aaha.org/)
+- [Veterinary-grade dental chews and joint supplements are available on Amazon](https://www.amazon.com/)
+- [Orthopedic dog beds and joint support supplements are widely available on Amazon](https://www.amazon.com/)
+- [PetMD's veterinary resource library](https://www.petmd.com/)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
