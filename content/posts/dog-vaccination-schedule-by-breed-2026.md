@@ -20,6 +20,7 @@ faqs:
     answer: "Maybe. Dogs 7+ should have a pre-vaccination health screening (bloodwork + exam) before any shots. If they&#x2019;re healthy, they can continue 3-year boosters. But if they&#x2019;ve had prior vaccine reactions or have chronic illness, your vet might recommend titer testing instead."
 categories: ["Dog Health", "Vaccinations", "Puppy Care"]
 keywords: ["dog vaccination schedule", "puppy shots", "vaccine boosters", "breed-specific vaccine risk", "senior dog vaccines"]
+featured_depth: true
 ---
 
 I made a lot of mistakes in my first year as a vet tech. One that still bothers me: I watched a client bring in their 8-year-old Dachshund for annual vaccines, and the dog had a severe reaction three days later—fever, lethargy, barely ate for a week. The vet said it was probably just a coincidence, but later I learned Dachshunds have a 49.4-per-10,000 adverse event rate. That dog didn't need annual boosters anyway. That reaction was preventable.
