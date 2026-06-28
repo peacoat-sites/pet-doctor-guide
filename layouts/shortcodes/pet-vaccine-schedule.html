@@ -1,0 +1,309 @@
+{{- $data := site.Data.pet_vaccine_schedule -}}
+
+<div class="vaccine-schedule-moat">
+  <div class="vaccine-disclaimer">
+    <p><strong>Disclaimer:</strong> {{ $data.disclaimer }}</p>
+  </div>
+
+  <!-- PUPPY SCHEDULE -->
+  <h3>Puppy Vaccine Schedule (6-20 Weeks)</h3>
+  <table class="vaccine-table">
+    <thead>
+      <tr>
+        <th>Age (Weeks)</th>
+        <th>Vaccine</th>
+        <th>Route</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $data.puppy_core_schedule }}
+      <tr>
+        <td>{{ .age_weeks }}</td>
+        <td><strong>{{ .vaccine }}</strong></td>
+        <td>{{ .route }}</td>
+        <td>{{ .notes }}</td>
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+
+  <!-- ADULT BOOSTER SCHEDULE -->
+  <h3>Adult Booster Schedule (1-7 Years)</h3>
+  <table class="vaccine-table">
+    <thead>
+      <tr>
+        <th>Life Stage</th>
+        <th>Vaccine</th>
+        <th>Frequency</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $data.adult_booster_schedule }}
+      <tr>
+        <td>{{ .life_stage }}</td>
+        <td><strong>{{ .vaccine }}</strong></td>
+        <td>{{ .frequency }}</td>
+        <td>{{ .notes }}</td>
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+
+  <!-- SENIOR PROTOCOL -->
+  <h3>Senior Dog Protocol (7+ Years)</h3>
+  <div class="senior-protocol">
+    <p><strong>Pre-Vaccination Requirements:</strong></p>
+    <ul>
+      {{- range $data.senior_protocol.requirements }}
+      <li>{{ . }}</li>
+      {{- end }}
+    </ul>
+    <p><em>{{ $data.senior_protocol.special_notes }}</em></p>
+  </div>
+
+  <!-- NON-CORE VACCINES BY LIFESTYLE -->
+  <h3>Non-Core Vaccines (Lifestyle-Based)</h3>
+  {{- range $data.non_core_vaccines }}
+  <div class="vaccine-card">
+    <h4>{{ .vaccine }}</h4>
+    <p><strong>Indication:</strong> {{ .indication }}</p>
+    <p><strong>Initial Schedule:</strong> {{ .initial_schedule }}</p>
+    <p><strong>Booster Frequency:</strong> {{ .booster_frequency }}</p>
+    {{- if .breed_risk }}
+    <p><strong>Breed Considerations:</strong> {{ .breed_risk }}</p>
+    {{- end }}
+    {{- if .breed_mitigation }}
+    <p><strong>Mitigation for High-Risk Breeds:</strong> {{ .breed_mitigation }}</p>
+    {{- end }}
+    {{- if .geographic_expansion }}
+    <p><strong>Geographic Note:</strong> {{ .geographic_expansion }}</p>
+    {{- end }}
+    {{- if .clinical_note }}
+    <p><em>{{ .clinical_note }}</em></p>
+    {{- end }}
+  </div>
+  {{- end }}
+
+  <!-- BREED-SPECIFIC RISK MAPPING -->
+  <h3>Breed-Specific Vaccine Risk & Mitigation</h3>
+
+  <h4>Small Breeds (≤5 kg)</h4>
+  {{- with $data.breed_specific_risk_mapping.small_breeds }}
+  <p><strong>Affected Breeds:</strong> {{ delimit .breeds ", " }}</p>
+  <p><strong>Adverse Event Rate:</strong> {{ .adverse_event_rate }}</p>
+  <p><strong>High-Risk Vaccines:</strong></p>
+  <ul>
+    {{- range .high_risk_vaccines }}
+    <li>{{ .vaccine }}: {{ .rate }}</li>
+    {{- end }}
+  </ul>
+  <p><strong>Mitigation Strategies:</strong></p>
+  <ul>
+    {{- range .mitigation_strategies }}
+    <li>{{ . }}</li>
+    {{- end }}
+  </ul>
+  {{- end }}
+
+  <h4>Large & Giant Breeds (>25 kg)</h4>
+  {{- with $data.breed_specific_risk_mapping.large_giant_breeds }}
+  <p><strong>Affected Breeds:</strong> {{ delimit .breeds ", " }}</p>
+  <p><strong>Adverse Event Rate:</strong> {{ .adverse_event_rate }}</p>
+  <p><strong>Special Considerations:</strong></p>
+  <ul>
+    {{- range .special_considerations }}
+    <li>{{ . }}</li>
+    {{- end }}
+  </ul>
+  {{- end }}
+
+  <!-- GEOGRAPHIC VACCINE RECOMMENDATIONS -->
+  <h3>Regional Vaccine Recommendations</h3>
+  <div class="geo-vaccine-grid">
+    {{- range $data.geographic_vaccine_recommendations }}
+    <div class="geo-card">
+      <h4>{{ .region }}</h4>
+      <p><strong>Recommended Non-Core:</strong> {{ delimit .recommended_non_core ", " }}</p>
+      <p>{{ .notes }}</p>
+    </div>
+    {{- end }}
+  </div>
+
+  <!-- ADVERSE EVENTS -->
+  <h3>Vaccine Adverse Events</h3>
+  <p><strong>Common (Mild):</strong> {{ delimit $data.vaccine_adverse_events.most_common ", " }}</p>
+  <p><strong>Rare (Severe):</strong> {{ delimit $data.vaccine_adverse_events.rare_severe ", " }}</p>
+  <p><strong>{{ $data.vaccine_adverse_events.reporting }}</strong></p>
+
+  <!-- TITER TESTING ALTERNATIVE -->
+  <h3>Antibody Titer Testing (Alternative to Revaccination)</h3>
+  <p><strong>Purpose:</strong> {{ $data.titer_testing_alternative.purpose }}</p>
+  <p><strong>Validated for:</strong> {{ delimit $data.titer_testing_alternative.vaccines_validated ", " }}</p>
+  <p><strong>Important Limitation:</strong> {{ $data.titer_testing_alternative.rabies_limitation }}</p>
+  <p><strong>Best For:</strong></p>
+  <ul>
+    {{- range $data.titer_testing_alternative.use_cases }}
+    <li>{{ . }}</li>
+    {{- end }}
+  </ul>
+
+  <!-- SOURCES -->
+  <div class="vaccine-sources">
+    <h4>Authoritative Sources</h4>
+    <ul>
+      <li><a href="https://www.avma.org/resources-tools/pet-owners/petcare/vaccinations" target="_blank">AVMA Pet Vaccinations Guide</a></li>
+      <li><a href="https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/" target="_blank">2022 AAHA Canine Vaccination Guidelines</a></li>
+      <li><a href="https://www.akc.org/expert-advice/health/puppy-shots-complete-guide/" target="_blank">AKC Puppy Vaccination Schedule</a></li>
+      <li><a href="https://www.aaha.org/resources/2022-aaha-canine-vaccination-guidelines/vaccine-lifestyle-calculator/" target="_blank">AAHA Vaccine Lifestyle Calculator</a></li>
+    </ul>
+    <p class="data-updated">Data last updated: June 28, 2026. Sourced from AVMA, AAHA 2022, AKC guidelines.</p>
+  </div>
+</div>
+
+<style>
+.vaccine-schedule-moat {
+  max-width: 900px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.vaccine-disclaimer {
+  background: #f0f7ff;
+  border-left: 4px solid #0066cc;
+  padding: 12px 16px;
+  margin-bottom: 24px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.vaccine-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 32px;
+  font-size: 0.95em;
+}
+
+.vaccine-table thead {
+  background: #f5f5f5;
+}
+
+.vaccine-table th,
+.vaccine-table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.vaccine-table th {
+  font-weight: 600;
+  color: #333;
+}
+
+.vaccine-table tbody tr:hover {
+  background: #fafafa;
+}
+
+.vaccine-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.vaccine-card h4 {
+  margin-top: 0;
+  color: #0066cc;
+}
+
+.vaccine-card p {
+  margin: 8px 0;
+  font-size: 0.95em;
+}
+
+.senior-protocol {
+  background: #fffaf0;
+  border-left: 4px solid #ff8c00;
+  padding: 16px;
+  border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+.senior-protocol ul {
+  margin: 12px 0;
+  padding-left: 24px;
+}
+
+.senior-protocol li {
+  margin-bottom: 8px;
+}
+
+.geo-vaccine-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.geo-card {
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 14px;
+}
+
+.geo-card h4 {
+  margin-top: 0;
+  color: #333;
+  font-size: 1em;
+}
+
+.geo-card p {
+  margin: 8px 0;
+  font-size: 0.9em;
+}
+
+.vaccine-sources {
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 16px;
+  margin-top: 32px;
+}
+
+.vaccine-sources h4 {
+  margin-top: 0;
+}
+
+.vaccine-sources ul {
+  margin: 12px 0;
+  padding-left: 24px;
+}
+
+.vaccine-sources li {
+  margin-bottom: 8px;
+}
+
+.vaccine-sources a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.vaccine-sources a:hover {
+  text-decoration: underline;
+}
+
+.data-updated {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 16px;
+  border-top: 1px solid #ddd;
+  padding-top: 12px;
+}
+
+h3 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 1.3em;
+}
+</style>
