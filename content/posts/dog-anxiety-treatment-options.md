@@ -31,6 +31,9 @@ Dog anxiety is one of the most common behavioral complaints I hear from pet owne
 
 ## Understanding What's Actually Going On
 
+**Grain-Free Diets Don't Reduce Anxiety (And May Harm Your Dog)**: Most pet owners assume grain-free food is healthier and calmer for anxious dogs. But the FDA's 2018-2019 investigation found no scientific link between grain-free diets and anxiety reduction. More concerning: grain-free foods were associated with dilated cardiomyopathy (DCM), a serious heart condition, in over 500 reported cases. The American Veterinary Medical Association recommends AAFCO-certified foods with grains as a safer option. If your anxious dog needs dietary support, work with a vet—not marketing claims—to address actual nutritional deficiencies that *might* influence behavior.
+
+
 **"Grain-free diets prevent anxiety in dogs"**: Most pet owners assume grain-free kibble is healthier and can even help with behavioral issues like anxiety. But research tells a different story. A 2019 FDA investigation found no scientific evidence linking grains to anxiety or behavioral problems in dogs. More concerning, the American Veterinary Medical Association has linked grain-free diets to dilated cardiomyopathy (heart disease) in certain breeds. If your dog has genuine anxiety, the solution isn't diet—it's behavioral training, medication, or professional intervention. Save the grain-free trend for dogs with actual grain allergies (less than 1% of the population), and focus your anxiety treatment dollars on evidence-based therapies instead.
 
 
