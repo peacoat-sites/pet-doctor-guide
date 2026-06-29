@@ -5,6 +5,7 @@ slug: "dog-age-human-years"
 description: "Use the new NIH epigenetic formula to convert your dog's age to human years. The old 7x rule is scientifically outdated - dogs age much faster when young."
 categories: ["Pet Care"]
 author: "Becca Hamlin"
+image: "https://images.pexels.com/photos/2958113/pexels-photo-2958113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 For decades, everyone used the same shortcut: multiply your dog's age by seven to get their human equivalent. A 3-year-old dog was "21 in human years." It was easy to remember, but it was never grounded in science. We now know it significantly misrepresents how dogs actually age.

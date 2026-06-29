@@ -16,6 +16,7 @@ faqs:
     a: "Watch for sudden vomiting, diarrhea, excessive drooling, tremors, loss of coordination, pale gums, or collapse. If you suspect poisoning, call your vet or the ASPCA Poison Control Center (1-888-426-4435) immediately — don't wait for all symptoms to appear."
   - q: "Are all onion and garlic forms equally dangerous?"
     a: "Yes — raw, cooked, dehydrated, and powdered forms of onions, garlic, chives, and leeks are all toxic. Garlic is approximately five times more potent than onion on a weight basis. Even small amounts in sauces, gravies, or seasonings can accumulate to toxic levels."
+image: "https://images.pexels.com/photos/18764148/pexels-photo-18764148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Dogs are curious, food-motivated animals who will eat almost anything they come across — which makes it every pet owner's responsibility to know which everyday foods can cause serious harm. What seems like an innocent snack to you can trigger organ failure, seizures, or worse in your dog. This guide compiles more than 35 confirmed toxic foods, organized by severity, with the specific toxic compounds and symptoms for each.

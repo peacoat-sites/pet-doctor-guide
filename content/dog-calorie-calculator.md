@@ -5,6 +5,7 @@ slug: "dog-calorie-calculator"
 description: "Calculate exactly how many calories your dog or cat needs each day based on weight, life stage, activity level, and reproductive status using the veterinary RER formula."
 categories: ["Pet Nutrition"]
 author: "Becca Hamlin"
+image: "https://images.pexels.com/photos/16440218/pexels-photo-16440218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Knowing how many calories your pet needs each day is one of the most important steps you can take for their long-term health. Overfeeding is the leading cause of obesity in companion animals, and obesity shortens lifespan, stresses joints, and increases the risk of diabetes, heart disease, and certain cancers. Yet most pet owners rely on the serving suggestion printed on a food bag, which is a broad estimate that does not account for your individual animal's size, activity level, age, or reproductive status.

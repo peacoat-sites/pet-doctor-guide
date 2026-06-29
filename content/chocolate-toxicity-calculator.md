@@ -16,6 +16,7 @@ faqs:
     a: "Signs of chocolate toxicity typically appear within 6 to 12 hours of ingestion and can last up to 72 hours. Symptoms include vomiting, diarrhea, restlessness, excessive urination, muscle tremors, and in severe cases, seizures."
   - q: "Is white chocolate toxic to dogs?"
     a: "White chocolate contains very little theobromine and poses minimal theobromine toxicity risk. However, its high fat and sugar content can still cause pancreatitis and GI upset, especially in large amounts."
+image: "https://images.pexels.com/photos/10331253/pexels-photo-10331253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Chocolate is one of the most common causes of pet poisoning calls to veterinary hotlines every year — and one of the most misunderstood. Many dog owners know chocolate is bad for their pets, but fewer understand *why* or *how much* actually causes harm. The answer depends on three factors: your dog's body weight, the type of chocolate, and the quantity consumed.

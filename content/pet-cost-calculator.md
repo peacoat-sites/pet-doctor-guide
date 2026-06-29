@@ -7,6 +7,7 @@ categories: ["Pet Care Budget"]
 tags: ["pet costs", "dog expenses", "cat expenses", "pet budget", "pet ownership"]
 author: "Becca Hamlin"
 image: ""
+image: "https://images.pexels.com/photos/5900134/pexels-photo-5900134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Bringing a pet home is one of life's great joys — and one of its more significant financial commitments. Many new pet owners underestimate the true cost, which is one of the leading reasons pets are surrendered to shelters each year. Planning ahead changes everything.
