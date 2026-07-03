@@ -11,9 +11,7 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "a-cheaper-generic-for-dogs-with-heart-disease-is-now-available"
-affiliate_disclosure: true
----
-If your dog is on Vetmedin, or your cardiologist just told you your dog needs to start it, here's news that could meaningfully change what this diagnosis costs you. Cronus Pharma's Pimobendan Chewable Tablets hit the U.S. veterinary market on June 9, 2026, becoming the first FDA-approved generic bioequivalent of Vetmedin. For a drug that gets dosed twice daily, every day, for the rest of a dog's life, "generic is now available" isn't just a footnote. It's potentially thousands of dollars.
+affiliate_disclosure: true, If your dog is on Vetmedin, or your cardiologist just told you your dog needs to start it, here's news that could meaningfully change what this diagnosis costs you. Cronus Pharma's Pimobendan Chewable Tablets hit the U.S. veterinary market on June 9, 2026, becoming the first FDA-approved generic bioequivalent of Vetmedin. For a drug that gets dosed twice daily, every day, for the rest of a dog's life, "generic is now available" isn't just a footnote. It's potentially thousands of dollars.
 
 ## What the Generic Actually Is, and What It Isn't
 
@@ -55,11 +53,11 @@ A drug that extends a dog's life by over a year in trials, dosed twice daily ind
 
 ## Sources
 
-- [BusinessWire – Cronus Pharma Pimobendan Chewable Tablets Launch](https://www.businesswire.com/newsroom/industry/health/veterinary) (June 2026)
-- [dvm360 – Generic for Congestive Heart Failure in Dogs Launches](https://www.dvm360.com/news) (June 17, 2026)
-- [FDA – Approves First Generic Pimobendan for Management of Congestive Heart Failure in Dogs](https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-generic-pimobendan-management-congestive-heart-failure-dogs) (2024)
-- [Boehringer Ingelheim – FDA Approves First Drug to Delay Onset of CHF in Dogs](https://www.boehringer-ingelheim.com/us/animal-health/companion-animals-horses/pets/fda-approves-first-drug-delay-onset-congestive-heart-failure-dogs) (January 19, 2026)
-- [SpectrumCare – Pimobendan (Vetmedin) for Dogs: Uses, Dosage & Side Effects](https://spectrumcare.pet/dogs/medications/pimobendan) (March 7, 2026)
+- [BusinessWire, Cronus Pharma Pimobendan Chewable Tablets Launch](https://www.businesswire.com/newsroom/industry/health/veterinary) (June 2026)
+- [dvm360, Generic for Congestive Heart Failure in Dogs Launches](https://www.dvm360.com/news) (June 17, 2026)
+- [FDA, Approves First Generic Pimobendan for Management of Congestive Heart Failure in Dogs](https://www.fda.gov/animal-veterinary/cvm-updates/fda-approves-first-generic-pimobendan-management-congestive-heart-failure-dogs) (2024)
+- [Boehringer Ingelheim, FDA Approves First Drug to Delay Onset of CHF in Dogs](https://www.boehringer-ingelheim.com/us/animal-health/companion-animals-horses/pets/fda-approves-first-drug-delay-onset-congestive-heart-failure-dogs) (January 19, 2026)
+- [SpectrumCare, Pimobendan (Vetmedin) for Dogs: Uses, Dosage & Side Effects](https://spectrumcare.pet/dogs/medications/pimobendan) (March 7, 2026)
 
 ## Helpful Resources
 

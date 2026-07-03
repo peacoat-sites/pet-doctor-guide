@@ -9,16 +9,16 @@ tags: ["urinary", "tract", "infection", "signs"]
 slug: "cat-urinary-tract-infection-signs"
 affiliate_disclosure: true
 faqs:
-  - q: "Can a cat UTI go away on its own?"
-    a: "A bacterial UTI needs antibiotics. It won't resolve on its own, and untreated infections can spread to the kidneys (pyelonephritis), which is a serious complication. Idiopathic cystitis episodes sometimes resolve without treatment within a few days, but since you usually can't tell the difference at home, a vet evaluation is always the right call. Don't wait and hope it clears up."
-  - q: "How do I collect a urine sample to bring to the vet?"
-    a: "Your vet may prefer to collect the sample themselves via cystocentesis for a sterile sample. But if they ask you to bring one from home, use a very clean litter box with non-absorbent litter (your clinic may provide special plastic litter for this). Collect the sample in a clean container and refrigerate it if you can't get to the vet within an hour or two. Samples degrade quickly at room temperature."
-  - q: "Is my cat in pain?"
-    a: "Yes, almost certainly. Urinary inflammation is painful. Cats hide pain extremely well, which is why behavioral changes like hiding, reduced appetite, or unusual quietness alongside urinary symptoms matter. Our article on cat hiding behavior explained covers how to read these subtle distress signals more fully."
-  - q: "Are male cats more at risk than females?"
-    a: "For life-threatening complications, yes. Male cats have a much narrower urethra and are prone to complete blockages. A male cat straining in the litter box is a same-day emergency every single time. Female cats can develop UTIs and cystitis too, but the risk of a fatal obstruction is much lower anatomically."
-  - q: "Can I give my cat any over-the-counter treatments?"
-    a: "No. Do not give human UTI medications like AZO or phenazopyridine to cats. These are toxic to cats. The ASPCA Poison Control Center lists many human medications as dangerous to cats, including common OTC pain and urinary relief drugs. There are no safe, effective over-the-counter cat UTI treatments. A vet visit is the only appropriate path."
+ - q: "Can a cat UTI go away on its own?"
+ a: "A bacterial UTI needs antibiotics. It won't resolve on its own, and untreated infections can spread to the kidneys (pyelonephritis), which is a serious complication. Idiopathic cystitis episodes sometimes resolve without treatment within a few days, but since you usually can't tell the difference at home, a vet evaluation is always the right call. Don't wait and hope it clears up."
+ - q: "How do I collect a urine sample to bring to the vet?"
+ a: "Your vet may prefer to collect the sample themselves via cystocentesis for a sterile sample. But if they ask you to bring one from home, use a very clean litter box with non-absorbent litter (your clinic may provide special plastic litter for this). Collect the sample in a clean container and refrigerate it if you can't get to the vet within an hour or two. Samples degrade quickly at room temperature."
+ - q: "Is my cat in pain?"
+ a: "Yes, almost certainly. Urinary inflammation is painful. Cats hide pain extremely well, which is why behavioral changes like hiding, reduced appetite, or unusual quietness alongside urinary symptoms matter. Our article on cat hiding behavior explained covers how to read these subtle distress signals more fully."
+ - q: "Are male cats more at risk than females?"
+ a: "For life-threatening complications, yes. Male cats have a much narrower urethra and are prone to complete blockages. A male cat straining in the litter box is a same-day emergency every single time. Female cats can develop UTIs and cystitis too, but the risk of a fatal obstruction is much lower anatomically."
+ - q: "Can I give my cat any over-the-counter treatments?"
+ a: "No. Do not give human UTI medications like AZO or phenazopyridine to cats. These are toxic to cats. The ASPCA Poison Control Center lists many human medications as dangerous to cats, including common OTC pain and urinary relief drugs. There are no safe, effective over-the-counter cat UTI treatments. A vet visit is the only appropriate path."
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
@@ -32,12 +32,12 @@ Urinary problems are one of the most common reasons cats end up in emergency cli
 ---
 
 <div class="value-module">
-  <div class="vm-head">Urgency Triage: When to Seek Care</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to assess your cat's symptoms and determine the appropriate response timeline.</p>
-    <table><caption>Cat Urinary Symptom Urgency Guide</caption><thead><tr><th scope="col">Symptom or Finding</th><th scope="col">Urgency Level</th><th scope="col">Recommended Action</th></tr></thead><tbody><tr><td>Straining with zero urine output for 6+ hours (especially male cats)</td><td>EMERGENCY</td><td>Immediate vet or emergency clinic-urethral blockage can be fatal within 24–48 hours</td></tr><tr><td>Vomiting, lethargy, or collapse combined with straining</td><td>EMERGENCY</td><td>Indicates possible toxin buildup from blockage; do not wait</td></tr><tr><td>Crying out in pain while attempting to urinate</td><td>URGENT</td><td>Same-day veterinary visit required</td></tr><tr><td>Blood visible in urine (pink/red tinge)</td><td>URGENT</td><td>Schedule appointment within 24 hours; monitor for worsening</td></tr><tr><td>Frequent small urinations with some output, no other symptoms</td><td>PROMPT</td><td>Veterinary visit within 1–2 days; track litter box output</td></tr><tr><td>Urinating outside litter box (new behavior), otherwise normal</td><td>NON-URGENT</td><td>Schedule routine vet appointment; rule out stress or early FLUTD</td></tr></tbody><tfoot><tr><td colspan="3"><strong>Key rule for male cats:</strong> Any straining without urine production should be treated as an emergency until proven otherwise.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Urgency Triage: When to Seek Care</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to assess your cat's symptoms and determine the appropriate response timeline.</p>
+ <table><caption>Cat Urinary Symptom Urgency Guide</caption><thead><tr><th scope="col">Symptom or Finding</th><th scope="col">Urgency Level</th><th scope="col">Recommended Action</th></tr></thead><tbody><tr><td>Straining with zero urine output for 6+ hours (especially male cats)</td><td>EMERGENCY</td><td>Immediate vet or emergency clinic-urethral blockage can be fatal within 24–48 hours</td></tr><tr><td>Vomiting, lethargy, or collapse combined with straining</td><td>EMERGENCY</td><td>Indicates possible toxin buildup from blockage; do not wait</td></tr><tr><td>Crying out in pain while attempting to urinate</td><td>URGENT</td><td>Same-day veterinary visit required</td></tr><tr><td>Blood visible in urine (pink/red tinge)</td><td>URGENT</td><td>Schedule appointment within 24 hours; monitor for worsening</td></tr><tr><td>Frequent small urinations with some output, no other symptoms</td><td>PROMPT</td><td>Veterinary visit within 1–2 days; track litter box output</td></tr><tr><td>Urinating outside litter box (new behavior), otherwise normal</td><td>NON-URGENT</td><td>Schedule routine vet appointment; rule out stress or early FLUTD</td></tr></tbody><tfoot><tr><td colspan="3"><strong>Key rule for male cats:</strong> Any straining without urine production should be treated as an emergency until proven otherwise.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What's Actually Going On: FLUTD vs. True UTI

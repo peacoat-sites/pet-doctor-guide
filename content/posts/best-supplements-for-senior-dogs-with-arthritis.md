@@ -9,16 +9,16 @@ tags: ["best", "supplements", "senior", "dogs", "with"]
 slug: "best-supplements-for-senior-dogs-with-arthritis"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does it take for joint supplements to work in dogs?"
-    a: "Most joint supplements, especially glucosamine and chondroitin, need four to eight weeks at full dose before you'll see noticeable effects. Fish oil tends to show results a bit faster, sometimes within three to four weeks. If you're not seeing any change after eight weeks at the correct dose, it's worth talking to your vet about whether the product and dosage are appropriate."
-  - q: "Can I give my dog human glucosamine supplements?"
-    a: "Technically, the glucosamine molecule is the same, and some vets don't object to it if the product is pure glucosamine sulfate without additives. The bigger issue is that some human joint formulas contain xylitol or other ingredients that are toxic to dogs. Always read the full ingredient list, not just the active ingredients, and check with your vet before using a human product."
-  - q: "Is it safe to give a dog fish oil every day?"
-    a: "Yes, for most dogs, daily fish oil at appropriate doses is safe long-term. Very high doses can occasionally cause GI upset (loose stool, fishy breath) or affect clotting, so stay within the therapeutic range for your dog's weight. Dogs going into surgery should have fish oil paused about a week beforehand."
-  - q: "Should I tell my vet about supplements I'm giving my dog?"
-    a: "Always. This isn't just a liability-covering answer. Some supplements interact with medications, affect bloodwork results, or change how drugs are metabolized. Your vet can also help you assess whether the doses you're using are appropriate. If your vet dismisses all supplements without discussion, that's worth a second opinion from a vet who practices integrative medicine."
-  - q: "Are expensive prescription joint supplements worth it over OTC options?"
-    a: "Not always. Some prescription products like Adequan (an injectable polysulfated glycosaminoglycan) have strong evidence behind them and genuinely outperform oral supplements in some dogs. But many 'veterinary-grade' chews sold in clinics are marked up significantly for formulations that aren't meaningfully superior to quality OTC options. I'd evaluate case by case. Adequan is worth asking about specifically for moderate-to-severe arthritis. The fancy $65 bag of chews from the waiting room display? Maybe less so."
+ - q: "How long does it take for joint supplements to work in dogs?"
+ a: "Most joint supplements, especially glucosamine and chondroitin, need four to eight weeks at full dose before you'll see noticeable effects. Fish oil tends to show results a bit faster, sometimes within three to four weeks. If you're not seeing any change after eight weeks at the correct dose, it's worth talking to your vet about whether the product and dosage are appropriate."
+ - q: "Can I give my dog human glucosamine supplements?"
+ a: "Technically, the glucosamine molecule is the same, and some vets don't object to it if the product is pure glucosamine sulfate without additives. The bigger issue is that some human joint formulas contain xylitol or other ingredients that are toxic to dogs. Always read the full ingredient list, not just the active ingredients, and check with your vet before using a human product."
+ - q: "Is it safe to give a dog fish oil every day?"
+ a: "Yes, for most dogs, daily fish oil at appropriate doses is safe long-term. Very high doses can occasionally cause GI upset (loose stool, fishy breath) or affect clotting, so stay within the therapeutic range for your dog's weight. Dogs going into surgery should have fish oil paused about a week beforehand."
+ - q: "Should I tell my vet about supplements I'm giving my dog?"
+ a: "Always. This isn't just a liability-covering answer. Some supplements interact with medications, affect bloodwork results, or change how drugs are metabolized. Your vet can also help you assess whether the doses you're using are appropriate. If your vet dismisses all supplements without discussion, that's worth a second opinion from a vet who practices integrative medicine."
+ - q: "Are expensive prescription joint supplements worth it over OTC options?"
+ a: "Not always. Some prescription products like Adequan (an injectable polysulfated glycosaminoglycan) have strong evidence behind them and genuinely outperform oral supplements in some dogs. But many 'veterinary-grade' chews sold in clinics are marked up significantly for formulations that aren't meaningfully superior to quality OTC options. I'd evaluate case by case. Adequan is worth asking about specifically for moderate-to-severe arthritis. The fancy $65 bag of chews from the waiting room display? Maybe less so."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
@@ -31,12 +31,12 @@ Let's talk about what works, what's overhyped, and how to think about supplement
 
 
 <div class="value-module">
-  <div class="vm-head">Dosing Thresholds by Dog Weight</div>
-  <div class="vm-body">
-    <p class="vm-intro">Most joint supplements fail because owners unknowingly underdose, here are the clinically-relevant daily targets for the four core arthritis supplements, scaled by weight.</p>
-    <table><caption>Daily Supplement Dosing Guide for Senior Dogs with Arthritis</caption><thead><tr><th>Dog Weight</th><th>Glucosamine</th><th>Chondroitin</th><th>EPA+DHA (Omega-3)</th><th>Green-Lipped Mussel</th></tr></thead><tbody><tr><td>10–25 lb (small)</td><td>500–750 mg</td><td>200–350 mg</td><td>500–750 mg</td><td>15–20 mg/kg</td></tr><tr><td>26–50 lb (medium)</td><td>1,000–1,250 mg</td><td>400–600 mg</td><td>1,000–1,500 mg</td><td>15–20 mg/kg</td></tr><tr><td>51–75 lb (large)</td><td>1,500 mg</td><td>600–800 mg</td><td>1,500–2,000 mg</td><td>15–20 mg/kg</td></tr><tr><td>76–100+ lb (giant)</td><td>1,500–2,000 mg</td><td>800–1,200 mg</td><td>2,000–2,500 mg</td><td>15–20 mg/kg</td></tr></tbody><tfoot><tr><td colspan="5">Loading phase (first 4–6 weeks): double the glucosamine/chondroitin dose, then taper to maintenance. Omega-3 figures refer to combined EPA+DHA, not total fish oil. Always confirm with your veterinarian before starting a regimen.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Dosing Thresholds by Dog Weight</div>
+ <div class="vm-body">
+ <p class="vm-intro">Most joint supplements fail because owners unknowingly underdose, here are the clinically-relevant daily targets for the four core arthritis supplements, scaled by weight.</p>
+ <table><caption>Daily Supplement Dosing Guide for Senior Dogs with Arthritis</caption><thead><tr><th>Dog Weight</th><th>Glucosamine</th><th>Chondroitin</th><th>EPA+DHA (Omega-3)</th><th>Green-Lipped Mussel</th></tr></thead><tbody><tr><td>10–25 lb (small)</td><td>500–750 mg</td><td>200–350 mg</td><td>500–750 mg</td><td>15–20 mg/kg</td></tr><tr><td>26–50 lb (medium)</td><td>1,000–1,250 mg</td><td>400–600 mg</td><td>1,000–1,500 mg</td><td>15–20 mg/kg</td></tr><tr><td>51–75 lb (large)</td><td>1,500 mg</td><td>600–800 mg</td><td>1,500–2,000 mg</td><td>15–20 mg/kg</td></tr><tr><td>76–100+ lb (giant)</td><td>1,500–2,000 mg</td><td>800–1,200 mg</td><td>2,000–2,500 mg</td><td>15–20 mg/kg</td></tr></tbody><tfoot><tr><td colspan="5">Loading phase (first 4–6 weeks): double the glucosamine/chondroitin dose, then taper to maintenance. Omega-3 figures refer to combined EPA+DHA, not total fish oil. Always confirm with your veterinarian before starting a regimen.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Foundation: Glucosamine and Chondroitin Are Still the Starting Point

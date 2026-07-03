@@ -9,16 +9,16 @@ tags: ["cost", "professional", "teeth", "cleaning", "under"]
 slug: "cost-of-professional-dog-teeth-cleaning-under-anesthesia"
 affiliate_disclosure: true
 faqs:
-  - q: "How often does a dog actually need a professional dental cleaning?"
-    a: "It depends heavily on the individual dog. Small breeds typically need cleanings every one to two years starting around age two or three. Large breeds with good dental anatomy and a consistent brushing routine might go three to four years between cleanings. Your vet will assess at annual exams, and full-mouth radiographs done during a cleaning give you a much better baseline for scheduling the next one than visual exam alone."
-  - q: "Is it safe to put an older dog under anesthesia for a dental?"
-    a: "Older dogs absolutely can and do undergo dental procedures safely. Age itself isn't the contraindication. Underlying health conditions are. That's why pre-anesthetic bloodwork and sometimes additional diagnostics (chest X-rays, urine testing, an EKG) matter more as dogs age. A well-managed thirteen-year-old dog in good systemic health can do fine under anesthesia with proper monitoring. The risk of uncontrolled dental infection in an older dog is also real, so the risk of doing nothing has to be weighed honestly too."
-  - q: "What happens if I just skip the dental cleaning entirely?"
-    a: "Periodontal disease progresses from tartar accumulation to gum inflammation to bone loss to systemic spread. The ASPCA Poison Control Center fields calls about oral toxins, but the internal medicine concern here is different: bacteria from infected mouths can seed the heart valves, kidneys, and liver over time. Beyond that, dogs with significant dental disease are often in chronic pain they can't express. Skipping dental care isn't a neutral choice."
-  - q: "Can I get a ballpark cost before the appointment, or will they not know until they're in there?"
-    a: "You can and should get a pre-procedure estimate that covers the base cleaning, anesthesia, monitoring, and radiographs as a firm number. Extractions are legitimately impossible to fully estimate until the dog is under and radiographed. Ask the clinic for a 'low-end and high-end' range that accounts for possible extractions, and ask them to call you mid-procedure if costs will exceed the high-end estimate before proceeding."
-  - q: "Do dog dental cleanings require an overnight stay?"
-    a: "Almost never for routine cleanings. Most dogs go home the same afternoon, a few hours after the procedure once they're fully recovered from anesthesia. Dogs who've had extensive oral surgery, are very old or compromised, or who had complications may be kept for observation, but that's the exception."
+ - q: "How often does a dog actually need a professional dental cleaning?"
+ a: "It depends heavily on the individual dog. Small breeds typically need cleanings every one to two years starting around age two or three. Large breeds with good dental anatomy and a consistent brushing routine might go three to four years between cleanings. Your vet will assess at annual exams, and full-mouth radiographs done during a cleaning give you a much better baseline for scheduling the next one than visual exam alone."
+ - q: "Is it safe to put an older dog under anesthesia for a dental?"
+ a: "Older dogs absolutely can and do undergo dental procedures safely. Age itself isn't the contraindication. Underlying health conditions are. That's why pre-anesthetic bloodwork and sometimes additional diagnostics (chest X-rays, urine testing, an EKG) matter more as dogs age. A well-managed thirteen-year-old dog in good systemic health can do fine under anesthesia with proper monitoring. The risk of uncontrolled dental infection in an older dog is also real, so the risk of doing nothing has to be weighed honestly too."
+ - q: "What happens if I just skip the dental cleaning entirely?"
+ a: "Periodontal disease progresses from tartar accumulation to gum inflammation to bone loss to systemic spread. The ASPCA Poison Control Center fields calls about oral toxins, but the internal medicine concern here is different: bacteria from infected mouths can seed the heart valves, kidneys, and liver over time. Beyond that, dogs with significant dental disease are often in chronic pain they can't express. Skipping dental care isn't a neutral choice."
+ - q: "Can I get a ballpark cost before the appointment, or will they not know until they're in there?"
+ a: "You can and should get a pre-procedure estimate that covers the base cleaning, anesthesia, monitoring, and radiographs as a firm number. Extractions are legitimately impossible to fully estimate until the dog is under and radiographed. Ask the clinic for a 'low-end and high-end' range that accounts for possible extractions, and ask them to call you mid-procedure if costs will exceed the high-end estimate before proceeding."
+ - q: "Do dog dental cleanings require an overnight stay?"
+ a: "Almost never for routine cleanings. Most dogs go home the same afternoon, a few hours after the procedure once they're fully recovered from anesthesia. Dogs who've had extensive oral surgery, are very old or compromised, or who had complications may be kept for observation, but that's the exception."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
@@ -33,12 +33,12 @@ What most people don't realize is how little of that bill is actually "the clean
 
 
 <div class="value-module">
-  <div class="vm-head">Cost Breakdown by Dog Size</div>
-  <div class="vm-body">
-    <p class="vm-intro">Procedure costs scale with body weight because larger dogs require more anesthesia, longer procedure times, and higher drug dosages-here's how that translates to your estimate.</p>
-    <table><thead><tr><th>Dog Size</th><th>Weight Range</th><th>Anesthesia Time</th><th>Typical Cost Range (Routine Cleaning, No Extractions)</th><th>Key Cost Drivers</th></tr></thead><tbody><tr><td>Small</td><td>Under 20 lbs</td><td>45–60 min</td><td>$450–$800</td><td>Lower drug volume; often higher dental disease incidence (toy breeds), which may add extractions</td></tr><tr><td>Medium</td><td>20–50 lbs</td><td>60–75 min</td><td>$550–$1,000</td><td>Moderate drug/fluid requirements; baseline staffing needs</td></tr><tr><td>Large</td><td>50–90 lbs</td><td>75–90 min</td><td>$700–$1,300</td><td>Higher anesthesia volume; may require second tech for positioning</td></tr><tr><td>Giant</td><td>Over 90 lbs</td><td>90–120 min</td><td>$900–$1,800</td><td>Significantly more drugs, fluids, and monitoring time; specialized intubation equipment</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Cost Breakdown by Dog Size</div>
+ <div class="vm-body">
+ <p class="vm-intro">Procedure costs scale with body weight because larger dogs require more anesthesia, longer procedure times, and higher drug dosages-here's how that translates to your estimate.</p>
+ <table><thead><tr><th>Dog Size</th><th>Weight Range</th><th>Anesthesia Time</th><th>Typical Cost Range (Routine Cleaning, No Extractions)</th><th>Key Cost Drivers</th></tr></thead><tbody><tr><td>Small</td><td>Under 20 lbs</td><td>45–60 min</td><td>$450–$800</td><td>Lower drug volume; often higher dental disease incidence (toy breeds), which may add extractions</td></tr><tr><td>Medium</td><td>20–50 lbs</td><td>60–75 min</td><td>$550–$1,000</td><td>Moderate drug/fluid requirements; baseline staffing needs</td></tr><tr><td>Large</td><td>50–90 lbs</td><td>75–90 min</td><td>$700–$1,300</td><td>Higher anesthesia volume; may require second tech for positioning</td></tr><tr><td>Giant</td><td>Over 90 lbs</td><td>90–120 min</td><td>$900–$1,800</td><td>Significantly more drugs, fluids, and monitoring time; specialized intubation equipment</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What You're Actually Paying For

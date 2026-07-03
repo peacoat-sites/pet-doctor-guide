@@ -9,16 +9,16 @@ tags: ["dental", "health", "guide"]
 slug: "dog-dental-health-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "My dog's breath is really bad. Is that always a dental problem?"
-    a: "Bad breath in dogs is almost always related to the mouth. The bacteria involved in periodontal disease produce sulfur compounds that smell distinctly foul. Occasional mild odor after eating is normal. Persistent, strong odor is a sign of bacterial overgrowth, and you should have a vet look at their teeth. Rarely, severe bad breath can indicate kidney disease or other systemic issues, which is another reason not to ignore it."
-  - q: "Can I use human toothpaste on my dog in a pinch?"
-    a: "No. Human toothpaste should never be used on dogs. Many formulas contain xylitol, which is toxic to dogs even in small amounts and can cause a dangerous drop in blood sugar. Fluoride is also a concern. Use only toothpaste formulated for dogs."
-  - q: "My dog won't let me brush their teeth no matter what I try. What else can I do?"
-    a: "Start even slower, with lower-value rewards. Some dogs do better with a different tool, like a gauze wrapped around your finger instead of a brush. If true brushing remains impossible, combine a VOHC-approved dental chew, a water additive, and a dental diet as your home care strategy, and increase professional cleaning frequency to compensate. Talk to your vet about whether a referral to a veterinary behaviorist might help if the resistance is severe."
-  - q: "At what age should I start dental care for my puppy?"
-    a: "As early as 8 weeks old. You won't be doing a full brush at that age, but handling the mouth, lifting the lips, and touching the teeth gets your puppy comfortable with the sensation. Introduce toothbrushing during the puppy phase and you'll have a cooperative adult dog. Waiting until they're two years old and set in their ways is much harder."
-  - q: "What's the difference between gingivitis and periodontal disease, and does it matter?"
-    a: "It matters a lot. Gingivitis is inflammation of the gums only. At this stage the damage is reversible with a professional cleaning and good home care. Periodontal disease means the infection has progressed to damage the bone and connective tissue that hold teeth in place. That damage is not reversible. Teeth may need to be extracted. Catching the problem at the gingivitis stage saves money, saves teeth, and spares your dog real pain."
+ - q: "My dog's breath is really bad. Is that always a dental problem?"
+ a: "Bad breath in dogs is almost always related to the mouth. The bacteria involved in periodontal disease produce sulfur compounds that smell distinctly foul. Occasional mild odor after eating is normal. Persistent, strong odor is a sign of bacterial overgrowth, and you should have a vet look at their teeth. Rarely, severe bad breath can indicate kidney disease or other systemic issues, which is another reason not to ignore it."
+ - q: "Can I use human toothpaste on my dog in a pinch?"
+ a: "No. Human toothpaste should never be used on dogs. Many formulas contain xylitol, which is toxic to dogs even in small amounts and can cause a dangerous drop in blood sugar. Fluoride is also a concern. Use only toothpaste formulated for dogs."
+ - q: "My dog won't let me brush their teeth no matter what I try. What else can I do?"
+ a: "Start even slower, with lower-value rewards. Some dogs do better with a different tool, like a gauze wrapped around your finger instead of a brush. If true brushing remains impossible, combine a VOHC-approved dental chew, a water additive, and a dental diet as your home care strategy, and increase professional cleaning frequency to compensate. Talk to your vet about whether a referral to a veterinary behaviorist might help if the resistance is severe."
+ - q: "At what age should I start dental care for my puppy?"
+ a: "As early as 8 weeks old. You won't be doing a full brush at that age, but handling the mouth, lifting the lips, and touching the teeth gets your puppy comfortable with the sensation. Introduce toothbrushing during the puppy phase and you'll have a cooperative adult dog. Waiting until they're two years old and set in their ways is much harder."
+ - q: "What's the difference between gingivitis and periodontal disease, and does it matter?"
+ a: "It matters a lot. Gingivitis is inflammation of the gums only. At this stage the damage is reversible with a professional cleaning and good home care. Periodontal disease means the infection has progressed to damage the bone and connective tissue that hold teeth in place. That damage is not reversible. Teeth may need to be extracted. Catching the problem at the gingivitis stage saves money, saves teeth, and spares your dog real pain."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
@@ -29,12 +29,12 @@ Most dog owners don't realize their pet has a dental problem until the smell hit
 
 
 <div class="value-module">
-  <div class="vm-head">Home Dental Check: What to Look For</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist during monthly mouth inspections to catch problems before they become painful or expensive.</p>
-    <table><thead><tr><th>What to Check</th><th>Healthy Sign</th><th>Warning Sign</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Gum color</td><td>Pink, consistent tone</td><td>Red, white, or purple areas</td><td>Any color change lasting 2+ days → vet visit</td></tr><tr><td>Gum texture</td><td>Firm, smooth surface</td><td>Swollen, bleeding when touched</td><td>Bleeding with gentle pressure → vet within 1 week</td></tr><tr><td>Tartar buildup</td><td>Teeth white or minimal yellowing</td><td>Brown/yellow crust at gumline</td><td>Visible crust on 3+ teeth → schedule cleaning</td></tr><tr><td>Tooth integrity</td><td>All teeth present, no chips</td><td>Cracked, loose, or missing teeth</td><td>Any loose or fractured tooth → vet within days</td></tr><tr><td>Breath odor</td><td>Mild or neutral smell</td><td>Strong, rotten, or metallic odor</td><td>Sudden odor change → vet within 2 weeks</td></tr><tr><td>Eating behavior</td><td>Chews on both sides normally</td><td>Dropping food, chewing one-sided</td><td>Consistent difficulty eating → vet promptly</td></tr><tr><td>Drooling</td><td>Normal for breed</td><td>Excessive or bloody saliva</td><td>Blood in saliva → same-day vet call</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Home Dental Check: What to Look For</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist during monthly mouth inspections to catch problems before they become painful or expensive.</p>
+ <table><thead><tr><th>What to Check</th><th>Healthy Sign</th><th>Warning Sign</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Gum color</td><td>Pink, consistent tone</td><td>Red, white, or purple areas</td><td>Any color change lasting 2+ days → vet visit</td></tr><tr><td>Gum texture</td><td>Firm, smooth surface</td><td>Swollen, bleeding when touched</td><td>Bleeding with gentle pressure → vet within 1 week</td></tr><tr><td>Tartar buildup</td><td>Teeth white or minimal yellowing</td><td>Brown/yellow crust at gumline</td><td>Visible crust on 3+ teeth → schedule cleaning</td></tr><tr><td>Tooth integrity</td><td>All teeth present, no chips</td><td>Cracked, loose, or missing teeth</td><td>Any loose or fractured tooth → vet within days</td></tr><tr><td>Breath odor</td><td>Mild or neutral smell</td><td>Strong, rotten, or metallic odor</td><td>Sudden odor change → vet within 2 weeks</td></tr><tr><td>Eating behavior</td><td>Chews on both sides normally</td><td>Dropping food, chewing one-sided</td><td>Consistent difficulty eating → vet promptly</td></tr><tr><td>Drooling</td><td>Normal for breed</td><td>Excessive or bloody saliva</td><td>Blood in saliva → same-day vet call</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Dog Dental Health Matters More Than You Think

@@ -11,10 +11,7 @@ author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 slug: "dog-hot-spots-treatment"
-affiliate_disclosure: true
----
-
-Your dog has been licking or scratching one spot obsessively, and now there's a raw, wet, angry-looking patch of skin that seems to have appeared out of nowhere. You might be wondering if this is serious, whether you need to rush to the vet, or if there's something you can do at home right now. I've had this conversation a hundred times in the exam room, and I want to give you the same honest rundown I give those clients.
+affiliate_disclosure: true, Your dog has been licking or scratching one spot obsessively, and now there's a raw, wet, angry-looking patch of skin that seems to have appeared out of nowhere. You might be wondering if this is serious, whether you need to rush to the vet, or if there's something you can do at home right now. I've had this conversation a hundred times in the exam room, and I want to give you the same honest rundown I give those clients.
 
 Hot spots, technically called acute moist dermatitis, are one of the most common skin issues we see in dogs, especially in summer. They spread fast. A spot the size of a quarter in the morning can double by afternoon, so the timing of your response genuinely matters.
 

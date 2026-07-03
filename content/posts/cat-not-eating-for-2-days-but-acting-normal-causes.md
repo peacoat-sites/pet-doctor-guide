@@ -9,16 +9,16 @@ tags: ["eating", "days", "acting", "normal", "causes"]
 slug: "cat-not-eating-for-2-days-but-acting-normal-causes"
 affiliate_disclosure: true
 faqs:
-  - q: "Is it normal for a cat to not eat for 2 days?"
-    a: "It's not uncommon, but it's not something to dismiss either. Two days without eating is the point where medical causes become a real concern, and where conditions like hepatic lipidosis can begin developing. If your cat refuses even high-value foods like plain chicken or tuna, a vet call is warranted regardless of how normal they seem otherwise."
-  - q: "Why is my cat not eating but drinking water and acting normal?"
-    a: "Drinking while not eating can actually be a sign of underlying illness, not a reassuring one. Conditions like kidney disease, diabetes, and hyperthyroidism can increase thirst while suppressing appetite. It's a combination worth mentioning specifically to your vet."
-  - q: "How long can a cat go without eating before it becomes dangerous?"
-    a: "The honest answer is: it depends heavily on the individual cat. Overweight cats can develop hepatic lipidosis in as little as 48-72 hours. Lean, young, otherwise healthy cats may tolerate a longer fast, but most vets start to get concerned around 48 hours regardless. Don't use 'seems fine' as a reason to push past that window."
-  - q: "Could my cat just be being picky?"
-    a: "Yes, genuinely. Pickiness is real and can be triggered by formula changes, temperature, texture, bowl material, or location. But picky eating and complete food refusal are different things. A picky cat will usually eat something they love. If your cat won't touch any food at all for two full days, picky is probably not the full explanation."
-  - q: "Should I try to syringe-feed my cat if they won't eat?"
-    a: "Only if your vet has specifically advised this, and only with appropriate foods. Forcing the wrong food or forcing food too quickly can cause aspiration or make nausea worse. It's not something to do as a home experiment. If you're at the point of considering syringe feeding, your cat needs to see a vet so you know what you're actually dealing with."
+ - q: "Is it normal for a cat to not eat for 2 days?"
+ a: "It's not uncommon, but it's not something to dismiss either. Two days without eating is the point where medical causes become a real concern, and where conditions like hepatic lipidosis can begin developing. If your cat refuses even high-value foods like plain chicken or tuna, a vet call is warranted regardless of how normal they seem otherwise."
+ - q: "Why is my cat not eating but drinking water and acting normal?"
+ a: "Drinking while not eating can actually be a sign of underlying illness, not a reassuring one. Conditions like kidney disease, diabetes, and hyperthyroidism can increase thirst while suppressing appetite. It's a combination worth mentioning specifically to your vet."
+ - q: "How long can a cat go without eating before it becomes dangerous?"
+ a: "The honest answer is: it depends heavily on the individual cat. Overweight cats can develop hepatic lipidosis in as little as 48-72 hours. Lean, young, otherwise healthy cats may tolerate a longer fast, but most vets start to get concerned around 48 hours regardless. Don't use 'seems fine' as a reason to push past that window."
+ - q: "Could my cat just be being picky?"
+ a: "Yes, genuinely. Pickiness is real and can be triggered by formula changes, temperature, texture, bowl material, or location. But picky eating and complete food refusal are different things. A picky cat will usually eat something they love. If your cat won't touch any food at all for two full days, picky is probably not the full explanation."
+ - q: "Should I try to syringe-feed my cat if they won't eat?"
+ a: "Only if your vet has specifically advised this, and only with appropriate foods. Forcing the wrong food or forcing food too quickly can cause aspiration or make nausea worse. It's not something to do as a home experiment. If you're at the point of considering syringe feeding, your cat needs to see a vet so you know what you're actually dealing with."
 author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
@@ -33,12 +33,12 @@ Let me tell you what's actually going on when this happens.
 
 
 <div class="value-module">
-  <div class="vm-head">When to Worry: 48-Hour Assessment Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to evaluate whether your non-eating but 'normal-acting' cat needs immediate veterinary attention versus watchful waiting.</p>
-    <table><caption>48-Hour Cat Appetite Loss Assessment</caption><thead><tr><th>Factor to Check</th><th>Lower Concern</th><th>Higher Concern, Call Vet</th></tr></thead><tbody><tr><td>Weight category</td><td>Healthy adult weight, not overweight</td><td>Overweight/obese (hepatic lipidosis risk increases significantly)</td></tr><tr><td>Water intake</td><td>Still drinking normal amounts</td><td>Reduced drinking or no water for 24+ hours</td></tr><tr><td>Litter box output</td><td>Normal urination and defecation</td><td>No urine in 24 hours, straining, or diarrhea</td></tr><tr><td>Age</td><td>Adult cat (2-10 years)</td><td>Kitten under 6 months or senior cat (12+ years)</td></tr><tr><td>Underlying conditions</td><td>No known health issues</td><td>Diabetes, kidney disease, hyperthyroidism, or other chronic condition</td></tr><tr><td>Gum color</td><td>Pink and moist</td><td>Pale, yellow-tinged, tacky/dry, or bright red</td></tr><tr><td>Recent changes</td><td>New food, moved bowl, household stress identified</td><td>No identifiable cause despite review</td></tr><tr><td>Vomiting</td><td>None</td><td>Any vomiting, even once</td></tr><tr><td>Breath odor</td><td>Normal or mild</td><td>Unusually foul, ammonia-like, or fruity smell</td></tr></tbody><tfoot><tr><td colspan="3"><strong>Rule of thumb:</strong> 2+ items in the "Higher Concern" column = same-day vet visit recommended. Even one high-concern factor in an overweight cat warrants calling your vet, as fatty liver disease can develop within 2-3 days of not eating.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">When to Worry: 48-Hour Assessment Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to evaluate whether your non-eating but 'normal-acting' cat needs immediate veterinary attention versus watchful waiting.</p>
+ <table><caption>48-Hour Cat Appetite Loss Assessment</caption><thead><tr><th>Factor to Check</th><th>Lower Concern</th><th>Higher Concern, Call Vet</th></tr></thead><tbody><tr><td>Weight category</td><td>Healthy adult weight, not overweight</td><td>Overweight/obese (hepatic lipidosis risk increases significantly)</td></tr><tr><td>Water intake</td><td>Still drinking normal amounts</td><td>Reduced drinking or no water for 24+ hours</td></tr><tr><td>Litter box output</td><td>Normal urination and defecation</td><td>No urine in 24 hours, straining, or diarrhea</td></tr><tr><td>Age</td><td>Adult cat (2-10 years)</td><td>Kitten under 6 months or senior cat (12+ years)</td></tr><tr><td>Underlying conditions</td><td>No known health issues</td><td>Diabetes, kidney disease, hyperthyroidism, or other chronic condition</td></tr><tr><td>Gum color</td><td>Pink and moist</td><td>Pale, yellow-tinged, tacky/dry, or bright red</td></tr><tr><td>Recent changes</td><td>New food, moved bowl, household stress identified</td><td>No identifiable cause despite review</td></tr><tr><td>Vomiting</td><td>None</td><td>Any vomiting, even once</td></tr><tr><td>Breath odor</td><td>Normal or mild</td><td>Unusually foul, ammonia-like, or fruity smell</td></tr></tbody><tfoot><tr><td colspan="3"><strong>Rule of thumb:</strong> 2+ items in the "Higher Concern" column = same-day vet visit recommended. Even one high-concern factor in an overweight cat warrants calling your vet, as fatty liver disease can develop within 2-3 days of not eating.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why cats stop eating even when they feel okay

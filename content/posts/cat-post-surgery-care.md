@@ -9,16 +9,16 @@ tags: ["post-surgery", "care"]
 slug: "cat-post-surgery-care"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does it take for a cat to fully recover from surgery?"
-    a: "It depends heavily on the type of surgery. A routine spay or neuter typically has a two-week healing window for the incision, with most cats back to normal energy levels within a week. Orthopedic surgeries, tumor removals, or abdominal procedures can involve four to eight weeks of restricted activity. Your discharge paperwork should specify a timeline for your cat's exact procedure. If it doesn't, ask before you leave the clinic."
-  - q: "My cat isn't eating after surgery. When should I worry?"
-    a: "Some appetite reduction in the first 24 to 48 hours is completely expected. Anesthesia affects the gastrointestinal system and can cause nausea. If your cat hasn't eaten anything by 48 to 72 hours post-surgery, or if they're also vomiting, call your vet. Prolonged food refusal after surgery can lead to a serious liver condition in cats called hepatic lipidosis, so this isn't something to wait out indefinitely."
-  - q: "Can I use hydrogen peroxide or Neosporin on the incision?"
-    a: "No. Hydrogen peroxide actually damages tissue and can slow healing. Most triple antibiotic ointments like Neosporin contain polymyxin B, which has been associated with anaphylactic reactions in cats, and the cat will immediately lick it off anyway. Clean the incision only as instructed by your vet. In most cases, you won't be asked to clean it at all. Leave it alone unless directed otherwise."
-  - q: "What plants, foods, or household substances are dangerous to a recovering cat?"
-    a: "Honestly, the post-surgery period is a good time to review toxin risks across the board. The ASPCA Poison Control Center has a comprehensive database of toxic plants and substances for cats. Lilies are a particular concern since even small exposures can cause kidney failure. A cat who is groggy from anesthesia and confined to one room is unlikely to be exploring, but as they regain energy over the coming days, household hazards become relevant again."
-  - q: "My cat seems more anxious than usual since surgery. Is this normal?"
-    a: "Yes, and it's more common than people expect. The combination of an unfamiliar clinic environment, anesthesia, pain, and the discomfort of a cone can genuinely stress a cat out for several days. PetMD's veterinary resource library has good information on feline stress signals if you want to understand what you're observing. Feliway diffusers (synthetic feline pheromones) can help create a calmer recovery space. If the anxiety is severe or persisting past the first week, your vet may recommend short-term anti-anxiety support."
+ - q: "How long does it take for a cat to fully recover from surgery?"
+ a: "It depends heavily on the type of surgery. A routine spay or neuter typically has a two-week healing window for the incision, with most cats back to normal energy levels within a week. Orthopedic surgeries, tumor removals, or abdominal procedures can involve four to eight weeks of restricted activity. Your discharge paperwork should specify a timeline for your cat's exact procedure. If it doesn't, ask before you leave the clinic."
+ - q: "My cat isn't eating after surgery. When should I worry?"
+ a: "Some appetite reduction in the first 24 to 48 hours is completely expected. Anesthesia affects the gastrointestinal system and can cause nausea. If your cat hasn't eaten anything by 48 to 72 hours post-surgery, or if they're also vomiting, call your vet. Prolonged food refusal after surgery can lead to a serious liver condition in cats called hepatic lipidosis, so this isn't something to wait out indefinitely."
+ - q: "Can I use hydrogen peroxide or Neosporin on the incision?"
+ a: "No. Hydrogen peroxide actually damages tissue and can slow healing. Most triple antibiotic ointments like Neosporin contain polymyxin B, which has been associated with anaphylactic reactions in cats, and the cat will immediately lick it off anyway. Clean the incision only as instructed by your vet. In most cases, you won't be asked to clean it at all. Leave it alone unless directed otherwise."
+ - q: "What plants, foods, or household substances are dangerous to a recovering cat?"
+ a: "Honestly, the post-surgery period is a good time to review toxin risks across the board. The ASPCA Poison Control Center has a comprehensive database of toxic plants and substances for cats. Lilies are a particular concern since even small exposures can cause kidney failure. A cat who is groggy from anesthesia and confined to one room is unlikely to be exploring, but as they regain energy over the coming days, household hazards become relevant again."
+ - q: "My cat seems more anxious than usual since surgery. Is this normal?"
+ a: "Yes, and it's more common than people expect. The combination of an unfamiliar clinic environment, anesthesia, pain, and the discomfort of a cone can genuinely stress a cat out for several days. PetMD's veterinary resource library has good information on feline stress signals if you want to understand what you're observing. Feliway diffusers (synthetic feline pheromones) can help create a calmer recovery space. If the anxiety is severe or persisting past the first week, your vet may recommend short-term anti-anxiety support."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
@@ -29,12 +29,12 @@ Most people think the hard part's over once their cat wakes up from anesthesia. 
 
 
 <div class="value-module">
-  <div class="vm-head">Incision Check: Daily Warning Signs</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist each day for the first 10–14 days post-surgery to catch problems before they escalate.</p>
-    <table><thead><tr><th>What to Check</th><th>Normal Range</th><th>Call Vet Within 24 Hours</th><th>Emergency (Call Now)</th></tr></thead><tbody><tr><td>Swelling around incision</td><td>Mild puffiness, decreasing daily</td><td>Swelling increasing after day 2–3</td><td>Sudden large swelling, feels hot</td></tr><tr><td>Discharge</td><td>None, or tiny amount of clear fluid day 1</td><td>Any discharge after day 2; yellow/green tint</td><td>Active bleeding, pus, foul odor</td></tr><tr><td>Incision edges</td><td>Closed, slightly pink, edges touching</td><td>Gap &lt;¼ inch, redness spreading beyond ½ inch from incision</td><td>Gap &gt;¼ inch, visible tissue beneath skin</td></tr><tr><td>Skin color near site</td><td>Pink or normal fur-covered skin</td><td>Redness extending &gt;1 inch from incision line</td><td>Purple, black, or grey discoloration</td></tr><tr><td>Licking/chewing behavior</td><td>Occasional glance, no contact</td><td>Frequent attempts despite e-collar</td><td>E-collar removed, active wound damage visible</td></tr><tr><td>Sutures/staples</td><td>All intact, evenly spaced</td><td>1 suture loose or missing, skin still closed</td><td>Multiple sutures missing, wound opening</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Incision Check: Daily Warning Signs</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist each day for the first 10–14 days post-surgery to catch problems before they escalate.</p>
+ <table><thead><tr><th>What to Check</th><th>Normal Range</th><th>Call Vet Within 24 Hours</th><th>Emergency (Call Now)</th></tr></thead><tbody><tr><td>Swelling around incision</td><td>Mild puffiness, decreasing daily</td><td>Swelling increasing after day 2–3</td><td>Sudden large swelling, feels hot</td></tr><tr><td>Discharge</td><td>None, or tiny amount of clear fluid day 1</td><td>Any discharge after day 2; yellow/green tint</td><td>Active bleeding, pus, foul odor</td></tr><tr><td>Incision edges</td><td>Closed, slightly pink, edges touching</td><td>Gap &lt;¼ inch, redness spreading beyond ½ inch from incision</td><td>Gap &gt;¼ inch, visible tissue beneath skin</td></tr><tr><td>Skin color near site</td><td>Pink or normal fur-covered skin</td><td>Redness extending &gt;1 inch from incision line</td><td>Purple, black, or grey discoloration</td></tr><tr><td>Licking/chewing behavior</td><td>Occasional glance, no contact</td><td>Frequent attempts despite e-collar</td><td>E-collar removed, active wound damage visible</td></tr><tr><td>Sutures/staples</td><td>All intact, evenly spaced</td><td>1 suture loose or missing, skin still closed</td><td>Multiple sutures missing, wound opening</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What the First 24 Hours Actually Look Like

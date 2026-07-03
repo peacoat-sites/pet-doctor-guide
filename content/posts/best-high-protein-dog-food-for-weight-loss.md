@@ -9,16 +9,16 @@ tags: ["best", "high", "protein", "food", "weight"]
 slug: "best-high-protein-dog-food-for-weight-loss"
 affiliate_disclosure: true
 faqs:
-  - q: "How much protein should a dog eat for weight loss?"
-    a: "Look for a food with at least 30% protein on a dry matter basis, ideally 35-40% for significantly overweight or sedentary dogs. The specific daily amount in grams will depend on your dog's target weight and activity level, which your vet or vet tech can calculate using their resting energy requirement."
-  - q: "Is high-protein dog food safe for older dogs?"
-    a: "For most healthy senior dogs, yes. The old concern that dietary protein damages kidneys in healthy dogs has been largely debunked. Where protein restriction is genuinely necessary is in dogs who already have confirmed kidney disease with elevated phosphorus and creatinine levels. If your senior dog has had normal kidney values on recent bloodwork, a high-protein weight loss diet is appropriate with vet supervision."
-  - q: "Why isn't my dog losing weight on high-protein food?"
-    a: "The most common culprit is portion size, specifically feeding more than the dog actually needs for weight loss. Other possibilities include unaccounted treats, table scraps, getting food from another pet's bowl, an underlying hormonal condition like hypothyroidism, or a food with a lower actual protein content than the label implies. Start with a scale and a feeding log and go from there."
-  - q: "Is wet or dry food better for weight loss in dogs?"
-    a: "There's a genuine argument for wet food here. The high moisture content adds bulk and may increase satiety without adding significant calories, and many wet foods have a strong dry-matter protein percentage once you do the math. The downside is cost and the logistics of storage. A combination approach, a high-protein kibble base with some high-quality wet food mixed in, works well for a lot of dogs."
-  - q: "Can I put my dog on a high-protein diet without my vet's input?"
-    a: "For a generally healthy adult dog who's moderately overweight, yes, with some caveats. You should know their starting weight, you should be monitoring body condition monthly, and you should rule out any obvious symptoms of underlying disease first. If your dog is significantly obese, elderly, has any existing health conditions, or isn't losing weight after 8 weeks on a sensible plan, loop in your vet. Getting it wrong over many months costs more than a single vet visit."
+ - q: "How much protein should a dog eat for weight loss?"
+ a: "Look for a food with at least 30% protein on a dry matter basis, ideally 35-40% for significantly overweight or sedentary dogs. The specific daily amount in grams will depend on your dog's target weight and activity level, which your vet or vet tech can calculate using their resting energy requirement."
+ - q: "Is high-protein dog food safe for older dogs?"
+ a: "For most healthy senior dogs, yes. The old concern that dietary protein damages kidneys in healthy dogs has been largely debunked. Where protein restriction is genuinely necessary is in dogs who already have confirmed kidney disease with elevated phosphorus and creatinine levels. If your senior dog has had normal kidney values on recent bloodwork, a high-protein weight loss diet is appropriate with vet supervision."
+ - q: "Why isn't my dog losing weight on high-protein food?"
+ a: "The most common culprit is portion size, specifically feeding more than the dog actually needs for weight loss. Other possibilities include unaccounted treats, table scraps, getting food from another pet's bowl, an underlying hormonal condition like hypothyroidism, or a food with a lower actual protein content than the label implies. Start with a scale and a feeding log and go from there."
+ - q: "Is wet or dry food better for weight loss in dogs?"
+ a: "There's a genuine argument for wet food here. The high moisture content adds bulk and may increase satiety without adding significant calories, and many wet foods have a strong dry-matter protein percentage once you do the math. The downside is cost and the logistics of storage. A combination approach, a high-protein kibble base with some high-quality wet food mixed in, works well for a lot of dogs."
+ - q: "Can I put my dog on a high-protein diet without my vet's input?"
+ a: "For a generally healthy adult dog who's moderately overweight, yes, with some caveats. You should know their starting weight, you should be monitoring body condition monthly, and you should rule out any obvious symptoms of underlying disease first. If your dog is significantly obese, elderly, has any existing health conditions, or isn't losing weight after 8 weeks on a sensible plan, loop in your vet. Getting it wrong over many months costs more than a single vet visit."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
@@ -35,12 +35,12 @@ High-protein diets work differently. Protein is thermogenic, meaning your dog's 
 
 
 <div class="value-module">
-  <div class="vm-head">Protein & Calorie Comparison: Weight Loss Kibbles</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table compares typical nutritional profiles across diet food categories to illustrate why label claims can be misleading, use dry matter protein as your true comparison metric.</p>
-    <table><thead><tr><th>Food Category</th><th>Typical As-Fed Protein</th><th>Typical Dry Matter Protein</th><th>Calories (per cup)</th><th>Weight Loss Suitability</th></tr></thead><tbody><tr><td>Standard "Light" kibble</td><td>18–24%</td><td>20–27%</td><td>280–320</td><td>Poor: low protein promotes muscle loss</td></tr><tr><td>Premium weight management</td><td>26–30%</td><td>28–33%</td><td>250–300</td><td>Moderate: adequate protein but watch carb fillers</td></tr><tr><td>High-protein weight loss formula</td><td>32–38%</td><td>35–42%</td><td>300–360</td><td>Good: preserves muscle; requires strict portioning</td></tr><tr><td>Veterinary metabolic diet</td><td>28–35%</td><td>30–38%</td><td>240–290</td><td>Best: formulated for satiety + muscle retention</td></tr><tr><td>Raw/freeze-dried (rehydrated)</td><td>12–16% as-fed</td><td>40–55%</td><td>Varies widely</td><td>Variable: very high protein but hard to calorie-control</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Protein & Calorie Comparison: Weight Loss Kibbles</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table compares typical nutritional profiles across diet food categories to illustrate why label claims can be misleading, use dry matter protein as your true comparison metric.</p>
+ <table><thead><tr><th>Food Category</th><th>Typical As-Fed Protein</th><th>Typical Dry Matter Protein</th><th>Calories (per cup)</th><th>Weight Loss Suitability</th></tr></thead><tbody><tr><td>Standard "Light" kibble</td><td>18–24%</td><td>20–27%</td><td>280–320</td><td>Poor: low protein promotes muscle loss</td></tr><tr><td>Premium weight management</td><td>26–30%</td><td>28–33%</td><td>250–300</td><td>Moderate: adequate protein but watch carb fillers</td></tr><tr><td>High-protein weight loss formula</td><td>32–38%</td><td>35–42%</td><td>300–360</td><td>Good: preserves muscle; requires strict portioning</td></tr><tr><td>Veterinary metabolic diet</td><td>28–35%</td><td>30–38%</td><td>240–290</td><td>Best: formulated for satiety + muscle retention</td></tr><tr><td>Raw/freeze-dried (rehydrated)</td><td>12–16% as-fed</td><td>40–55%</td><td>Varies widely</td><td>Variable: very high protein but hard to calorie-control</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What "High Protein" Actually Means on a Dog Food Label

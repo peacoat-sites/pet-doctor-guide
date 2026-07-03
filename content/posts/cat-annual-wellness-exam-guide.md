@@ -9,16 +9,16 @@ tags: ["annual", "wellness", "exam", "guide"]
 slug: "cat-annual-wellness-exam-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "My cat is strictly indoors. Does she really need an annual exam?"
-    a: "Yes. Indoor cats still develop kidney disease, hyperthyroidism, dental disease, obesity, and heart conditions. They're also still legally required to have rabies vaccination in most US states regardless of indoor-only status. 'Doesn't go outside' doesn't mean 'can't get sick.'"
-  - q: "What if my cat is extremely stressed by vet visits?"
-    a: "This is worth solving rather than using as a reason to skip care. Ask your vet about pre-visit gabapentin, which is a medication given 90 minutes before the appointment that significantly reduces travel and handling anxiety in many cats. It's inexpensive and remarkably effective. A carrier left open in your house so your cat uses it voluntarily also helps more than people expect."
-  - q: "How do I know if my vet is being thorough or just running up a bill?"
-    a: "A good wellness exam takes at least 20 to 30 minutes and includes documented findings for every system examined. Your vet should be able to tell you exactly what they found and why any recommended diagnostics are indicated. 'It's standard' isn't a reason. 'Your cat's kidney values have changed from last year' is."
-  - q: "My cat is 14 and seems healthy. Is it worth doing full bloodwork every year?"
-    a: "Absolutely. Senior cats are masters at hiding illness. Hyperthyroidism in particular progresses slowly and can look like just 'getting old' until the cardiac and kidney effects become serious. Annual labs at this age aren't being overly cautious; they're the appropriate standard of care."
-  - q: "Should I be giving dental chews or doing at-home dental care?"
-    a: "Yes to both, with realistic expectations. Brushing is the gold standard, even a few times a week makes a measurable difference. If your cat won't tolerate a brush, look for dental chews formulated for cats with a Veterinary Oral Health Council (VOHC) seal of approval. (This site may earn a commission.) Neither replaces a professional dental cleaning when your vet recommends one, but both meaningfully slow tartar progression between cleanings."
+ - q: "My cat is strictly indoors. Does she really need an annual exam?"
+ a: "Yes. Indoor cats still develop kidney disease, hyperthyroidism, dental disease, obesity, and heart conditions. They're also still legally required to have rabies vaccination in most US states regardless of indoor-only status. 'Doesn't go outside' doesn't mean 'can't get sick.'"
+ - q: "What if my cat is extremely stressed by vet visits?"
+ a: "This is worth solving rather than using as a reason to skip care. Ask your vet about pre-visit gabapentin, which is a medication given 90 minutes before the appointment that significantly reduces travel and handling anxiety in many cats. It's inexpensive and remarkably effective. A carrier left open in your house so your cat uses it voluntarily also helps more than people expect."
+ - q: "How do I know if my vet is being thorough or just running up a bill?"
+ a: "A good wellness exam takes at least 20 to 30 minutes and includes documented findings for every system examined. Your vet should be able to tell you exactly what they found and why any recommended diagnostics are indicated. 'It's standard' isn't a reason. 'Your cat's kidney values have changed from last year' is."
+ - q: "My cat is 14 and seems healthy. Is it worth doing full bloodwork every year?"
+ a: "Absolutely. Senior cats are masters at hiding illness. Hyperthyroidism in particular progresses slowly and can look like just 'getting old' until the cardiac and kidney effects become serious. Annual labs at this age aren't being overly cautious; they're the appropriate standard of care."
+ - q: "Should I be giving dental chews or doing at-home dental care?"
+ a: "Yes to both, with realistic expectations. Brushing is the gold standard, even a few times a week makes a measurable difference. If your cat won't tolerate a brush, look for dental chews formulated for cats with a Veterinary Oral Health Council (VOHC) seal of approval. (This site may earn a commission.) Neither replaces a professional dental cleaning when your vet recommends one, but both meaningfully slow tartar progression between cleanings."
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
@@ -29,12 +29,12 @@ Your cat has been acting completely normal. Eating well, playing occasionally, s
 
 
 <div class="value-module">
-  <div class="vm-head">Age-Based Wellness Exam Schedule</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this decision matrix to determine what your cat actually needs at each life stage, with specific test frequencies and cost expectations.</p>
-    <table><caption>Annual Wellness Exam Components by Cat Age</caption><thead><tr><th>Age Range</th><th>Exam Frequency</th><th>Recommended Tests</th><th>Key Conditions to Screen</th><th>Typical Cost Range (Illustrative)</th></tr></thead><tbody><tr><td>Kitten (0–1 year)</td><td>3–4 visits first year</td><td>Fecal parasite test, FeLV/FIV test, core vaccines (FVRCP, rabies)</td><td>Intestinal parasites, congenital heart defects, upper respiratory infections</td><td>$150–$400 total first year</td></tr><tr><td>Adult (1–6 years)</td><td>Once yearly</td><td>Physical exam, fecal test every 1–2 years, baseline bloodwork at age 5–6</td><td>Dental disease, weight changes, early heart murmurs</td><td>$75–$200 per visit</td></tr><tr><td>Mature (7–10 years)</td><td>Once yearly (consider twice)</td><td>CBC, chemistry panel, urinalysis, thyroid (T4), blood pressure</td><td>Early kidney disease, hyperthyroidism, diabetes, hypertension</td><td>$200–$400 with bloodwork</td></tr><tr><td>Senior (11+ years)</td><td>Twice yearly</td><td>All above plus chest X-ray if indicated, more frequent blood pressure</td><td>Chronic kidney disease progression, cardiac disease, cancer</td><td>$250–$500 per visit</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Age-Based Wellness Exam Schedule</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this decision matrix to determine what your cat actually needs at each life stage, with specific test frequencies and cost expectations.</p>
+ <table><caption>Annual Wellness Exam Components by Cat Age</caption><thead><tr><th>Age Range</th><th>Exam Frequency</th><th>Recommended Tests</th><th>Key Conditions to Screen</th><th>Typical Cost Range (Illustrative)</th></tr></thead><tbody><tr><td>Kitten (0–1 year)</td><td>3–4 visits first year</td><td>Fecal parasite test, FeLV/FIV test, core vaccines (FVRCP, rabies)</td><td>Intestinal parasites, congenital heart defects, upper respiratory infections</td><td>$150–$400 total first year</td></tr><tr><td>Adult (1–6 years)</td><td>Once yearly</td><td>Physical exam, fecal test every 1–2 years, baseline bloodwork at age 5–6</td><td>Dental disease, weight changes, early heart murmurs</td><td>$75–$200 per visit</td></tr><tr><td>Mature (7–10 years)</td><td>Once yearly (consider twice)</td><td>CBC, chemistry panel, urinalysis, thyroid (T4), blood pressure</td><td>Early kidney disease, hyperthyroidism, diabetes, hypertension</td><td>$200–$400 with bloodwork</td></tr><tr><td>Senior (11+ years)</td><td>Twice yearly</td><td>All above plus chest X-ray if indicated, more frequent blood pressure</td><td>Chronic kidney disease progression, cardiac disease, cancer</td><td>$250–$500 per visit</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Actually Happens During a Cat Wellness Exam (Not the Vague Version)

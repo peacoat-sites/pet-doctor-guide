@@ -9,16 +9,16 @@ tags: ["annual", "visit", "what", "expect"]
 slug: "cat-annual-vet-visit-what-to-expect"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does a cat's annual vet visit typically take?"
-    a: "Plan for 30 to 45 minutes for a straightforward adult cat wellness exam. If bloodwork is being drawn, vaccines are given, nail trims or anal glands are done, or the vet finds something worth discussing in detail, it can run to an hour. Senior cat appointments tend to be longer because there's more to cover. Don't schedule one during a lunch break you can't extend."
-  - q: "Should I fast my cat before the annual exam?"
-    a: "Generally, no fasting is needed for a routine wellness exam unless your vet specifically instructs otherwise. If bloodwork is planned that includes glucose or lipid panels, some vets prefer a 4-to-6-hour fast. Check with the clinic the day before. Withholding food unnecessarily just adds stress to an already stressful car ride."
-  - q: "My cat is terrified of the vet. Is there anything I can do besides just suffering through it?"
-    a: "Yes, genuinely. Ask your clinic if they're a Fear Free certified practice or if they offer low-stress handling techniques. Ask your vet about gabapentin, which is commonly used for cat anxiety before vet visits and is safe and very effective. A typical protocol involves giving it 1.5 to 2 hours before the appointment, but your vet will advise on dosing. Carrier training at home also helps more than most people expect when done consistently."
-  - q: "What's the difference between an annual exam and a wellness exam?"
-    a: "Functionally, these terms are used interchangeably in most practices. Some clinics market 'wellness packages' that bundle the exam with bloodwork, vaccines, and fecal testing at a bundled cost. An annual exam with no add-ons is just the physical exam and a vaccine or two. It's worth asking your clinic what's included when you book, so you're not surprised by an itemized bill."
-  - q: "Does my indoor-only cat really need to go to the vet every year if nothing seems wrong?"
-    a: "This is the most common question I get, and the honest answer is yes. Indoor cats live longer, which means more years of slowly progressing conditions like dental disease, obesity, and kidney disease. They also get stressed by sudden changes, and an annual visit keeps them somewhat accustomed to the carrier and the handling. Beyond that, one of the most valuable things a yearly exam does is establish a baseline. If your vet knows your cat's normal weight, heart rate, and kidney values when everything is fine, they have something to compare to when something eventually isn't."
+ - q: "How long does a cat's annual vet visit typically take?"
+ a: "Plan for 30 to 45 minutes for a straightforward adult cat wellness exam. If bloodwork is being drawn, vaccines are given, nail trims or anal glands are done, or the vet finds something worth discussing in detail, it can run to an hour. Senior cat appointments tend to be longer because there's more to cover. Don't schedule one during a lunch break you can't extend."
+ - q: "Should I fast my cat before the annual exam?"
+ a: "Generally, no fasting is needed for a routine wellness exam unless your vet specifically instructs otherwise. If bloodwork is planned that includes glucose or lipid panels, some vets prefer a 4-to-6-hour fast. Check with the clinic the day before. Withholding food unnecessarily just adds stress to an already stressful car ride."
+ - q: "My cat is terrified of the vet. Is there anything I can do besides just suffering through it?"
+ a: "Yes, genuinely. Ask your clinic if they're a Fear Free certified practice or if they offer low-stress handling techniques. Ask your vet about gabapentin, which is commonly used for cat anxiety before vet visits and is safe and very effective. A typical protocol involves giving it 1.5 to 2 hours before the appointment, but your vet will advise on dosing. Carrier training at home also helps more than most people expect when done consistently."
+ - q: "What's the difference between an annual exam and a wellness exam?"
+ a: "Functionally, these terms are used interchangeably in most practices. Some clinics market 'wellness packages' that bundle the exam with bloodwork, vaccines, and fecal testing at a bundled cost. An annual exam with no add-ons is just the physical exam and a vaccine or two. It's worth asking your clinic what's included when you book, so you're not surprised by an itemized bill."
+ - q: "Does my indoor-only cat really need to go to the vet every year if nothing seems wrong?"
+ a: "This is the most common question I get, and the honest answer is yes. Indoor cats live longer, which means more years of slowly progressing conditions like dental disease, obesity, and kidney disease. They also get stressed by sudden changes, and an annual visit keeps them somewhat accustomed to the carrier and the handling. Beyond that, one of the most valuable things a yearly exam does is establish a baseline. If your vet knows your cat's normal weight, heart rate, and kidney values when everything is fine, they have something to compare to when something eventually isn't."
 author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
@@ -151,7 +151,7 @@ Bloodwork catches kidney disease, diabetes, hyperthyroidism, and anemia long bef
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

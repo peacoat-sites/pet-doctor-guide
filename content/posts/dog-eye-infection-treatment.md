@@ -13,16 +13,16 @@ author_bio: "Rachel Sanders is a certified pet first aid instructor who has trai
 slug: "dog-eye-infection-treatment"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use human eye drops on my dog?"
-    a: "Most human eye drops should be avoided. Plain, preservative-free saline for rinsing is fine, but medicated drops, antibiotic ointments, or anything containing steroids should never be used without explicit veterinary guidance. Ingredients that are safe for human eyes can cause serious damage to dogs."
-  - q: "How long does a dog eye infection take to clear up?"
-    a: "A straightforward bacterial conjunctivitis treated promptly usually improves within 3 to 5 days of starting antibiotic drops, with full resolution by day 10. If you're not seeing improvement by day 5, call your vet. Either the diagnosis isn't quite right or the bacteria aren't responding to that particular antibiotic."
-  - q: "Is dog eye discharge always a sign of infection?"
-    a: "No. Clear, watery discharge is often just normal tear drainage or mild irritation from dust, wind, or allergens. Brown-reddish tear staining under the eyes (common in Maltese and Poodles) is usually related to tear duct anatomy, not infection. It's the thick, yellow-green, or opaque discharge that's more likely to indicate something bacterial."
-  - q: "My dog keeps pawing at their eye. Should I put a cone on them?"
-    a: "Yes, honestly, get the cone on. Self-trauma to the eye escalates quickly. A dog pawing at a mild infection can turn it into a corneal scratch in an afternoon. If you don't have a cone, a soft 'donut' style collar works almost as well for eye protection and is generally better tolerated. Either way, stop the pawing until you can get your vet's assessment."
-  - q: "Will an eye infection go away on its own without treatment?"
-    a: "Some very mild viral irritation might. But a true bacterial infection won't clear up without antibiotics, and waiting it out risks the infection progressing or spreading. I'd put it this way: the cost of waiting to see if it resolves on its own is potentially much higher than the cost of a vet visit if it doesn't. Get it checked within 24 to 48 hours if the discharge is colored or the eye is visibly irritated."
+ - q: "Can I use human eye drops on my dog?"
+ a: "Most human eye drops should be avoided. Plain, preservative-free saline for rinsing is fine, but medicated drops, antibiotic ointments, or anything containing steroids should never be used without explicit veterinary guidance. Ingredients that are safe for human eyes can cause serious damage to dogs."
+ - q: "How long does a dog eye infection take to clear up?"
+ a: "A straightforward bacterial conjunctivitis treated promptly usually improves within 3 to 5 days of starting antibiotic drops, with full resolution by day 10. If you're not seeing improvement by day 5, call your vet. Either the diagnosis isn't quite right or the bacteria aren't responding to that particular antibiotic."
+ - q: "Is dog eye discharge always a sign of infection?"
+ a: "No. Clear, watery discharge is often just normal tear drainage or mild irritation from dust, wind, or allergens. Brown-reddish tear staining under the eyes (common in Maltese and Poodles) is usually related to tear duct anatomy, not infection. It's the thick, yellow-green, or opaque discharge that's more likely to indicate something bacterial."
+ - q: "My dog keeps pawing at their eye. Should I put a cone on them?"
+ a: "Yes, honestly, get the cone on. Self-trauma to the eye escalates quickly. A dog pawing at a mild infection can turn it into a corneal scratch in an afternoon. If you don't have a cone, a soft 'donut' style collar works almost as well for eye protection and is generally better tolerated. Either way, stop the pawing until you can get your vet's assessment."
+ - q: "Will an eye infection go away on its own without treatment?"
+ a: "Some very mild viral irritation might. But a true bacterial infection won't clear up without antibiotics, and waiting it out risks the infection progressing or spreading. I'd put it this way: the cost of waiting to see if it resolves on its own is potentially much higher than the cost of a vet visit if it doesn't. Get it checked within 24 to 48 hours if the discharge is colored or the eye is visibly irritated."
 ---
 
 Your dog woke up with one eye crusted shut and now you're standing in the bathroom at 7 a.m. trying to decide if this is a "rush to the emergency vet" situation or a "wait until Monday" situation. I've had that exact call made to me dozens of times. The answer depends on a few specific things, and I'll walk you through all of them.
@@ -96,7 +96,7 @@ The good news is that most dog eye infections, caught at a reasonable stage and 
 
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
@@ -120,6 +120,6 @@ The good news is that most dog eye infections, caught at a reasonable stage and 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

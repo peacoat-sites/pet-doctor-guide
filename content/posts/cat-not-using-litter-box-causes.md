@@ -9,16 +9,16 @@ tags: ["using", "litter", "causes"]
 slug: "cat-not-using-litter-box-causes"
 affiliate_disclosure: true
 faqs:
-  - q: "Why did my cat suddenly stop using the litter box after years of no problems?"
-    a: "Sudden changes almost always signal either a medical issue or a significant environmental change. A cat who has been reliable for years and abruptly stops is more likely sick than behaviorally problematic. Rule out UTI, FIC, kidney disease, diabetes, and arthritis before assuming anything else."
-  - q: "Can stress really cause a cat to stop using the litter box?"
-    a: "Absolutely. Feline idiopathic cystitis itself is strongly linked to stress in cats, meaning stress doesn't just cause behavioral avoidance, it can cause a physical medical condition that causes avoidance. The connection is direct and well-documented."
-  - q: "My cat is pooping outside the box but urinating normally. What does that mean?"
-    a: "Defecating outside the box while urinating normally often points to a problem with the box itself rather than a medical issue, though constipation or anal gland problems can be factors. Try a larger, uncovered box, scoop more frequently, and check for pain responses. If your cat seems to strain or vocalize when defecating, see your vet."
-  - q: "How many litter boxes do I actually need?"
-    a: "The AAHA-backed standard recommendation is one box per cat plus one additional. For a single cat, two boxes is ideal. Place them in different locations, not right next to each other, so a stressed cat always has an accessible option."
-  - q: "Will punishing my cat for going outside the box help?"
-    a: "No, and I say that as gently as possible: it will make things worse. Cats don't connect punishment to a past action. All you'll accomplish is making your cat afraid of you, which increases stress and often worsens the underlying problem. Positive reinforcement, environmental adjustment, and medical treatment are the only tools that actually work."
+ - q: "Why did my cat suddenly stop using the litter box after years of no problems?"
+ a: "Sudden changes almost always signal either a medical issue or a significant environmental change. A cat who has been reliable for years and abruptly stops is more likely sick than behaviorally problematic. Rule out UTI, FIC, kidney disease, diabetes, and arthritis before assuming anything else."
+ - q: "Can stress really cause a cat to stop using the litter box?"
+ a: "Absolutely. Feline idiopathic cystitis itself is strongly linked to stress in cats, meaning stress doesn't just cause behavioral avoidance, it can cause a physical medical condition that causes avoidance. The connection is direct and well-documented."
+ - q: "My cat is pooping outside the box but urinating normally. What does that mean?"
+ a: "Defecating outside the box while urinating normally often points to a problem with the box itself rather than a medical issue, though constipation or anal gland problems can be factors. Try a larger, uncovered box, scoop more frequently, and check for pain responses. If your cat seems to strain or vocalize when defecating, see your vet."
+ - q: "How many litter boxes do I actually need?"
+ a: "The AAHA-backed standard recommendation is one box per cat plus one additional. For a single cat, two boxes is ideal. Place them in different locations, not right next to each other, so a stressed cat always has an accessible option."
+ - q: "Will punishing my cat for going outside the box help?"
+ a: "No, and I say that as gently as possible: it will make things worse. Cats don't connect punishment to a past action. All you'll accomplish is making your cat afraid of you, which increases stress and often worsens the underlying problem. Positive reinforcement, environmental adjustment, and medical treatment are the only tools that actually work."
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
@@ -31,12 +31,12 @@ I've fielded these panicked calls for 13 years at the clinic, and I can tell you
 
 
 <div class="value-module">
-  <div class="vm-head">Medical vs Behavioral: Diagnostic Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these observable signs to help determine whether your cat's litter box avoidance likely needs a vet visit first or a behavioral/environmental investigation.</p>
-    <table><thead><tr><th>Sign or Pattern</th><th>Suggests Medical Cause</th><th>Suggests Behavioral/Environmental</th></tr></thead><tbody><tr><td>Frequency of urination attempts</td><td>Frequent small amounts, straining, or crying while urinating</td><td>Normal-sized urinations, just in wrong locations</td></tr><tr><td>Location choices</td><td>Random spots, smooth cool surfaces (sinks, tile, bathtub)</td><td>Consistent alternative spots, often soft surfaces or specific rooms</td></tr><tr><td>Posture while eliminating</td><td>Hunched, tense, vocalizing, or staying in position longer than usual</td><td>Relaxed, normal posture in the chosen spot</td></tr><tr><td>Other behavior changes</td><td>Lethargy, hiding, appetite loss, excessive genital licking</td><td>Otherwise acting normal between incidents</td></tr><tr><td>Onset timing</td><td>Sudden onset with no household changes</td><td>Correlates with new pet, move, schedule change, or new litter/box</td></tr><tr><td>Urine appearance</td><td>Blood-tinged, unusually strong odor, or cloudy</td><td>Normal color and consistency</td></tr><tr><td>Age consideration</td><td>Senior cats (10+): higher risk of kidney disease, diabetes, arthritis</td><td>Any age, but especially cats with history of anxiety or stress sensitivity</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Medical vs Behavioral: Diagnostic Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these observable signs to help determine whether your cat's litter box avoidance likely needs a vet visit first or a behavioral/environmental investigation.</p>
+ <table><thead><tr><th>Sign or Pattern</th><th>Suggests Medical Cause</th><th>Suggests Behavioral/Environmental</th></tr></thead><tbody><tr><td>Frequency of urination attempts</td><td>Frequent small amounts, straining, or crying while urinating</td><td>Normal-sized urinations, just in wrong locations</td></tr><tr><td>Location choices</td><td>Random spots, smooth cool surfaces (sinks, tile, bathtub)</td><td>Consistent alternative spots, often soft surfaces or specific rooms</td></tr><tr><td>Posture while eliminating</td><td>Hunched, tense, vocalizing, or staying in position longer than usual</td><td>Relaxed, normal posture in the chosen spot</td></tr><tr><td>Other behavior changes</td><td>Lethargy, hiding, appetite loss, excessive genital licking</td><td>Otherwise acting normal between incidents</td></tr><tr><td>Onset timing</td><td>Sudden onset with no household changes</td><td>Correlates with new pet, move, schedule change, or new litter/box</td></tr><tr><td>Urine appearance</td><td>Blood-tinged, unusually strong odor, or cloudy</td><td>Normal color and consistency</td></tr><tr><td>Age consideration</td><td>Senior cats (10+): higher risk of kidney disease, diabetes, arthritis</td><td>Any age, but especially cats with history of anxiety or stress sensitivity</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Medical Causes Come First. Always.

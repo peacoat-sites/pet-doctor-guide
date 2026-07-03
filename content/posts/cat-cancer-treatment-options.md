@@ -13,16 +13,16 @@ author_bio: "James Whitfield has spent his career studying animal nutrition with
 slug: "cat-cancer-treatment-options"
 affiliate_disclosure: true
 faqs:
-  - q: "How long can a cat live with cancer?"
-    a: "It completely depends on the cancer type and stage. Some cats with lymphoma in remission live two or more years with good quality of life. Cats with early-stage small intestinal lymphoma can sometimes live three to five years. A cat with an inoperable oral tumor has a much shorter prognosis, often measured in months even with palliative care. Your oncologist can give you specific survival data for your cat's particular diagnosis."
-  - q: "Is chemotherapy painful for cats?"
-    a: "Usually not. Most cats don't experience the severe nausea and exhaustion associated with human chemo because veterinary protocols use lower doses. Some cats have a mild off day after treatment, but the majority go home, eat dinner, and act normal. Bring this up with your oncologist if you're worried, and ask what anti-nausea support they build into the protocol."
-  - q: "Can I give my cat CBD oil or supplements alongside cancer treatment?"
-    a: "Tell your oncologist everything you're giving. Some supplements interact with chemo drugs or can affect liver enzymes in ways that complicate dosing. CBD specifically is not well studied in cats and metabolizes differently than in dogs or humans. Some oncologists are fine with it, others aren't. It shouldn't be a secret kept from your care team."
-  - q: "What does a veterinary oncologist do differently than a regular vet?"
-    a: "A board-certified veterinary oncologist (DACVIM Oncology) has completed a three-year residency specifically in cancer diagnosis and treatment after vet school. They have access to more specialized protocols, are current on clinical trials, and make these treatment decisions every single day. Your GP is great for managing a lot of things, but cancer staging and treatment planning is genuinely specialist territory."
-  - q: "When is it time to consider euthanasia?"
-    a: "When your cat's bad days consistently outnumber the good ones, when they've stopped eating and won't respond to appetite stimulants, when they're in pain that can't be managed, or when the treatment itself is clearly causing more suffering than the disease. This is an incredibly hard question, and there's no universal formula. Your oncologist and your GP can both help you assess quality of life honestly. The goal has always been a good life, not just a longer one."
+ - q: "How long can a cat live with cancer?"
+ a: "It completely depends on the cancer type and stage. Some cats with lymphoma in remission live two or more years with good quality of life. Cats with early-stage small intestinal lymphoma can sometimes live three to five years. A cat with an inoperable oral tumor has a much shorter prognosis, often measured in months even with palliative care. Your oncologist can give you specific survival data for your cat's particular diagnosis."
+ - q: "Is chemotherapy painful for cats?"
+ a: "Usually not. Most cats don't experience the severe nausea and exhaustion associated with human chemo because veterinary protocols use lower doses. Some cats have a mild off day after treatment, but the majority go home, eat dinner, and act normal. Bring this up with your oncologist if you're worried, and ask what anti-nausea support they build into the protocol."
+ - q: "Can I give my cat CBD oil or supplements alongside cancer treatment?"
+ a: "Tell your oncologist everything you're giving. Some supplements interact with chemo drugs or can affect liver enzymes in ways that complicate dosing. CBD specifically is not well studied in cats and metabolizes differently than in dogs or humans. Some oncologists are fine with it, others aren't. It shouldn't be a secret kept from your care team."
+ - q: "What does a veterinary oncologist do differently than a regular vet?"
+ a: "A board-certified veterinary oncologist (DACVIM Oncology) has completed a three-year residency specifically in cancer diagnosis and treatment after vet school. They have access to more specialized protocols, are current on clinical trials, and make these treatment decisions every single day. Your GP is great for managing a lot of things, but cancer staging and treatment planning is genuinely specialist territory."
+ - q: "When is it time to consider euthanasia?"
+ a: "When your cat's bad days consistently outnumber the good ones, when they've stopped eating and won't respond to appetite stimulants, when they're in pain that can't be managed, or when the treatment itself is clearly causing more suffering than the disease. This is an incredibly hard question, and there's no universal formula. Your oncologist and your GP can both help you assess quality of life honestly. The goal has always been a good life, not just a longer one."
 ---
 
 Your cat has just been diagnosed with cancer. Or you're sitting in the waiting room right now, scrolling your phone while the vet reviews the biopsy results in the back. Either way, you're probably feeling something between dread and a desperate need to understand what comes next before anyone asks you to make a decision you're not ready to make.
@@ -84,7 +84,7 @@ Pet insurance is the other piece. If your cat isn't currently insured and this d
 
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
@@ -101,13 +101,13 @@ Pet insurance is the other piece. If your cat isn't currently insured and this d
 
 - [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
 - [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
-- [Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
+- [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
 - [Gustavo Fring](https://www.pexels.com/@gustavo-fring)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

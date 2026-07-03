@@ -9,16 +9,16 @@ tags: ["hyperthyroidism", "treatment"]
 slug: "cat-hyperthyroidism-treatment"
 affiliate_disclosure: true
 faqs:
-  - q: "How long can a cat live with hyperthyroidism if treated?"
-    a: "With proper treatment, many cats go on to live several more years with excellent quality of life. The prognosis is genuinely good compared to many feline diagnoses, though concurrent conditions like kidney disease or heart disease influence the outlook significantly."
-  - q: "Is hyperthyroidism in cats painful?"
-    a: "The disease itself isn't typically painful, but it's uncomfortable in ways that matter. Affected cats often feel anxious, restless, and hungry constantly. The elevated heart rate can cause discomfort, and some cats develop hypertensive retinal damage or heart disease if left untreated for too long."
-  - q: "Can I manage my cat's hyperthyroidism at home without daily medication?"
-    a: "If you mean without methimazole, the y/d diet is a real option, though compliance is strict. There's no supplement or herbal remedy with reliable evidence behind it. Uncontrolled hyperthyroidism causes progressive heart, kidney, and blood pressure damage -- this is one of those conditions where 'wait and see' genuinely costs you."
-  - q: "How do I know if the methimazole dose is right for my cat?"
-    a: "Bloodwork is the only reliable answer. Target total T4 is generally in the mid-to-low normal range, around 1.5 to 2.5 µg/dL, though your vet will interpret this in context of your individual cat. Symptoms alone aren't enough to judge -- some cats feel better before their levels are truly optimized."
-  - q: "What happens if hyperthyroidism in cats goes untreated?"
-    a: "The excess thyroid hormone puts chronic stress on the heart, which can lead to hypertrophic cardiomyopathy. Blood pressure often climbs, eventually causing retinal detachment and blindness. The kidneys suffer, weight loss becomes severe, and the cat's overall condition deteriorates over months to a couple of years. It's a slow decline, but it's not gentle."
+ - q: "How long can a cat live with hyperthyroidism if treated?"
+ a: "With proper treatment, many cats go on to live several more years with excellent quality of life. The prognosis is genuinely good compared to many feline diagnoses, though concurrent conditions like kidney disease or heart disease influence the outlook significantly."
+ - q: "Is hyperthyroidism in cats painful?"
+ a: "The disease itself isn't typically painful, but it's uncomfortable in ways that matter. Affected cats often feel anxious, restless, and hungry constantly. The elevated heart rate can cause discomfort, and some cats develop hypertensive retinal damage or heart disease if left untreated for too long."
+ - q: "Can I manage my cat's hyperthyroidism at home without daily medication?"
+ a: "If you mean without methimazole, the y/d diet is a real option, though compliance is strict. There's no supplement or herbal remedy with reliable evidence behind it. Uncontrolled hyperthyroidism causes progressive heart, kidney, and blood pressure damage, this is one of those conditions where 'wait and see' genuinely costs you."
+ - q: "How do I know if the methimazole dose is right for my cat?"
+ a: "Bloodwork is the only reliable answer. Target total T4 is generally in the mid-to-low normal range, around 1.5 to 2.5 µg/dL, though your vet will interpret this in context of your individual cat. Symptoms alone aren't enough to judge, some cats feel better before their levels are truly optimized."
+ - q: "What happens if hyperthyroidism in cats goes untreated?"
+ a: "The excess thyroid hormone puts chronic stress on the heart, which can lead to hypertrophic cardiomyopathy. Blood pressure often climbs, eventually causing retinal detachment and blindness. The kidneys suffer, weight loss becomes severe, and the cat's overall condition deteriorates over months to a couple of years. It's a slow decline, but it's not gentle."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Emergency Care Writer"
@@ -33,12 +33,12 @@ What most people don't realize is that once it's confirmed, you have four legiti
 
 
 <div class="value-module">
-  <div class="vm-head">Treatment Comparison: Cost, Efficacy, Commitment</div>
-  <div class="vm-body">
-    <p class="vm-intro">Each of the four hyperthyroidism treatments differs significantly in upfront cost, long-term expense, cure potential, and daily demands-here's how they compare for decision-making.</p>
-    <table><thead><tr><th>Treatment</th><th>Upfront Cost (Illustrative US Range)</th><th>Ongoing Annual Cost</th><th>Curative?</th><th>Daily Owner Commitment</th><th>Best Candidate</th></tr></thead><tbody><tr><td>Methimazole (oral)</td><td>$50–$150 (initial Rx + first labs)</td><td>$300–$600 (medication + monitoring bloodwork)</td><td>No-lifelong</td><td>1–2 pills daily; quarterly labs</td><td>Cats needing a trial period; owners on limited budget; cats with uncertain kidney status</td></tr><tr><td>Methimazole (transdermal gel)</td><td>$50–$150</td><td>$400–$800</td><td>No-lifelong</td><td>1–2 ear applications daily; quarterly labs</td><td>Cats impossible to pill; owners accepting slightly less predictable absorption</td></tr><tr><td>Radioactive Iodine (I-131)</td><td>$1,000–$2,500 (single treatment + hospitalization)</td><td>Minimal (occasional monitoring)</td><td>Yes-95%+ cure rate</td><td>None after recovery; 1–2 week isolation post-treatment</td><td>Otherwise healthy cats; owners wanting one-time cure; no concurrent severe kidney disease</td></tr><tr><td>Surgical Thyroidectomy</td><td>$800–$2,000 (varies by region/complexity)</td><td>Minimal if curative; possible hormone supplementation</td><td>Yes-if all abnormal tissue removed</td><td>Post-op recovery care; risk of recurrence if ectopic tissue</td><td>Cats unsuitable for I-131; unilateral disease; facilities without I-131 access</td></tr><tr><td>Prescription Diet (y/d)</td><td>$0–$50 (no procedure)</td><td>$900–$1,200 (exclusive diet cost)</td><td>No-lifelong</td><td>Strict feeding control; no treats or outside food</td><td>Cats that won't tolerate medication; single-cat households with compliant feeding</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Treatment Comparison: Cost, Efficacy, Commitment</div>
+ <div class="vm-body">
+ <p class="vm-intro">Each of the four hyperthyroidism treatments differs significantly in upfront cost, long-term expense, cure potential, and daily demands-here's how they compare for decision-making.</p>
+ <table><thead><tr><th>Treatment</th><th>Upfront Cost (Illustrative US Range)</th><th>Ongoing Annual Cost</th><th>Curative?</th><th>Daily Owner Commitment</th><th>Best Candidate</th></tr></thead><tbody><tr><td>Methimazole (oral)</td><td>$50–$150 (initial Rx + first labs)</td><td>$300–$600 (medication + monitoring bloodwork)</td><td>No-lifelong</td><td>1–2 pills daily; quarterly labs</td><td>Cats needing a trial period; owners on limited budget; cats with uncertain kidney status</td></tr><tr><td>Methimazole (transdermal gel)</td><td>$50–$150</td><td>$400–$800</td><td>No-lifelong</td><td>1–2 ear applications daily; quarterly labs</td><td>Cats impossible to pill; owners accepting slightly less predictable absorption</td></tr><tr><td>Radioactive Iodine (I-131)</td><td>$1,000–$2,500 (single treatment + hospitalization)</td><td>Minimal (occasional monitoring)</td><td>Yes-95%+ cure rate</td><td>None after recovery; 1–2 week isolation post-treatment</td><td>Otherwise healthy cats; owners wanting one-time cure; no concurrent severe kidney disease</td></tr><tr><td>Surgical Thyroidectomy</td><td>$800–$2,000 (varies by region/complexity)</td><td>Minimal if curative; possible hormone supplementation</td><td>Yes-if all abnormal tissue removed</td><td>Post-op recovery care; risk of recurrence if ectopic tissue</td><td>Cats unsuitable for I-131; unilateral disease; facilities without I-131 access</td></tr><tr><td>Prescription Diet (y/d)</td><td>$0–$50 (no procedure)</td><td>$900–$1,200 (exclusive diet cost)</td><td>No-lifelong</td><td>Strict feeding control; no treats or outside food</td><td>Cats that won't tolerate medication; single-cat households with compliant feeding</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Methimazole: The Go-To Starting Point

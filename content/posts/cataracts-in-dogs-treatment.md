@@ -13,16 +13,16 @@ author_bio: "James Whitfield has spent his career studying animal nutrition with
 slug: "cataracts-in-dogs-treatment"
 affiliate_disclosure: true
 faqs:
-  - q: "Can cataracts in dogs be treated without surgery?"
-    a: "No proven non-surgical treatment exists as of 2026. Certain anti-inflammatory drops can help manage lens-induced uveitis and slow secondary complications, but they don't reverse or halt cataract progression. Eye drops marketed as cataract treatments are not supported by peer-reviewed evidence in dogs."
-  - q: "At what point do cataracts need to be removed?"
-    a: "The best window for surgery is when cataracts are immature to mature and vision is clearly impaired, but before they turn hypermature and start leaking lens proteins. Once lens-induced uveitis or secondary glaucoma develops, the outcome is less predictable. If your dog is bumping into things and the cataract was diagnosed within the last few months, don't wait more than a few weeks to consult an ophthalmologist."
-  - q: "Is cataract surgery safe for older dogs?"
-    a: "Age alone isn't a disqualifier, but overall health is. Dogs with uncontrolled diabetes, significant heart disease, or poor anesthetic candidacy carry higher surgical risk. A thorough pre-surgical workup, including bloodwork, urinalysis, and cardiac screening in older patients, is standard. Many 10-to-12-year-old dogs do fine; it depends on what else is going on."
-  - q: "How quickly do diabetic cataracts develop in dogs?"
-    a: "Very fast. Some dogs develop cataracts within weeks of a diabetes diagnosis, and bilateral involvement is extremely common. If your dog has just been diagnosed with diabetes, get an ophthalmology consultation promptly rather than waiting to see how the eyes look in a few months."
-  - q: "Will my dog's vision fully return after cataract surgery?"
-    a: "Most dogs with healthy retinas and cataracts caught before the hypermature stage regain functional vision, often within days of surgery. 'Functional' means they can navigate, play, and avoid obstacles. Whether it matches their pre-cataract acuity is harder to measure in dogs, but owners consistently report dramatic improvement in confidence and activity level post-op."
+ - q: "Can cataracts in dogs be treated without surgery?"
+ a: "No proven non-surgical treatment exists as of 2026. Certain anti-inflammatory drops can help manage lens-induced uveitis and slow secondary complications, but they don't reverse or halt cataract progression. Eye drops marketed as cataract treatments are not supported by peer-reviewed evidence in dogs."
+ - q: "At what point do cataracts need to be removed?"
+ a: "The best window for surgery is when cataracts are immature to mature and vision is clearly impaired, but before they turn hypermature and start leaking lens proteins. Once lens-induced uveitis or secondary glaucoma develops, the outcome is less predictable. If your dog is bumping into things and the cataract was diagnosed within the last few months, don't wait more than a few weeks to consult an ophthalmologist."
+ - q: "Is cataract surgery safe for older dogs?"
+ a: "Age alone isn't a disqualifier, but overall health is. Dogs with uncontrolled diabetes, significant heart disease, or poor anesthetic candidacy carry higher surgical risk. A thorough pre-surgical workup, including bloodwork, urinalysis, and cardiac screening in older patients, is standard. Many 10-to-12-year-old dogs do fine; it depends on what else is going on."
+ - q: "How quickly do diabetic cataracts develop in dogs?"
+ a: "Very fast. Some dogs develop cataracts within weeks of a diabetes diagnosis, and bilateral involvement is extremely common. If your dog has just been diagnosed with diabetes, get an ophthalmology consultation promptly rather than waiting to see how the eyes look in a few months."
+ - q: "Will my dog's vision fully return after cataract surgery?"
+ a: "Most dogs with healthy retinas and cataracts caught before the hypermature stage regain functional vision, often within days of surgery. 'Functional' means they can navigate, play, and avoid obstacles. Whether it matches their pre-cataract acuity is harder to measure in dogs, but owners consistently report dramatic improvement in confidence and activity level post-op."
 ---
 
 Most people notice it as a cloudiness in one eye. Then the other. You Google "cloudy eyes in dogs" at midnight and end up somewhere between "it's just nuclear sclerosis, totally normal" and "your dog is going blind and needs $4,000 surgery." You're not sure which end of that spectrum you're looking at, and honestly, that uncertainty is exactly where I want to start.
@@ -91,7 +91,7 @@ A useful product to have at home while navigating this: a pet-specific eye wash 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
 
@@ -107,6 +107,6 @@ A useful product to have at home while navigating this: a pet-specific eye wash 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
