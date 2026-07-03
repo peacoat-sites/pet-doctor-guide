@@ -11,9 +11,7 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-world-screwworm-is-back-in-the-us-and-pets-are-at-risk"
-affiliate_disclosure: true
----
-If you've been Googling "screwworm Texas dog" at 11pm this week, you're not alone. Plenty of pet owners are doing exactly that right now, and the worry makes sense. Here's what's actually going on: on June 3, 2026, the USDA APHIS confirmed the first New World screwworm detection in the United States in decades, finding larvae in the umbilical area of a 3-week-old calf in Zavala County, Texas. Within six days, case count jumped to five confirmed across Texas and New Mexico. Then came the one that got pet owners' attention: a dog in Lea County, New Mexico became the first confirmed companion animal case in this outbreak, reported June 8. This isn't theoretical anymore. It's here. It's moving fast. Your outdoor pets are vulnerable.
+affiliate_disclosure: true, If you've been Googling "screwworm Texas dog" at 11pm this week, you're not alone. Plenty of pet owners are doing exactly that right now, and the worry makes sense. Here's what's actually going on: on June 3, 2026, the USDA APHIS confirmed the first New World screwworm detection in the United States in decades, finding larvae in the umbilical area of a 3-week-old calf in Zavala County, Texas. Within six days, case count jumped to five confirmed across Texas and New Mexico. Then came the one that got pet owners' attention: a dog in Lea County, New Mexico became the first confirmed companion animal case in this outbreak, reported June 8. This isn't theoretical anymore. It's here. It's moving fast. Your outdoor pets are vulnerable.
 
 ## What New World Screwworm Actually Does (and Why It's So Serious)
 
@@ -55,12 +53,12 @@ Five confirmed cases in six days. The first in a companion animal already on rec
 
 ## Sources
 
-- [AVMA – New World Screwworm Resource Hub](https://www.avma.org/resources-tools/one-health/veterinarians-and-public-health/new-world-screwworm) (Updated June 2026)
-- [dvm360 – New World Screwworm Confirmed in New Mexico Dog as US Case Count Rises to 5](https://www.dvm360.com/view/new-world-screwworm-confirmed-in-texas-dog-as-us-case-count-rises-to-four) (June 8, 2026)
-- [dvm360 – New World Screwworm Live Updates: Tracking Detections, Treatment Authorizations, and Response Efforts](https://www.dvm360.com/view/new-world-screwworm-updates-the-latest-on-government-industry-response) (June 2026, ongoing)
-- [FDA – Animal Drugs for New World Screwworm](https://www.fda.gov/animal-veterinary/safety-health/animal-drugs-new-world-screwworm) (Updated April 2026)
-- [Texas A&M AgriLife Extension – Companion Animal Care and the NWS Threat](https://agrilifeextension.tamu.edu/new-world-screwworm) (June 2026)
-- [LA County Dept. of Public Health – New World Screwworm (NWS)](http://ph.lacounty.gov/vet/new-world-screwworm/) (June 2026)
+- [AVMA, New World Screwworm Resource Hub](https://www.avma.org/resources-tools/one-health/veterinarians-and-public-health/new-world-screwworm) (Updated June 2026)
+- [dvm360, New World Screwworm Confirmed in New Mexico Dog as US Case Count Rises to 5](https://www.dvm360.com/view/new-world-screwworm-confirmed-in-texas-dog-as-us-case-count-rises-to-four) (June 8, 2026)
+- [dvm360, New World Screwworm Live Updates: Tracking Detections, Treatment Authorizations, and Response Efforts](https://www.dvm360.com/view/new-world-screwworm-updates-the-latest-on-government-industry-response) (June 2026, ongoing)
+- [FDA, Animal Drugs for New World Screwworm](https://www.fda.gov/animal-veterinary/safety-health/animal-drugs-new-world-screwworm) (Updated April 2026)
+- [Texas A&M AgriLife Extension, Companion Animal Care and the NWS Threat](https://agrilifeextension.tamu.edu/new-world-screwworm) (June 2026)
+- [LA County Dept. of Public Health, New World Screwworm (NWS)](http://ph.lacounty.gov/vet/new-world-screwworm/) (June 2026)
 
 ## Helpful Resources
 

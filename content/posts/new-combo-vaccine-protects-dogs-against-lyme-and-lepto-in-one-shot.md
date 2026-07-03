@@ -11,10 +11,7 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-combo-vaccine-protects-dogs-against-lyme-and-lepto-in-one-shot"
-affiliate_disclosure: true
----
-
-If you've been meaning to talk to your vet about updating your dog's vaccines before summer gets fully underway, the timing just got more interesting. On June 15, 2026, the USDA approved Elanco's TruCan Ultra Lyme-L4, the first combination vaccine to protect dogs against both Lyme disease and leptospirosis in a single 0.5 mL injection. For anyone who's watched their dog flinch through multiple shots at annual wellness visits, or who has tried to keep track of which boosters are actually current, this is genuinely useful news.
+affiliate_disclosure: true, If you've been meaning to talk to your vet about updating your dog's vaccines before summer gets fully underway, the timing just got more interesting. On June 15, 2026, the USDA approved Elanco's TruCan Ultra Lyme-L4, the first combination vaccine to protect dogs against both Lyme disease and leptospirosis in a single 0.5 mL injection. For anyone who's watched their dog flinch through multiple shots at annual wellness visits, or who has tried to keep track of which boosters are actually current, this is genuinely useful news.
 
 ## What This Vaccine Actually Is (and Why the Size Matters)
 
@@ -67,7 +64,7 @@ We're in peak tick season right now, and lepto risk stays elevated through late 
 
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
@@ -82,7 +79,7 @@ We're in peak tick season right now, and lepto risk stays elevated through late 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

@@ -13,16 +13,16 @@ author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine fo
 slug: "how-to-tell-if-your-cat-is-in-pain-signs"
 affiliate_disclosure: true
 faqs:
-  - q: "Can cats feel pain the same way humans do?"
-    a: "Yes. Cats have the same neurological structures that transmit and process pain that humans do. Their evolutionary drive to hide it doesn't mean they experience it less."
-  - q: "Is my cat in pain if she's still eating?"
-    a: "Possibly yes. Cats often continue eating despite significant discomfort, especially early on. Reduced appetite is a sign, but a maintained appetite doesn't rule out pain."
-  - q: "How do I tell the difference between my cat being tired and being in pain?"
-    a: "Watch the face and posture. A tired cat looks relaxed, with soft eyes and a loose body. A cat in pain has tension in the face, a more rigid or hunched posture, and often avoids certain movements or positions that a healthy, tired cat would settle into easily."
-  - q: "Can older cats just be 'slowing down' or is that pain?"
-    a: "Both things are real, but slowing down in cats is often arthritis, not just aging. One study estimated that over 90% of cats over 12 have radiographic evidence of joint changes. If your senior cat is less active or seems stiff, a pain assessment and possibly a joint supplement conversation with your vet is warranted. Your vet can help you choose something appropriate, or products like joint supplements designed for cats are available, though always confirm with your vet before starting one."
-  - q: "Should I give my cat any human pain medication?"
-    a: "No. Acetaminophen is lethal to cats. Ibuprofen and aspirin are highly toxic. There is no human OTC pain reliever that's safe to give a cat. If your cat needs pain management, that requires a vet visit and a prescription."
+ - q: "Can cats feel pain the same way humans do?"
+ a: "Yes. Cats have the same neurological structures that transmit and process pain that humans do. Their evolutionary drive to hide it doesn't mean they experience it less."
+ - q: "Is my cat in pain if she's still eating?"
+ a: "Possibly yes. Cats often continue eating despite significant discomfort, especially early on. Reduced appetite is a sign, but a maintained appetite doesn't rule out pain."
+ - q: "How do I tell the difference between my cat being tired and being in pain?"
+ a: "Watch the face and posture. A tired cat looks relaxed, with soft eyes and a loose body. A cat in pain has tension in the face, a more rigid or hunched posture, and often avoids certain movements or positions that a healthy, tired cat would settle into easily."
+ - q: "Can older cats just be 'slowing down' or is that pain?"
+ a: "Both things are real, but slowing down in cats is often arthritis, not just aging. One study estimated that over 90% of cats over 12 have radiographic evidence of joint changes. If your senior cat is less active or seems stiff, a pain assessment and possibly a joint supplement conversation with your vet is warranted. Your vet can help you choose something appropriate, or products like joint supplements designed for cats are available, though always confirm with your vet before starting one."
+ - q: "Should I give my cat any human pain medication?"
+ a: "No. Acetaminophen is lethal to cats. Ibuprofen and aspirin are highly toxic. There is no human OTC pain reliever that's safe to give a cat. If your cat needs pain management, that requires a vet visit and a prescription."
 ---
 
 Cats are hardwired to hide pain. That's not a personality quirk, it's a survival mechanism from their evolutionary history as both predator and prey. A wild cat showing weakness is a dead cat. Your domestic tabby carries the same wiring, which means by the time most owners notice something's wrong, the animal has often been suffering for days.
@@ -39,7 +39,7 @@ Breathing can shift too. Rapid, shallow breathing in a cat that's resting is a r
 
 ## The Behavioral Shifts That Most Owners Miss
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
@@ -92,7 +92,7 @@ PetMD's veterinary resource library has a solid breakdown of feline pain scoring
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
 
@@ -109,7 +109,7 @@ PetMD's veterinary resource library has a solid breakdown of feline pain scoring
 
 ## Sources
 
-- [Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
+- [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
 - [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20)
 - [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
 - [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
@@ -118,6 +118,6 @@ PetMD's veterinary resource library has a solid breakdown of feline pain scoring
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

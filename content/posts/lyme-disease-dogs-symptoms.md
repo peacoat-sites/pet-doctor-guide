@@ -13,16 +13,16 @@ author_bio: "Michelle Chen has studied cat behavior through years of shelter vol
 slug: "lyme-disease-dogs-symptoms"
 affiliate_disclosure: true
 faqs:
-  - q: "Can a dog get Lyme disease without you ever finding a tick?"
-    a: "Yes, absolutely. Nymphal ticks are the size of a poppy seed. They can attach, feed, and drop off without you ever seeing them, especially on dogs with thick or dark coats. Never assume no tick means no exposure."
-  - q: "How quickly do Lyme symptoms appear after a tick bite?"
-    a: "Typically two to five months after infection, though some dogs never show symptoms. The delay is one of the reasons people don't connect the dots between a tick bite they vaguely remember in spring and a dog limping in fall."
-  - q: "Is Lyme disease in dogs contagious to humans or other pets?"
-    a: "No. Dogs can't directly transmit Borrelia to you or to other dogs. The bacterium requires a tick vector. However, if your dog has ticks, those ticks can detach and bite you, so it's worth treating your environment as well as your pet."
-  - q: "My dog tested positive but seems totally fine. Does he really need treatment?"
-    a: "The research here is honestly mixed, but most veterinary internists lean toward treating symptomatic dogs and high-risk breeds regardless, and treating any seropositive dog with a C6 value above 30 U/mL. Ask your vet specifically about your dog's C6 number and breed risk. That conversation is worth having in detail."
-  - q: "Can dogs get Lyme disease more than once?"
-    a: "Yes. A prior infection doesn't confer lasting protective immunity. Dogs in endemic areas can be reinfected, which is another reason ongoing tick prevention and annual testing matter even after a dog has been treated successfully."
+ - q: "Can a dog get Lyme disease without you ever finding a tick?"
+ a: "Yes, absolutely. Nymphal ticks are the size of a poppy seed. They can attach, feed, and drop off without you ever seeing them, especially on dogs with thick or dark coats. Never assume no tick means no exposure."
+ - q: "How quickly do Lyme symptoms appear after a tick bite?"
+ a: "Typically two to five months after infection, though some dogs never show symptoms. The delay is one of the reasons people don't connect the dots between a tick bite they vaguely remember in spring and a dog limping in fall."
+ - q: "Is Lyme disease in dogs contagious to humans or other pets?"
+ a: "No. Dogs can't directly transmit Borrelia to you or to other dogs. The bacterium requires a tick vector. However, if your dog has ticks, those ticks can detach and bite you, so it's worth treating your environment as well as your pet."
+ - q: "My dog tested positive but seems totally fine. Does he really need treatment?"
+ a: "The research here is honestly mixed, but most veterinary internists lean toward treating symptomatic dogs and high-risk breeds regardless, and treating any seropositive dog with a C6 value above 30 U/mL. Ask your vet specifically about your dog's C6 number and breed risk. That conversation is worth having in detail."
+ - q: "Can dogs get Lyme disease more than once?"
+ a: "Yes. A prior infection doesn't confer lasting protective immunity. Dogs in endemic areas can be reinfected, which is another reason ongoing tick prevention and annual testing matter even after a dog has been treated successfully."
 ---
 
 Most dog owners I talk to think Lyme disease looks like a human case: a bull's-eye rash, a fever that hits fast, obvious misery. The reality in dogs is almost the opposite, and that gap between expectation and fact is exactly why so many dogs get diagnosed weeks or months too late.
@@ -124,7 +124,7 @@ If you're ever unsure whether something your dog ingested or was exposed to is d
 
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 - **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [Ermelinda Maglione](https://www.pexels.com/@ermelinda-maglione-1106070) via Pexels*
@@ -139,6 +139,6 @@ If you're ever unsure whether something your dog ingested or was exposed to is d
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

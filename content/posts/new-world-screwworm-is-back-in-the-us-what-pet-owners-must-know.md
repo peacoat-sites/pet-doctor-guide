@@ -11,10 +11,7 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know"
-affiliate_disclosure: true
----
-
-Most pet owners in the US have never heard of New World screwworm. That's actually the point. It was eradicated from the continental United States back in 1966, after one of the most ambitious animal health campaigns in American history. For sixty years, it wasn't something you needed to think about. That changed on June 3, 2026, when the USDA confirmed NWS larvae in a calf in southern Texas. Cases have since climbed to at least 9 across Texas and New Mexico, and here's the part that should have every dog and cat owner paying attention: one of those cases was a companion animal. A dog in New Mexico. This is no longer just a livestock story.
+affiliate_disclosure: true, Most pet owners in the US have never heard of New World screwworm. That's actually the point. It was eradicated from the continental United States back in 1966, after one of the most ambitious animal health campaigns in American history. For sixty years, it wasn't something you needed to think about. That changed on June 3, 2026, when the USDA confirmed NWS larvae in a calf in southern Texas. Cases have since climbed to at least 9 across Texas and New Mexico, and here's the part that should have every dog and cat owner paying attention: one of those cases was a companion animal. A dog in New Mexico. This is no longer just a livestock story.
 
 ## What New World Screwworm Actually Does (It's Worse Than You Think)
 
@@ -66,12 +63,12 @@ If you live in an unaffected state right now, the practical takeaway is stay inf
 
 ## Sources
 
-- [AVMA – New World Screwworm Resource Hub](https://www.avma.org/resources-tools/one-health/veterinarians-and-public-health/new-world-screwworm) (Updated June 2026)
-- [dvm360 – New World Screwworm Live Updates](https://www.dvm360.com/view/new-world-screwworm-updates-the-latest-on-government-industry-response) (June 11, 2026)
-- [Worms & Germs Blog – NWS Prevention and Treatment in Dogs and Cats](https://www.wormsandgermsblog.com/2026/06/articles/diseases/parasites/new-world-screwworm-prevention-and-treatment-options-in-dogs-and-cats/) (June 11, 2026)
-- [Texas A&M AgriLife Extension – Companion Animal Care and NWS](https://agrilifeextension.tamu.edu/companion-animal-care-nws/) (June 2026)
-- [FDA – Animal Drugs for New World Screwworm](https://www.fda.gov/animal-veterinary/safety-health/animal-drugs-new-world-screwworm) (Updated June 2026)
-- [Virginia VDACS – New World Screwworm Alert](https://www.vdacs.virginia.gov/animals-new-world-screwworm.shtml) (June 2026)
+- [AVMA, New World Screwworm Resource Hub](https://www.avma.org/resources-tools/one-health/veterinarians-and-public-health/new-world-screwworm) (Updated June 2026)
+- [dvm360, New World Screwworm Live Updates](https://www.dvm360.com/view/new-world-screwworm-updates-the-latest-on-government-industry-response) (June 11, 2026)
+- [Worms & Germs Blog, NWS Prevention and Treatment in Dogs and Cats](https://www.wormsandgermsblog.com/2026/06/articles/diseases/parasites/new-world-screwworm-prevention-and-treatment-options-in-dogs-and-cats/) (June 11, 2026)
+- [Texas A&M AgriLife Extension, Companion Animal Care and NWS](https://agrilifeextension.tamu.edu/companion-animal-care-nws/) (June 2026)
+- [FDA, Animal Drugs for New World Screwworm](https://www.fda.gov/animal-veterinary/safety-health/animal-drugs-new-world-screwworm) (Updated June 2026)
+- [Virginia VDACS, New World Screwworm Alert](https://www.vdacs.virginia.gov/animals-new-world-screwworm.shtml) (June 2026)
 
 ## Helpful Resources
 

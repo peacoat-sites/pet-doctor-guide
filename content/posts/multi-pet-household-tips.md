@@ -13,16 +13,16 @@ author_bio: "James Whitfield has spent his career studying animal nutrition with
 slug: "multi-pet-household-tips"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I stop my dog from eating the cat's food?"
-    a: "Feed the cat on an elevated surface the dog can't reach, or use a microchip-activated feeder that only opens for the cat. Free-feeding cats in a multi-pet home almost always means the dog eats the cat food eventually."
-  - q: "Is it normal for my resident cat to hide after I bring home a new cat?"
-    a: "Yes, and it's normal for it to last several weeks. Hiding is stress behavior, not illness, in this context. As long as the cat is eating, drinking, and using the litter box, give them time. If they stop eating for more than 48 hours, call your vet."
-  - q: "Can my dog catch a cold from my cat?"
-    a: "Generally no. Most feline upper respiratory infections (herpesvirus, calicivirus) are species-specific. There are rare exceptions, but this isn't something to lose sleep over."
-  - q: "How do I know if my animals are stressed versus just adjusting?"
-    a: "Adjustment looks like gradual improvement over days or weeks. Stress that needs attention looks like hiding that doesn't reduce, stopped eating, litter box avoidance, over-grooming, or aggression that escalates rather than settles. If the trajectory is getting worse, not better, talk to your vet or a veterinary behaviorist."
-  - q: "Do all my pets need to see the same vet?"
-    a: "It helps but isn't required. What's more important is that at least one provider knows your household's full picture. If you use different vets, make sure each one knows what other animals are in the home, because that context changes medication and treatment decisions."
+ - q: "How do I stop my dog from eating the cat's food?"
+ a: "Feed the cat on an elevated surface the dog can't reach, or use a microchip-activated feeder that only opens for the cat. Free-feeding cats in a multi-pet home almost always means the dog eats the cat food eventually."
+ - q: "Is it normal for my resident cat to hide after I bring home a new cat?"
+ a: "Yes, and it's normal for it to last several weeks. Hiding is stress behavior, not illness, in this context. As long as the cat is eating, drinking, and using the litter box, give them time. If they stop eating for more than 48 hours, call your vet."
+ - q: "Can my dog catch a cold from my cat?"
+ a: "Generally no. Most feline upper respiratory infections (herpesvirus, calicivirus) are species-specific. There are rare exceptions, but this isn't something to lose sleep over."
+ - q: "How do I know if my animals are stressed versus just adjusting?"
+ a: "Adjustment looks like gradual improvement over days or weeks. Stress that needs attention looks like hiding that doesn't reduce, stopped eating, litter box avoidance, over-grooming, or aggression that escalates rather than settles. If the trajectory is getting worse, not better, talk to your vet or a veterinary behaviorist."
+ - q: "Do all my pets need to see the same vet?"
+ a: "It helps but isn't required. What's more important is that at least one provider knows your household's full picture. If you use different vets, make sure each one knows what other animals are in the home, because that context changes medication and treatment decisions."
 ---
 
 Three cats and a dog under one roof sounds charming until 2 a.m. when the terrier is sprinting laps because the tabby ambushed him off the couch. I'll be honest: I spent years telling clients that multi-pet households "just take some adjustment," and while that's technically true, it undersells how deliberate you have to be about the setup. Most of the chaos I see in multi-pet homes isn't personality conflict. It's resource competition that nobody noticed until it got loud.
@@ -104,7 +104,7 @@ The honest truth about multi-pet households is that the animals usually figure i
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
 
 
@@ -129,6 +129,6 @@ The honest truth about multi-pet households is that the animals usually figure i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

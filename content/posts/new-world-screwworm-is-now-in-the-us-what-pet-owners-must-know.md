@@ -11,9 +11,7 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "new-world-screwworm-is-now-in-the-us-what-pet-owners-must-know"
-affiliate_disclosure: true
----
-Your dog nicks a paw on brush during an evening walk. You clean it, dab on some Neosporin, and move on. In most places most of the time, that's the end of it. Not in South Texas or southern New Mexico right now.
+affiliate_disclosure: true, Your dog nicks a paw on brush during an evening walk. You clean it, dab on some Neosporin, and move on. In most places most of the time, that's the end of it. Not in South Texas or southern New Mexico right now.
 
 New World screwworm (NWS) was confirmed in a calf in Zavala County, Texas on June 3, 2026, marking the first detection of this parasite on U.S. soil since the government eradicated it in the 1960s. A dog in New Mexico tested positive the same month. This isn't theoretical. This is happening now. The FDA issued Emergency Use Authorizations for pet-specific screwworm treatments back in February, which tells you officials saw this coming and were already preparing.
 
@@ -61,12 +59,12 @@ Most veterinarians practicing today trained without ever diagnosing this parasit
 
 ## Sources
 
-- [DVM360 – New World Screwworm Live Updates](https://www.dvm360.com/view/new-world-screwworm-updates-the-latest-on-government-industry-response) (June 2026, ongoing)
-- [FDA – Emergency Use Authorizations for NWS Treatment in Dogs and Cats](https://www.fda.gov/animal-veterinary/cvm-updates/fda-issues-emergency-use-authorizations-drugs-treat-new-world-screwworm-dogs-and-cats) (February 18, 2026)
-- [Texas Tribune – How to Prevent and Treat Your Pet from Screwworm](https://www.texastribune.org/2026/06/11/screwworm-pets-what-to-know/) (June 11, 2026)
-- [PetMD – Screwworm in Pets and Livestock](https://www.petmd.com/dog/conditions/infectious-parasitic/screwworm-pets-and-livestock) (June 2026)
-- [Click2Houston – Can Your Dog or Cat Get Screwworm?](https://www.click2houston.com/news/local/2026/06/09/can-your-dog-or-cat-get-screwworm-heres-what-experts-say-about-the-risk-to-pets-and-people/) (June 9, 2026)
-- [USDA APHIS – Screwworm.gov](https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm) (June 2026, ongoing)
+- [DVM360, New World Screwworm Live Updates](https://www.dvm360.com/view/new-world-screwworm-updates-the-latest-on-government-industry-response) (June 2026, ongoing)
+- [FDA, Emergency Use Authorizations for NWS Treatment in Dogs and Cats](https://www.fda.gov/animal-veterinary/cvm-updates/fda-issues-emergency-use-authorizations-drugs-treat-new-world-screwworm-dogs-and-cats) (February 18, 2026)
+- [Texas Tribune, How to Prevent and Treat Your Pet from Screwworm](https://www.texastribune.org/2026/06/11/screwworm-pets-what-to-know/) (June 11, 2026)
+- [PetMD, Screwworm in Pets and Livestock](https://www.petmd.com/dog/conditions/infectious-parasitic/screwworm-pets-and-livestock) (June 2026)
+- [Click2Houston, Can Your Dog or Cat Get Screwworm?](https://www.click2houston.com/news/local/2026/06/09/can-your-dog-or-cat-get-screwworm-heres-what-experts-say-about-the-risk-to-pets-and-people/) (June 9, 2026)
+- [USDA APHIS, Screwworm.gov](https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm) (June 2026, ongoing)
 
 ## Helpful Resources
 

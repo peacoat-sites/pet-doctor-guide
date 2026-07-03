@@ -11,10 +11,7 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "glp-1-weight-loss-drugs-are-coming-for-overweight-pets"
-affiliate_disclosure: true
----
-
-If your cat is fat, there's finally something genuinely new to talk about. Not a prescription diet that requires military-grade portion discipline. Not a puzzle feeder. An actual drug, working the same biological pathway as Ozempic and Wegovy, designed specifically for your overweight pet.
+affiliate_disclosure: true, If your cat is fat, there's finally something genuinely new to talk about. Not a prescription diet that requires military-grade portion discipline. Not a puzzle feeder. An actual drug, working the same biological pathway as Ozempic and Wegovy, designed specifically for your overweight pet.
 
 Two companies are moving fast. Akston Biosciences presented data on AKS-562c, a weekly injectable GLP-1 therapy for cats, at the ACVIM Forum in Seattle on June 11–13, 2026. Twelve weeks of treatment. No treatment-related toxicity. Reduced food intake. That's not a dramatic result, but in early-phase pharmaceutical research, "safe and it does the thing" is exactly what you need. Separately, OKAVA Pharmaceuticals has already launched MEOW-1, the first-ever GLP-1 clinical trial in cats or dogs, enrolling at least 50 overweight cats for a six-month subcutaneous implant called OKV-119. Results are expected mid-2026. This is happening now, not in some theoretical future.
 
@@ -71,7 +68,7 @@ We're not there yet. But June 2026 is the closest we've ever been.
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 
 
@@ -87,7 +84,7 @@ We're not there yet. But June 2026 is the closest we've ever been.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

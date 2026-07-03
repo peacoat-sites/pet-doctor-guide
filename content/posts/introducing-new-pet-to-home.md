@@ -13,19 +13,19 @@ author_bio: "Rachel Sanders is a certified pet first aid instructor who has trai
 slug: "introducing-new-pet-to-home"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does it really take for a new cat to adjust to a resident cat?"
-    a: "Most cats reach baseline comfort with a new housemate somewhere between four and eight weeks, though full social bonding (if it happens at all) can take six months or more. Don't measure success by whether they cuddle — measure it by whether they can share space without sustained stress signals."
-  - q: "My resident dog is great with dogs at the park. Does that mean the introduction will go smoothly?"
-    a: "Not necessarily. Neutral-territory social behavior and home-territory behavior are different things. Resource guarding, spatial possessiveness, and the simple novelty of a permanent intruder can trigger reactions you've never seen at the dog park. Still run the full introduction sequence."
-  - q: "Should I get another cat of the same age and sex as my resident cat?"
-    a: "Sex matters less than personality and energy level. A calm eight-year-old cat is unlikely to bond well with a hyperactive six-month-old kitten regardless of sex. If you're adopting from a shelter, ask the staff which cats have lived successfully with others before — that history is more predictive than age or sex."
-  - q: "Is it normal for my resident pet to act withdrawn or depressed after I bring a new animal home?"
-    a: "Yes, and it's one of the things owners feel worst about. Your resident animal is processing a significant change in their environment. Give them extra one-on-one time, keep their routine as consistent as possible, and don't force interaction with the newcomer. Most animals recalibrate within two to three weeks."
-  - q: "My new cat won't come out from under the bed. How long is too long?"
-    a: "A day or two of hiding is normal and expected. If your new cat hasn't eaten, drunk water, or used the litter box within 48 hours, call your vet. If they're hiding but eating overnight when it's quiet, that's a shy cat adjusting at their own pace — not a crisis, just a process."
+ - q: "How long does it really take for a new cat to adjust to a resident cat?"
+ a: "Most cats reach baseline comfort with a new housemate somewhere between four and eight weeks, though full social bonding (if it happens at all) can take six months or more. Don't measure success by whether they cuddle, measure it by whether they can share space without sustained stress signals."
+ - q: "My resident dog is great with dogs at the park. Does that mean the introduction will go smoothly?"
+ a: "Not necessarily. Neutral-territory social behavior and home-territory behavior are different things. Resource guarding, spatial possessiveness, and the simple novelty of a permanent intruder can trigger reactions you've never seen at the dog park. Still run the full introduction sequence."
+ - q: "Should I get another cat of the same age and sex as my resident cat?"
+ a: "Sex matters less than personality and energy level. A calm eight-year-old cat is unlikely to bond well with a hyperactive six-month-old kitten regardless of sex. If you're adopting from a shelter, ask the staff which cats have lived successfully with others before, that history is more predictive than age or sex."
+ - q: "Is it normal for my resident pet to act withdrawn or depressed after I bring a new animal home?"
+ a: "Yes, and it's one of the things owners feel worst about. Your resident animal is processing a significant change in their environment. Give them extra one-on-one time, keep their routine as consistent as possible, and don't force interaction with the newcomer. Most animals recalibrate within two to three weeks."
+ - q: "My new cat won't come out from under the bed. How long is too long?"
+ a: "A day or two of hiding is normal and expected. If your new cat hasn't eaten, drunk water, or used the litter box within 48 hours, call your vet. If they're hiding but eating overnight when it's quiet, that's a shy cat adjusting at their own pace, not a crisis, just a process."
 ---
 
-Most "introducing a new pet" articles spend three paragraphs telling you to be patient and then wish you luck. That's not useful. What you actually need is a clear sequence, specific timing benchmarks, and honest guidance on what to do when things go sideways — because something usually does.
+Most "introducing a new pet" articles spend three paragraphs telling you to be patient and then wish you luck. That's not useful. What you actually need is a clear sequence, specific timing benchmarks, and honest guidance on what to do when things go sideways, because something usually does.
 
 I've helped coordinate dozens of multi-pet household introductions through the clinic, and I've seen the same mistakes wreck the process over and over: moving too fast, misreading body language, and underestimating how seriously a resident animal takes territorial space. Here's what actually works, as of June 2026.
 
@@ -33,7 +33,7 @@ I've helped coordinate dozens of multi-pet household introductions through the c
 
 Setup matters more than most people realize. If you're bringing home a second cat, a puppy into a cat household, or any combination that involves a resident animal, your first job is to create separation before the introduction even begins.
 
-Designate a "base room" for the newcomer. A spare bedroom or bathroom works well — somewhere the new animal can decompress, establish a scent, and feel safe without any pressure. Stock it with food, water, a litter box (for cats), bedding, and a few toys. Don't skip this step even if the room feels unnecessary. That space is doing real work.
+Designate a "base room" for the newcomer. A spare bedroom or bathroom works well, somewhere the new animal can decompress, establish a scent, and feel safe without any pressure. Stock it with food, water, a litter box (for cats), bedding, and a few toys. Don't skip this step even if the room feels unnecessary. That space is doing real work.
 
 For a [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourtag-20) to keep on hand during the transition period: worth having. Stress sometimes manifests as scratches, minor scuffles, or animals hiding and injuring themselves in tight spaces. (Disclosure: this site may earn a small commission from qualifying Amazon purchases.)
 
@@ -47,7 +47,7 @@ One thing most guides skip: swap bedding between the resident pet and the newcom
 
 There's no universal timeline, but there are reasonable defaults. Compress them and you'll pay for it.
 
-**Days 1-3:** New pet stays in the base room. No face-to-face contact with resident animals. Feed both animals on opposite sides of the closed door if possible — this creates a positive association (food) with the other animal's smell. Watch for stress signals: not eating, hiding for more than 24 hours, excessive vocalization, or diarrhea.
+**Days 1-3:** New pet stays in the base room. No face-to-face contact with resident animals. Feed both animals on opposite sides of the closed door if possible, this creates a positive association (food) with the other animal's smell. Watch for stress signals: not eating, hiding for more than 24 hours, excessive vocalization, or diarrhea.
 
 **Days 4-7:** If both animals are eating normally and showing curiosity rather than panic at the door, swap them. Let the newcomer explore the main space for 20-30 minutes while the resident animal hangs out in the base room. This gives the newcomer a chance to explore with no pressure and leaves scent trails everywhere, which continues the scent-acclimation process.
 
@@ -121,6 +121,6 @@ Worked example: a reader emailed me last spring about her Lab mix who had chased
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

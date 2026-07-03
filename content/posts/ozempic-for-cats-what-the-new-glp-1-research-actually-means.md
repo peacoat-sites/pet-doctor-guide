@@ -11,10 +11,7 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "ozempic-for-cats-what-the-new-glp-1-research-actually-means"
-affiliate_disclosure: true
----
-
-If you've got a chunky tabby who treats every meal like it's his last and has been slowly expanding on the couch for the past three years, you already know how hard feline weight loss actually is. You've probably tried the measured portions, the puzzle feeders, maybe even the prescription diet your vet recommended. And your cat has probably just... gotten rounder anyway. I've seen it hundreds of times in clinic. Obesity is genuinely one of the most frustrating conditions to manage in cats, partly because the treatment options are so thin. Diet and exercise counseling, basically. That's about it.
+affiliate_disclosure: true, If you've got a chunky tabby who treats every meal like it's his last and has been slowly expanding on the couch for the past three years, you already know how hard feline weight loss actually is. You've probably tried the measured portions, the puzzle feeders, maybe even the prescription diet your vet recommended. And your cat has probably just... gotten rounder anyway. I've seen it hundreds of times in clinic. Obesity is genuinely one of the most frustrating conditions to manage in cats, partly because the treatment options are so thin. Diet and exercise counseling, basically. That's about it.
 
 That's why what happened at the ACVIM Forum in Seattle earlier this month is worth paying attention to.
 
@@ -26,7 +23,7 @@ This comes on the heels of Okava Pharmaceuticals launching the MEOW-1 trial, the
 
 ## Why Cats Are Getting This Treatment Before Dogs
 
-> **Helpful resource:** [Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+> **Helpful resource:** [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
@@ -74,9 +71,9 @@ The GLP-1 research is genuinely exciting, and if MEOW-1 results come back strong
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
@@ -91,6 +88,6 @@ The GLP-1 research is genuinely exciting, and if MEOW-1 results come back strong
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

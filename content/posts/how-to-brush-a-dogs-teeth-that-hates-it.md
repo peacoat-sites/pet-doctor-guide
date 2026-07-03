@@ -13,18 +13,18 @@ author_bio: "James Whitfield has spent his career studying animal nutrition with
 slug: "how-to-brush-a-dogs-teeth-that-hates-it"
 affiliate_disclosure: true
 faqs:
-  - q: "How often do I actually need to brush my dog's teeth?"
-    a: "Daily is the gold standard, and that's what the AVMA recommends. Realistically, three to four times a week will still make a meaningful difference. The bacteria that form plaque take about 24 to 48 hours to mineralize into tartar, so the more frequent, the better -- but some is infinitely better than none."
-  - q: "My dog growls when I try to brush. Should I push through it?"
-    a: "No. Growling is communication, and a dog who growls is telling you they're at their limit. Pushing through it can lead to a bite and will almost certainly make the whole process harder long-term. Back up in the desensitization steps, go slower, and if the growling is intense or accompanied by snapping, talk to your vet about whether a referral to a veterinary behaviorist makes sense."
-  - q: "What if my dog swallows the toothpaste?"
-    a: "With enzymatic pet toothpaste specifically formulated for dogs, swallowing small amounts is fine -- it's designed for that, since dogs can't rinse and spit. This is also why you should never use human toothpaste, which contains xylitol or fluoride that can be toxic to dogs even in small amounts."
-  - q: "Are dental water additives worth it?"
-    a: "They're worth having in your toolkit, especially on days brushing doesn't happen. Products like Oxyfresh Water Additive have decent evidence behind them for reducing plaque bacteria. They're not a substitute for brushing, but they're easy, and easy things actually get done."
-  - q: "At what age should I start brushing my dog's teeth?"
-    a: "As early as possible -- ideally when they're puppies and still in that golden socialization window before 16 weeks. But dogs can absolutely learn to tolerate brushing as adults. It just takes more patience and a slower desensitization timeline."
+ - q: "How often do I actually need to brush my dog's teeth?"
+ a: "Daily is the gold standard, and that's what the AVMA recommends. Realistically, three to four times a week will still make a meaningful difference. The bacteria that form plaque take about 24 to 48 hours to mineralize into tartar, so the more frequent, the better, but some is infinitely better than none."
+ - q: "My dog growls when I try to brush. Should I push through it?"
+ a: "No. Growling is communication, and a dog who growls is telling you they're at their limit. Pushing through it can lead to a bite and will almost certainly make the whole process harder long-term. Back up in the desensitization steps, go slower, and if the growling is intense or accompanied by snapping, talk to your vet about whether a referral to a veterinary behaviorist makes sense."
+ - q: "What if my dog swallows the toothpaste?"
+ a: "With enzymatic pet toothpaste specifically formulated for dogs, swallowing small amounts is fine, it's designed for that, since dogs can't rinse and spit. This is also why you should never use human toothpaste, which contains xylitol or fluoride that can be toxic to dogs even in small amounts."
+ - q: "Are dental water additives worth it?"
+ a: "They're worth having in your toolkit, especially on days brushing doesn't happen. Products like Oxyfresh Water Additive have decent evidence behind them for reducing plaque bacteria. They're not a substitute for brushing, but they're easy, and easy things actually get done."
+ - q: "At what age should I start brushing my dog's teeth?"
+ a: "As early as possible, ideally when they're puppies and still in that golden socialization window before 16 weeks. But dogs can absolutely learn to tolerate brushing as adults. It just takes more patience and a slower desensitization timeline."
 ---
-Most dogs don't love having a toothbrush shoved in their mouth. You already knew that, or you wouldn't be here. Maybe your dog snaps and backs away the second they see the brush. Maybe you've tried twice, given up, and felt guilty about it ever since. That guilt is real, and it's also completely unnecessary -- let's just fix this instead.
+Most dogs don't love having a toothbrush shoved in their mouth. You already knew that, or you wouldn't be here. Maybe your dog snaps and backs away the second they see the brush. Maybe you've tried twice, given up, and felt guilty about it ever since. That guilt is real, and it's also completely unnecessary, let's just fix this instead.
 
 Thirteen years of prepping animals for procedures has taught me one thing: the dogs who seem impossible to brush have almost always just been rushed. The process matters more than the product. A lot more.
 
@@ -32,7 +32,7 @@ Thirteen years of prepping animals for procedures has taught me one thing: the d
 
 Here's what I tell people when they come in embarrassed that their dog won't cooperate: you probably tried to brush too soon. Like, within the first week of trying. Dogs need a desensitization period before a brush ever goes in their mouth, and most people skip it entirely because the packaging makes it look simple.
 
-The other big mistake is using human toothpaste or unflavored dog toothpaste. Dogs don't spit, which means fluoride is genuinely dangerous for them -- the [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) lists it as a toxin -- but beyond safety, flavor is your biggest recruitment tool here. Enzymatic toothpastes like Virbac C.E.T. in poultry or vanilla mint are popular because dogs actually like them. Think of the toothpaste as the bribe that makes the whole thing work.
+The other big mistake is using human toothpaste or unflavored dog toothpaste. Dogs don't spit, which means fluoride is genuinely dangerous for them, the [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) lists it as a toxin, but beyond safety, flavor is your biggest recruitment tool here. Enzymatic toothpastes like Virbac C.E.T. in poultry or vanilla mint are popular because dogs actually like them. Think of the toothpaste as the bribe that makes the whole thing work.
 
 And honestly? The brush shape matters too. A standard toothbrush is awkward for a lot of dogs. Finger brushes (the soft silicone kind that fit over your index finger) work better for dogs in early training. Less threatening. More control. The [Vet's Best Finger Toothbrush](https://www.amazon.com/s?k=finger+toothbrush+for+dogs) costs about $8. *(This site may earn a commission on purchases.)*
 

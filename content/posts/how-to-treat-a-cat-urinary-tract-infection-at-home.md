@@ -13,16 +13,16 @@ author_bio: "Michelle Chen has studied cat behavior through years of shelter vol
 slug: "how-to-treat-a-cat-urinary-tract-infection-at-home"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I give my cat human UTI medication like AZO?"
-    a: "No. Please don't. Phenazopyridine (the active ingredient in AZO) is toxic to cats and can cause methemoglobinemia, which is a life-threatening condition affecting the blood's ability to carry oxygen. This is a hard line. No human UTI medications for cats."
-  - q: "How do I know if my cat is blocked or just has a UTI?"
-    a: "The key sign is straining with little or no urine output. A cat that is genuinely blocked will posture repeatedly in the box and produce nothing, or tiny drops. You may also notice them crying, grooming their genital area obsessively, or becoming lethargic. If you're unsure, treat it as a block and call an emergency vet."
-  - q: "Can a cat UTI go away on its own?"
-    a: "Sometimes FIC (which mimics UTI symptoms) does resolve on its own within 5 to 7 days with supportive care like increased water intake and stress reduction. A true bacterial UTI is unlikely to clear without antibiotics and can progress to a kidney infection. Without a urine culture, you genuinely can't tell which one you're dealing with."
-  - q: "Is apple cider vinegar safe for cats with urinary issues?"
-    a: "I'd say no. The idea is that acidifying the urine would help, but the urinary pH that's 'helpful' depends entirely on what type of crystal or bacteria is present, and giving ACV without knowing that could make things worse. It also tastes terrible to cats and rarely gets consumed in any meaningful amount."
-  - q: "How much does a vet visit for a cat UTI typically cost?"
-    a: "It varies a lot by region, but expect a physical exam, urinalysis, and possibly a urine culture to run somewhere between $150 and $400 at a general practice clinic. Emergency clinics run higher. If your cat has recurrent urinary issues, pet insurance with a solid illness rider is worth pricing out sooner rather than later. The truth is, urinary issues are one of the more manageable chronic problems in cats, once you have an accurate diagnosis and a real plan. The home piece matters. The stress reduction matters. The wet food genuinely matters. But none of it replaces knowing what you're actual"
+ - q: "Can I give my cat human UTI medication like AZO?"
+ a: "No. Please don't. Phenazopyridine (the active ingredient in AZO) is toxic to cats and can cause methemoglobinemia, which is a life-threatening condition affecting the blood's ability to carry oxygen. This is a hard line. No human UTI medications for cats."
+ - q: "How do I know if my cat is blocked or just has a UTI?"
+ a: "The key sign is straining with little or no urine output. A cat that is genuinely blocked will posture repeatedly in the box and produce nothing, or tiny drops. You may also notice them crying, grooming their genital area obsessively, or becoming lethargic. If you're unsure, treat it as a block and call an emergency vet."
+ - q: "Can a cat UTI go away on its own?"
+ a: "Sometimes FIC (which mimics UTI symptoms) does resolve on its own within 5 to 7 days with supportive care like increased water intake and stress reduction. A true bacterial UTI is unlikely to clear without antibiotics and can progress to a kidney infection. Without a urine culture, you genuinely can't tell which one you're dealing with."
+ - q: "Is apple cider vinegar safe for cats with urinary issues?"
+ a: "I'd say no. The idea is that acidifying the urine would help, but the urinary pH that's 'helpful' depends entirely on what type of crystal or bacteria is present, and giving ACV without knowing that could make things worse. It also tastes terrible to cats and rarely gets consumed in any meaningful amount."
+ - q: "How much does a vet visit for a cat UTI typically cost?"
+ a: "It varies a lot by region, but expect a physical exam, urinalysis, and possibly a urine culture to run somewhere between $150 and $400 at a general practice clinic. Emergency clinics run higher. If your cat has recurrent urinary issues, pet insurance with a solid illness rider is worth pricing out sooner rather than later. The truth is, urinary issues are one of the more manageable chronic problems in cats, once you have an accurate diagnosis and a real plan. The home piece matters. The stress reduction matters. The wet food genuinely matters. But none of it replaces knowing what you're actual"
 ---
 Most of the "home remedies for cat UTI" articles floating around the internet are, I'll be honest, genuinely dangerous. Not unhelpful. Dangerous. Because cats with urinary problems can go from "acting a little off" to dead within 24 to 48 hours, and the advice to "try cranberry supplements first" can cost your cat its life.
 

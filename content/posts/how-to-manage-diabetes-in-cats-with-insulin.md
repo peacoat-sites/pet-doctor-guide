@@ -13,16 +13,16 @@ author_bio: "Rachel Sanders is a certified pet first aid instructor who has trai
 slug: "how-to-manage-diabetes-in-cats-with-insulin"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if my cat's insulin dose needs to be adjusted?"
-    a: "Signs that the dose might be too low include persistent lethargy, excessive thirst and urination, and blood glucose consistently above 400 mg/dL on home curves. Signs it may be too high include hypoglycemic episodes (weakness, disorientation, tremors) or nadir values below 80 mg/dL. Always run changes through your vet rather than adjusting on your own."
-  - q: "Can my cat eat regular cat food, or does it have to be prescription?"
-    a: "Prescription diabetic diets aren't automatically superior to a well-chosen over-the-counter wet food. The goal is high protein and low carbohydrates (under 10% of calories). Many grocery-store canned pates hit that target. Ask your vet to review your food choice, but don't assume you need to spend more to do this right."
-  - q: "What do I do if I accidentally give too much insulin?"
-    a: "Feed your cat immediately if they'll eat. Check blood glucose if you have a meter. If your cat shows any neurological signs (wobbly, glassy-eyed, unresponsive), rub corn syrup or Karo syrup on the gums and go to an emergency vet. Do not wait to see if they improve on their own."
-  - q: "How long can my cat live with diabetes?"
-    a: "Cats with well-managed diabetes can live for years with a good quality of life, and some achieve full remission where insulin is no longer needed. Life expectancy depends heavily on whether complications develop and how well glucose is controlled. Consistency in your routine makes a bigger difference than almost any other variable."
-  - q: "Is it normal for insulin requirements to change over time?"
-    a: "Yes, and this catches a lot of owners off guard. Stress, illness, concurrent medications (especially steroids), weight changes, and even seasonal variation can all shift a cat's insulin needs. This is why ongoing monitoring matters even after you've found a dose that works. A cat who was stable at 1 unit for six months can start running high again, and it doesn't mean you did anything wrong."
+ - q: "How do I know if my cat's insulin dose needs to be adjusted?"
+ a: "Signs that the dose might be too low include persistent lethargy, excessive thirst and urination, and blood glucose consistently above 400 mg/dL on home curves. Signs it may be too high include hypoglycemic episodes (weakness, disorientation, tremors) or nadir values below 80 mg/dL. Always run changes through your vet rather than adjusting on your own."
+ - q: "Can my cat eat regular cat food, or does it have to be prescription?"
+ a: "Prescription diabetic diets aren't automatically superior to a well-chosen over-the-counter wet food. The goal is high protein and low carbohydrates (under 10% of calories). Many grocery-store canned pates hit that target. Ask your vet to review your food choice, but don't assume you need to spend more to do this right."
+ - q: "What do I do if I accidentally give too much insulin?"
+ a: "Feed your cat immediately if they'll eat. Check blood glucose if you have a meter. If your cat shows any neurological signs (wobbly, glassy-eyed, unresponsive), rub corn syrup or Karo syrup on the gums and go to an emergency vet. Do not wait to see if they improve on their own."
+ - q: "How long can my cat live with diabetes?"
+ a: "Cats with well-managed diabetes can live for years with a good quality of life, and some achieve full remission where insulin is no longer needed. Life expectancy depends heavily on whether complications develop and how well glucose is controlled. Consistency in your routine makes a bigger difference than almost any other variable."
+ - q: "Is it normal for insulin requirements to change over time?"
+ a: "Yes, and this catches a lot of owners off guard. Stress, illness, concurrent medications (especially steroids), weight changes, and even seasonal variation can all shift a cat's insulin needs. This is why ongoing monitoring matters even after you've found a dose that works. A cat who was stable at 1 unit for six months can start running high again, and it doesn't mean you did anything wrong."
 ---
 
 The first time I gave a cat an insulin injection, my hands were shaking more than the cat's. That was early in my career, and the owner standing across the exam table looked like she was going to pass out. I told her what I tell every cat owner leaving our clinic with a new diabetes diagnosis: this is genuinely manageable. It takes about two weeks to feel comfortable and about two months to feel confident. Neither of us believed me that day. By week three, she was texting me that her cat, a tubby orange tabby named Gerald, was "basically a pro."
@@ -35,7 +35,7 @@ Most diabetic cats have Type 2 diabetes, which is different from how many people
 
 ## Insulin Types: This Is Where People Get Confused
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
@@ -94,9 +94,9 @@ It doesn't always happen that way. But it happens enough that it's worth doing e
 
 *As an Amazon Associate this site earns from qualifying purchases.*
 
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
 *Photo: [大 董](https://www.pexels.com/@724211268) via Pexels*
@@ -111,6 +111,6 @@ It doesn't always happen that way. But it happens enough that it's worth doing e
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

@@ -13,16 +13,16 @@ author_bio: "James Whitfield has spent his career studying animal nutrition with
 slug: "gabapentin-for-dogs"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I give my dog human gabapentin?"
-    a: "Capsules and plain tablets formulated for humans are generally the same drug and are commonly prescribed by vets. The danger is liquid gabapentin made for humans, which often contains xylitol, a sweetener that's toxic to dogs. Always confirm the formulation with your vet or pharmacist before giving any human medication."
-  - q: "How long does gabapentin take to work in dogs?"
-    a: "For acute pain or pre-visit anxiety, it typically takes effect within one to two hours, which is why pre-visit doses are given about two hours before the appointment. For chronic pain management, most vets suggest giving it a full two weeks before evaluating whether it's helping."
-  - q: "Can gabapentin make my dog too sleepy?"
-    a: "Yes, sedation is the most common side effect, and it can be significant at first. In most dogs it improves after one to two weeks as they adjust. If your dog seems excessively drowsy or uncoordinated after starting gabapentin, contact your vet. It's usually a dose issue that's easy to adjust."
-  - q: "Is gabapentin addictive for dogs?"
-    a: "Physical dependence can develop with long-term use, which is why abrupt discontinuation, especially in seizure patients, isn't recommended. This is more of a physiological adaptation than 'addiction' in the behavioral sense. Your vet will guide a gradual taper when it's time to stop."
-  - q: "Can gabapentin be used with other medications?"
-    a: "It generally plays well with NSAIDs, which is part of why it's popular in multimodal pain protocols. It can enhance the sedative effects of other CNS depressants though, so your vet needs to know everything your dog is taking, including supplements. Antacids can reduce gabapentin absorption if given at the same time, so spacing them out by at least two hours is worth doing."
+ - q: "Can I give my dog human gabapentin?"
+ a: "Capsules and plain tablets formulated for humans are generally the same drug and are commonly prescribed by vets. The danger is liquid gabapentin made for humans, which often contains xylitol, a sweetener that's toxic to dogs. Always confirm the formulation with your vet or pharmacist before giving any human medication."
+ - q: "How long does gabapentin take to work in dogs?"
+ a: "For acute pain or pre-visit anxiety, it typically takes effect within one to two hours, which is why pre-visit doses are given about two hours before the appointment. For chronic pain management, most vets suggest giving it a full two weeks before evaluating whether it's helping."
+ - q: "Can gabapentin make my dog too sleepy?"
+ a: "Yes, sedation is the most common side effect, and it can be significant at first. In most dogs it improves after one to two weeks as they adjust. If your dog seems excessively drowsy or uncoordinated after starting gabapentin, contact your vet. It's usually a dose issue that's easy to adjust."
+ - q: "Is gabapentin addictive for dogs?"
+ a: "Physical dependence can develop with long-term use, which is why abrupt discontinuation, especially in seizure patients, isn't recommended. This is more of a physiological adaptation than 'addiction' in the behavioral sense. Your vet will guide a gradual taper when it's time to stop."
+ - q: "Can gabapentin be used with other medications?"
+ a: "It generally plays well with NSAIDs, which is part of why it's popular in multimodal pain protocols. It can enhance the sedative effects of other CNS depressants though, so your vet needs to know everything your dog is taking, including supplements. Antacids can reduce gabapentin absorption if given at the same time, so spacing them out by at least two hours is worth doing."
 ---
 
 Most pet owners I talk to assume gabapentin is just a "nerve pain drug" their vet throws at older dogs who seem stiff. That framing is so incomplete it can actually lead people to under-use or misuse a medication that, in the right context, is genuinely remarkable.
@@ -135,6 +135,6 @@ Anyone who's owned a senior German Shepherd or a Dachshund with spinal issues kn
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

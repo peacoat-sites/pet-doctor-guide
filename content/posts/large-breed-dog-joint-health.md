@@ -11,10 +11,7 @@ author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 slug: "large-breed-dog-joint-health"
-affiliate_disclosure: true
----
-
-Large breed dogs age faster than most people realize. A Great Dane is considered a senior at 6. A Rottweiler's hips can start showing arthritis changes on X-ray at 3 or 4, years before they limp visibly. If you've got a dog over 40 pounds and you're reading this, you're probably somewhere on the spectrum between "I want to be proactive" and "my dog is already struggling and I don't know what to do." Both of those places are completely reasonable, and this article is for both of you.
+affiliate_disclosure: true, Large breed dogs age faster than most people realize. A Great Dane is considered a senior at 6. A Rottweiler's hips can start showing arthritis changes on X-ray at 3 or 4, years before they limp visibly. If you've got a dog over 40 pounds and you're reading this, you're probably somewhere on the spectrum between "I want to be proactive" and "my dog is already struggling and I don't know what to do." Both of those places are completely reasonable, and this article is for both of you.
 
 Let me start with something I got wrong for longer than I'd like to admit.
 
@@ -131,7 +128,7 @@ I keep coming back to Nutramax Cosequin DS for glucosamine/chondroitin because i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 

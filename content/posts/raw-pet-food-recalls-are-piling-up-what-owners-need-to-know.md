@@ -11,10 +11,7 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "raw-pet-food-recalls-are-piling-up-what-owners-need-to-know"
-affiliate_disclosure: true
----
-
-If you follow raw feeding forums at all, you've probably noticed the mood shift in recent months. What used to be spirited debates about prey-model ratios and sourcing has turned into something more anxious. Three significant recalls have landed in the raw and minimally processed pet food space within months of each other in 2026, and the community is asking hard questions about whether the safety infrastructure around these products is actually good enough.
+affiliate_disclosure: true, If you follow raw feeding forums at all, you've probably noticed the mood shift in recent months. What used to be spirited debates about prey-model ratios and sourcing has turned into something more anxious. Three significant recalls have landed in the raw and minimally processed pet food space within months of each other in 2026, and the community is asking hard questions about whether the safety infrastructure around these products is actually good enough.
 
 I'll be honest: I went into this thinking it was going to be a straightforward "here are the products, here's what to do" writeup. What I found was messier and more concerning than that.
 
@@ -92,6 +89,6 @@ The raw feeding community built itself on doing the research and caring deeply a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

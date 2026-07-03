@@ -11,10 +11,7 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-guidelines-just-changed-how-vets-treat-cat-diabetes"
-affiliate_disclosure: true
----
-
-If your cat was diagnosed with diabetes this year, the treatment your vet recommends might look nothing like what a friend's diabetic cat received two or three years ago. That's not inconsistency. That's the field actually moving. On April 27, 2026, the American Animal Hospital Association published its first-ever feline-specific diabetes guidelines, and the central shift is bigger than most pet owners realize: for many newly diagnosed cats, a daily pill or oral solution now comes *before* insulin in the treatment hierarchy. After 13 years watching diabetes management evolve in clinic, I'll be honest, I didn't expect an oral medication to leapfrog insulin this decisively in formal guidelines. But here we are, and if your cat is diabetic or you're watching a chunky middle-aged cat show suspicious signs, you need to understand what changed and why.
+affiliate_disclosure: true, If your cat was diagnosed with diabetes this year, the treatment your vet recommends might look nothing like what a friend's diabetic cat received two or three years ago. That's not inconsistency. That's the field actually moving. On April 27, 2026, the American Animal Hospital Association published its first-ever feline-specific diabetes guidelines, and the central shift is bigger than most pet owners realize: for many newly diagnosed cats, a daily pill or oral solution now comes *before* insulin in the treatment hierarchy. After 13 years watching diabetes management evolve in clinic, I'll be honest, I didn't expect an oral medication to leapfrog insulin this decisively in formal guidelines. But here we are, and if your cat is diabetic or you're watching a chunky middle-aged cat show suspicious signs, you need to understand what changed and why.
 
 ## Why Separating Cats From Dogs Was Long Overdue
 
@@ -60,11 +57,11 @@ The field genuinely moved this spring. For cats and the people who love them, th
 
 ## Sources
 
-- [2026 AAHA Diabetes Management Guidelines for Cats ,  AAHA Official Release](https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/) (April 27, 2026)
-- [What the new AAHA Diabetes Management Guidelines for Cats say about SGLT2 inhibitors ,  dvm360](https://www.dvm360.com/view/what-the-new-aaha-diabetes-management-guidelines-for-cats-say-about-sglt2-inhibitors) (June 26, 2026)
-- [Updated AAHA diabetes management guidelines focuses on cats ,  AVMA News](https://www.avma.org/news/updated-aaha-diabetes-management-guidelines-focuses-cats) (May 19, 2026)
-- [AAHA Releases 2026 Feline Diabetes Management Guidelines ,  Animal Health News](https://animalhealthnews.com/2026/05/01/aaha-releases-2026-feline-diabetes-management-guidelines/) (May 1, 2026)
-- [2026 AAHA Diabetes Management Guidelines for Cats ,  Journal of the American Animal Hospital Association](https://jaaha.kglmeridian.com/view/journals/aaha/62/3/article-p65.xml) (May 1, 2026)
+- [2026 AAHA Diabetes Management Guidelines for Cats , AAHA Official Release](https://www.aaha.org/resources/2026-aaha-diabetes-management-guidelines-for-cats/) (April 27, 2026)
+- [What the new AAHA Diabetes Management Guidelines for Cats say about SGLT2 inhibitors , dvm360](https://www.dvm360.com/view/what-the-new-aaha-diabetes-management-guidelines-for-cats-say-about-sglt2-inhibitors) (June 26, 2026)
+- [Updated AAHA diabetes management guidelines focuses on cats , AVMA News](https://www.avma.org/news/updated-aaha-diabetes-management-guidelines-focuses-cats) (May 19, 2026)
+- [AAHA Releases 2026 Feline Diabetes Management Guidelines , Animal Health News](https://animalhealthnews.com/2026/05/01/aaha-releases-2026-feline-diabetes-management-guidelines/) (May 1, 2026)
+- [2026 AAHA Diabetes Management Guidelines for Cats , Journal of the American Animal Hospital Association](https://jaaha.kglmeridian.com/view/journals/aaha/62/3/article-p65.xml) (May 1, 2026)
 
 ## Helpful Resources
 
@@ -87,6 +84,6 @@ The field genuinely moved this spring. For cats and the people who love them, th
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

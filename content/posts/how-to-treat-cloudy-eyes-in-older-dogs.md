@@ -13,16 +13,16 @@ author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine fo
 slug: "how-to-treat-cloudy-eyes-in-older-dogs"
 affiliate_disclosure: true
 faqs:
-  - q: "Can cloudy eyes in dogs get better on their own?"
-    a: "Nuclear sclerosis, the most common cause in older dogs, doesn't improve but doesn't worsen significantly either, and it doesn't require treatment. True cataracts will not reverse without surgical intervention. If the cloudiness is from a corneal ulcer, it can resolve with appropriate treatment, but that requires prescription medication from your vet."
-  - q: "Is my dog in pain if their eyes look cloudy?"
-    a: "Nuclear sclerosis and most cataracts are not painful. However, corneal ulcers, glaucoma, and uveitis can be quite painful, sometimes severely so. Squinting, pawing at the eye, or a red-looking eye alongside cloudiness is a signal that pain is likely. Get it checked the same day."
-  - q: "Are certain dog breeds more prone to cataracts?"
-    a: "Yes, and significantly so. Poodles, Cocker Spaniels, Labrador Retrievers, Siberian Huskies, Boston Terriers, and Golden Retrievers have higher inherited predisposition. Diabetic dogs of any breed can develop cataracts rapidly. If you have a breed on that list, baseline eye exams starting around age five are worth adding to your senior care plan."
-  - q: "Should I use eye drops from the pet store for my dog's cloudy eyes?"
-    a: "Skip them until you know what you're dealing with. Over-the-counter artificial tears are unlikely to cause harm, but they won't do anything meaningful for cataracts or sclerosis, and using them can delay you getting an actual diagnosis. Some human eye drops contain ingredients that are harmful to dogs. When in doubt, the ASPCA Poison Control Center can advise on specific product ingredients if you're concerned about something your dog was exposed to."
-  - q: "How much does cataract surgery for dogs typically cost?"
-    a: "Expect a wide range depending on your region, the specialist, and whether one or both eyes are affected. Referral exam and workup alone often runs several hundred dollars before surgery. Surgery itself is typically quoted in the thousands per eye. Pet insurance with ophthalmology coverage or hereditary condition coverage can make a real difference here. Ask your primary vet for a referral to a board-certified veterinary ophthalmologist (DACVO) for the most accurate evaluation and pricing."
+ - q: "Can cloudy eyes in dogs get better on their own?"
+ a: "Nuclear sclerosis, the most common cause in older dogs, doesn't improve but doesn't worsen significantly either, and it doesn't require treatment. True cataracts will not reverse without surgical intervention. If the cloudiness is from a corneal ulcer, it can resolve with appropriate treatment, but that requires prescription medication from your vet."
+ - q: "Is my dog in pain if their eyes look cloudy?"
+ a: "Nuclear sclerosis and most cataracts are not painful. However, corneal ulcers, glaucoma, and uveitis can be quite painful, sometimes severely so. Squinting, pawing at the eye, or a red-looking eye alongside cloudiness is a signal that pain is likely. Get it checked the same day."
+ - q: "Are certain dog breeds more prone to cataracts?"
+ a: "Yes, and significantly so. Poodles, Cocker Spaniels, Labrador Retrievers, Siberian Huskies, Boston Terriers, and Golden Retrievers have higher inherited predisposition. Diabetic dogs of any breed can develop cataracts rapidly. If you have a breed on that list, baseline eye exams starting around age five are worth adding to your senior care plan."
+ - q: "Should I use eye drops from the pet store for my dog's cloudy eyes?"
+ a: "Skip them until you know what you're dealing with. Over-the-counter artificial tears are unlikely to cause harm, but they won't do anything meaningful for cataracts or sclerosis, and using them can delay you getting an actual diagnosis. Some human eye drops contain ingredients that are harmful to dogs. When in doubt, the ASPCA Poison Control Center can advise on specific product ingredients if you're concerned about something your dog was exposed to."
+ - q: "How much does cataract surgery for dogs typically cost?"
+ a: "Expect a wide range depending on your region, the specialist, and whether one or both eyes are affected. Referral exam and workup alone often runs several hundred dollars before surgery. Surgery itself is typically quoted in the thousands per eye. Pet insurance with ophthalmology coverage or hereditary condition coverage can make a real difference here. Ask your primary vet for a referral to a board-certified veterinary ophthalmologist (DACVO) for the most accurate evaluation and pricing."
 ---
 
 Cloudy eyes in older dogs get misdiagnosed more often than almost any other age-related condition I see. Owners come in convinced their dog has cataracts. Half the time, they're looking at something completely different. And the treatment path for those two conditions isn't even close to the same.
@@ -122,7 +122,7 @@ Annual senior wellness exams should include eye pressure checks in dogs with any
 
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [Vladimir Srajber](https://www.pexels.com/@vladimirsrajber) via Pexels*
@@ -137,6 +137,6 @@ Annual senior wellness exams should include eye pressure checks in dogs with any
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

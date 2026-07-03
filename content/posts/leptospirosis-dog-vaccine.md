@@ -13,16 +13,16 @@ author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine fo
 slug: "leptospirosis-dog-vaccine"
 affiliate_disclosure: true
 faqs:
-  - q: "Is the leptospirosis vaccine safe for small dogs?"
-    a: "Modern four-serovar lepto vaccines are considerably safer than older formulations, but small breed dogs under 10 pounds do have a modestly higher reaction risk. Many vets will pre-treat with diphenhydramine and observe the dog for 30-60 minutes post-injection, which significantly reduces the risk of a reaction going unmanaged."
-  - q: "How often does my dog need the lepto vaccine?"
-    a: "After the initial two-dose series (given 2-4 weeks apart), annual boosters are required to maintain protection. Unlike some vaccines where duration of immunity extends to three years, leptospirosis protection wanes more quickly, so annual is genuinely necessary here, not just a revenue play."
-  - q: "Can my dog still get leptospirosis even after being vaccinated?"
-    a: "Yes, though it's uncommon. No vaccine is 100% effective, and the four serovars covered don't represent every possible strain your dog could encounter. Vaccinated dogs who do contract lepto typically have much milder illness and better outcomes than unvaccinated dogs."
-  - q: "My dog is mostly indoors. Does he still need this vaccine?"
-    a: "Honestly, maybe not, depending on his actual exposure. A dog who goes outside only on leash, never contacts standing water or wildlife, and lives in a low-risk geographic area may have a risk-benefit profile that doesn't justify the vaccine. This is a conversation worth having with your specific vet rather than defaulting to yes or no."
-  - q: "Can humans catch leptospirosis from a sick dog?"
-    a: "Yes. Leptospirosis is zoonotic, which means infected dogs can shed the bacteria in their urine and expose people in the household. This is particularly concerning if an infected dog is incontinent or if there are immunocompromised people in the home. If your dog is diagnosed with lepto, your vet should walk you through safe handling protocols immediately."
+ - q: "Is the leptospirosis vaccine safe for small dogs?"
+ a: "Modern four-serovar lepto vaccines are considerably safer than older formulations, but small breed dogs under 10 pounds do have a modestly higher reaction risk. Many vets will pre-treat with diphenhydramine and observe the dog for 30-60 minutes post-injection, which significantly reduces the risk of a reaction going unmanaged."
+ - q: "How often does my dog need the lepto vaccine?"
+ a: "After the initial two-dose series (given 2-4 weeks apart), annual boosters are required to maintain protection. Unlike some vaccines where duration of immunity extends to three years, leptospirosis protection wanes more quickly, so annual is genuinely necessary here, not just a revenue play."
+ - q: "Can my dog still get leptospirosis even after being vaccinated?"
+ a: "Yes, though it's uncommon. No vaccine is 100% effective, and the four serovars covered don't represent every possible strain your dog could encounter. Vaccinated dogs who do contract lepto typically have much milder illness and better outcomes than unvaccinated dogs."
+ - q: "My dog is mostly indoors. Does he still need this vaccine?"
+ a: "Honestly, maybe not, depending on his actual exposure. A dog who goes outside only on leash, never contacts standing water or wildlife, and lives in a low-risk geographic area may have a risk-benefit profile that doesn't justify the vaccine. This is a conversation worth having with your specific vet rather than defaulting to yes or no."
+ - q: "Can humans catch leptospirosis from a sick dog?"
+ a: "Yes. Leptospirosis is zoonotic, which means infected dogs can shed the bacteria in their urine and expose people in the household. This is particularly concerning if an infected dog is incontinent or if there are immunocompromised people in the home. If your dog is diagnosed with lepto, your vet should walk you through safe handling protocols immediately."
 ---
 
 Most pet owners I talk to think of leptospirosis as some exotic, rare disease that only matters if you're hiking in the Amazon. I've had this exact conversation hundreds of times in the exam room. Then someone's dog gets sick, and suddenly it's very real, very fast.
@@ -105,8 +105,8 @@ If your dog has had a prior reaction to a vaccine (any vaccine), definitely disc
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 
 
 *Photo: [Anna Tarazevich](https://www.pexels.com/@anntarazevich) via Pexels*
@@ -121,7 +121,7 @@ If your dog has had a prior reaction to a vaccine (any vaccine), definitely disc
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 
