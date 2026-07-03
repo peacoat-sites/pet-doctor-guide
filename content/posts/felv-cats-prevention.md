@@ -14,15 +14,15 @@ slug: "felv-cats-prevention"
 affiliate_disclosure: true
 faqs:
  - q: "Can indoor cats get FeLV?"
- a: "Yes, but their risk is much lower. The most common exposure routes for indoor-only cats are contact with a new cat brought into the home, or an escape. If your cat is truly never outdoors and no new cats are introduced untested, their FeLV risk is very low but not zero."
+   a: "Yes, but their risk is much lower. The most common exposure routes for indoor-only cats are contact with a new cat brought into the home, or an escape. If your cat is truly never outdoors and no new cats are introduced untested, their FeLV risk is very low but not zero."
  - q: "Should I vaccinate my cat against FeLV if they're already adults?"
- a: "Absolutely, if they have outdoor access or live with cats whose status isn't confirmed. There's no age cutoff on starting the vaccine series. Talk to your vet about whether the two-dose initial series or a single dose makes sense based on your cat's history and risk."
+   a: "Absolutely, if they have outdoor access or live with cats whose status isn't confirmed. There's no age cutoff on starting the vaccine series. Talk to your vet about whether the two-dose initial series or a single dose makes sense based on your cat's history and risk."
  - q: "If my cat tests positive for FeLV, how long will they live?"
- a: "There's no reliable number, and anyone who gives you a firm timeline is guessing. Some cats live two to three years post-diagnosis; others live seven or more. Quality of life, stress levels, diet, and whether they develop secondary illness all matter enormously. Regular vet monitoring, typically every six months, makes a real difference in catching problems early."
+   a: "There's no reliable number, and anyone who gives you a firm timeline is guessing. Some cats live two to three years post-diagnosis; others live seven or more. Quality of life, stress levels, diet, and whether they develop secondary illness all matter enormously. Regular vet monitoring, typically every six months, makes a real difference in catching problems early."
  - q: "Can FeLV spread to my other pets or to me?"
- a: "No. FeLV is species-specific to cats. Dogs, humans, and other animals are not at risk. You can safely handle and care for a FeLV-positive cat without any risk to yourself."
+   a: "No. FeLV is species-specific to cats. Dogs, humans, and other animals are not at risk. You can safely handle and care for a FeLV-positive cat without any risk to yourself."
  - q: "Is there any treatment for FeLV itself?"
- a: "There's no cure that eliminates the virus. Treatment is focused on managing complications, like treating infections aggressively, managing anemia, and monitoring for lymphoma. Some vets use antiviral medications like interferon with mixed results. The AAHA hospital accreditation standards include guidelines on FeLV management that your vet should be following. The goal is keeping the cat comfortable and healthy for as long as possible, and that's genuinely achievable for many cats."
+   a: "There's no cure that eliminates the virus. Treatment is focused on managing complications, like treating infections aggressively, managing anemia, and monitoring for lymphoma. Some vets use antiviral medications like interferon with mixed results. The AAHA hospital accreditation standards include guidelines on FeLV management that your vet should be following. The goal is keeping the cat comfortable and healthy for as long as possible, and that's genuinely achievable for many cats."
 ---
 
 A cat came into our clinic one Tuesday with a history that made my stomach drop a little. He was a 3-year-old indoor/outdoor tabby named Marty, sweet as anything, and his owner had just adopted a second cat from a rescue that turned out to be FeLV-positive. The rescue hadn't tested. Now she was sitting in our exam room asking me if Marty was going to be okay.

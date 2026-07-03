@@ -14,15 +14,15 @@ slug: "multi-pet-household-tips"
 affiliate_disclosure: true
 faqs:
  - q: "How do I stop my dog from eating the cat's food?"
- a: "Feed the cat on an elevated surface the dog can't reach, or use a microchip-activated feeder that only opens for the cat. Free-feeding cats in a multi-pet home almost always means the dog eats the cat food eventually."
+   a: "Feed the cat on an elevated surface the dog can't reach, or use a microchip-activated feeder that only opens for the cat. Free-feeding cats in a multi-pet home almost always means the dog eats the cat food eventually."
  - q: "Is it normal for my resident cat to hide after I bring home a new cat?"
- a: "Yes, and it's normal for it to last several weeks. Hiding is stress behavior, not illness, in this context. As long as the cat is eating, drinking, and using the litter box, give them time. If they stop eating for more than 48 hours, call your vet."
+   a: "Yes, and it's normal for it to last several weeks. Hiding is stress behavior, not illness, in this context. As long as the cat is eating, drinking, and using the litter box, give them time. If they stop eating for more than 48 hours, call your vet."
  - q: "Can my dog catch a cold from my cat?"
- a: "Generally no. Most feline upper respiratory infections (herpesvirus, calicivirus) are species-specific. There are rare exceptions, but this isn't something to lose sleep over."
+   a: "Generally no. Most feline upper respiratory infections (herpesvirus, calicivirus) are species-specific. There are rare exceptions, but this isn't something to lose sleep over."
  - q: "How do I know if my animals are stressed versus just adjusting?"
- a: "Adjustment looks like gradual improvement over days or weeks. Stress that needs attention looks like hiding that doesn't reduce, stopped eating, litter box avoidance, over-grooming, or aggression that escalates rather than settles. If the trajectory is getting worse, not better, talk to your vet or a veterinary behaviorist."
+   a: "Adjustment looks like gradual improvement over days or weeks. Stress that needs attention looks like hiding that doesn't reduce, stopped eating, litter box avoidance, over-grooming, or aggression that escalates rather than settles. If the trajectory is getting worse, not better, talk to your vet or a veterinary behaviorist."
  - q: "Do all my pets need to see the same vet?"
- a: "It helps but isn't required. What's more important is that at least one provider knows your household's full picture. If you use different vets, make sure each one knows what other animals are in the home, because that context changes medication and treatment decisions."
+   a: "It helps but isn't required. What's more important is that at least one provider knows your household's full picture. If you use different vets, make sure each one knows what other animals are in the home, because that context changes medication and treatment decisions."
 ---
 
 Three cats and a dog under one roof sounds charming until 2 a.m. when the terrier is sprinting laps because the tabby ambushed him off the couch. I'll be honest: I spent years telling clients that multi-pet households "just take some adjustment," and while that's technically true, it undersells how deliberate you have to be about the setup. Most of the chaos I see in multi-pet homes isn't personality conflict. It's resource competition that nobody noticed until it got loud.

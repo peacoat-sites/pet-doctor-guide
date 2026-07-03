@@ -14,15 +14,15 @@ slug: "introducing-new-pet-to-home"
 affiliate_disclosure: true
 faqs:
  - q: "How long does it really take for a new cat to adjust to a resident cat?"
- a: "Most cats reach baseline comfort with a new housemate somewhere between four and eight weeks, though full social bonding (if it happens at all) can take six months or more. Don't measure success by whether they cuddle, measure it by whether they can share space without sustained stress signals."
+   a: "Most cats reach baseline comfort with a new housemate somewhere between four and eight weeks, though full social bonding (if it happens at all) can take six months or more. Don't measure success by whether they cuddle, measure it by whether they can share space without sustained stress signals."
  - q: "My resident dog is great with dogs at the park. Does that mean the introduction will go smoothly?"
- a: "Not necessarily. Neutral-territory social behavior and home-territory behavior are different things. Resource guarding, spatial possessiveness, and the simple novelty of a permanent intruder can trigger reactions you've never seen at the dog park. Still run the full introduction sequence."
+   a: "Not necessarily. Neutral-territory social behavior and home-territory behavior are different things. Resource guarding, spatial possessiveness, and the simple novelty of a permanent intruder can trigger reactions you've never seen at the dog park. Still run the full introduction sequence."
  - q: "Should I get another cat of the same age and sex as my resident cat?"
- a: "Sex matters less than personality and energy level. A calm eight-year-old cat is unlikely to bond well with a hyperactive six-month-old kitten regardless of sex. If you're adopting from a shelter, ask the staff which cats have lived successfully with others before, that history is more predictive than age or sex."
+   a: "Sex matters less than personality and energy level. A calm eight-year-old cat is unlikely to bond well with a hyperactive six-month-old kitten regardless of sex. If you're adopting from a shelter, ask the staff which cats have lived successfully with others before, that history is more predictive than age or sex."
  - q: "Is it normal for my resident pet to act withdrawn or depressed after I bring a new animal home?"
- a: "Yes, and it's one of the things owners feel worst about. Your resident animal is processing a significant change in their environment. Give them extra one-on-one time, keep their routine as consistent as possible, and don't force interaction with the newcomer. Most animals recalibrate within two to three weeks."
+   a: "Yes, and it's one of the things owners feel worst about. Your resident animal is processing a significant change in their environment. Give them extra one-on-one time, keep their routine as consistent as possible, and don't force interaction with the newcomer. Most animals recalibrate within two to three weeks."
  - q: "My new cat won't come out from under the bed. How long is too long?"
- a: "A day or two of hiding is normal and expected. If your new cat hasn't eaten, drunk water, or used the litter box within 48 hours, call your vet. If they're hiding but eating overnight when it's quiet, that's a shy cat adjusting at their own pace, not a crisis, just a process."
+   a: "A day or two of hiding is normal and expected. If your new cat hasn't eaten, drunk water, or used the litter box within 48 hours, call your vet. If they're hiding but eating overnight when it's quiet, that's a shy cat adjusting at their own pace, not a crisis, just a process."
 ---
 
 Most "introducing a new pet" articles spend three paragraphs telling you to be patient and then wish you luck. That's not useful. What you actually need is a clear sequence, specific timing benchmarks, and honest guidance on what to do when things go sideways, because something usually does.

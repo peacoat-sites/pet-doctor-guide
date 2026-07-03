@@ -14,15 +14,15 @@ slug: "dog-skin-cancer-signs"
 affiliate_disclosure: true
 faqs:
  - q: "Can a vet tell if a lump is cancerous just by looking at it?"
- a: "No, and any vet who claims they can is overconfident. Visual inspection can raise or lower suspicion, but a definitive answer requires a fine needle aspirate or biopsy. Even experienced oncologists use cytology before making treatment decisions."
+   a: "No, and any vet who claims they can is overconfident. Visual inspection can raise or lower suspicion, but a definitive answer requires a fine needle aspirate or biopsy. Even experienced oncologists use cytology before making treatment decisions."
  - q: "How fast do mast cell tumors grow in dogs?"
- a: "Highly variable. Some are stable for months. Others can double in size within weeks. The fluctuation in size (swelling and then seeming to shrink) is actually more diagnostically suspicious than consistent slow growth, and should prompt an immediate vet visit."
+   a: "Highly variable. Some are stable for months. Others can double in size within weeks. The fluctuation in size (swelling and then seeming to shrink) is actually more diagnostically suspicious than consistent slow growth, and should prompt an immediate vet visit."
  - q: "Is a dog skin cancer diagnosis always fatal?"
- a: "Not remotely. Many dogs with early-stage, localized skin tumors are treated with surgery and never have a recurrence. Prognosis depends heavily on tumor type, grade, location, and how early it was caught. Low-grade mast cell tumors removed with clean margins carry an excellent prognosis."
+   a: "Not remotely. Many dogs with early-stage, localized skin tumors are treated with surgery and never have a recurrence. Prognosis depends heavily on tumor type, grade, location, and how early it was caught. Low-grade mast cell tumors removed with clean margins carry an excellent prognosis."
  - q: "Should I be worried about a lump that my dog has had for years without changing?"
- a: "Long-term stability is genuinely reassuring, but it's not a permanent free pass. If a lump you've been monitoring for years suddenly changes in size, texture, or appearance, treat it as new information and get it evaluated. Lipomas can occasionally undergo malignant transformation, though it's uncommon."
+   a: "Long-term stability is genuinely reassuring, but it's not a permanent free pass. If a lump you've been monitoring for years suddenly changes in size, texture, or appearance, treat it as new information and get it evaluated. Lipomas can occasionally undergo malignant transformation, though it's uncommon."
  - q: "What does an ulcerated skin tumor look like on a dog?"
- a: "It looks like a sore that won't close, often with a raw, weeping center. The edges may be raised and irregular. Your dog will likely be paying a lot of attention to it. An ulcerated mass isn't automatically cancer, but it warrants same-week veterinary attention regardless of cause."
+   a: "It looks like a sore that won't close, often with a raw, weeping center. The edges may be raised and irregular. Your dog will likely be paying a lot of attention to it. An ulcerated mass isn't automatically cancer, but it warrants same-week veterinary attention regardless of cause."
 ---
 
 Most articles about dog skin cancer open with a paragraph about how "early detection is key" and then describe lumps so vague they could be a mosquito bite. That's not useful. What you actually need is enough specificity to know which bumps deserve a Monday morning call to your vet and which ones need you in the car right now.

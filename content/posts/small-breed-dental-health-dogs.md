@@ -14,15 +14,15 @@ slug: "small-breed-dental-health-dogs"
 affiliate_disclosure: true
 faqs:
  - q: "How often should I brush my small dog's teeth?"
- a: "Daily is the standard recommendation, and that frequency matters because plaque hardens into tartar within 48 to 72 hours. Even brushing three to four times a week is meaningfully better than nothing, but daily is the goal worth working toward."
+   a: "Daily is the standard recommendation, and that frequency matters because plaque hardens into tartar within 48 to 72 hours. Even brushing three to four times a week is meaningfully better than nothing, but daily is the goal worth working toward."
  - q: "At what age should I start dental care for my small breed puppy?"
- a: "Start as early as possible, ideally around 8 to 12 weeks when they're most receptive to new handling. Even though puppies lose their baby teeth, getting them comfortable with having their mouth touched early makes adult dental care dramatically easier."
+   a: "Start as early as possible, ideally around 8 to 12 weeks when they're most receptive to new handling. Even though puppies lose their baby teeth, getting them comfortable with having their mouth touched early makes adult dental care dramatically easier."
  - q: "Are dental water additives worth using?"
- a: "They can help slow plaque accumulation as a supplement to brushing, but I wouldn't rely on them as a standalone strategy. Look for products with the VOHA seal of acceptance if you want confidence there's real evidence behind them."
+   a: "They can help slow plaque accumulation as a supplement to brushing, but I wouldn't rely on them as a standalone strategy. Look for products with the VOHA seal of acceptance if you want confidence there's real evidence behind them."
  - q: "My dog hates having her teeth brushed. Is there anything else I can do?"
- a: "Enzymatic toothpastes that are applied by finger or gauze pad are a reasonable second option. Dental chews with the VOHA seal also help. But be honest with your vet about what you're actually doing so they can calibrate how frequently your dog needs professional cleanings."
+   a: "Enzymatic toothpastes that are applied by finger or gauze pad are a reasonable second option. Dental chews with the VOHA seal also help. But be honest with your vet about what you're actually doing so they can calibrate how frequently your dog needs professional cleanings."
  - q: "How do I know if my dog has a toothache?"
- a: "Dogs mask pain well, but watch for changes in eating behavior, chewing on one side, dropping food, pawing at the mouth, or reluctance to let you touch their face. Any of these warrants a vet visit rather than a wait-and-see approach. Dental pain is real and often undertreated in dogs simply because they don't cry out the way we'd expect."
+   a: "Dogs mask pain well, but watch for changes in eating behavior, chewing on one side, dropping food, pawing at the mouth, or reluctance to let you touch their face. Any of these warrants a vet visit rather than a wait-and-see approach. Dental pain is real and often undertreated in dogs simply because they don't cry out the way we'd expect."
 ---
 
 Your Chihuahua's breath just knocked you back a step. You leaned in to give her a good-morning scratch and got hit with something that smelled like a fishing trawler. And your vet mentioned at the last visit, kind of casually, the way vets sometimes deliver genuinely alarming news, that she's "showing early signs of periodontal disease." She's four years old.

@@ -14,15 +14,15 @@ slug: "cat-grooming-matting-prevention"
 affiliate_disclosure: true
 faqs:
  - q: "How often should I brush my long-haired cat to prevent mats?"
- a: "Two to three times per week is a baseline minimum, but during spring and fall shedding seasons, daily brushing is better for dense-coated breeds like Persians, Maine Coons, and Ragdolls. Consistency matters more than duration; five minutes daily beats an hour once a month."
+   a: "Two to three times per week is a baseline minimum, but during spring and fall shedding seasons, daily brushing is better for dense-coated breeds like Persians, Maine Coons, and Ragdolls. Consistency matters more than duration; five minutes daily beats an hour once a month."
  - q: "Can I cut out a mat with scissors at home?"
- a: "For small, loose mats away from the body, sometimes. But scissors near the skin are genuinely dangerous because tight mats pull skin upward and you can't always see the margin. A mat splitter or a clipper is safer. When in doubt, let a professional handle it."
+   a: "For small, loose mats away from the body, sometimes. But scissors near the skin are genuinely dangerous because tight mats pull skin upward and you can't always see the margin. A mat splitter or a clipper is safer. When in doubt, let a professional handle it."
  - q: "My cat hates being brushed. What can I actually do?"
- a: "Start with very short sessions (one to two minutes), use a tool the cat tolerates (often a rubber brush over a metal one), and always pair brushing with something the cat enjoys like treats or a meal. Gradual desensitization over weeks works better than forcing a longer session and creating a negative association. Some cats come around; some never love it but will tolerate it."
+   a: "Start with very short sessions (one to two minutes), use a tool the cat tolerates (often a rubber brush over a metal one), and always pair brushing with something the cat enjoys like treats or a meal. Gradual desensitization over weeks works better than forcing a longer session and creating a negative association. Some cats come around; some never love it but will tolerate it."
  - q: "Is matting ever a sign of a medical problem?"
- a: "Yes, and this is underappreciated. Sudden coat changes in a cat that previously groomed well can signal hyperthyroidism, diabetes, arthritis, dental disease, obesity, or even early kidney disease. If your adult cat's coat quality has noticeably declined, mention it at your next vet appointment. Don't assume it's just laziness."
+   a: "Yes, and this is underappreciated. Sudden coat changes in a cat that previously groomed well can signal hyperthyroidism, diabetes, arthritis, dental disease, obesity, or even early kidney disease. If your adult cat's coat quality has noticeably declined, mention it at your next vet appointment. Don't assume it's just laziness."
  - q: "What's the best detangling product for cats?"
- a: "Something alcohol-free and fragrance-free, safe for cats if lightly ingested during grooming. BioSilk for Pets and Chris Christensen Ice on Ice (diluted) are both options I've seen used in clinical and grooming settings. Avoid anything marketed primarily for humans; the pH difference matters more than most people realize."
+   a: "Something alcohol-free and fragrance-free, safe for cats if lightly ingested during grooming. BioSilk for Pets and Chris Christensen Ice on Ice (diluted) are both options I've seen used in clinical and grooming settings. Avoid anything marketed primarily for humans; the pH difference matters more than most people realize."
 ---
 
 Most cat owners I talk to don't think about matting until they're staring at a tangle the size of a golf ball near their cat's armpit, wondering how long it's been there. By that point, you're past prevention and into damage control. I'll be honest: matting is one of those problems that's almost entirely avoidable, and yet I see the consequences of it constantly in clinical practice, usually on cats whose owners genuinely love them and just didn't realize what was happening under all that fluff.

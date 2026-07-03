@@ -14,15 +14,15 @@ slug: "dog-breed-health-issues-guide"
 affiliate_disclosure: true
 faqs:
  - q: "Are mixed-breed dogs always healthier than purebreds?"
- a: "Not always. Mixed breeds have lower rates of some single-gene disorders, but they can still inherit conditions from multiple breeds simultaneously. A Labrador-Poodle mix can still get hip dysplasia, progressive retinal atrophy, and bloat. Hybrid vigor is real but overstated."
+   a: "Not always. Mixed breeds have lower rates of some single-gene disorders, but they can still inherit conditions from multiple breeds simultaneously. A Labrador-Poodle mix can still get hip dysplasia, progressive retinal atrophy, and bloat. Hybrid vigor is real but overstated."
  - q: "How do I know if my breed's health issue is covered by pet insurance?"
- a: "Check for exclusions for 'hereditary and congenital conditions' before you buy a policy. Some insurers cover hereditary conditions if the dog had no signs before enrollment; others exclude them entirely. Read the actual policy document, not the marketing summary. Buy insurance when the dog is young and healthy."
+   a: "Check for exclusions for 'hereditary and congenital conditions' before you buy a policy. Some insurers cover hereditary conditions if the dog had no signs before enrollment; others exclude them entirely. Read the actual policy document, not the marketing summary. Buy insurance when the dog is young and healthy."
  - q: "My breeder said their lines 'don't have' the disease my breed is known for. Should I believe that?"
- a: "Skepticism is warranted. Ask for OFA or CAER clearances on the specific parents and grandparents, and look them up yourself. 'My dogs are healthy' is an opinion. A clearance number in the OFA database is a fact."
+   a: "Skepticism is warranted. Ask for OFA or CAER clearances on the specific parents and grandparents, and look them up yourself. 'My dogs are healthy' is an opinion. A clearance number in the OFA database is a fact."
  - q: "At what age should I start screening for breed-specific conditions?"
- a: "Depends on the condition. Cardiac screening for Cavaliers should start by 12 months per the MVD Breeding Protocol. Hip radiographs can be done preliminarily at 4 months, with official OFA certification at 2 years. Ask your vet for a breed-specific screening timeline at your dog's first wellness visit."
+   a: "Depends on the condition. Cardiac screening for Cavaliers should start by 12 months per the MVD Breeding Protocol. Hip radiographs can be done preliminarily at 4 months, with official OFA certification at 2 years. Ask your vet for a breed-specific screening timeline at your dog's first wellness visit."
  - q: "Is it worth seeing a specialist instead of my regular vet for breed-related issues?"
- a: "For serious conditions, yes, often worth it. A board-certified cardiologist reading your Doberman's echocardiogram is not the same as a general practitioner doing it. Board certifications exist because expertise accumulates with volume. Your general vet is ideal for ongoing care and to triage what needs a specialist. Use both."
+   a: "For serious conditions, yes, often worth it. A board-certified cardiologist reading your Doberman's echocardiogram is not the same as a general practitioner doing it. Board certifications exist because expertise accumulates with volume. Your general vet is ideal for ongoing care and to triage what needs a specialist. Use both."
 ---
 
 Most breed health guides read like a Wikipedia stub crossed with a vet school handout. They list conditions by breed in alphabetical order, confirm that yes, large dogs can get hip dysplasia, and leave you no better equipped than before you started. Let me try something more useful.

@@ -14,15 +14,15 @@ slug: "lyme-disease-dogs-symptoms"
 affiliate_disclosure: true
 faqs:
  - q: "Can a dog get Lyme disease without you ever finding a tick?"
- a: "Yes, absolutely. Nymphal ticks are the size of a poppy seed. They can attach, feed, and drop off without you ever seeing them, especially on dogs with thick or dark coats. Never assume no tick means no exposure."
+   a: "Yes, absolutely. Nymphal ticks are the size of a poppy seed. They can attach, feed, and drop off without you ever seeing them, especially on dogs with thick or dark coats. Never assume no tick means no exposure."
  - q: "How quickly do Lyme symptoms appear after a tick bite?"
- a: "Typically two to five months after infection, though some dogs never show symptoms. The delay is one of the reasons people don't connect the dots between a tick bite they vaguely remember in spring and a dog limping in fall."
+   a: "Typically two to five months after infection, though some dogs never show symptoms. The delay is one of the reasons people don't connect the dots between a tick bite they vaguely remember in spring and a dog limping in fall."
  - q: "Is Lyme disease in dogs contagious to humans or other pets?"
- a: "No. Dogs can't directly transmit Borrelia to you or to other dogs. The bacterium requires a tick vector. However, if your dog has ticks, those ticks can detach and bite you, so it's worth treating your environment as well as your pet."
+   a: "No. Dogs can't directly transmit Borrelia to you or to other dogs. The bacterium requires a tick vector. However, if your dog has ticks, those ticks can detach and bite you, so it's worth treating your environment as well as your pet."
  - q: "My dog tested positive but seems totally fine. Does he really need treatment?"
- a: "The research here is honestly mixed, but most veterinary internists lean toward treating symptomatic dogs and high-risk breeds regardless, and treating any seropositive dog with a C6 value above 30 U/mL. Ask your vet specifically about your dog's C6 number and breed risk. That conversation is worth having in detail."
+   a: "The research here is honestly mixed, but most veterinary internists lean toward treating symptomatic dogs and high-risk breeds regardless, and treating any seropositive dog with a C6 value above 30 U/mL. Ask your vet specifically about your dog's C6 number and breed risk. That conversation is worth having in detail."
  - q: "Can dogs get Lyme disease more than once?"
- a: "Yes. A prior infection doesn't confer lasting protective immunity. Dogs in endemic areas can be reinfected, which is another reason ongoing tick prevention and annual testing matter even after a dog has been treated successfully."
+   a: "Yes. A prior infection doesn't confer lasting protective immunity. Dogs in endemic areas can be reinfected, which is another reason ongoing tick prevention and annual testing matter even after a dog has been treated successfully."
 ---
 
 Most dog owners I talk to think Lyme disease looks like a human case: a bull's-eye rash, a fever that hits fast, obvious misery. The reality in dogs is almost the opposite, and that gap between expectation and fact is exactly why so many dogs get diagnosed weeks or months too late.

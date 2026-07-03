@@ -14,15 +14,15 @@ slug: "brachycephalic-dog-health-problems"
 affiliate_disclosure: true
 faqs:
  - q: "Is brachycephalic surgery worth it?"
- a: "For dogs with moderate to severe BOAS, yes, in most cases the quality of life improvement is significant and supported by research. The key is doing it before secondary laryngeal changes develop, ideally while the dog is still young."
+   a: "For dogs with moderate to severe BOAS, yes, in most cases the quality of life improvement is significant and supported by research. The key is doing it before secondary laryngeal changes develop, ideally while the dog is still young."
  - q: "Can a brachycephalic dog exercise normally?"
- a: "Most flat-faced dogs can do light exercise like a leashed walk, but intensity and duration need to be adapted based on the individual dog's tolerance. Avoid exercise in heat or humidity, watch for open-mouth breathing as a stopping signal, and keep sessions short with rest breaks."
+   a: "Most flat-faced dogs can do light exercise like a leashed walk, but intensity and duration need to be adapted based on the individual dog's tolerance. Avoid exercise in heat or humidity, watch for open-mouth breathing as a stopping signal, and keep sessions short with rest breaks."
  - q: "Why does my Frenchie vomit so often?"
- a: "Frequent regurgitation or vomiting in brachycephalic dogs is often tied to the same anatomy causing breathing difficulty. Swallowed air, reflux, and esophageal issues are common. A vet visit to rule out other causes is a good idea, and airway evaluation may be part of the solution."
+   a: "Frequent regurgitation or vomiting in brachycephalic dogs is often tied to the same anatomy causing breathing difficulty. Swallowed air, reflux, and esophageal issues are common. A vet visit to rule out other causes is a good idea, and airway evaluation may be part of the solution."
  - q: "At what age should I have my brachycephalic dog evaluated for BOAS?"
- a: "Ask your vet for an airway assessment at your dog's one-year checkup, or earlier if you're noticing significant symptoms. Earlier intervention generally means better surgical outcomes if correction is needed."
+   a: "Ask your vet for an airway assessment at your dog's one-year checkup, or earlier if you're noticing significant symptoms. Earlier intervention generally means better surgical outcomes if correction is needed."
  - q: "What's the one thing most owners get wrong?"
- a: "Assuming loud breathing is just 'how the breed is' and stopping there. Some of it is. But treating all breathing noise as normal means missing dogs who are genuinely struggling and who would do significantly better with intervention."
+   a: "Assuming loud breathing is just 'how the breed is' and stopping there. Some of it is. But treating all breathing noise as normal means missing dogs who are genuinely struggling and who would do significantly better with intervention."
 ---
 
 Your bulldog is snoring so loudly you can hear him from the kitchen. Your pug is gagging after a quick walk around the block. Maybe you've just adopted a French Bulldog puppy and a friend, probably trying to be helpful, mentioned something about "brachycephalic syndrome" and now you're falling down a rabbit hole at 11pm wondering if your new dog is going to be okay.
