@@ -11,7 +11,9 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "glp-1-weight-loss-drugs-are-coming-for-overweight-pets"
-affiliate_disclosure: true, If your cat is fat, there's finally something genuinely new to talk about. Not a prescription diet that requires military-grade portion discipline. Not a puzzle feeder. An actual drug, working the same biological pathway as Ozempic and Wegovy, designed specifically for your overweight pet.
+affiliate_disclosure: true
+---
+If your cat is fat, there's finally something genuinely new to talk about. Not a prescription diet that requires military-grade portion discipline. Not a puzzle feeder. An actual drug, working the same biological pathway as Ozempic and Wegovy, designed specifically for your overweight pet.
 
 Two companies are moving fast. Akston Biosciences presented data on AKS-562c, a weekly injectable GLP-1 therapy for cats, at the ACVIM Forum in Seattle on June 11–13, 2026. Twelve weeks of treatment. No treatment-related toxicity. Reduced food intake. That's not a dramatic result, but in early-phase pharmaceutical research, "safe and it does the thing" is exactly what you need. Separately, OKAVA Pharmaceuticals has already launched MEOW-1, the first-ever GLP-1 clinical trial in cats or dogs, enrolling at least 50 overweight cats for a six-month subcutaneous implant called OKV-119. Results are expected mid-2026. This is happening now, not in some theoretical future.
 

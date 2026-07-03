@@ -11,7 +11,9 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "raw-pet-food-recalls-are-piling-up-what-owners-need-to-know"
-affiliate_disclosure: true, If you follow raw feeding forums at all, you've probably noticed the mood shift in recent months. What used to be spirited debates about prey-model ratios and sourcing has turned into something more anxious. Three significant recalls have landed in the raw and minimally processed pet food space within months of each other in 2026, and the community is asking hard questions about whether the safety infrastructure around these products is actually good enough.
+affiliate_disclosure: true
+---
+If you follow raw feeding forums at all, you've probably noticed the mood shift in recent months. What used to be spirited debates about prey-model ratios and sourcing has turned into something more anxious. Three significant recalls have landed in the raw and minimally processed pet food space within months of each other in 2026, and the community is asking hard questions about whether the safety infrastructure around these products is actually good enough.
 
 I'll be honest: I went into this thinking it was going to be a straightforward "here are the products, here's what to do" writeup. What I found was messier and more concerning than that.
 

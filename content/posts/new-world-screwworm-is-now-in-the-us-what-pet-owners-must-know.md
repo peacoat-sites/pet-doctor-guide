@@ -11,7 +11,9 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "new-world-screwworm-is-now-in-the-us-what-pet-owners-must-know"
-affiliate_disclosure: true, Your dog nicks a paw on brush during an evening walk. You clean it, dab on some Neosporin, and move on. In most places most of the time, that's the end of it. Not in South Texas or southern New Mexico right now.
+affiliate_disclosure: true
+---
+Your dog nicks a paw on brush during an evening walk. You clean it, dab on some Neosporin, and move on. In most places most of the time, that's the end of it. Not in South Texas or southern New Mexico right now.
 
 New World screwworm (NWS) was confirmed in a calf in Zavala County, Texas on June 3, 2026, marking the first detection of this parasite on U.S. soil since the government eradicated it in the 1960s. A dog in New Mexico tested positive the same month. This isn't theoretical. This is happening now. The FDA issued Emergency Use Authorizations for pet-specific screwworm treatments back in February, which tells you officials saw this coming and were already preparing.
 

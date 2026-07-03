@@ -11,7 +11,9 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "a-cheaper-generic-for-dogs-with-heart-disease-is-now-available"
-affiliate_disclosure: true, If your dog is on Vetmedin, or your cardiologist just told you your dog needs to start it, here's news that could meaningfully change what this diagnosis costs you. Cronus Pharma's Pimobendan Chewable Tablets hit the U.S. veterinary market on June 9, 2026, becoming the first FDA-approved generic bioequivalent of Vetmedin. For a drug that gets dosed twice daily, every day, for the rest of a dog's life, "generic is now available" isn't just a footnote. It's potentially thousands of dollars.
+affiliate_disclosure: true
+---
+If your dog is on Vetmedin, or your cardiologist just told you your dog needs to start it, here's news that could meaningfully change what this diagnosis costs you. Cronus Pharma's Pimobendan Chewable Tablets hit the U.S. veterinary market on June 9, 2026, becoming the first FDA-approved generic bioequivalent of Vetmedin. For a drug that gets dosed twice daily, every day, for the rest of a dog's life, "generic is now available" isn't just a footnote. It's potentially thousands of dollars.
 
 ## What the Generic Actually Is, and What It Isn't
 

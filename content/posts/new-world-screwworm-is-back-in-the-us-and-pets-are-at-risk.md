@@ -11,7 +11,9 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-world-screwworm-is-back-in-the-us-and-pets-are-at-risk"
-affiliate_disclosure: true, If you've been Googling "screwworm Texas dog" at 11pm this week, you're not alone. Plenty of pet owners are doing exactly that right now, and the worry makes sense. Here's what's actually going on: on June 3, 2026, the USDA APHIS confirmed the first New World screwworm detection in the United States in decades, finding larvae in the umbilical area of a 3-week-old calf in Zavala County, Texas. Within six days, case count jumped to five confirmed across Texas and New Mexico. Then came the one that got pet owners' attention: a dog in Lea County, New Mexico became the first confirmed companion animal case in this outbreak, reported June 8. This isn't theoretical anymore. It's here. It's moving fast. Your outdoor pets are vulnerable.
+affiliate_disclosure: true
+---
+If you've been Googling "screwworm Texas dog" at 11pm this week, you're not alone. Plenty of pet owners are doing exactly that right now, and the worry makes sense. Here's what's actually going on: on June 3, 2026, the USDA APHIS confirmed the first New World screwworm detection in the United States in decades, finding larvae in the umbilical area of a 3-week-old calf in Zavala County, Texas. Within six days, case count jumped to five confirmed across Texas and New Mexico. Then came the one that got pet owners' attention: a dog in Lea County, New Mexico became the first confirmed companion animal case in this outbreak, reported June 8. This isn't theoretical anymore. It's here. It's moving fast. Your outdoor pets are vulnerable.
 
 ## What New World Screwworm Actually Does (and Why It's So Serious)
 

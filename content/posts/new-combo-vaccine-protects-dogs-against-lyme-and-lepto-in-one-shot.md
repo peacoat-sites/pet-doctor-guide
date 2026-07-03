@@ -11,7 +11,9 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-combo-vaccine-protects-dogs-against-lyme-and-lepto-in-one-shot"
-affiliate_disclosure: true, If you've been meaning to talk to your vet about updating your dog's vaccines before summer gets fully underway, the timing just got more interesting. On June 15, 2026, the USDA approved Elanco's TruCan Ultra Lyme-L4, the first combination vaccine to protect dogs against both Lyme disease and leptospirosis in a single 0.5 mL injection. For anyone who's watched their dog flinch through multiple shots at annual wellness visits, or who has tried to keep track of which boosters are actually current, this is genuinely useful news.
+affiliate_disclosure: true
+---
+If you've been meaning to talk to your vet about updating your dog's vaccines before summer gets fully underway, the timing just got more interesting. On June 15, 2026, the USDA approved Elanco's TruCan Ultra Lyme-L4, the first combination vaccine to protect dogs against both Lyme disease and leptospirosis in a single 0.5 mL injection. For anyone who's watched their dog flinch through multiple shots at annual wellness visits, or who has tried to keep track of which boosters are actually current, this is genuinely useful news.
 
 ## What This Vaccine Actually Is (and Why the Size Matters)
 

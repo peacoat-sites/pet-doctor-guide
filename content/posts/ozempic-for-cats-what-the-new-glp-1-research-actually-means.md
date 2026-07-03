@@ -11,7 +11,9 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "ozempic-for-cats-what-the-new-glp-1-research-actually-means"
-affiliate_disclosure: true, If you've got a chunky tabby who treats every meal like it's his last and has been slowly expanding on the couch for the past three years, you already know how hard feline weight loss actually is. You've probably tried the measured portions, the puzzle feeders, maybe even the prescription diet your vet recommended. And your cat has probably just... gotten rounder anyway. I've seen it hundreds of times in clinic. Obesity is genuinely one of the most frustrating conditions to manage in cats, partly because the treatment options are so thin. Diet and exercise counseling, basically. That's about it.
+affiliate_disclosure: true
+---
+If you've got a chunky tabby who treats every meal like it's his last and has been slowly expanding on the couch for the past three years, you already know how hard feline weight loss actually is. You've probably tried the measured portions, the puzzle feeders, maybe even the prescription diet your vet recommended. And your cat has probably just... gotten rounder anyway. I've seen it hundreds of times in clinic. Obesity is genuinely one of the most frustrating conditions to manage in cats, partly because the treatment options are so thin. Diet and exercise counseling, basically. That's about it.
 
 That's why what happened at the ACVIM Forum in Seattle earlier this month is worth paying attention to.
 

@@ -11,7 +11,9 @@ author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know"
-affiliate_disclosure: true, Most pet owners in the US have never heard of New World screwworm. That's actually the point. It was eradicated from the continental United States back in 1966, after one of the most ambitious animal health campaigns in American history. For sixty years, it wasn't something you needed to think about. That changed on June 3, 2026, when the USDA confirmed NWS larvae in a calf in southern Texas. Cases have since climbed to at least 9 across Texas and New Mexico, and here's the part that should have every dog and cat owner paying attention: one of those cases was a companion animal. A dog in New Mexico. This is no longer just a livestock story.
+affiliate_disclosure: true
+---
+Most pet owners in the US have never heard of New World screwworm. That's actually the point. It was eradicated from the continental United States back in 1966, after one of the most ambitious animal health campaigns in American history. For sixty years, it wasn't something you needed to think about. That changed on June 3, 2026, when the USDA confirmed NWS larvae in a calf in southern Texas. Cases have since climbed to at least 9 across Texas and New Mexico, and here's the part that should have every dog and cat owner paying attention: one of those cases was a companion animal. A dog in New Mexico. This is no longer just a livestock story.
 
 ## What New World Screwworm Actually Does (It's Worse Than You Think)
 

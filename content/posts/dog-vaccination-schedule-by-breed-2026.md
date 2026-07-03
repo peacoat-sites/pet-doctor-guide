@@ -10,15 +10,15 @@ date: 2026-06-28
 lastmod: 2026-06-28
 faqs:
  - question: "When can puppies start vaccines?"
- answer: "Puppies can receive their first vaccine at 6-8 weeks of age. The series continues every 2-4 weeks until 16-20 weeks, when they've built enough immunity despite maternal antibodies."
+   answer: "Puppies can receive their first vaccine at 6-8 weeks of age. The series continues every 2-4 weeks until 16-20 weeks, when they've built enough immunity despite maternal antibodies."
  - question: "Do adult dogs really need yearly boosters?"
- answer: "No. Current AAHA guidelines (2022) recommend core vaccine boosters every 3 years for healthy adults. Studies show immunity lasts at least 3 years; annual boosters are unnecessary and increase adverse event risk."
+   answer: "No. Current AAHA guidelines (2022) recommend core vaccine boosters every 3 years for healthy adults. Studies show immunity lasts at least 3 years; annual boosters are unnecessary and increase adverse event risk."
  - question: "Is Lyme vaccine safe for small breeds like Dachshunds?"
- answer: "Dachshunds have the 2nd-highest adverse event rate (49.4/10,000 visits) among all breeds. If your Dachshund is in an endemic area, discuss risk vs. benefit with your vet, stagger vaccines 2 weeks apart, and monitor closely for 48-72 hours post-shot."
+   answer: "Dachshunds have the 2nd-highest adverse event rate (49.4/10,000 visits) among all breeds. If your Dachshund is in an endemic area, discuss risk vs. benefit with your vet, stagger vaccines 2 weeks apart, and monitor closely for 48-72 hours post-shot."
  - question: "What&#x2019;s the difference between 1-year and 3-year rabies vaccines?"
- answer: "Both provide the same protection. The difference is legal: your state law dictates how often boosters are needed. Some require annual rabies, others allow 3-year. Discuss with your vet which formulation your state allows."
+   answer: "Both provide the same protection. The difference is legal: your state law dictates how often boosters are needed. Some require annual rabies, others allow 3-year. Discuss with your vet which formulation your state allows."
  - question: "Should my senior dog get fewer vaccines?"
- answer: "Maybe. Dogs 7+ should have a pre-vaccination health screening (bloodwork + exam) before any shots. If they&#x2019;re healthy, they can continue 3-year boosters. But if they&#x2019;ve had prior vaccine reactions or have chronic illness, your vet might recommend titer testing instead."
+   answer: "Maybe. Dogs 7+ should have a pre-vaccination health screening (bloodwork + exam) before any shots. If they&#x2019;re healthy, they can continue 3-year boosters. But if they&#x2019;ve had prior vaccine reactions or have chronic illness, your vet might recommend titer testing instead."
 categories: ["Dog Health", "Vaccinations", "Puppy Care"]
 keywords: ["dog vaccination schedule", "puppy shots", "vaccine boosters", "breed-specific vaccine risk", "senior dog vaccines"]
 featured_depth: true, I made a lot of mistakes in my first year as a vet tech. One that still bothers me: I watched a client bring in their 8-year-old Dachshund for annual vaccines, and the dog had a severe reaction three days later, fever, lethargy, barely ate for a week. The vet said it was probably just a coincidence, but later I learned Dachshunds have a 49.4-per-10,000 adverse event rate. That dog didn't need annual boosters anyway. That reaction was preventable.

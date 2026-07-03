@@ -11,7 +11,9 @@ author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 slug: "cat-upper-respiratory-infection"
-affiliate_disclosure: true, Most people assume a sneezing cat just has "a little cold" that'll clear up on its own in a few days. Sometimes that's true. But I've seen enough upper respiratory infections turn into weeks-long nightmares, or worse, that I want to give you the real picture of what's actually happening when your cat sounds like a tiny congested human.
+affiliate_disclosure: true
+---
+Most people assume a sneezing cat just has "a little cold" that'll clear up on its own in a few days. Sometimes that's true. But I've seen enough upper respiratory infections turn into weeks-long nightmares, or worse, that I want to give you the real picture of what's actually happening when your cat sounds like a tiny congested human.
 
 I'll be honest: when I first started in practice, I underestimated how miserable these infections can make cats. Unlike dogs, cats are obligate nasal breathers. When their nose is stuffed up, they frequently stop eating because they can't smell their food. A cat that hasn't eaten in 48 hours is a cat that needs attention, not reassurance.
 

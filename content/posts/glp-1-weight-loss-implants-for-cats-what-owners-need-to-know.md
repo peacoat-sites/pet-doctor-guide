@@ -11,7 +11,9 @@ author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "glp-1-weight-loss-implants-for-cats-what-owners-need-to-know"
-affiliate_disclosure: true, If you've spent any time in cat owner communities lately, you've probably seen the question circulating: will there ever be an Ozempic for cats? As of June 2026, the answer is closer than most people realize, and it's worth understanding what's actually being tested before the hype machine gets fully revved up.
+affiliate_disclosure: true
+---
+If you've spent any time in cat owner communities lately, you've probably seen the question circulating: will there ever be an Ozempic for cats? As of June 2026, the answer is closer than most people realize, and it's worth understanding what's actually being tested before the hype machine gets fully revved up.
 
 OKAVA Pharmaceuticals launched the MEOW-1 trial in late 2025, the first GLP-1 weight-loss clinical study ever conducted in cats or dogs. Results are expected this summer. New data was just presented at the 2026 ACVIM Forum in Seattle, and veterinary endocrinologists are paying attention. If you have an overweight cat, this is the moment to get informed, not after your vet asks you whether you've heard about it.
 

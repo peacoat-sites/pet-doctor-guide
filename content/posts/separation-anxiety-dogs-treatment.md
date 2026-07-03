@@ -11,7 +11,9 @@ author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 slug: "separation-anxiety-dogs-treatment"
-affiliate_disclosure: true, Your dog is destroying the doorframe every time you leave. Or maybe it's subtler: a neighbor mentioned the barking starts the second your car pulls out of the driveway, and now you're dreading every errand. You might be wondering whether this is a training problem, a behavioral problem, or something that needs medication. The honest answer is that it can be all three, and figuring out which layer you're dealing with first makes everything else more manageable.
+affiliate_disclosure: true
+---
+Your dog is destroying the doorframe every time you leave. Or maybe it's subtler: a neighbor mentioned the barking starts the second your car pulls out of the driveway, and now you're dreading every errand. You might be wondering whether this is a training problem, a behavioral problem, or something that needs medication. The honest answer is that it can be all three, and figuring out which layer you're dealing with first makes everything else more manageable.
 
 Separation anxiety is genuinely one of the hardest things to treat in dogs. I want to be upfront about that. I've seen it resolve beautifully in three months and I've seen it take two years of consistent work. The dogs who get better fastest are almost never the ones whose owners tried the most things simultaneously. They're the ones who understood what they were actually treating.
 
