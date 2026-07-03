@@ -13,16 +13,16 @@ author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine fo
 slug: "signs-of-hip-dysplasia-in-large-breed-puppies"
 affiliate_disclosure: true
 faqs:
-  - q: "Can hip dysplasia show up in a puppy as young as 3-4 months?"
-    a: "Yes, though it's uncommon to catch it that early through symptoms alone. X-ray changes can be visible in some puppies before 4 months, and PennHIP certification is possible at 16 weeks. Most owners don't notice behavioral signs until closer to 5-8 months."
-  - q: "Is hip dysplasia always painful for puppies?"
-    a: "Not always, especially early on. Joint laxity can be present without significant inflammation. Pain typically increases as the joint deteriorates and arthritis sets in, which is why catching it during the lax-but-not-yet-arthritic phase is so valuable."
-  - q: "My breeder says the parents were OFA-certified. Can my puppy still have hip dysplasia?"
-    a: "Unfortunately, yes. OFA certification lowers the statistical risk substantially, but it doesn't eliminate it. Hip dysplasia is polygenic (controlled by multiple genes) and influenced by developmental factors, so even two certified parents can produce an affected puppy."
-  - q: "Should I restrict my dysplastic puppy's exercise completely?"
-    a: "No, and this is a common overcorrection. Complete rest leads to muscle atrophy, which actually makes the joint less stable. Controlled, low-impact activity is the goal. Leash walks on soft surfaces, swimming if available. Avoid repetitive jumping, stairs, and high-impact fetch sessions on hard ground."
-  - q: "At what point does a dog with hip dysplasia need surgery?"
-    a: "There's no single threshold. Surgical decisions are based on the dog's age, degree of joint change, response to conservative management, and quality of life. Some dogs manage well without surgery for years; others clearly don't respond to medical management and are better candidates for intervention. This is genuinely a conversation that belongs between you and a veterinary orthopedic specialist, not a general rule anyone can give you. If your gut is telling you something about your puppy's movement, trust it. You're with that dog every day. Vet exams happen for 15 minutes twice a year. The ob"
+ - q: "Can hip dysplasia show up in a puppy as young as 3-4 months?"
+ a: "Yes, though it's uncommon to catch it that early through symptoms alone. X-ray changes can be visible in some puppies before 4 months, and PennHIP certification is possible at 16 weeks. Most owners don't notice behavioral signs until closer to 5-8 months."
+ - q: "Is hip dysplasia always painful for puppies?"
+ a: "Not always, especially early on. Joint laxity can be present without significant inflammation. Pain typically increases as the joint deteriorates and arthritis sets in, which is why catching it during the lax-but-not-yet-arthritic phase is so valuable."
+ - q: "My breeder says the parents were OFA-certified. Can my puppy still have hip dysplasia?"
+ a: "Unfortunately, yes. OFA certification lowers the statistical risk substantially, but it doesn't eliminate it. Hip dysplasia is polygenic (controlled by multiple genes) and influenced by developmental factors, so even two certified parents can produce an affected puppy."
+ - q: "Should I restrict my dysplastic puppy's exercise completely?"
+ a: "No, and this is a common overcorrection. Complete rest leads to muscle atrophy, which actually makes the joint less stable. Controlled, low-impact activity is the goal. Leash walks on soft surfaces, swimming if available. Avoid repetitive jumping, stairs, and high-impact fetch sessions on hard ground."
+ - q: "At what point does a dog with hip dysplasia need surgery?"
+ a: "There's no single threshold. Surgical decisions are based on the dog's age, degree of joint change, response to conservative management, and quality of life. Some dogs manage well without surgery for years; others clearly don't respond to medical management and are better candidates for intervention. This is genuinely a conversation that belongs between you and a veterinary orthopedic specialist, not a general rule anyone can give you. If your gut is telling you something about your puppy's movement, trust it. You're with that dog every day. Vet exams happen for 15 minutes twice a year. The ob"
 ---
 Your golden retriever puppy is 6 months old, running circles in the backyard one minute, and the next he's sitting down mid-play with a weird little grunt you've never heard before. You figure he's just tired. A month later you notice he's started doing this bunny-hop thing when he runs, both back legs pushing off together instead of alternating. Your gut says something's off. You're right.
 

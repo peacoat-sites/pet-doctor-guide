@@ -11,10 +11,7 @@ author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 slug: "separation-anxiety-dogs-treatment"
-affiliate_disclosure: true
----
-
-Your dog is destroying the doorframe every time you leave. Or maybe it's subtler: a neighbor mentioned the barking starts the second your car pulls out of the driveway, and now you're dreading every errand. You might be wondering whether this is a training problem, a behavioral problem, or something that needs medication. The honest answer is that it can be all three, and figuring out which layer you're dealing with first makes everything else more manageable.
+affiliate_disclosure: true, Your dog is destroying the doorframe every time you leave. Or maybe it's subtler: a neighbor mentioned the barking starts the second your car pulls out of the driveway, and now you're dreading every errand. You might be wondering whether this is a training problem, a behavioral problem, or something that needs medication. The honest answer is that it can be all three, and figuring out which layer you're dealing with first makes everything else more manageable.
 
 Separation anxiety is genuinely one of the hardest things to treat in dogs. I want to be upfront about that. I've seen it resolve beautifully in three months and I've seen it take two years of consistent work. The dogs who get better fastest are almost never the ones whose owners tried the most things simultaneously. They're the ones who understood what they were actually treating.
 
@@ -98,7 +95,7 @@ Separation anxiety is hard, but it's not hopeless. The dogs I've seen come throu
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
 
 
@@ -114,8 +111,8 @@ Separation anxiety is hard, but it's not hopeless. The dogs I've seen come throu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25) — Written by Aaron Beck (founder of CBT) — the authoritative structured workbook for managing generalized anxiety disorder.
-- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10) — Guided self-care journal for managing anxiety and depression — a low-cost tool to complement your therapy work.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
+- **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
 

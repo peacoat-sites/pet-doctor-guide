@@ -13,16 +13,16 @@ author_bio: "Rachel Sanders is a certified pet first aid instructor who has trai
 slug: "torn-acl-in-dogs-treatment"
 affiliate_disclosure: true
 faqs:
-  - q: "Can a torn ACL in a dog heal without surgery?"
-    a: "In small dogs (under 15-20 lbs), strict rest and rehabilitation can lead to acceptable function, though some instability usually remains. In medium and large dogs, the joint won't stabilize adequately without surgery, and arthritis progresses faster without intervention."
-  - q: "How long does CCL surgery recovery take?"
-    a: "Most dogs need 12-16 weeks of restricted activity after TPLO or TTA. Full return to normal exercise, including running and jumping, is typically cleared around the 4-month mark, sometimes longer depending on the dog's age and how rehab goes."
-  - q: "What happens if you can't afford surgery?"
-    a: "It's a genuinely hard situation. For large dogs, untreated instability leads to significant chronic pain and arthritis. Options worth exploring: veterinary school hospitals (lower cost), CareCredit or ScratchPay financing, or asking your vet about whether your dog's size and lifestyle make conservative management reasonable. Some humane societies and rescue organizations also have hardship funds."
-  - q: "Is TPLO always better than extracapsular repair?"
-    a: "For dogs over 30-40 pounds, most evidence favors TPLO for long-term outcomes. For smaller or older, lower-activity dogs, extracapsular repair performs well and costs significantly less. The honest answer is that the right surgery depends on your specific dog."
-  - q: "How do I know if my dog tore the other ACL too?"
-    a: "Sudden lameness in the opposite hind leg, especially after a period of over-relying on it during recovery, is the main sign. Your vet will do the same drawer and thrust tests on that leg. If your dog has already had one CCL tear, mention it immediately, because the suspicion should be high."
+ - q: "Can a torn ACL in a dog heal without surgery?"
+ a: "In small dogs (under 15-20 lbs), strict rest and rehabilitation can lead to acceptable function, though some instability usually remains. In medium and large dogs, the joint won't stabilize adequately without surgery, and arthritis progresses faster without intervention."
+ - q: "How long does CCL surgery recovery take?"
+ a: "Most dogs need 12-16 weeks of restricted activity after TPLO or TTA. Full return to normal exercise, including running and jumping, is typically cleared around the 4-month mark, sometimes longer depending on the dog's age and how rehab goes."
+ - q: "What happens if you can't afford surgery?"
+ a: "It's a genuinely hard situation. For large dogs, untreated instability leads to significant chronic pain and arthritis. Options worth exploring: veterinary school hospitals (lower cost), CareCredit or ScratchPay financing, or asking your vet about whether your dog's size and lifestyle make conservative management reasonable. Some humane societies and rescue organizations also have hardship funds."
+ - q: "Is TPLO always better than extracapsular repair?"
+ a: "For dogs over 30-40 pounds, most evidence favors TPLO for long-term outcomes. For smaller or older, lower-activity dogs, extracapsular repair performs well and costs significantly less. The honest answer is that the right surgery depends on your specific dog."
+ - q: "How do I know if my dog tore the other ACL too?"
+ a: "Sudden lameness in the opposite hind leg, especially after a period of over-relying on it during recovery, is the main sign. Your vet will do the same drawer and thrust tests on that leg. If your dog has already had one CCL tear, mention it immediately, because the suspicion should be high."
 ---
 Your dog limps in from the backyard after a game of fetch, and suddenly you're staring at a $4,000 surgical estimate. Most articles about this injury waste three paragraphs explaining what a ligament is before telling you anything worth knowing. I'm skipping that part.
 
