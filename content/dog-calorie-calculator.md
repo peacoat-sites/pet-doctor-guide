@@ -1,5 +1,6 @@
 ---
 title: "Dog & Cat Daily Calorie Calculator"
+hide_title: true
 date: 2026-06-10
 slug: "dog-calorie-calculator"
 description: "Calculate exactly how many calories your dog or cat needs each day based on weight, life stage, activity level, and reproductive status using the veterinary RER formula."
