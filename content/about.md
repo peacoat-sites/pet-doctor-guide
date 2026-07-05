@@ -1,5 +1,6 @@
 ---
 title: "About Becca Hamlin"
+hide_title: true
 description: "Learn about Becca Hamlin, the Pet Health Editor behind petdoctorguide.com."
 ---
 
