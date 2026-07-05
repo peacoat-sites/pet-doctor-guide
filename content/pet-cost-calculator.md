@@ -1,5 +1,6 @@
 ---
 title: "True Cost of Pet Ownership Calculator: Dog & Cat Expenses by Year"
+hide_title: true
 date: 2026-06-10
 slug: "cost-of-owning-a-dog-cat"
 description: "How much does a pet really cost? Use our interactive calculator to estimate first-year, annual, and lifetime costs for dogs and cats — broken down by size, age, and lifestyle."
