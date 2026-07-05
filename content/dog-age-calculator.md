@@ -1,5 +1,6 @@
 ---
 title: "Dog Age in Human Years Calculator (The Real Science)"
+hide_title: true
 date: 2026-06-10
 slug: "dog-age-human-years"
 description: "Use the new NIH epigenetic formula to convert your dog's age to human years. The old 7x rule is scientifically outdated - dogs age much faster when young."
