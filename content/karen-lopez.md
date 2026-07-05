@@ -2,6 +2,7 @@
 title: "Karen Lopez"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
