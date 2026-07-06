@@ -6,7 +6,6 @@ author: "Becca Hamlin"
 slug: "foods-toxic-to-dogs"
 categories: ["Pet Safety"]
 tags: ["dog safety", "toxic foods", "pet poison", "what dogs can't eat"]
-image: ""
 faqs:
   - q: "What is the most toxic food for dogs?"
     a: "Xylitol (a sweetener in sugar-free products), grapes and raisins, and certain mushrooms are among the most acutely toxic foods for dogs. Even tiny amounts of xylitol can cause life-threatening hypoglycemia and liver failure."
