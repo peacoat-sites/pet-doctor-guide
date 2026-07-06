@@ -7,7 +7,6 @@ author: "Becca Hamlin"
 slug: "chocolate-toxicity-calculator-dogs"
 categories: ["Pet Safety"]
 tags: ["dog safety", "chocolate toxicity", "pet poison", "emergency vet"]
-image: ""
 faqs:
   - q: "How much chocolate can kill a dog?"
     a: "There is no completely safe amount, but severe toxicity begins around 60 mg of theobromine per kilogram of body weight. Baker's chocolate and cocoa powder are far more dangerous than milk chocolate — a small dog can be at risk from just a few ounces of dark chocolate."
