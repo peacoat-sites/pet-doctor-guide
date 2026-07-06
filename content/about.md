@@ -5,6 +5,7 @@ description: "Learn about Becca Hamlin, the Pet Health Editor behind petdoctorgu
 layout: "about-page"
 author_slug: "dr-amanda-foster"
 author_name: "Becca Hamlin"
+person_name: "Becca Hamlin"
 ---
 
 # About Becca Hamlin
