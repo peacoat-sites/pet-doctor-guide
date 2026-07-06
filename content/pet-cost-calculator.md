@@ -7,7 +7,6 @@ description: "How much does a pet really cost? Use our interactive calculator to
 categories: ["Pet Care Budget"]
 tags: ["pet costs", "dog expenses", "cat expenses", "pet budget", "pet ownership"]
 author: "Becca Hamlin"
-image: ""
 image: "https://images.pexels.com/photos/5900134/pexels-photo-5900134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
