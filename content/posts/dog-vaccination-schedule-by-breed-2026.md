@@ -2,10 +2,10 @@
 title: "Dog Vaccination Schedule by Breed & Age: The Vet Tech Guide (2026)"
 image: "https://images.pexels.com/photos/38198195/pexels-photo-38198195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Complete puppy to senior dog vaccination schedule. Breed-specific risks, timing, and when to skip non-core vaccines based on lifestyle, sourced from AVMA and AAHA guidelines."
-author: "Alex Chen"
-author_slug: "alex-chen"
-author_title: "Registered Veterinary Technician (RVT), 13 years small animal practice"
-author_bio: "13 years of clinical experience in small animal emergency and general practice. I've administered thousands of vaccines and learned the hard way when protocols matter and when they're outdated. This schedule reflects 2026 best practices, not the annual-booster myths that still get pushed."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
+author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 date: 2026-06-28
 lastmod: 2026-06-28
 faqs:
