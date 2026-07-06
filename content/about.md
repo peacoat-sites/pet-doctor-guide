@@ -3,7 +3,7 @@ title: "About Becca Hamlin"
 hide_title: true
 description: "Learn about Becca Hamlin, the Pet Health Editor behind petdoctorguide.com."
 layout: "about-page"
-author_slug: "becca-hamlin"
+author_slug: "dr-amanda-foster"
 author_name: "Becca Hamlin"---
 
 # About Becca Hamlin
