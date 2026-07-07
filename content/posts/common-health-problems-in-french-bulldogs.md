@@ -60,7 +60,7 @@ Practical management for everything else: harnesses instead of collars (collars 
 
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-French Bulldogs have skin folds, most notably on the face and around the tail. Those folds trap moisture, debris, and bacteria. Left unchecked, the result is skin fold dermatitis that smells terrible and is painful for the dog.
+French Bulldogs have skin folds, especially on the face and around the tail. Those folds trap moisture, debris, and bacteria. Left unchecked, the result is skin fold dermatitis that smells terrible and is painful for the dog.
 
 The tail pocket deserves special mention. Not every Frenchie has one, but many do, and it's easy to miss during a quick glance. It's the indentation right at the base of the tail where it meets the body. Yeast and bacteria thrive there. Mild cases present as redness and smell. Severe cases get infected and ulcerated, and at that point you're looking at possible surgical tail amputation if treatment doesn't work. I've seen it happen because an owner genuinely didn't know the pocket existed.
 
