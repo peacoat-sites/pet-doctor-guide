@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Chocolate Toxicity",
+    "url": "/chocolate-toxicity-calculator-dogs/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Dog Age Human Years",
+    "url": "/dog-age-human-years/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Dog Breed Lifespan",
+    "url": "/dog-breed-lifespan-health/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Dog Calorie Calc",
+    "url": "/dog-calorie-calculator/",
+    "icon": "\ud83e\uddee"
+  },
+  {
+    "label": "Cost Owning Dog Cat",
+    "url": "/cost-of-owning-a-dog-cat/",
+    "icon": "\ud83e\uddee"
+  }
+]
