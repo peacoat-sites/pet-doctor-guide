@@ -1,0 +1,22 @@
+[
+ {
+  "name": "American Veterinary Medical Association",
+  "url": "https://www.avma.org/",
+  "note": "Veterinary guidance"
+ },
+ {
+  "name": "ASPCA",
+  "url": "https://www.aspca.org/",
+  "note": "Pet health and safety"
+ },
+ {
+  "name": "FDA — Animal & Veterinary",
+  "url": "https://www.fda.gov/animal-veterinary",
+  "note": "Pet food and drug safety"
+ },
+ {
+  "name": "Cornell University College of Veterinary Medicine",
+  "url": "https://www.vet.cornell.edu/",
+  "note": "Veterinary research"
+ }
+]
