@@ -21,8 +21,8 @@ faqs:
    a: "Immediately if your cat, especially a male, is straining to urinate with little or no output. Also treat as urgent: complete food refusal for more than 48 hours, inability to walk normally, severe respiratory distress, or sudden dramatic behavior change in a senior cat. The ASPCA Poison Control Center is also worth contacting if your cat may have ingested something toxic while hiding, since some toxins produce anxiety-like behavioral signs before other symptoms appear."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Emergency Care Writer"
-author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+author_title: "Veterinary Emergency Technician"
+author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
 
 ---
 Your cat has been hiding under the bed for three days. She's barely touched her food. When you try to coax her out, she hisses, which she has never done before. You're worried, but you're also second-guessing yourself: is this stress, is she sick, or is this just a cat being a cat? The truth is, those three things are often tangled together, and figuring out which is which can genuinely change how fast she gets better.

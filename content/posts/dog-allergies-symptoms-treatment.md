@@ -21,8 +21,8 @@ faqs:
    a: "Some human antihistamines like diphenhydramine (plain Benadryl, not the decongestant formulas) are generally considered safe at appropriate weight-based doses, but you should confirm the correct dose and formulation with your vet before giving anything. Never give cetirizine (Zyrtec-D) or any antihistamine combined with a decongestant, as those can be toxic to dogs."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Emergency Care Writer"
-author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+author_title: "Veterinary Emergency Technician"
+author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
 
 ---
 Your dog has been scratching the same spot on his belly for three weeks straight. You've checked for fleas twice, switched his shampoo, and he's *still* going at it. Sound familiar? Allergies are one of the most common reasons dogs end up at the vet, accounting for a significant chunk of all dermatology-related visits in small animal practice. And yet they're also one of the most misunderstood conditions dog owners deal with, partly because the symptoms can look like a dozen other things, and partly because there's no single cure that works for every dog.

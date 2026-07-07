@@ -21,8 +21,8 @@ faqs:
     a: "No. The bacteria involved are normal skin residents, not contagious pathogens. Your other dog isn't going to catch a hot spot from the infected dog. That said, if you have multiple dogs with simultaneous skin issues, that points toward a shared environmental trigger like fleas or an allergen in the home."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Emergency Care Writer"
-author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+author_title: "Veterinary Emergency Technician"
+author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
 
 ---
 My dog Biscuit got his first hot spot in July 2019, and I made every mistake in the book. I left it alone thinking it would clear up. Then I over-cleaned it with hydrogen peroxide. Then I panicked and took him to an emergency clinic at 10 p.m. for something that, honestly, could have waited until morning and cost me $340 I didn't need to spend. Thirteen years later, I've watched hundreds of dogs come into the clinic with these things, and I want to save you from the same spiral.

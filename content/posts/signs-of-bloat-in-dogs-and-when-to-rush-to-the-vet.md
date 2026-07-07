@@ -21,8 +21,8 @@ faqs:
    a: "No. A gassy dog is uncomfortable and may need to go outside. GDV is a surgical emergency. The overlap in early symptoms is exactly why you should watch for trajectory: a gassy dog gets better; a dog with GDV does not."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Emergency Care Writer"
-author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+author_title: "Veterinary Emergency Technician"
+author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
 
 ---
 Bloat kills fast. Not "maybe serious if untreated" fast. More like "your dog was fine at dinner and gone by midnight" fast. I've seen it happen, and I'd rather walk you through this in graphic detail right now than have you Google symptoms at 11 PM while your dog is in the car.

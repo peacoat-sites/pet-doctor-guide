@@ -21,8 +21,8 @@ faqs:
    a: "Some situations call for same-day emergency imaging. These include a distended or painful abdomen, suspected internal bleeding after trauma, collapse or sudden weakness, or a male cat that hasn't urinated. If your pet is showing any of these signs, call your vet or an emergency clinic immediately rather than waiting for a scheduled appointment. When in doubt, call first and describe what you're seeing."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Emergency Care Writer"
-author_bio: "Rachel Sanders is a certified pet first aid instructor who has trained hundreds of owners to recognize and respond to pet emergencies. She has also worked as a veterinary technician, which gives her clinical perspective on what constitutes a true emergency. At Pet Doctor Guide, she covers first aid protocols, emergency warning signs, and how to prepare for a pet health crisis."
+author_title: "Veterinary Emergency Technician"
+author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
 
 ---
 Your dog just had X-rays, and the vet comes back into the room saying, "I think we need to do an ultrasound." Your stomach drops a little. You nod, but you're already running through questions you don't quite know how to ask. What are they looking for that the X-rays couldn't show? Is this serious? How much is this going to cost?
