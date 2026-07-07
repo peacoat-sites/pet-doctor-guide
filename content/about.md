@@ -1,14 +1,14 @@
 ---
-title: "About Becca Hamlin"
+title: "About Dr. Amanda Foster"
 hide_title: true
-description: "Learn about Becca Hamlin, the Pet Health Editor behind petdoctorguide.com."
+description: "Learn about Dr. Amanda Foster, the Pet Health Editor behind petdoctorguide.com."
 layout: "about-page"
 author_slug: "dr-amanda-foster"
-author_name: "Becca Hamlin"
-person_name: "Becca Hamlin"
+author_name: "Dr. Amanda Foster"
+person_name: "Dr. Amanda Foster"
 ---
 
-# About Becca Hamlin
+# About Dr. Amanda Foster
 
 I've spent most of my life surrounded by animals,  dogs, cats, rabbits, and the occasional rescue that needed a temporary home. Growing up with pets taught me early that being a good animal owner means more than feeding schedules and vet checkups; it means understanding what your pet is telling you and knowing when something is wrong before it becomes serious.
 
