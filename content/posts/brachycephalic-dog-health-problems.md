@@ -23,6 +23,7 @@ faqs:
    a: "Ask your vet for an airway assessment at your dog's one-year checkup, or earlier if you're noticing significant symptoms. Earlier intervention generally means better surgical outcomes if correction is needed."
  - q: "What's the one thing most owners get wrong?"
    a: "Assuming loud breathing is just 'how the breed is' and stopping there. Some of it is. But treating all breathing noise as normal means missing dogs who are genuinely struggling and who would do significantly better with intervention."
+lastmod: 2026-07-07
 ---
 
 Your bulldog is snoring so loudly you can hear him from the kitchen. Your pug is gagging after a quick walk around the block. Maybe you've just adopted a French Bulldog puppy and a friend, probably trying to be helpful, mentioned something about "brachycephalic syndrome" and now you're falling down a rabbit hole at 11pm wondering if your new dog is going to be okay.
@@ -66,7 +67,7 @@ Heat is the one I want to spend a minute on because people consistently underest
 
 ## The Gastrointestinal Piece That Often Gets Overlooked
 
-Here's something a lot of people don't know: BOAS and GI problems travel together. Dogs who are working hard to breathe swallow a lot of air. That air has to go somewhere. The result is a higher rate of gastroesophageal reflux, regurgitation, and what vets call "esophageal dysmotility" in brachycephalic breeds.
+Here's something a lot of people don't know: BOAS and GI problems travel together. Dogs who are working hard to breathe swallow a lot of air. That air has to go somewhere. The result is a higher rate of gastroesophageal reflux, regurgitation, and what vets call "esophageal dysmotility" in [brachycephalic breeds](/dog-breed-health-issues-guide/).
 
 If your French Bulldog vomits bile in the morning on an empty stomach, or brings up undigested food an hour after eating, the breathing anatomy is a likely contributor. It's not just a coincidence, and it's not just "Frenchies are like that." It's a connected system. I've talked to clients who were managing their dog's GI symptoms for a year before anyone connected the dots to the airway.
 

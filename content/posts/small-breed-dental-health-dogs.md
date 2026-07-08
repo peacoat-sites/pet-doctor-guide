@@ -23,6 +23,7 @@ faqs:
    a: "Enzymatic toothpastes that are applied by finger or gauze pad are a reasonable second option. Dental chews with the VOHA seal also help. But be honest with your vet about what you're actually doing so they can calibrate how frequently your dog needs professional cleanings."
  - q: "How do I know if my dog has a toothache?"
    a: "Dogs mask pain well, but watch for changes in eating behavior, chewing on one side, dropping food, pawing at the mouth, or reluctance to let you touch their face. Any of these warrants a vet visit rather than a wait-and-see approach. Dental pain is real and often undertreated in dogs simply because they don't cry out the way we'd expect."
+lastmod: 2026-07-07
 ---
 
 Your Chihuahua's breath just knocked you back a step. You leaned in to give her a good-morning scratch and got hit with something that smelled like a fishing trawler. And your vet mentioned at the last visit, kind of casually, the way vets sometimes deliver genuinely alarming news, that she's "showing early signs of periodontal disease." She's four years old.
@@ -32,6 +33,18 @@ This is one of the most common things I see in small breed dogs, and honestly, o
 So let me actually explain it.
 
 ## Why Small Breeds Have It Worse
+
+| Aspect | Small Breeds | Large Breeds |
+| --- | --- | --- |
+| Number of adult teeth | 42 | 42 |
+| Jaw size | Dramatically shorter | Longer |
+| Tooth spacing | Crowded, rotated, overlapping | More spaced |
+| Tartar formation timeline | 48-72 hours | 48-72 hours |
+| Lifespan | Longer | Shorter |
+| Typical food type | Soft foods, small kibble | Large crunchy kibble |
+| Mechanical tooth abrasion from diet | Minimal to none | Some friction from kibble |
+| Professional cleaning frequency (with good home care) | Every 1-2 years (typical) | Less frequent |
+| Typical professional cleaning cost | $1,200-$2,500 per procedure | Variable |
 
 It comes down to a crowding problem. Small and toy breeds have the same number of adult teeth as large dogs: 42. But their jaws are dramatically shorter. Those 42 teeth end up crammed together, rotated, and overlapping in ways that create perfect little pockets for bacteria to settle into. Plaque accumulates in the tight spaces between teeth, hardens into tartar within 48 to 72 hours (yes, that fast), and once tartar forms below the gumline, you can't brush it away. That's when periodontal disease starts doing real damage to the bone and tissue holding the teeth in place.
 

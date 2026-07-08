@@ -23,6 +23,7 @@ faqs:
    a: "Skip them until you know what you're dealing with. Over-the-counter artificial tears are unlikely to cause harm, but they won't do anything meaningful for cataracts or sclerosis, and using them can delay you getting an actual diagnosis. Some human eye drops contain ingredients that are harmful to dogs. When in doubt, the ASPCA Poison Control Center can advise on specific product ingredients if you're concerned about something your dog was exposed to."
  - q: "How much does cataract surgery for dogs typically cost?"
    a: "Expect a wide range depending on your region, the specialist, and whether one or both eyes are affected. Referral exam and workup alone often runs several hundred dollars before surgery. Surgery itself is typically quoted in the thousands per eye. Pet insurance with ophthalmology coverage or hereditary condition coverage can make a real difference here. Ask your primary vet for a referral to a board-certified veterinary ophthalmologist (DACVO) for the most accurate evaluation and pricing."
+lastmod: 2026-07-07
 ---
 
 Cloudy eyes in older dogs get misdiagnosed more often than almost any other age-related condition I see. Owners come in convinced their dog has cataracts. Half the time, they're looking at something completely different. And the treatment path for those two conditions isn't even close to the same.
@@ -45,6 +46,15 @@ I tell owners: if your 9-year-old Lab has symmetric, soft bluish haze in both ey
 
 ## Other Causes Worth Knowing (Because Some Are Emergencies)
 
+| Condition | Appearance | Vision Impact | Urgency | Treatment |
+| --- | --- | --- | --- | --- |
+| Nuclear Sclerosis | Bluish-gray haze, symmetric, diffuse | Minimal to none | Routine exam | None required |
+| Cataracts | White or opaque, often starts as spot | Significant, progressive | Specialist referral | Surgical extraction (phacoemulsification) |
+| Corneal Dystrophy | White or gray film on surface | Minimal to moderate | Routine monitoring | Varies; may need treatment if progressing |
+| Corneal Ulcers | Cloudiness with squinting/discharge | Variable | Same-day emergency | Prescription antibiotics |
+| Anterior Uveitis | Cloudiness, red eye, irregular pupil | Variable | Emergency | Treats underlying systemic cause |
+| Glaucoma | Cloudy, bulging/enlarged eye | Rapid deterioration | Emergency (hours matter) | Immediate pressure reduction |
+
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -63,7 +73,7 @@ Beyond the two big ones, a few other things can cause cloudy appearance in a dog
 
 ## What You Can (and Can't) Do at Home
 
-Honest answer: for most causes of cloudy eyes in older dogs, there's nothing meaningful you can treat at home. Nuclear sclerosis needs no treatment. Cataracts require surgical evaluation. Ulcers need prescription antibiotics. Uveitis and glaucoma need immediate veterinary intervention.
+Honest answer: for most causes of cloudy eyes in older dogs, there's nothing meaningful you can treat at home. Nuclear sclerosis needs no treatment. Cataracts require surgical evaluation. [Ulcers need prescription antibiotics](/dog-eye-infection-treatment/). Uveitis and glaucoma need immediate veterinary intervention.
 
 What you *can* do at home:
 

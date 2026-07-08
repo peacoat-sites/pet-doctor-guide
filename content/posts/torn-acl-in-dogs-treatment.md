@@ -23,6 +23,7 @@ faqs:
    a: "For dogs over 30-40 pounds, most evidence favors TPLO for long-term outcomes. For smaller or older, lower-activity dogs, extracapsular repair performs well and costs significantly less. The honest answer is that the right surgery depends on your specific dog."
  - q: "How do I know if my dog tore the other ACL too?"
    a: "Sudden lameness in the opposite hind leg, especially after a period of over-relying on it during recovery, is the main sign. Your vet will do the same drawer and thrust tests on that leg. If your dog has already had one CCL tear, mention it immediately, because the suspicion should be high."
+lastmod: 2026-07-07
 ---
 Your dog limps in from the backyard after a game of fetch, and suddenly you're staring at a $4,000 surgical estimate. Most articles about this injury waste three paragraphs explaining what a ligament is before telling you anything worth knowing. I'm skipping that part.
 
@@ -39,6 +40,13 @@ Your vet will perform a drawer test and a tibial thrust test, feeling for abnorm
 Don't wait six weeks. The meniscus, a cartilage cushion inside the joint, often tears secondarily. Treating it earlier reduces that risk significantly.
 
 ## Surgery vs. Conservative Management: The Honest Version
+
+| Procedure | Cost Range | Best For | Recovery Time |
+| --- | --- | --- | --- |
+| TPLO | $3,500-5,000 | Medium to large dogs; high-activity dogs | 12-16 weeks |
+| TTA | $3,500-5,000 | Medium to large dogs; similar outcomes to TPLO | 12-16 weeks |
+| Extracapsular Repair | $1,500-2,500 | Dogs under 30 lbs; older or lower-activity dogs | 12-16 weeks |
+| Conservative Management | Minimal (rest + medication) | Dogs under 15-20 lbs; lower-activity dogs | Ongoing |
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -58,7 +66,7 @@ Three main procedures come up:
 
 ## Finding the Right Surgeon
 
-Your regular vet can diagnose this. The surgery should go to a board-certified veterinary surgeon (DACVS credential) or a vet with significant TPLO experience. Ask directly: "How many TPLOs have you performed?" Under 50 isn't reassuring. Over 200, you're in good hands.
+Your regular vet can diagnose this. The surgery should go to a [board-certified veterinary surgeon](/luxating-patella-dogs/) (DACVS credential) or a vet with significant TPLO experience. Ask directly: "How many TPLOs have you performed?" Under 50 isn't reassuring. Over 200, you're in good hands.
 
 University veterinary hospitals are worth calling. Wait times can be longer, but the surgical teams are excellent and costs run 15-30% lower than private specialty practices. If your regular vet's referral estimate feels impossible, call your nearest vet school.
 

@@ -23,9 +23,9 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-
+lastmod: 2026-07-07
 ---
-Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 periodontal disease," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.
+Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 [periodontal disease](/dog-dental-health-guide/)," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.
 
 ## What You're Actually Paying For (And Why It Costs More Than Your Own Cleaning)
 
@@ -49,6 +49,17 @@ Ask your vet to walk you through the estimate in tiers: what's included in the b
 
 ## How to Compare Estimates Without Getting It Wrong
 
+| Line Item | What to Ask |
+|---|---|
+| Pre-anesthetic bloodwork | Included, optional, or required? What panel? |
+| IV catheter and fluids | Included? (Should be standard for any anesthesia.) |
+| Anesthesia monitoring | Who monitors? Tech or automated only? |
+| Dental radiographs | Full mouth, or just problem areas? Included or per image? |
+| Scaling and polishing | Above and below gumline? Both included? |
+| Extractions | Per tooth? Flat fee? Simple vs. surgical rate? |
+| Post-operative pain medication | Included or billed separately? |
+| Fluoride treatment or sealant | Optional add-on? |
+
 If you're getting quotes from multiple clinics, you need to compare apples to apples. Here's a simple breakdown of what to look for:
 
 | Line Item | What to Ask |
@@ -68,7 +79,7 @@ Also ask about how the practice handles post-procedure communication. Will someo
 
 ## Keeping Costs Down Long-Term: Home Care That Actually Works
 
-The most effective way to reduce lifetime dental costs is to reduce the buildup of plaque that leads to periodontal disease. And the single most effective home care method is daily toothbrushing. Not weekly. Daily. Plaque starts mineralizing into tartar within 24 to 72 hours, so brushing every few days doesn't fully interrupt that cycle.
+The most effective way to reduce lifetime dental costs is to reduce the buildup of plaque that leads to periodontal disease. And the single most effective home care method is [daily toothbrushing](/how-to-brush-a-dogs-teeth-that-hates-it/). Not weekly. Daily. Plaque starts mineralizing into tartar within 24 to 72 hours, so brushing every few days doesn't fully interrupt that cycle.
 
 Here's how to actually make it happen, especially if your dog currently hates it.
 

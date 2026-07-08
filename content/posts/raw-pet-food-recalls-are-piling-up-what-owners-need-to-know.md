@@ -12,12 +12,19 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "raw-pet-food-recalls-are-piling-up-what-owners-need-to-know"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you follow raw feeding forums at all, you've probably noticed the mood shift in recent months. What used to be spirited debates about prey-model ratios and sourcing has turned into something more anxious. Three significant recalls have landed in the raw and minimally processed pet food space within months of each other in 2026, and the community is asking hard questions about whether the safety infrastructure around these products is actually good enough.
 
 I'll be honest: I went into this thinking it was going to be a straightforward "here are the products, here's what to do" writeup. What I found was messier and more concerning than that.
 
 ## Three Recalls, Three Different Problems
+
+| Recall | Company | Product | Pathogen/Issue | Lot Date Range | States Affected | Date Posted |
+| --- | --- | --- | --- | --- | --- | --- |
+| Raaw Energy | Raaw Energy | 60+ frozen dog food varieties | *Listeria monocytogenes* | July 17, 2025 - March 31, 2026 | CT, DE, MA, MD, NH, NJ, NY, PA, VA | May 22, 2026 |
+| Go Raw | Go Raw LLC | Quest Cat Food (freeze-dried & frozen) | Critically low thiamine | Multiple lots | National | Feb 17, 2026 (recall); Mar 13, 2026 (FDA advisory) |
+| Albright's Raw | Albright's Raw Pet Food | Chicken Recipe for Dogs | Potential *Salmonella* | One lot | National | May 7, 2026 |
 
 The recalls themselves are worth understanding individually, because they're not all the same kind of risk.
 
@@ -47,7 +54,7 @@ The raw feeding community's frustration is legitimate. These recalls get weaponi
 
 But I'll be honest about something else: the safety infrastructure around raw and minimally processed foods is genuinely thinner than it is for commercial kibble. The companies tend to be smaller. Testing protocols vary more widely. The FDA's regulatory oversight of raw pet food has historically been less consistent than its approach to more conventional products. That's not a reason to abandon raw feeding. It is a reason to be a more active, skeptical consumer within that space.
 
-Practically speaking, this means checking the FDA recall page and the AVMA's recall alerts tracker regularly, not just when something blows up on social media. The AVMA maintains a searchable recalls and safety alerts database that's genuinely useful and easy to use. It also means understanding that voluntary recalls, which all three of these are, depend entirely on the company choosing to act. The Raaw Energy expanded recall on May 22 covered products going back nearly a year. That's a long window.
+Practically speaking, this means checking the FDA recall page and the [AVMA's recall alerts tracker](/raaw-energy-recall-what-pet-owners-must-know-about-raw-food-safety/) regularly, not just when something blows up on social media. The AVMA maintains a searchable recalls and safety alerts database that's genuinely useful and easy to use. It also means understanding that voluntary recalls, which all three of these are, depend entirely on the company choosing to act. The Raaw Energy expanded recall on May 22 covered products going back nearly a year. That's a long window.
 
 ## How to Talk to Your Vet About This
 

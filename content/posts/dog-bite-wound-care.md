@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 Your dog just nipped a visitor. Or maybe a neighbor's Lab got your hand during a leash tangle. Or your own cat got startled and your dog jumped in and now someone's bleeding and nobody's quite sure what happened. Whatever the specifics, you're here because there's a bite wound and you want to know what to do with it. Most articles will tell you to "seek medical attention immediately" and leave you there. That's not useful. Let's actually talk about what you're dealing with.
 
@@ -54,7 +54,7 @@ Write down the time it happened. This matters for medical documentation, rabies 
 
 ## Step-by-Step First Aid for Dog Bite Wounds
 
-This applies to wounds that are not life-threatening, not actively spurting blood, and not on the face, hands, or near joints. For those, first aid buys you time in transit, nothing more.
+This applies to wounds that are not life-threatening, not actively spurting blood, and not on the face, hands, or near joints. For those, [first aid](/first-aid-for-pets-guide/) buys you time in transit, nothing more.
 
 **Step 1: Wash. Aggressively.**
 

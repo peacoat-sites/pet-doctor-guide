@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 You brought home an eight-week-old kitten on a Saturday afternoon, and by Sunday you're already wondering: when exactly does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? You're not alone. I've watched hundreds of new kitten owners walk through our clinic doors completely unsure of what the first year actually looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.
 
@@ -36,6 +36,14 @@ This isn't the vet industry padding its schedule. There's genuine biology behind
 The other big reason for frequent early visits: problems caught at 9 weeks are almost always cheaper and easier to treat than problems caught at 6 months. Heart murmurs, hernias, undescended testicles, early dental abnormalities, intestinal parasites. These things show up on routine physical exams. Kittens hide discomfort well, sometimes spectacularly well, so early and regular hands-on assessment matters.
 
 ## The Kitten Vet Visit Schedule, Week by Week
+
+| Visit | Age | Key Items |
+|---|---|---|
+| First kitten visit | 6 to 8 weeks | Full exam, fecal, FVRCP #1, dewormer |
+| Second visit | 10 to 12 weeks | FVRCP #2, FeLV discussion, fecal recheck |
+| Third visit | 14 to 16 weeks | FVRCP #3, rabies #1, FeLV #2 if indicated |
+| Spay/neuter | 4 to 6 months | Surgery, pre-op exam, bloodwork |
+| One-year wellness | 12 months | Boosters, adult food transition, dental check |
 
 Here's what a typical first-year schedule looks like for a healthy kitten in the United States. Your vet may adjust based on regional disease risk and your kitten's individual history.
 
@@ -73,7 +81,7 @@ I can't tell you how many clients assume their indoor kitten doesn't need parasi
 
 A fresh fecal sample at each of those early visits is not optional busywork. It's one of the most important tests run during the first few months. Bring a sample the size of a grape (collected within 12 hours of the appointment if possible) in a clean plastic bag or container.
 
-For ongoing flea prevention, talk to your vet about an appropriate monthly topical or oral product. Many over-the-counter flea products sold in grocery stores contain permethrin, which is highly toxic to cats. The ASPCA Poison Control Center lists permethrin as one of the most common causes of feline toxicity calls they receive. Stick with vet-recommended products.
+For [ongoing flea prevention](/how-often-should-i-deworm-my-indoor-cat/), talk to your vet about an appropriate monthly topical or oral product. Many over-the-counter flea products sold in grocery stores contain permethrin, which is highly toxic to cats. The ASPCA Poison Control Center lists permethrin as one of the most common causes of feline toxicity calls they receive. Stick with vet-recommended products.
 
 If you want to keep a good pet first aid kit on hand at home, make sure it includes a rectal thermometer, saline eye wash, and a phone number for an emergency vet. Kittens have a talent for getting into things at inconvenient hours.
 

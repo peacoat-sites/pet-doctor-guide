@@ -23,6 +23,7 @@ faqs:
    a: "They're worth having in your toolkit, especially on days brushing doesn't happen. Products like Oxyfresh Water Additive have decent evidence behind them for reducing plaque bacteria. They're not a substitute for brushing, but they're easy, and easy things actually get done."
  - q: "At what age should I start brushing my dog's teeth?"
    a: "As early as possible, ideally when they're puppies and still in that golden socialization window before 16 weeks. But dogs can absolutely learn to tolerate brushing as adults. It just takes more patience and a slower desensitization timeline."
+lastmod: 2026-07-07
 ---
 Most dogs don't love having a toothbrush shoved in their mouth. You already knew that, or you wouldn't be here. Maybe your dog snaps and backs away the second they see the brush. Maybe you've tried twice, given up, and felt guilty about it ever since. That guilt is real, and it's also completely unnecessary, let's just fix this instead.
 
@@ -53,6 +54,13 @@ By week four, you're brushing. Start with ten seconds on the upper front teeth. 
 I know this sounds agonizingly slow. It works. The dogs I've seen owners fail with consistently are the ones who tried to get to a full mouth brush in day three.
 
 ## What to Do If Your Dog Is Still Having None of It
+
+| Product | Type | Cost | VOHC Approved | Notes |
+| --- | --- | --- | --- | --- |
+| Vet's Best Finger Toothbrush | Soft silicone finger brush | ~$8 | No | Recommended for early training; less threatening than standard brush |
+| Virbac C.E.T. Enzymatic Toothpaste | Dog toothpaste (poultry/vanilla mint) | Included with brush or separate | Yes | Flavored; dogs tolerate better than unflavored |
+| Virbac C.E.T. Dental Chews | Enzymatic chew supplement | Varies | Yes | Tested and approved by Veterinary Oral Health Council |
+| Greenies Dental Chews | Enzymatic chew supplement | $20-$30/month | Yes | Size-dependent pricing; tested and approved by Veterinary Oral Health Council |
 
 Some dogs are genuinely reactive about their mouths. Maybe there's dental pain you don't know about yet. Worth a vet visit before you keep trying, because brushing an already painful mouth creates a lasting aversion. The [AVMA](https://www.avma.org/) estimates that over 80% of dogs show signs of dental disease by age three, so if your dog is 5 or older and has never had a dental cleaning, pain could genuinely be part of this picture.
 

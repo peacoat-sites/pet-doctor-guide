@@ -23,11 +23,12 @@ faqs:
     a: "Go to an emergency vet immediately if your cat is vomiting blood, vomiting more than 3-4 times in a few hours, retching without producing anything, showing signs of weakness or collapse, has a swollen abdomen, or you know they ingested something toxic. Lily ingestion in particular is a genuine life-threatening emergency that cannot wait until morning."
   - q: "Can a cat throw up from stress or anxiety?"
     a: "Yes, absolutely. Cats are more sensitive to environmental stress than most people give them credit for. A new pet in the house, a move, construction noise, or even a change in your schedule can trigger acute vomiting. If the vomiting resolves when the stressor does, stress is a likely factor, but if it continues for more than a day or two, rule out a physical cause with your vet."
+lastmod: 2026-07-07
 ---
 
 Most cat owners have been there: it's 2 a.m., you're half asleep, and you step in something warm and wet in the dark hallway. Your cat looks up at you completely unbothered. You're the one having a crisis.
 
-Cat vomiting is genuinely one of the most common reasons people call our clinic, and I've fielded that panicked phone call hundreds of times over my 13 years working in small animal practice. Here's what I want you to understand right away: vomiting in cats exists on a spectrum so wide it's almost funny. On one end, you have the totally normal, my-cat-ate-too-fast hairball situation. On the other, you have kidney failure, intestinal obstruction, and hyperthyroidism. The tricky part is that they can look almost identical from across the room.
+Cat vomiting is genuinely one of the most common reasons people call our clinic, and I've fielded that panicked phone call hundreds of times over my 13 years working in small animal practice. Here's what I want you to understand right away: vomiting in cats exists on a spectrum so wide it's almost funny. On one end, you have the totally normal, my-cat-ate-too-fast hairball situation. On the other, you have kidney failure, intestinal obstruction, and [hyperthyroidism](/cat-hyperthyroidism-treatment/). The tricky part is that they can look almost identical from across the room.
 
 So let me walk you through what I actually look at when a client calls me about a vomiting cat, because that's more useful than a generic list of "possible causes."
 
@@ -37,7 +38,7 @@ I know. Gross. But the appearance of the vomit tells you more than almost anythi
 
 Undigested or barely-digested food brought up shortly after eating is almost always regurgitation, not true vomiting. There's a difference, and it matters. True vomiting involves retching and abdominal heaving. Regurgitation is passive, like the food just slides back up. Cats who eat too fast, or cats with megaesophagus (a motility disorder), will regurgitate. You'll often see a tube-shaped blob of food with little to no bile.
 
-Bile, by the way, looks yellow or greenish-yellow and foamy. A cat throwing up yellow foam on an empty stomach is typically either going too long between meals or dealing with something called inflammatory bowel disease or, in older cats, hyperthyroidism. If you're seeing this regularly before breakfast, try splitting your cat's food into one more small meal in the evening.
+Bile, by the way, looks yellow or greenish-yellow and foamy. A cat throwing up yellow foam on an empty stomach is typically either going too long between meals or dealing with something called [inflammatory bowel disease](/cat-cancer-treatment-options/) or, in older cats, hyperthyroidism. If you're seeing this regularly before breakfast, try splitting your cat's food into one more small meal in the evening.
 
 Clear liquid or white foam is usually stomach fluid or saliva. Not great, not automatically a disaster.
 
@@ -67,7 +68,7 @@ Chronic vomiting in cats, defined loosely as throwing up more than once or twice
 
 **Hyperthyroidism.** If your cat is over 8 years old, vomiting, losing weight despite eating like a champ, and acting like they've had four espressos, please get a thyroid panel. This is so treatable if caught early. I've seen cats go from skeletal and miserable to back to normal within 6 weeks of starting methimazole.
 
-**Kidney disease.** Chronic kidney disease causes nausea and vomiting, particularly in the morning on an empty stomach. Cats are incredibly good at hiding how sick they feel until they can't anymore. Any senior cat vomiting regularly needs bloodwork. Full stop.
+**Kidney disease.** [Chronic kidney disease](/cat-kidney-disease-diet/) causes nausea and vomiting, particularly in the morning on an empty stomach. Cats are incredibly good at hiding how sick they feel until they can't anymore. Any senior cat vomiting regularly needs bloodwork. Full stop.
 
 **Foreign body ingestion.** String, hair ties, tinsel, rubber bands. Cats love linear foreign objects and they will kill them. More on this below.
 

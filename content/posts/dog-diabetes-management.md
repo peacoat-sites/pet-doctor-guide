@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 Your dog's been drinking the toilet dry, dragging you outside at 3 a.m., and losing weight despite eating normally. Then the vet says the word "diabetes" and you're sitting in your car trying to figure out how you'll give insulin injections twice a day for the rest of his life. I've stood in that parking lot with enough terrified pet owners to know exactly what you're thinking: this is impossible. Here's what I tell every single one of them: it's not. It becomes routine faster than you'd expect. But first you need to understand what's actually happening.
 
@@ -43,7 +43,7 @@ Canine diabetes is almost always Type 1, meaning the pancreas has basically give
 
 Here's what catches most people off guard: certain dogs are dramatically more vulnerable. Intact females are twice as likely to develop it because progesterone surges during their heat cycle cause insulin resistance. Spaying a diabetic intact female is often the first recommendation. Samoyeds, Australian Terriers, Miniature Schnauzers, Pugs, and Bichons Frises all show higher rates. Most get it between 7 and 10 years old, though it can happen younger.
 
-Obesity, chronic pancreatitis, and long-term steroid use are major risk factors too. I've seen dogs develop diabetes after years on prednisone for allergies, and owners are completely blindsided by it. If your dog's on long-term corticosteroids, blood glucose monitoring's worth asking your vet about before symptoms show up.
+Obesity, chronic pancreatitis, and [long-term steroid use](/dog-allergies-symptoms-treatment/) are major risk factors too. I've seen dogs develop diabetes after years on prednisone for allergies, and owners are completely blindsided by it. If your dog's on long-term corticosteroids, blood glucose monitoring's worth asking your vet about before symptoms show up.
 
 ## The Four Pillars of Daily Management
 

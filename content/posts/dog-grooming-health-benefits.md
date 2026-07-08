@@ -23,6 +23,7 @@ faqs:
     a: "Start younger if possible, but it's not too late for adult dogs. Short sessions, high-value treats, and stopping before the dog hits their stress threshold builds tolerance over time. If a dog is genuinely fear-aggressive during grooming, that's worth discussing with your vet, who may recommend a referral to a veterinary behaviorist or consider mild sedation protocols for necessary procedures."
   - q: "When is a grooming-related finding actually an emergency?"
     a: "Any lump that's grown rapidly, changed color, or is warm and painful warrants same-day or next-day veterinary attention, not a wait-and-see approach. A wound found under a mat that shows signs of infection (odor, discharge, redness spreading outward) is also an urgent visit. The ASPCA Poison Control Center is your resource if you're ever uncertain whether a grooming product your dog ingested is dangerous."
+lastmod: 2026-07-07
 ---
 
 Most people think grooming is about keeping their dog looking nice. That's almost entirely wrong.
@@ -32,6 +33,14 @@ I spent the better part of a decade thinking the same thing, honestly. Dog comes
 Here's what I've come to believe after 13 years in small animal practice: grooming is one of the most underrated forms of preventive healthcare for dogs. Not because it's glamorous, but because it forces regular, systematic contact with almost every surface of a dog's body.
 
 ## Skin and Coat Health Go Way Deeper Than Aesthetics
+
+| Breed/Coat Type | Brushing Frequency | Professional Grooming Schedule |
+| --- | --- | --- |
+| Labrador | Weekly | As needed |
+| Standard Poodle | Every other day minimum | Every 6-8 weeks |
+| Old English Sheepdog | Every other day minimum | Every 6-8 weeks |
+| Floppy-eared breeds (Cocker Spaniel, Basset Hound, Golden Retriever) | Varies | Varies; ear cleaning every 1-2 weeks |
+| Brachycephalic breeds (Bulldog, Shih Tzu, Pug) | Varies | Varies; regular eye area grooming needed |
 
 The mechanical act of brushing does something that's hard to replicate any other way. It distributes sebum (the natural oils your dog's skin produces) across the coat, which prevents dry, flaky skin and gives that coat the kind of healthy sheen that signals good overall condition. But the more important part is what you find while you're doing it.
 

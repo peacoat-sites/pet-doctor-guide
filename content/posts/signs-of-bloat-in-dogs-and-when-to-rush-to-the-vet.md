@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 Bloat kills fast. Not "maybe serious if untreated" fast. More like "your dog was fine at dinner and gone by midnight" fast. I've seen it happen, and I'd rather walk you through this in graphic detail right now than have you Google symptoms at 11 PM while your dog is in the car.
 
@@ -57,7 +57,7 @@ Deep-chested, large breeds are the textbook cases. Great Danes have a lifetime b
 
 That said, I've seen bloat in a Dachshund. Size isn't a guarantee of safety.
 
-Risk factors beyond breed: eating one large meal a day (versus two or three smaller ones), eating very fast, exercising vigorously right after eating, stress, and a first-degree relative who's had GDV. A dog who's already had a GDV, even one that was treated surgically with a prophylactic gastropexy (where they tack the stomach down to prevent future rotation), is at reduced risk of the twist, but can still experience dilation.
+Risk factors beyond breed: eating one large meal a day (versus two or three smaller ones), eating very fast, exercising vigorously right after eating, stress, and a [first-degree relative who's had GDV](/pet-emergency-vet-when-to-go/). A dog who's already had a GDV, even one that was treated surgically with a prophylactic gastropexy (where they tack the stomach down to prevent future rotation), is at reduced risk of the twist, but can still experience dilation.
 
 Age matters too. Middle-aged to older large-breed dogs are at higher risk. That doesn't mean a two-year-old Great Dane can't bloat. They can.
 

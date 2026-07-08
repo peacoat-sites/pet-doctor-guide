@@ -23,6 +23,7 @@ faqs:
    a: "A board-certified veterinary oncologist (DACVIM Oncology) has completed a three-year residency specifically in cancer diagnosis and treatment after vet school. They have access to more specialized protocols, are current on clinical trials, and make these treatment decisions every single day. Your GP is great for managing a lot of things, but cancer staging and treatment planning is genuinely specialist territory."
  - q: "When is it time to consider euthanasia?"
    a: "When your cat's bad days consistently outnumber the good ones, when they've stopped eating and won't respond to appetite stimulants, when they're in pain that can't be managed, or when the treatment itself is clearly causing more suffering than the disease. This is an incredibly hard question, and there's no universal formula. Your oncologist and your GP can both help you assess quality of life honestly. The goal has always been a good life, not just a longer one."
+lastmod: 2026-07-07
 ---
 
 Your cat has just been diagnosed with cancer. Or you're sitting in the waiting room right now, scrolling your phone while the vet reviews the biopsy results in the back. Either way, you're probably feeling something between dread and a desperate need to understand what comes next before anyone asks you to make a decision you're not ready to make.
@@ -39,7 +40,7 @@ Let me walk you through what the actual options look like.
 
 **Radiation therapy** is typically reserved for tumors that can't be fully removed surgically or for certain types like oral squamous cell carcinoma and nasal tumors. The catch is that it requires a referral to a veterinary school or specialty center with the right equipment, repeated anesthesia appointments (usually 15-19 fractions over three to four weeks for definitive protocols, or fewer for palliative), and significant cost. It's not the right fit for every cat or every family, but for specific tumor types it genuinely extends good-quality survival time.
 
-**Immunotherapy and targeted therapy** are relatively newer territory in veterinary medicine. Toceranib phosphate (Palladia) was originally developed for dogs but sees some use in cats with certain tumor types. Research is ongoing, and some specialty centers are enrolling cats in clinical trials. If your cat is diagnosed at a teaching hospital or you're referred to a veterinary oncologist, ask specifically about trials. The AVMA maintains guidance on what to expect from board-certified veterinary oncologists and how they approach evidence-based care, which can help you evaluate what you're being offered.
+**Immunotherapy and targeted therapy** are relatively newer territory in veterinary medicine. Toceranib phosphate (Palladia) was originally developed for dogs but sees some use in cats with certain tumor types. Research is ongoing, and some specialty centers are enrolling cats in clinical trials. If your cat is diagnosed at a teaching hospital or you're referred to a veterinary oncologist, ask specifically about trials. The AVMA maintains guidance on what to expect from [board-certified veterinary oncologist](/cat-hyperthyroidism-treatment/)s and how they approach evidence-based care, which can help you evaluate what you're being offered.
 
 ## What Palliative Care Actually Means
 
@@ -49,7 +50,7 @@ Let me walk you through what the actual options look like.
 
 Here's the part of the conversation that gets avoided too often: sometimes the goal isn't treatment. It's comfort.
 
-Palliative care means managing pain, maintaining appetite, preserving quality of life for as long as possible, without trying to shrink or eliminate the cancer. This is not giving up. For a 17-year-old cat with a stage IV tumor and concurrent kidney disease, aggressive chemo might cause more suffering than the cancer itself over the same timeframe. Palliative care is a legitimate, thoughtful choice. Buprenorphine, meloxicam (used carefully given kidney function), appetite stimulants like mirtazapine, anti-nausea medications like ondansetron. These tools matter.
+Palliative care means managing pain, maintaining appetite, preserving quality of life for as long as possible, without trying to shrink or eliminate the cancer. This is not giving up. For a 17-year-old cat with a stage IV tumor and concurrent [kidney disease](/cat-kidney-disease-diet/), aggressive chemo might cause more suffering than the cancer itself over the same timeframe. Palliative care is a legitimate, thoughtful choice. Buprenorphine, meloxicam (used carefully given kidney function), appetite stimulants like mirtazapine, anti-nausea medications like ondansetron. These tools matter.
 
 PetMD's veterinary resource library has solid summaries of palliative pain management options that are worth reading before your oncology consult so you go in knowing the vocabulary.
 

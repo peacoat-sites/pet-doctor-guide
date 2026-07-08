@@ -7,7 +7,7 @@ author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-07-07
 faqs:
  - question: "When can puppies start vaccines?"
    answer: "Puppies can receive their first vaccine at 6-8 weeks of age. The series continues every 2-4 weeks until 16-20 weeks, when they've built enough immunity despite maternal antibodies."
@@ -30,6 +30,14 @@ Since then, I've watched the vaccination guidelines evolve. The 2022 AAHA update
 This guide reflects what we actually know now, not what clinic handouts from 2010 still say.
 
 ## Puppy Vaccines: The Foundation (6-20 Weeks)
+
+| Vaccine | Puppy Schedule | Adult Schedule | Booster Frequency | Notes |
+| --- | --- | --- | --- | --- |
+| DHPP (core) | 6, 10, 14, 18 weeks; final dose after 16 weeks | Starting dose + 1 booster | Every 3 years | Immunity lasts 3+ years after initial series |
+| Rabies (core) | 16+ weeks | Per initial series | 1-year or 3-year per state law | State law governs frequency |
+| Bordetella (non-core) | Single intranasal or two injectable doses 2-4 weeks apart | Single intranasal or injectable | Annual or before boarding | For dogs in boarding, daycare, training, dog parks |
+| Lyme (non-core) | Two doses 8 and 12 weeks or starting 12+ weeks | Starting at 12+ weeks | Annual | Risk-benefit varies by breed; high adverse event rate in Dachshunds (21.3/10,000) |
+| Leptospirosis (core) | Two doses at 8 and 12 weeks | Starting at 12+ weeks | Annual | Shorter immunity duration (12-18 months); use 4-serovar vaccines when possible |
 
 When I do puppy intake exams, the first question is always about maternally-derived antibodies (MDA). Sounds technical, but it matters: a puppy's immune system gets protection from its mother for the first 6-15 weeks. Problem is, that same protection can block live vaccine viruses from triggering an immune response. You get vaccinated dogs that aren't actually protected, until you're past that window.
 

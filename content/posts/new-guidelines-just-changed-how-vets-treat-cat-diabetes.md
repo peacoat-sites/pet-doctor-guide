@@ -12,6 +12,7 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-guidelines-just-changed-how-vets-treat-cat-diabetes"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If your cat was diagnosed with diabetes this year, the treatment your vet recommends might look nothing like what a friend's diabetic cat received two or three years ago. That's not inconsistency. That's the field actually moving. On April 27, 2026, the American Animal Hospital Association published its first-ever feline-specific diabetes guidelines, and the central shift is bigger than most pet owners realize: for many newly diagnosed cats, a daily pill or oral solution now comes *before* insulin in the treatment hierarchy. After 13 years watching diabetes management evolve in clinic, I'll be honest, I didn't expect an oral medication to leapfrog insulin this decisively in formal guidelines. But here we are, and if your cat is diabetic or you're watching a chunky middle-aged cat show suspicious signs, you need to understand what changed and why.
 
@@ -22,6 +23,12 @@ For years, AAHA published combined canine and feline diabetes guidelines. Vets w
 The 2026 guidelines, published simultaneously in the *Journal of the American Animal Hospital Association* on May 1, 2026, are the first time AAHA has built a framework specifically around how *cat* physiology works. That distinction matters for every recommendation in the document, from which drug to reach for first, to how blood glucose should actually be measured.
 
 ## The Drug Hierarchy Flip: SGLT2 Inhibitors as First Line
+
+| Medication | Brand Name | Form | FDA Approval | First-Line Status |
+| --- | --- | --- | --- | --- |
+| Bexagliflozin | Bexacat | Tablet | Late 2022 | Yes (per 2026 guidelines) |
+| Velagliflozin | Senvelgo | Oral solution | 2023 | Yes (per 2026 guidelines) |
+| Insulin | Various | Injection | Pre-2026 | Second-line (selected cases) |
 
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

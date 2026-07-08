@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-
+lastmod: 2026-07-07
 ---
 Your dog's ribs should be easy to feel but not easy to see. Run your fingers along his side right now. If you're pressing through more than a thin layer of fat before you feel bone, your dog is likely overweight. If you can't feel them at all, he may be obese. It sounds harsh, but here's the reality: the Association for Pet Obesity Prevention estimates that over 55% of dogs in the United States are overweight or obese. That means the chunky, round-bellied dog you're picturing is actually the norm in most American households. And that norm is quietly shortening dogs' lives.
 
@@ -36,6 +36,12 @@ I've seen it in the clinic many times. A 9-year-old Beagle comes in struggling t
 Overweight dogs are also at higher anesthetic risk during surgeries and dental cleanings, which matters when you think about how many procedures a dog might need over a lifetime. If you've ever wondered why your vet keeps mentioning your dog's weight, this is why. It's not a judgment call. It's a clinical one.
 
 ## How to Know If Your Dog Is Overweight
+
+| Condition | Key Signs | Clinical Impact |
+| --- | --- | --- |
+| Overweight (BCS 6-7) | Ribs hard to feel, no visible waist, minimal abdominal tuck | Increased joint stress, elevated disease risk |
+| Obese (BCS 8-9) | Ribs cannot be felt, no waist definition, sagging belly | Significantly shortened lifespan, anesthetic complications, accelerated arthritis |
+| Ideal Weight (BCS 5) | Ribs easily felt with thin fat layer, visible waist, abdominal tuck present | Optimal longevity and quality of life |
 
 The scale isn't the only tool here, and honestly it's not even the most useful one. Two dogs can weigh the same and have very different body compositions. What vets use is called a Body Condition Score, or BCS. Most clinics use a scale from 1 to 9, where 1 is emaciated, 5 is ideal, and 9 is severely obese. A score of 6 or 7 means the dog is overweight. An 8 or 9 is obese territory.
 
@@ -55,7 +61,7 @@ Before you start cutting calories, you need to figure out why your dog is gainin
 
 **Overfeeding:** The feeding guidelines on commercial dog food bags are notoriously generous. They're written to sell food, and most healthy adult dogs need 10 to 25% fewer calories than those guidelines suggest. Treats are also a sneaky source of excess calories. A single medium Milk-Bone for a small dog can account for 10% of their daily calorie allowance.
 
-**Wrong food type:** Foods marketed as "premium" or "high protein" aren't always lower calorie. Some grain-free diets are actually calorie-dense. Read the label.
+**Wrong food type:** Foods marketed as "premium" or "high protein" aren't always lower calorie. Some grain-free diets are actually calorie-dense. [Read the label](/pet-food-ingredients-guide/).
 
 **Medical causes:** Hypothyroidism in dogs can cause weight gain even when calorie intake is normal. Dogs with hypothyroidism often also show lethargy, hair loss, and cold intolerance. Cushing's disease is another hormonal condition that causes fat redistribution and a pot-bellied appearance. If your dog is gaining weight despite normal eating habits and activity, ask your vet about bloodwork to check thyroid levels and rule out metabolic disease before assuming it's purely a diet problem.
 

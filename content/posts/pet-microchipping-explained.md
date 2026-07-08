@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Your dog bolts through an open gate during a thunderstorm. By morning, he's been picked up by animal control, scanned, and is already on his way home before you've even finished printing lost-dog flyers. That's not luck. That's a microchip working exactly as intended. If your pet doesn't have one yet, you're probably wondering whether it's worth it, whether it hurts, and how the whole thing actually works.
 
@@ -41,7 +41,7 @@ A microchip will give your pet a permanent, tamper-proof identifier that no coll
 
 If "implant" is making you nervous on your pet's behalf, here's what actually happens.
 
-The chip comes pre-loaded in a sterile, single-use syringe with a needle slightly larger than what's used for routine vaccines. Your vet parts the fur between your pet's shoulder blades, pinches the skin loosely, and injects the chip into the subcutaneous tissue just beneath the skin. Three seconds. No sedation. No stitches. The needle is bigger than a standard vaccine needle, so there is a brief pinch, but most pets tolerate it fine. I've chipped cats who didn't flinch and dogs who were more bothered by the stool sample collection at the same visit.
+The chip comes pre-loaded in a sterile, single-use syringe with a needle slightly larger than what's used for [routine vaccines](/dog-vaccinations-schedule-guide/). Your vet parts the fur between your pet's shoulder blades, pinches the skin loosely, and injects the chip into the subcutaneous tissue just beneath the skin. Three seconds. No sedation. No stitches. The needle is bigger than a standard vaccine needle, so there is a brief pinch, but most pets tolerate it fine. I've chipped cats who didn't flinch and dogs who were more bothered by the stool sample collection at the same visit.
 
 The procedure can be done at any routine wellness visit, during a spay or neuter surgery (which is actually ideal since the pet is already anesthetized), or at many low-cost clinics and humane societies. The AAHA's [hospital accreditation standards](https://www.aaha.org/) support microchipping as part of comprehensive preventive care, which is why you'll see it offered alongside vaccines at most accredited practices.
 

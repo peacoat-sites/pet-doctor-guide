@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Most dog owners don't realize their pet has a dental problem until the smell hits them. You lean in for a cuddle, your dog yawns, and you pull back wondering if something crawled into their mouth and died. That moment of "wow, that's bad" is actually a turning point, because by the time you're noticing the odor, periodontal disease has very likely already started. Studies from the American Veterinary Dental College suggest that 80% of dogs show signs of periodontal disease by age three. Three years old. That's not a senior dog problem. That's a young dog problem that most people miss entirely.
 
@@ -39,7 +39,7 @@ Most dog owners don't realize their pet has a dental problem until the smell hit
 
 ## Why Dog Dental Health Matters More Than You Think
 
-Here's what happens inside your dog's mouth when dental care gets skipped. Bacteria form a soft, sticky film on the teeth called plaque. You've got about 24 to 36 hours before that plaque mineralizes into tartar, which is the hard, yellowish-brown crust you can see building up near the gumline. Once it hardens, you can't brush it off at home. That requires professional scaling, which means a vet visit and cost.
+Here's what happens inside your dog's mouth when dental care gets skipped. Bacteria form a soft, sticky film on the teeth called plaque. You've got about 24 to 36 hours before that plaque mineralizes into tartar, which is the hard, yellowish-brown crust you can see building up near the gumline. Once it hardens, you can't brush it off at home. That requires [professional scaling](/dog-teeth-cleaning-cost/), which means a vet visit and cost.
 
 Left alone, tartar becomes a perfect hiding spot for more bacteria to accumulate under the gumline. The gums get inflamed (gingivitis), and eventually the tissue and bone holding the teeth in place begin to break down. This is periodontal disease, and it's painful. Dogs are masters at hiding pain, so they'll keep eating even when their mouths hurt. That's exactly why so many cases go unnoticed until a vet spots it during a routine exam.
 
@@ -66,7 +66,7 @@ A cracked tooth or facial swelling that's warm to the touch edges into emergency
 
 ## Building a Home Dental Care Routine
 
-Daily toothbrushing is genuinely the most effective thing you can do between professional cleanings. The mechanical action of bristles against tooth surfaces disrupts plaque before it hardens. Nothing else replicates this as well.
+Daily toothbrushing is genuinely the most effective thing you can do between [professional cleanings](/cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026/). The mechanical action of bristles against tooth surfaces disrupts plaque before it hardens. Nothing else replicates this as well.
 
 **How to brush your dog's teeth:**
 

@@ -12,10 +12,17 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "a-cheaper-generic-for-dogs-with-heart-disease-is-now-available"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If your dog is on Vetmedin, or your cardiologist just told you your dog needs to start it, here's news that could meaningfully change what this diagnosis costs you. Cronus Pharma's Pimobendan Chewable Tablets hit the U.S. veterinary market on June 9, 2026, becoming the first FDA-approved generic bioequivalent of Vetmedin. For a drug that gets dosed twice daily, every day, for the rest of a dog's life, "generic is now available" isn't just a footnote. It's potentially thousands of dollars.
 
 ## What the Generic Actually Is, and What It Isn't
+
+| Pimobendan Indication | Approved Form | FDA Approval Date | Clinical Use |
+| --- | --- | --- | --- |
+| Active CHF (Stage C/D) in MMVD or DCM | Cronus Pharma generic chewable tablets | June 9, 2026 | Bioequivalent to Vetmedin; typically first-line treatment |
+| Preclinical heart disease (Stage B2 MMVD) | Vetmedin (brand only) | January 2026 | Delays CHF onset or cardiac-related death by 15.6 months |
+| Compounded pimobendan | Compounding pharmacy formulations | Ongoing | Not FDA-approved as generic; bioequivalence not tested |
 
 Pimobendan is the molecule. Vetmedin is the brand name that Boehringer Ingelheim has owned since the drug's original conditional FDA approval in 2022. Cronus Pharma's chewable tablets are bioequivalent, meaning the FDA has determined they deliver the same active ingredient at the same rate and concentration as the brand. That's what generics have to prove. It's not a guess.
 

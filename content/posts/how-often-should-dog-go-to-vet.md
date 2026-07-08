@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 Most dog owners wait until something's obviously wrong to call the vet. Here's a fact that should change that thinking: dogs can lose 75% of their kidney function without showing a single symptom. By the time your dog seems off, the disease has often been quietly progressing for months or years. Routine wellness visits aren't just about vaccines and a quick heart listen. They're your best shot at catching the invisible stuff early, when you actually have treatment options.
 
@@ -31,11 +31,17 @@ Most dog owners wait until something's obviously wrong to call the vet. Here's a
 
 ## The General Schedule: What Most Dogs Actually Need
 
+| Life Stage | Frequency | Key Focus |
+| --- | --- | --- |
+| Puppies (birth to 1 year) | Every 3-4 weeks until 16 weeks, then at 6 months and 1 year | Vaccines, deworming, spay/neuter consultation, baseline establishment |
+| Adult dogs (1-7 years) | Once a year minimum | Physical exam, core vaccines, heartworm testing, fecal screening |
+| Senior dogs (7+ years) | Twice a year | Physical exam, bloodwork panels (kidney, liver, thyroid monitoring) |
+
 The honest answer? Visit frequency isn't one-size-fits-all. It depends on age, breed, health history, and what your dog actually does. But here's a framework that works for most dogs:
 
-**Puppies (birth to 1 year):** Every 3 to 4 weeks from about 6 weeks until 16 weeks for vaccines and deworming. Then a visit around 6 months for spay or neuter consultation, and a full exam at 1 year. That's 4 to 6 vet visits in year one alone. I know that sounds excessive, but the first year is when you establish a baseline, catch developmental issues early, and figure out what parasite prevention actually makes sense for your dog's situation.
+**Puppies (birth to 1 year):** Every 3 to 4 weeks from about 6 weeks until 16 weeks for vaccines and deworming. Then a visit around 6 months for [spay or neuter consultation](/spay-neuter-benefits-dogs-cats/), and a full exam at 1 year. That's 4 to 6 vet visits in year one alone. I know that sounds excessive, but the first year is when you establish a baseline, catch developmental issues early, and figure out what parasite prevention actually makes sense for your dog's situation.
 
-**Adult dogs (1 to 7 years, roughly):** Once a year minimum. This means a physical exam, core vaccines on the right schedule (not everything is annual), heartworm testing, and fecal screening. Some vets recommend bloodwork starting at age 3 or 4 if you have a breed prone to specific problems. Dobermans and dilated cardiomyopathy. Cavalier King Charles Spaniels and heart disease.
+**Adult dogs (1 to 7 years, roughly):** Once a year minimum. This means a physical exam, core vaccines on the right schedule (not everything is annual), [heartworm testing](/dog-heartworm-prevention-guide/), and fecal screening. Some vets recommend bloodwork starting at age 3 or 4 if you have a breed prone to specific problems. Dobermans and dilated cardiomyopathy. Cavalier King Charles Spaniels and heart disease.
 
 **Senior dogs (7 and older, though giant breeds age faster):** Twice a year. Most pet owners push back on this one, but the math is real. A dog ages 5 to 7 times faster than a human, which means a lot changes in 12 months. Twice-yearly visits with senior bloodwork panels let your vet track kidney values, liver enzymes, and thyroid function over time instead of just taking a single snapshot.
 

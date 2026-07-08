@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-
+lastmod: 2026-07-07
 ---
 Your cat has been acting completely normal. Eating well, playing occasionally, sleeping approximately 20 hours a day as cats do. So when the vet finds a heart murmur at the annual exam, it feels like it came out of nowhere. It didn't. It was there, quietly developing, and the only reason you caught it early enough to manage it well is because you brought her in. That's exactly what annual wellness exams are for, and it's exactly why skipping them "because she seems fine" is a gamble that doesn't always pay off.
 
@@ -53,7 +53,7 @@ The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) reco
 
 Here's a simple way to think about it: one human year equals roughly 4 to 5 cat years in terms of physiological aging. An annual exam for a 9-year-old cat is the equivalent of seeing your own doctor every 4 to 5 years. Put that way, once a year sounds like the bare minimum, not an overcautious schedule.
 
-Kittens need more frequent visits in year one, typically at 8 weeks, 12 weeks, and 16 weeks for vaccines, deworming, and a flea prevention plan, plus a spay/neuter consultation. After that, annual visits until age 7, then reassess frequency with your vet.
+Kittens need more frequent visits in year one, typically at 8 weeks, 12 weeks, and 16 weeks for vaccines, deworming, and a flea prevention plan, plus a [spay/neuter consultation](/spay-neuter-benefits-dogs-cats/). After that, annual visits until age 7, then reassess frequency with your vet.
 
 ## Vaccines: What Your Cat Actually Needs vs. What's Optional
 

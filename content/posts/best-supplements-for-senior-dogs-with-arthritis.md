@@ -23,11 +23,11 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it was the way she hesitated before jumping onto the couch she's claimed for the last nine years. You're Googling at 11pm, reading ingredient labels you don't fully understand, wondering if you're doing enough. I know this place. I've watched hundreds of owners arrive at it, and I want to give you something actually useful.
 
-Let's talk about what works, what's overhyped, and how to think about supplementing a senior dog with arthritis without throwing $80 a month at products that amount to expensive urine.
+Let's talk about what works, what's overhyped, and how to think about supplementing a [senior dog with arthritis](/senior-dog-care-guide/) without throwing $80 a month at products that amount to expensive urine.
 
 
 <div class="value-module">

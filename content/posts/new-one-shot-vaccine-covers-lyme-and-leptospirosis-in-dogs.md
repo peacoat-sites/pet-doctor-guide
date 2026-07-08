@@ -12,6 +12,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "new-one-shot-vaccine-covers-lyme-and-leptospirosis-in-dogs"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You're at your dog's summer wellness appointment, the tech is prepping three or four syringes on the counter, and your dog is already trembling on the table. If you've ever thought *there has to be a better way to do this*, there's actually some good news this month. On June 15, 2026, the USDA approved Elanco's TruCan Ultra Lyme-L4, the first combination vaccine to protect dogs against both Lyme disease and leptospirosis in a single half-milliliter injection. It's landing right at the peak of tick season, and if your dog is due for a wellness visit in the next few weeks, this is worth knowing before you walk through that clinic door.
 
@@ -24,6 +25,14 @@ Elanco already had a 1 mL combination vaccine in this category, which dvm360 not
 The vaccine uses Elanco's PureFil Technology, which is designed to reduce unwanted proteins in the final product. Vaccination reactions, while not common, are a real concern for some dogs, and a lot of those reactions are tied to adjuvants and protein contaminants rather than the antigens themselves. This technology is specifically aimed at that problem, which is worth mentioning to your vet if your dog has had a history of post-vaccine sensitivity.
 
 ## The Efficacy Numbers Are Genuinely Impressive
+
+| Metric | Laboratory Challenge | Natural Field Infection |
+| --- | --- | --- |
+| Efficacy | 100% | 92.2% |
+| Conditions | Controlled environment | Highly endemic areas |
+| Real-world relevance | Shows vaccine capability | Shows practical performance |
+
+*Source: Elanco TruCan Ultra Lyme-L4 approval announcement, June 2026*
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

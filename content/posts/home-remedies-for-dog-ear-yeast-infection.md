@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 Your dog is shaking his head like he's trying to fling something off, one ear smells vaguely like a corn chip or sourdough bread, and the inside of the flap looks pink and a little gunky. You've seen this before. Maybe it's the third time this year. You already know what it is.
 
@@ -58,6 +58,14 @@ Warm the bottle slightly in your hand for a minute or two. Cold liquid in the ea
 Do this once a day for three days before you start any antifungal treatment. Yes, the cleaning alone often reduces mild yeast significantly because you're removing the substrate the yeast feeds on.
 
 ## The Home Remedies Worth Trying (and the Ones to Skip)
+
+| Remedy | Type | Cost | Recommendation | Key Notes |
+| --- | --- | --- | --- | --- |
+| Virbac Epi-Otic Advanced Ear Cleanser | Veterinary cleanser | $15-20 per 8 oz | Recommended | pH-balanced, wax-dissolving, use before treatment |
+| Zymox Ear Cleanser | Veterinary cleanser | Not specified | Recommended | Ceruminolytic formula for debris removal |
+| Apple Cider Vinegar (diluted) | Home remedy | Minimal | Conditional | Dilute 1:2 with water; skip if skin is raw or broken |
+| Coconut Oil | Home remedy | Minimal | Not recommended | May trap debris and worsen infection |
+| Zymox Otic Enzymatic Solution with Hydrocortisone | OTC treatment | $25-30 per 1.25 oz | Recommended | LP3 Enzyme System; do not pre-clean ear before use |
 
 Here's where I'll give you my honest take, because a lot of what circulates online is either useless or actively harmful.
 

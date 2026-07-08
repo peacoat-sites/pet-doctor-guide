@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-
+lastmod: 2026-07-07
 ---
 You're standing in the pet food aisle, bag in hand, squinting at an ingredient list that reads like a chemistry exam. Chicken by-product meal, carrageenan, mixed tocopherols, brewers rice, sodium selenite. What does any of it actually mean? Here's the thing most pet food brands won't tell you: the ingredient list on your pet's food is regulated and ordered by weight before cooking, which means a bag that leads with "real chicken" might contain far less actual meat protein than you think once that moisture-heavy chicken is cooked down. Understanding what you're reading isn't about being a neurotic pet parent. It's about making genuinely informed choices for an animal who depends entirely on you to get it right.
 
@@ -45,7 +45,7 @@ Not all ingredients require suspicion. Many are genuinely beneficial, and knowin
 
 **Named meat proteins** are the gold standard. Chicken, salmon, beef, turkey, lamb. When you see a specific animal listed rather than something vague like "meat," that's a point in the food's favor. Deboned chicken and chicken meal are both fine options. Chicken meal is actually more protein-dense than deboned chicken because the water has already been removed. A food with chicken meal in the top three ingredients often has more actual protein than one where deboned chicken appears first.
 
-**Whole vegetables and fruits** like sweet potatoes, blueberries, carrots, and peas provide fiber, antioxidants, and micronutrients. Small to moderate amounts are generally beneficial. Peas and legumes in large quantities have been under scrutiny related to dilated cardiomyopathy (DCM) in dogs, and while the science is still developing, the FDA opened an investigation into grain-free diets heavy in legumes. Moderation and variety make sense here.
+**Whole vegetables and fruits** like sweet potatoes, blueberries, carrots, and peas provide fiber, antioxidants, and micronutrients. Small to moderate amounts are generally beneficial. Peas and legumes in large quantities have been under scrutiny related to dilated cardiomyopathy (DCM) in dogs, and while the science is still developing, the FDA opened an investigation into [grain-free diets heavy in legumes](/grain-free-vs-grain-inclusive-dog-food-which-is-better/). Moderation and variety make sense here.
 
 **Named fats** matter. Chicken fat, salmon oil, flaxseed. These provide omega-3 and omega-6 fatty acids that support skin, coat, and immune function. Compare that to "animal fat," which is a vague catch-all with no defined source.
 

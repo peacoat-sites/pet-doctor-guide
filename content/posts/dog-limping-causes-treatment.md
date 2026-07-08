@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 You glance over at your dog and something stops you cold: he's holding one front leg up off the ground, refusing to put weight on it. Five minutes ago he was fine. Now you're standing in your kitchen at 9 PM on a Sunday wondering if you need to find an emergency vet or if this can wait until morning. That moment of uncertainty is exactly why I'm writing this.
 
@@ -55,7 +55,7 @@ Before you panic or before you wait too long, spend 5-10 minutes doing a calm, s
 
 4. **Compare both legs.** Is one knee visibly swollen compared to the other? Is one shoulder muscle wasted? Asymmetry tells you a lot.
 
-5. **Check for other symptoms.** Fever, lethargy, loss of appetite, or swollen lymph nodes alongside lameness changes the picture significantly.
+5. **Check for other symptoms.** Fever, lethargy, [loss of appetite](/dog-not-eating-what-to-do/), or swollen lymph nodes alongside lameness changes the picture significantly.
 
 6. **Note the circumstances.** When did it start? Was there a specific incident? Has this happened before? Your vet will ask all of this.
 

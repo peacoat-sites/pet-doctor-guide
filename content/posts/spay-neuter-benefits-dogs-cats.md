@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 Most people already know spaying and neutering "is good." What they don't know is *why* it's good in ways that go beyond population control talking points, which specific risks it eliminates versus which ones it merely reduces, and how age and breed factor into timing in ways that can genuinely affect your individual dog or cat. The blanket "fix your pet at six months" advice has been quietly revised by veterinary science over the last decade, and if your vet hasn't mentioned that, you deserve to know.
 
@@ -70,6 +70,14 @@ For small breed dogs and most cats, the traditional timeline holds up well. Smal
 The bottom line: ask your vet specifically about your dog's expected adult weight and breed, and ask whether the practice has updated its timing recommendations based on current literature.
 
 ## Comparing Spay/Neuter Timing Options: A Practical Breakdown
+
+| Age at Procedure | Best For | Watch Out For |
+|---|---|---|
+| 4-6 months (cats) | All cats; strong mammary tumor prevention | Ensure vet confirms minimum body weight |
+| 6 months (small dogs under 45 lbs) | Toy, small, and many medium breeds | Standard risk profile; generally well-supported |
+| 9-12 months (medium-large dogs) | Breeds like Labs, Goldens, Border Collies | Discuss individual risk with your vet |
+| 12-18+ months (large/giant breeds) | Breeds like Great Danes, Rotties, Mastiffs | Manage intact males carefully during wait period |
+| After first heat (females) | Individual risk decisions | Mammary tumor protection partially reduced |
 
 | Age at Procedure | Best For | Watch Out For |
 |---|---|---|

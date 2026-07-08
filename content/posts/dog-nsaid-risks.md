@@ -23,10 +23,11 @@ faqs:
    a: "The research here is somewhat limited, but dogs with pre-existing kidney disease, liver disease, or heart disease are at significantly higher risk regardless of breed. Some individual dogs also have idiosyncratic reactions that aren't predictable from breed or age. This is another reason bloodwork before starting is worth doing."
  - q: "Can I give my dog an NSAID I have left over from a previous prescription?"
    a: "Please don't. Prescription NSAIDs are dosed specifically for the dog and condition they were dispensed for. Using leftover medication skips the step where a vet confirms the current diagnosis, checks for drug interactions with anything new your dog is on, and verifies that your dog's organ function can handle it. The savings aren't worth the risk."
+lastmod: 2026-07-07
 ---
 Most dogs who end up in emergency clinics bleeding internally or with acute kidney failure got there because someone grabbed ibuprofen from the medicine cabinet, or their owner didn't realize the dog was already on a prescription NSAID and gave another one. I've seen it happen more times than I'd like. The owner is devastated. The outcome is sometimes terrible. And almost every time it was entirely preventable.
 
-NSAIDs, non-steroidal anti-inflammatory drugs, are genuinely useful in veterinary medicine. Carprofen (Rimadyl), meloxicam (Metacam), deracoxib (Deramaxx), grapiprant (Gallipro Tabs), and several others are prescribed every single day in practices across the country. For a dog with osteoarthritis, post-surgical pain, or an acute soft tissue injury, they make a real difference. I'm not here to scare you away from them. I'm here to make sure you understand what you're agreeing to when your vet writes that prescription, because I've watched that five-minute discharge conversation go way too fast.
+NSAIDs, non-steroidal anti-inflammatory drugs, are genuinely useful in veterinary medicine. [Carprofen (Rimadyl)](/rimadyl-for-dogs-guide/), meloxicam (Metacam), deracoxib (Deramaxx), grapiprant (Gallipro Tabs), and several others are prescribed every single day in practices across the country. For a dog with osteoarthritis, post-surgical pain, or an acute soft tissue injury, they make a real difference. I'm not here to scare you away from them. I'm here to make sure you understand what you're agreeing to when your vet writes that prescription, because I've watched that five-minute discharge conversation go way too fast.
 
 ## What NSAIDs actually do in your dog's body
 
@@ -48,7 +49,7 @@ If your dog is in pain on a Saturday night and your vet is closed, call an emerg
 
 Most veterinarians will recommend baseline bloodwork before starting a dog on long-term NSAID therapy, and recheck panels every six months or so after that. I've met a lot of owners who skip the rechecks because the dog seems fine and the tests feel like unnecessary expense. I understand that impulse. Vet costs today are real, and $150-200 for a chemistry panel when your dog is acting totally normal feels hard to justify.
 
-Here's why I'd push back: the early signs of NSAID-related kidney stress aren't always visible. A dog can lose significant kidney function before you notice increased thirst or changes in urination. By the time those symptoms show up, you're already behind. Catching it on a blood panel while values are mildly elevated gives you options, mainly stopping the drug, supporting the kidneys, and reassessing pain management. Catching it in a crisis is a very different conversation.
+Here's why I'd push back: the early signs of NSAID-related kidney stress aren't always visible. A dog can lose significant kidney function before you notice increased thirst or changes in urination. By the time those symptoms show up, you're already behind. Catching it on a blood panel while values are mildly elevated gives you options, mainly stopping the drug, supporting the kidneys, and reassessing [pain management](/gabapentin-for-dogs/). Catching it in a crisis is a very different conversation.
 
 The American Veterinary Medical Association backs routine monitoring for dogs on long-term NSAIDs, and in my clinical experience, the practices that are rigorous about this catch problems early. It's not a money grab. It's how the drug is meant to be used.
 

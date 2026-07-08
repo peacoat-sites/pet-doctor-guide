@@ -23,6 +23,7 @@ faqs:
     a: "It genuinely varies by individual cat, but in my clinical experience, sisal rope or sisal fabric gets more consistent use than looped carpet, possibly because looped carpet is less satisfying to pull through. Corrugated cardboard is the wild card that wins over cats who ignore both."
   - q: "How long does it take to redirect a cat to a new scratching post?"
     a: "With consistent placement, the right texture, and some catnip encouragement, most cats show a clear preference shift within two to four weeks. Older cats with established habits can take six to eight weeks. Don't give up at two weeks just because it's not instantaneous."
+lastmod: 2026-07-07
 ---
 
 Most articles about cat scratching furniture tell you to "redirect the behavior" and buy a scratching post. That advice isn't wrong, exactly. It's just about 20% of what you actually need to know.
@@ -39,7 +40,7 @@ The scratching post failure rate is genuinely high. A reader named Jess emailed 
 
 That's the core problem right there.
 
-Cats scratch for territorial marking, and territory means the spaces they share with you. The living room couch is prime real estate. The spare bedroom post is exile. Put the post where the scratching is happening. Yes, that means your living room. Yes, it'll look like your cat runs the house. (The cat does run the house. That's a separate article.)
+Cats scratch for [territorial marking](/cat-hiding-behavior-explained/), and territory means the spaces they share with you. The living room couch is prime real estate. The spare bedroom post is exile. Put the post where the scratching is happening. Yes, that means your living room. Yes, it'll look like your cat runs the house. (The cat does run the house. That's a separate article.)
 
 Texture matters just as much. Most budget posts are covered in looped berber carpet, which a lot of cats genuinely dislike. In my experience, cats are strongly divided between sisal rope, corrugated cardboard, and wood. The only way to figure out which your cat prefers is to offer two or three options simultaneously. Sisal rope posts like the [SmartCat Ultimate Scratching Post](https://amzn.to/smartcat-sisal) (about $30-35 currently) are consistently popular and actually tall enough for a full stretch at 32 inches. That height matters because a cat needs to extend fully to get the stretch benefit. Most cheap posts are 18 inches. That's too short for most adult cats and they'll ignore it.
 
@@ -48,6 +49,15 @@ Horizontal vs. vertical is also a real split. Some cats are horizontal scratcher
 ---
 
 ## Protecting Your Furniture While You Transition
+
+| Solution | Type | Cost | Duration | Effectiveness |
+| --- | --- | --- | --- | --- |
+| Sticky Paws sheets | Furniture protection | $12-15 | 2-4 weeks | High |
+| CLAWGUARD corner guards | Furniture protection | $20-25 (4 corners) | Ongoing | High |
+| Sisal rope scratching post | Scratching alternative | $30-35 | Ongoing | High |
+| Guillotine-style nail clippers | Maintenance tool | $10-12 | One-time | Reduces damage |
+| Claw caps (Soft Paws/Soft Claws) | Nail protection | $12-14 (40 pack) | 4-6 weeks per application | High (severe cases) |
+| Citrus/lavender sprays | Deterrent | Varies | Varies | Low (unreliable) |
 
 > **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

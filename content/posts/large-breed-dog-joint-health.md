@@ -12,6 +12,7 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 slug: "large-breed-dog-joint-health"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Large breed dogs age faster than most people realize. A Great Dane is considered a senior at 6. A Rottweiler's hips can start showing arthritis changes on X-ray at 3 or 4, years before they limp visibly. If you've got a dog over 40 pounds and you're reading this, you're probably somewhere on the spectrum between "I want to be proactive" and "my dog is already struggling and I don't know what to do." Both of those places are completely reasonable, and this article is for both of you.
 
@@ -28,6 +29,13 @@ What that means practically: inflammation accumulates. Cartilage doesn't have a 
 The other piece that surprises a lot of owners is growth rate. Large breed puppies that grow too fast, specifically from overfeeding or protein-and-calcium-heavy diets, are at higher risk for developmental orthopedic diseases like osteochondrosis (OCD) and hip dysplasia. A 2020 study published in *Veterinary Journal* confirmed what many orthopedic vets had suspected: excess caloric intake during the rapid growth phase in large breeds directly correlates with increased joint disease incidence later. This is why large breed puppy food formulas are calibrated differently, and it's not marketing fluff. It actually matters.
 
 ## The Supplement Question (Here's My Honest Take)
+
+| Supplement | Evidence Level | Typical Dosage (90 lb dog) | Use Case |
+| --- | --- | --- | --- |
+| Glucosamine & Chondroitin | Mixed research | Per product label | Dogs with existing joint changes; young high-risk breeds |
+| Omega-3 (EPA+DHA) | Stronger evidence | 2,000-3,000 mg/day | Dogs with osteoarthritis; anti-inflammatory support |
+| Joint supplement blends (12+ ingredients) | Typically insufficient | Below therapeutic doses | Not recommended |
+| Cosequin DS | Well-studied | Per product label | Established option with consistent results |
 
 > **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

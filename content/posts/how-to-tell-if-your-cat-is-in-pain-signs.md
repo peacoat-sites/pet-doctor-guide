@@ -23,6 +23,7 @@ faqs:
    a: "Both things are real, but slowing down in cats is often arthritis, not just aging. One study estimated that over 90% of cats over 12 have radiographic evidence of joint changes. If your senior cat is less active or seems stiff, a pain assessment and possibly a joint supplement conversation with your vet is warranted. Your vet can help you choose something appropriate, or products like joint supplements designed for cats are available, though always confirm with your vet before starting one."
  - q: "Should I give my cat any human pain medication?"
    a: "No. Acetaminophen is lethal to cats. Ibuprofen and aspirin are highly toxic. There is no human OTC pain reliever that's safe to give a cat. If your cat needs pain management, that requires a vet visit and a prescription."
+lastmod: 2026-07-07
 ---
 
 Cats are hardwired to hide pain. That's not a personality quirk, it's a survival mechanism from their evolutionary history as both predator and prey. A wild cat showing weakness is a dead cat. Your domestic tabby carries the same wiring, which means by the time most owners notice something's wrong, the animal has often been suffering for days.
@@ -49,11 +50,11 @@ Aggression when you touch a specific area. This is so commonly dismissed as "she
 
 Grooming changes come in two flavors. Over-grooming (licking one spot obsessively, sometimes to the point of hair loss) often signals localized pain or nerve irritation. Under-grooming, where a cat looks unkempt and stops doing their usual thorough coat maintenance, suggests either systemic illness or pain that makes contorting to groom too uncomfortable. Older cats with arthritis frequently have unkempt coats around their hindquarters for exactly that reason.
 
-Litterbox behavior shifts. Painful urination causes cats to vocalize in the box, make multiple trips with little output, or squat and strain. That's a vet call today, not Monday. Urinary obstruction in male cats can kill within 24-48 hours, and the early signs look deceptively mild.
+Litterbox behavior shifts. Painful urination causes cats to vocalize in the box, make multiple trips with little output, or squat and strain. That's a vet call today, not Monday. [Urinary obstruction in male cats](/cat-not-using-litter-box-causes/) can kill within 24-48 hours, and the early signs look deceptively mild.
 
 ## Vocalizations: Not Always What You Think
 
-Most cats in pain don't yowl. That's the myth. Chronic pain in particular tends to be quiet. Acute, sudden-onset pain may produce yowling or crying (a urinary obstruction, for example, or a traumatic injury), but the cat with steady dental pain or joint inflammation just... gets quieter. Interacts less. Stops announcing dinner.
+Most cats in pain don't yowl. That's the myth. Chronic pain in particular tends to be quiet. Acute, sudden-onset pain may produce yowling or crying (a urinary obstruction, for example, or a traumatic injury), but the cat with steady [dental pain or joint inflammation](/cat-dental-disease-signs/) just... gets quieter. Interacts less. Stops announcing dinner.
 
 Purring doesn't mean comfort. Cats purr when stressed, when injured, sometimes when dying. The frequency of a cat's purr (roughly 25-150 Hz) has been shown to have some tissue-healing effects, so it's thought that sick or injured cats may purr as a self-soothing mechanism. Don't let a purring cat convince you everything's fine.
 

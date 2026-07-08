@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-
+lastmod: 2026-07-07
 ---
 White foam vomit from a dog who won't eat is one of those symptoms that genuinely ranges from "wait until morning" to "drive to the emergency clinic right now," and most of the advice online makes it sound like it's always one or the other. I'll be honest: that ambiguity used to frustrate me too, even after years in a clinical setting. So let me give you the real breakdown.
 
@@ -74,7 +74,7 @@ Ask yourself these questions:
 2. Is your dog drinking water? A dog who is vomiting AND not drinking is at real risk of rapid dehydration.
 3. Is your dog a puppy, a senior, or immunocompromised? These animals have much less physiological reserve.
 4. When was the last vaccine? Parvovirus is rare in vaccinated dogs, but not impossible, and it hits puppies fast and hard.
-5. Is your dog having diarrhea too? Vomiting plus diarrhea plus anorexia is a trifecta that almost always needs vet input.
+5. Is your dog having diarrhea too? [Vomiting plus diarrhea plus anorexia](/dog-diarrhea-home-remedies/) is a trifecta that almost always needs vet input.
 
 If the answers to any of those are concerning, don't talk yourself into waiting until Monday. Emergency vet visits are expensive, I know. But the cost of a sick-dog exam and some fluids is almost always less than the cost of treating a dog who got significantly worse overnight.
 

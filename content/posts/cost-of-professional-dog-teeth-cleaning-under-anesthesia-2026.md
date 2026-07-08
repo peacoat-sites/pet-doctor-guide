@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 Last year, a client stormed into our clinic absolutely livid. She'd gotten a quote of $850 for her four-year-old beagle's dental cleaning, convinced we were running a scam. "It's just teeth cleaning," she said. "My dentist charges less than that." I spent ten minutes walking her through the line items, and by the end, she wasn't thrilled about the price, but she got it. That's what I'm doing here.
 
@@ -69,7 +69,7 @@ Anesthesia-free dental cleanings are cosmetic. Not medical. I'm saying that plai
 
 I've seen dogs who came to us after years of anesthesia-free cleanings with teeth that looked immaculate and had serious bone loss underneath. Both the [AVMA](https://www.avma.org/) and the American Veterinary Dental College state explicitly that anesthesia-free dentals don't allow for subgingival cleaning (that's below the gumline, where disease actually lives), diagnostic X-rays, or proper assessment of pocket depths. They also stress the animal through restraint in ways that cause real psychological damage.
 
-Anesthesia-free runs $200 to $400. I understand the appeal. But you're paying for the appearance of clean teeth, not actual oral health. Save that money for the procedure that actually works.
+Anesthesia-free runs $200 to $400. I understand the appeal. But you're paying for the appearance of clean teeth, not [actual oral health](/dog-dental-health-guide/). Save that money for the procedure that actually works.
 
 ## What Drives the Price Difference Between Clinics
 

@@ -23,6 +23,7 @@ faqs:
    a: "Depends on the condition. Cardiac screening for Cavaliers should start by 12 months per the MVD Breeding Protocol. Hip radiographs can be done preliminarily at 4 months, with official OFA certification at 2 years. Ask your vet for a breed-specific screening timeline at your dog's first wellness visit."
  - q: "Is it worth seeing a specialist instead of my regular vet for breed-related issues?"
    a: "For serious conditions, yes, often worth it. A board-certified cardiologist reading your Doberman's echocardiogram is not the same as a general practitioner doing it. Board certifications exist because expertise accumulates with volume. Your general vet is ideal for ongoing care and to triage what needs a specialist. Use both."
+lastmod: 2026-07-07
 ---
 
 Most breed health guides read like a Wikipedia stub crossed with a vet school handout. They list conditions by breed in alphabetical order, confirm that yes, large dogs can get hip dysplasia, and leave you no better equipped than before you started. Let me try something more useful.
@@ -53,13 +54,21 @@ If you're adopting from a rescue, you obviously won't get that paper trail. That
 
 ## The Breed Categories That Carry the Most Risk
 
+| Breed Category | Primary Health Concern | Key Warning Signs | Prevention/Testing |
+| --- | --- | --- | --- |
+| Brachycephalic (flat-faced) | Brachycephalic Obstructive Airway Syndrome (BOAS) | Loud snoring at rest, struggling in heat, collapsing after moderate exercise | Corrective surgery ($3,000-$6,000); awareness of heat sensitivity |
+| Large and Giant | Gastric Dilatation-Volvulus (GDV/bloat) | Unproductive retching, distended abdomen, sudden restlessness or distress | Emergency recognition; surgery within 30 minutes critical |
+| Large and Giant | Orthopedic disease | Lameness, difficulty rising, joint pain | OFA hip/elbow clearances for parents |
+| Chondrodystrophic (short-limbed) | Intervertebral Disc Disease (IVDD) | Sudden hind-end weakness, paralysis, pain | Keep lean, use harness, prompt veterinary evaluation |
+| Herding and Sporting | MDR1 gene mutation sensitivity | Drug toxicity from common medications/antiparasitics | DNA test (~$80) before medication prescribed |
+
 Rather than going breed by breed (there are hundreds; that article would be interminable), it's more useful to think in categories.
 
 **Brachycephalic breeds** are the ones with flat faces: French Bulldogs, English Bulldogs, Pugs, Boston Terriers, Shih Tzus. Brachycephalic Obstructive Airway Syndrome (BOAS) affects the majority of them to some degree. Signs include snoring loudly at rest, struggling in heat, and collapsing after moderate exercise. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) gets calls about flat-faced dogs at disproportionate rates in summer heat events because owners don't realize how quickly these dogs overheat. Many need corrective surgery, and the good surgeons aren't cheap. Budget $3,000 to $6,000 if your dog needs a soft palate resection and nares widening.
 
-**Large and giant breeds** (Great Danes, Saint Bernards, Irish Wolfhounds, Rottweilers) share two major concerns: orthopedic disease and bloat. Gastric dilatation-volvulus (GDV, or bloat) is the one that kills dogs with almost no warning. The stomach fills with gas and twists. Your dog goes from fine to dead in hours without emergency surgery. If you own a large, deep-chested dog, you need to know what bloat looks like: unproductive retching, a distended abdomen, sudden restlessness or distress. It is always an emergency. Thirty minutes of "wait and see" can make the difference between a dog that survives and one that doesn't.
+**Large and giant breeds** (Great Danes, Saint Bernards, Irish Wolfhounds, Rottweilers) share two major concerns: orthopedic disease and bloat. Gastric dilatation-volvulus (GDV, or bloat) is the one that kills dogs with almost no warning. The stomach fills with gas and twists. Your dog goes from fine to dead in hours without emergency surgery. If you own a [large, deep-chested dog](/large-breed-dog-joint-health/), you need to know what bloat looks like: unproductive retching, a distended abdomen, sudden restlessness or distress. It is always an emergency. Thirty minutes of "wait and see" can make the difference between a dog that survives and one that doesn't.
 
-**Chondrodystrophic breeds** are the ones with abnormally short limbs: Dachshunds, Basset Hounds, Corgis. Intervertebral disc disease (IVDD) is the primary concern, and it can cause sudden paralysis. I've watched owners carry their Dachshund in thinking it was a muscle strain, only to have a neurologist tell them they needed spinal surgery that day. Prevention matters here: keep these dogs lean, use a harness instead of a collar, and take sudden hind-end weakness seriously.
+**[Chondrodystrophic breeds](/small-breed-dental-health-dogs/)** are the ones with abnormally short limbs: Dachshunds, Basset Hounds, Corgis. Intervertebral disc disease (IVDD) is the primary concern, and it can cause sudden paralysis. I've watched owners carry their Dachshund in thinking it was a muscle strain, only to have a neurologist tell them they needed spinal surgery that day. Prevention matters here: keep these dogs lean, use a harness instead of a collar, and take sudden hind-end weakness seriously.
 
 **Herding and sporting breeds** (Border Collies, Australian Shepherds, German Shepherds, Labrador Retrievers) tend to be healthier overall but carry their own baggage. MDR1 gene mutations in many herding breeds mean certain common drugs, including some antiparasitics, can be fatal. This is a DNA test that costs around $80 through Washington State University's Veterinary Clinical Pharmacology Lab. Every herding breed owner should know their dog's MDR1 status before any medication is prescribed.
 

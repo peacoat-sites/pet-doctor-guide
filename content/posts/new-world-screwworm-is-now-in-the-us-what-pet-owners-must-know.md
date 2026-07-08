@@ -12,6 +12,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "new-world-screwworm-is-now-in-the-us-what-pet-owners-must-know"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Your dog nicks a paw on brush during an evening walk. You clean it, dab on some Neosporin, and move on. In most places most of the time, that's the end of it. Not in South Texas or southern New Mexico right now.
 
@@ -39,7 +40,7 @@ Dogs on trail hikes, hunting dogs, farm dogs, cats who go outside at dusk: these
 
 Here's what surprised a lot of vets: many pets may already have protection without realizing it. The FDA's Emergency Use Authorizations, issued February 18, 2026, cover NexGard (afoxolaner) for dogs and NexGard COMBO for cats as treatments for NWS myiasis. The practical piece the Texas Tribune highlighted in June: isoxazoline class products, the same family of drugs in many popular flea, tick, and heartworm preventatives like NexGard and Bravecto, also protect against screwworm larvae.
 
-If your dog is already on a monthly NexGard chew for flea and tick prevention, you've built a layer of protection you didn't know existed. That's not a guarantee, and it doesn't replace wound monitoring, but it's genuinely good news for the large portion of dogs already on these preventatives.
+If your dog is already on a monthly NexGard chew for [flea and tick prevention](/new-combo-vaccine-protects-dogs-against-lyme-and-lepto-in-one-shot/), you've built a layer of protection you didn't know existed. That's not a guarantee, and it doesn't replace wound monitoring, but it's genuinely good news for the large portion of dogs already on these preventatives.
 
 If your pet isn't on an isoxazoline product and you're in an affected or adjacent area, this is worth a conversation with your vet. Not a panicked emergency visit, just a call. Ask whether your pet's current prevention makes sense given where you live, and go from there.
 

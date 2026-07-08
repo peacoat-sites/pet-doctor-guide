@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-
+lastmod: 2026-07-07
 ---
 You've just moved to a new city. Your dog is scratching at her ear like her life depends on it, and the nearest vet you can find on Google has 2.3 stars and a review that says "waited 3 hours and they forgot my cat." You're already stressed. The last thing you need is to play roulette with your pet's care. I've been on both sides of this, as a technician who's watched great vets do extraordinary things and as a pet owner who once walked out of a clinic feeling worse than when I walked in. Finding a good veterinarian is one of the most important decisions you'll make for your animal, and most people do it completely backwards.
 
@@ -39,7 +39,7 @@ Rescue organizations are another underused resource. Shelters and reputable resc
 
 ## What to Look for on a First Visit (Before Your Pet Even Has a Problem)
 
-The smartest thing you can do is schedule a wellness exam with a new vet before anything goes wrong. A $60 to $80 well-visit is cheap research. You're not just checking your pet's health. You're auditing the practice.
+The smartest thing you can do is schedule a wellness exam with a new vet before anything goes wrong. A [$60 to $80 well-visit](/how-much-does-a-routine-vet-checkup-cost-for-a-dog/) is cheap research. You're not just checking your pet's health. You're auditing the practice.
 
 Here's what I actually pay attention to:
 
@@ -68,7 +68,7 @@ Not every pet has the same needs, and the right vet for a young healthy Labrador
 | Situation | What to prioritize |
 |---|---|
 | Senior pet with chronic illness | Experience with geriatric care, willing to discuss quality-of-life honestly, familiar with palliative options |
-| Anxious or reactive dog | Fear Free certification or low-stress handling experience, separate waiting areas, will pre-medicate if needed |
+| Anxious or reactive dog | Fear Free certification or [low-stress handling experience](/low-cost-vet-clinics-options/), separate waiting areas, will pre-medicate if needed |
 | Exotic pet (rabbit, reptile, bird) | Specific exotic species training. General practice vets often have limited exotic knowledge. Look for "exotic" listed on their website and verify it's the vet, not just a technician |
 | Intact dog you plan to breed | Reproductive medicine experience, willingness to discuss breeding-related health tests |
 | Puppy or kitten | Clear vaccine protocols, discussions about socialization and behavior, no dismissal of early behavior questions |

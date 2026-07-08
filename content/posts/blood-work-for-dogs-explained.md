@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 Your dog just had their annual exam, and the vet mentioned it's time for blood work. Or maybe your pup is sick, and the vet wants to run a panel before deciding on treatment. Either way, you're staring at an invoice with terms like "CBC" and "chemistry panel" and wondering what any of it actually means, whether it's really necessary, and what happens if the results come back abnormal.
 
@@ -64,7 +64,7 @@ Annual wellness panels are commonly recommended for dogs 7 years and older. Dogs
 
 Blood work is also essential when a dog is sick and the symptoms aren't specific. Lethargy, weight loss, increased thirst, vomiting: any of these can have a dozen different causes. Blood work helps your vet rule out or confirm possibilities quickly instead of guessing.
 
-Finally, if your dog is on long-term medication (phenobarbital for seizures, NSAIDs for arthritis, thyroid meds), regular monitoring protects them from organ damage that can quietly develop over time.
+Finally, if your dog is on [long-term medication](/senior-pet-bloodwork-panel/) (phenobarbital for seizures, NSAIDs for arthritis, thyroid meds), regular monitoring protects them from organ damage that can quietly develop over time.
 
 ## Understanding Abnormal Results: What "Out of Range" Actually Means
 

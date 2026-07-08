@@ -23,6 +23,7 @@ faqs:
    a: "I'd say no. The idea is that acidifying the urine would help, but the urinary pH that's 'helpful' depends entirely on what type of crystal or bacteria is present, and giving ACV without knowing that could make things worse. It also tastes terrible to cats and rarely gets consumed in any meaningful amount."
  - q: "How much does a vet visit for a cat UTI typically cost?"
    a: "It varies a lot by region, but expect a physical exam, urinalysis, and possibly a urine culture to run somewhere between $150 and $400 at a general practice clinic. Emergency clinics run higher. If your cat has recurrent urinary issues, pet insurance with a solid illness rider is worth pricing out sooner rather than later. The truth is, urinary issues are one of the more manageable chronic problems in cats, once you have an accurate diagnosis and a real plan. The home piece matters. The stress reduction matters. The wet food genuinely matters. But none of it replaces knowing what you're actual"
+lastmod: 2026-07-07
 ---
 Most of the "home remedies for cat UTI" articles floating around the internet are, I'll be honest, genuinely dangerous. Not unhelpful. Dangerous. Because cats with urinary problems can go from "acting a little off" to dead within 24 to 48 hours, and the advice to "try cranberry supplements first" can cost your cat its life.
 
@@ -30,9 +31,9 @@ That's what I want to get into with you today. The real story here is more nuanc
 
 ## First, Is It Actually a UTI?
 
-Here's what surprised me when I went deep on this: true bacterial UTIs are actually *less common* in cats than most people assume. The American Veterinary Medical Association backs this up, and it runs against almost everything you'll read on pet blogs. In young to middle-aged cats, most urinary symptoms are caused by something called Feline Idiopathic Cystitis (FIC), which is essentially stress-induced bladder inflammation with no bacterial infection at all. Antibiotics won't help. Cranberry definitely won't help.
+Here's what surprised me when I went deep on this: true bacterial UTIs are actually *less common* in cats than most people assume. The American Veterinary Medical Association backs this up, and it runs against almost everything you'll read on pet blogs. In young to middle-aged cats, most urinary symptoms are caused by something called Feline Idiopathic Cystitis (FIC), which is essentially [stress-induced bladder inflammation](/cat-hyperthyroidism-treatment/) with no bacterial infection at all. Antibiotics won't help. Cranberry definitely won't help.
 
-Older cats (roughly 10 and up) are more likely to have actual bacterial UTIs, often tied to kidney disease or diabetes. But even then, you need a urine culture to know for certain what bacteria you're dealing with and which antibiotic will actually work.
+Older cats (roughly 10 and up) are more likely to have actual bacterial UTIs, often tied to [kidney disease or diabetes](/how-to-manage-diabetes-in-cats-with-insulin/). But even then, you need a urine culture to know for certain what bacteria you're dealing with and which antibiotic will actually work.
 
 Before we talk about anything you can do at home, let's talk about symptoms. The line between "manageable" and "emergency" is specific.
 

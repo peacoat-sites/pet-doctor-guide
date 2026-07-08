@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-
+lastmod: 2026-07-07
 ---
 Your dog is scratching herself raw at 10 PM on a Saturday, your vet's office is closed, and you're standing in the bathroom staring at a box of Benadryl wondering if this is okay to give her. I've had that exact conversation with panicked pet owners more times than I can count, usually through the clinic's after-hours line or a frantic text from a friend.
 
@@ -72,6 +72,18 @@ What most people don't realize is that dogs process histamine reactions differen
 The drug is also sedating, which is partly why it helps: a sleepy dog scratches less. That's not nothing. But it's worth knowing that's some of what you're seeing.
 
 ## When Benadryl Is the Right Call vs. When to Head to the ER
+
+| Symptom | Benadryl Appropriate? | Action |
+|---|---|---|
+| Mild hives or skin redness | Yes | Give Benadryl at proper dose |
+| Mild itching, sneezing, or watery eyes | Yes | Give Benadryl at proper dose |
+| Post-vaccination lumps or minor local reactions | Yes | Call vet to confirm, then give Benadryl |
+| Environmental allergy flare-ups (previously discussed with vet) | Yes | Give Benadryl at proper dose |
+| Facial swelling around muzzle and eyes | No | Go to emergency vet immediately |
+| Sudden vomiting or diarrhea with allergic symptoms | No | Go to emergency vet immediately |
+| Difficulty breathing, wheezing, or labored panting | No | Go to emergency vet immediately |
+| Collapse, weakness, or trembling | No | Go to emergency vet immediately |
+| Pale or bluish gums | No | Go to emergency vet immediately |
 
 I want to be really clear about this because it matters.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and it's one of the things owners feel worst about. Your resident animal is processing a significant change in their environment. Give them extra one-on-one time, keep their routine as consistent as possible, and don't force interaction with the newcomer. Most animals recalibrate within two to three weeks."
  - q: "My new cat won't come out from under the bed. How long is too long?"
    a: "A day or two of hiding is normal and expected. If your new cat hasn't eaten, drunk water, or used the litter box within 48 hours, call your vet. If they're hiding but eating overnight when it's quiet, that's a shy cat adjusting at their own pace, not a crisis, just a process."
+lastmod: 2026-07-07
 ---
 
 Most "introducing a new pet" articles spend three paragraphs telling you to be patient and then wish you luck. That's not useful. What you actually need is a clear sequence, specific timing benchmarks, and honest guidance on what to do when things go sideways, because something usually does.
@@ -41,6 +42,13 @@ One thing most guides skip: swap bedding between the resident pet and the newcom
 
 ## The Introduction Sequence (With Actual Timelines)
 
+| Timeline | Activity | Key Indicators to Monitor |
+| --- | --- | --- |
+| Days 1-3 | New pet in base room, no face-to-face contact | Normal eating, curiosity at door (not panic), no excessive vocalization or hiding |
+| Days 4-7 | Swap spaces: newcomer explores main area for 20-30 min | Both animals eating normally, showing curiosity rather than stress |
+| Week 2 | Supervised visual contact through gate or door | Cats: slow blinking, loose posture, or mutual ignoring (positive). Dogs: loose, wiggly movements, brief sniffs, disengagement |
+| Week 3+ | Supervised shared space, gradual unsupervised time | Continued calm coexistence, no stress-related elimination or overgrooming |
+
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -55,7 +63,7 @@ There's no universal timeline, but there are reasonable defaults. Compress them 
 
 **Week 3 and beyond:** Supervised shared space, then gradual unsupervised time as trust builds.
 
-Concrete example from clinic experience: a client brought home an adult rescue cat into a two-resident-cat household. She moved to face-to-face contact on day two because "they seemed fine." Within 48 hours the resident cats had stress-induced cystitis (both of them), the newcomer had a puncture wound above her eye, and the client was at our emergency line at 11 p.m. We reset the whole process. Four weeks later, with the proper sequence, all three cats were coexisting without incident. The extra month felt long. The alternative felt longer.
+Concrete example from clinic experience: a client brought home an adult rescue cat into a two-resident-cat household. She moved to face-to-face contact on day two because "they seemed fine." Within 48 hours the resident cats had [stress-induced cystitis](/cat-stress-signs-causes/) (both of them), the newcomer had a puncture wound above her eye, and the client was at our emergency line at 11 p.m. We reset the whole process. Four weeks later, with the proper sequence, all three cats were coexisting without incident. The extra month felt long. The alternative felt longer.
 
 ## Reading the Room: Body Language You Can't Afford to Miss
 

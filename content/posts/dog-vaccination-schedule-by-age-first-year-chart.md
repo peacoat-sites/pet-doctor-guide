@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Most puppies come home around 8 weeks old, and within the first 48 hours, at least three people have probably told you something different about vaccines. Your breeder said one thing. Your neighbor said another. Someone in a Facebook group swore their vet does it completely differently. And now you're staring at a piece of paper from your first vet visit wondering what any of it actually means.
 
@@ -46,6 +46,13 @@ That's the real reason for multiple visits. Not revenue. Not habit. Biology.
 ---
 
 ## The First Year Schedule, Broken Down by Age
+
+| Age | Vaccine(s) | Notes |
+| --- | --- | --- |
+| 6-8 weeks | DA2PP (DHPP/DA2PPC) | Usually given by breeder; covers distemper, adenovirus, parainfluenza, parvovirus; leptospirosis may be added depending on region |
+| 9-11 weeks | DA2PP booster; Bordetella (optional); Leptospirosis (optional) | First vet visit if breeder started series; bordetella recommended if puppy will attend classes, dog parks, boarding, or grooming |
+| 12-16 weeks | DA2PP booster; Rabies; Leptospirosis booster (if started); Bordetella booster (if given intranasally) | Rabies typically not before 12 weeks; most states require by 16 weeks |
+| 14-16 weeks | Final DA2PP in puppy series | Critical booster; lands after maternal immunity has waned to ensure series efficacy |
 
 > **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

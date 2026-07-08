@@ -10,7 +10,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 That first vet visit can feel overwhelming, especially with a squirmy puppy or a nervous rescue dog. But knowing what to expect makes the whole thing easier for both of you.
 
@@ -38,7 +38,16 @@ A standard first-visit exam hits these points:
 
 ## Vaccines and Preventives
 
-Depending on your dog's age and what they've had before, the vet may start or continue a vaccine series. Core vaccines include:
+| Vaccine | Type | Timing | Notes |
+| --- | --- | --- | --- |
+| DHPP (Distemper/Parvo/Adenovirus) | Core | Puppy series, then boosters | Required for all dogs |
+| Rabies | Core | As determined by vet; required by law in most states | Required by law |
+| Bordetella (Kennel Cough) | Non-core | If dog attends parks, boarding, or grooming | Lifestyle-dependent |
+| Lyme | Non-core | Geographic and lifestyle dependent | Regional risk varies |
+| Leptospirosis | Non-core | Geographic and lifestyle dependent | Regional risk varies |
+| Influenza | Non-core | Geographic and lifestyle dependent | Regional risk varies |
+
+Depending on your dog's age and what they've had before, the vet may start or continue a [vaccine series](/dog-vaccinations-schedule-guide/). Core vaccines include:
 
 - **Distemper/Parvo/Adenovirus (DHPP)**, given as a puppy series, then boosters
 - **Rabies**, required by law in most states
@@ -46,7 +55,7 @@ Depending on your dog's age and what they've had before, the vet may start or co
 
 Non-core vaccines like Lyme, leptospirosis, and influenza depend on where you live and your dog's lifestyle.
 
-The vet will also discuss heartworm prevention and flea/tick control. These aren't optional in most of the US, they're standard preventive care, and skipping them gets expensive fast.
+The vet will also discuss [heartworm prevention](/dog-heartworm-prevention-guide/) and flea/tick control. These aren't optional in most of the US, they're standard preventive care, and skipping them gets expensive fast.
 
 ## Questions to Ask
 

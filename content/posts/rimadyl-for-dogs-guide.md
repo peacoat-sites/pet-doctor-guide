@@ -23,6 +23,7 @@ faqs:
     a: "A single episode of mild vomiting after a dose is worth noting but not necessarily cause to stop the medication immediately. Try giving the next dose with a small meal. If vomiting continues, or if you see blood in the vomit, dark tarry stools, or your dog stops eating, stop the medication and call your vet the same day."
   - q: "Can I use Rimadyl for my dog's pain if it was prescribed for a different condition?"
     a: "In theory you're using the same drug, but I'd call your vet first. Dosing, duration, and appropriateness vary by condition. What was prescribed for a 5-day post-op course might not be the right approach for, say, a new injury without an exam to rule out fractures or internal issues."
+lastmod: 2026-07-07
 ---
 
 Your dog has been limping for a few days, your vet just prescribed Rimadyl, and now you're sitting at home staring at the bottle trying to figure out exactly what you've agreed to put in your dog's body. That's a completely reasonable place to be, and I want to give you the kind of honest rundown I wish more people had before they started.
@@ -42,6 +43,13 @@ It's available by prescription only. As of July 2026, a 30-day supply of 75mg ca
 ---
 
 ## What Rimadyl Is Good At (And Where I've Seen It Shine)
+
+| Scenario | Dosage | Duration | Outcome |
+| --- | --- | --- | --- |
+| Post-surgical pain management | As prescribed by vet | Per vet protocol | Pain relief during recovery |
+| Chronic osteoarthritis | 2.2mg/kg twice daily OR 4.4mg/kg once daily | Long-term (months to years) | Improved mobility and quality of life |
+| Acute soft tissue injury | 75mg once daily (example dose) | 5 days | Return to ~90% function |
+| Dental pain post-extraction | As prescribed by vet | Per vet protocol | Pain management during healing |
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

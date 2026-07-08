@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 Your dog hasn't touched his bowl in 24 hours. He sniffed it, walked away, and is now lying in his bed looking vaguely miserable. Your stomach drops. Is this serious? Should you be rushing to an emergency clinic at 10pm, or will he be fine by morning? That anxious feeling is completely normal, and the good news is that most cases of a dog skipping meals are not emergencies. But some absolutely are, and knowing the difference could save your dog's life.
 
@@ -45,6 +45,12 @@ The key word in all of this is context. How old is your dog? What else is going 
 
 ## Red Flags That Mean You Call the Vet Today (or Go Now)
 
+| Symptom | Action Required | Timing |
+| --- | --- | --- |
+| Repeated vomiting attempts, distended/hard abdomen, lethargy, pale/white/gray/bluish gums, collapse, possible toxin/foreign object ingestion, puppy under 16 weeks without food >12 hours | Go to emergency vet immediately | Now |
+| No food intake >48 hours with no improvement, vomiting or diarrhea present, abnormal water intake, mouth pain/drooling, senior dog (>8 years, >6 for giants) with new behavior, unintentional weight loss | Call regular vet same day or first thing Monday | Same day/Monday |
+| Mild upset stomach, minor stress, food preference, mild infection, dental sensitivity, vaccination side effects | Monitor at home, offer bland diet | 24-48 hours observation |
+
 Let me be direct here. Not every dog that misses a meal needs a vet visit. But certain combinations of symptoms move this from "watch and wait" to "go now."
 
 **Go to an emergency vet immediately if your dog:**
@@ -60,7 +66,7 @@ Let me be direct here. Not every dog that misses a meal needs a vet visit. But c
 **Call your regular vet the same day (or first thing Monday if it's a weekend) if:**
 
 - Your dog hasn't eaten in 48 hours and shows no improvement
-- You notice vomiting or diarrhea alongside the lack of appetite
+- You notice [vomiting or diarrhea alongside](/dog-diarrhea-home-remedies/) the lack of appetite
 - Your dog is drinking significantly more or less water than normal
 - There's any sign of mouth pain, drooling, or pawing at the face
 - Your dog is a senior (over 8 years for most breeds, over 6 for giant breeds) and this is new behavior

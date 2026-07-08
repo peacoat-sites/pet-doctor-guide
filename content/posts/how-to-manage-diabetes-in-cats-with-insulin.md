@@ -23,6 +23,7 @@ faqs:
    a: "Cats with well-managed diabetes can live for years with a good quality of life, and some achieve full remission where insulin is no longer needed. Life expectancy depends heavily on whether complications develop and how well glucose is controlled. Consistency in your routine makes a bigger difference than almost any other variable."
  - q: "Is it normal for insulin requirements to change over time?"
    a: "Yes, and this catches a lot of owners off guard. Stress, illness, concurrent medications (especially steroids), weight changes, and even seasonal variation can all shift a cat's insulin needs. This is why ongoing monitoring matters even after you've found a dose that works. A cat who was stable at 1 unit for six months can start running high again, and it doesn't mean you did anything wrong."
+lastmod: 2026-07-07
 ---
 
 The first time I gave a cat an insulin injection, my hands were shaking more than the cat's. That was early in my career, and the owner standing across the exam table looked like she was going to pass out. I told her what I tell every cat owner leaving our clinic with a new diabetes diagnosis: this is genuinely manageable. It takes about two weeks to feel comfortable and about two months to feel confident. Neither of us believed me that day. By week three, she was texting me that her cat, a tubby orange tabby named Gerald, was "basically a pro."
@@ -34,6 +35,11 @@ Feline diabetes is one of those diagnoses that sounds catastrophic but, with the
 Most diabetic cats have Type 2 diabetes, which is different from how many people picture the disease. Their pancreas still produces some insulin, but the cells have stopped responding to it properly. Obesity is the biggest risk factor, which is why overweight male cats over eight years old are so overrepresented in my exam rooms. The good news: feline diabetes can sometimes go into remission, especially if caught early and managed well. I've personally seen it happen with cats whose blood glucose was brought under tight control within the first few months. It's not a guarantee, but it's a real possibility, and that changes how motivated owners feel about doing this carefully.
 
 ## Insulin Types: This Is Where People Get Confused
+
+| Insulin Type | Common Brand Names | Syringe Match | Use in Cats | Notes |
+| --- | --- | --- | --- | --- |
+| Glargine | Lantus, Basaglar | U-100 | Gold standard | Supports tight glucose control and remission in newly diagnosed cats |
+| PZI | ProZinc | U-40 | Common alternative | Different metabolism; do not substitute without veterinary guidance |
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

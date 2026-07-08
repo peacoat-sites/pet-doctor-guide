@@ -23,6 +23,7 @@ faqs:
    a: "The research here is honestly mixed, but most veterinary internists lean toward treating symptomatic dogs and high-risk breeds regardless, and treating any seropositive dog with a C6 value above 30 U/mL. Ask your vet specifically about your dog's C6 number and breed risk. That conversation is worth having in detail."
  - q: "Can dogs get Lyme disease more than once?"
    a: "Yes. A prior infection doesn't confer lasting protective immunity. Dogs in endemic areas can be reinfected, which is another reason ongoing tick prevention and annual testing matter even after a dog has been treated successfully."
+lastmod: 2026-07-07
 ---
 
 Most dog owners I talk to think Lyme disease looks like a human case: a bull's-eye rash, a fever that hits fast, obvious misery. The reality in dogs is almost the opposite, and that gap between expectation and fact is exactly why so many dogs get diagnosed weeks or months too late.
@@ -80,6 +81,18 @@ As of June 2026, Lyme nephritis remains the leading cause of Lyme-related mortal
 ---
 
 ## Testing: What the Numbers Mean
+
+| Aspect | Details |
+| --- | --- |
+| Causative Agent | *Borrelia burgdorferi* (spiral-shaped bacterium) |
+| Vector | Black-legged ticks (*Ixodes scapularis* in East/Midwest; *Ixodes pacificus* on West Coast) |
+| Attachment Time Before Transmission | 36 to 48 hours |
+| Percentage of Infected Dogs Developing Symptoms | 5 to 10 percent |
+| Standard In-Clinic Test | 4Dx or 4Dx Plus SNAP test (IDEXX Laboratories) |
+| Confirmatory Test | C6 antibody quantitative test (IDEXX) |
+| Post-Treatment Response Benchmark | 50 percent or greater decrease in C6 value at 6 months |
+| Standard Antibiotic Course | 30-day doxycycline |
+| Breeds with Genetic Predisposition to Lyme Nephritis | Labrador Retrievers, Golden Retrievers, Bernese Mountain Dogs, Shetland Sheepdogs |
 
 The standard in-clinic test is the 4Dx or 4Dx Plus SNAP test (IDEXX Laboratories), which checks for *Borrelia* antibodies along with heartworm, ehrlichia, and anaplasma. A positive means your dog has been exposed and produced antibodies. It does not tell you the infection is active, how long ago exposure occurred, or whether the dog needs treatment.
 

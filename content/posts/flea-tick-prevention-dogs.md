@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 A single flea can lay up to 50 eggs per day. By the time you spot one flea on your dog, there's a good chance a few hundred eggs are already scattered through your carpet, bedding, and couch cushions. That's not a scare tactic. That's just flea biology, and it's exactly why prevention is so much easier than treatment. Ticks are a different kind of trouble, capable of transmitting Lyme disease, Rocky Mountain spotted fever, and ehrlichiosis, sometimes within 24 to 48 hours of attachment. The good news is that protecting your dog from both is genuinely straightforward once you understand your options and pick the right product for your situation.
 
@@ -33,9 +33,17 @@ A lot of pet owners think flea and tick prevention is a warm-weather job. They s
 
 Ticks are even more resilient. The black-legged tick, commonly called the deer tick and the primary carrier of Lyme disease, stays active whenever temperatures are above 35°F. That's most of winter in many parts of the country. The American dog tick tends to be more seasonal, but geographic tick ranges have been shifting noticeably over the past decade.
 
-If your dog goes outside at all, they're at risk. Year-round prevention isn't upselling. It's the practical standard, and it's what AAHA hospital accreditation standards recommend as part of a complete preventive care plan for dogs in endemic areas.
+If your dog goes outside at all, they're at risk. Year-round prevention isn't upselling. It's the practical standard, and it's what AAHA hospital accreditation standards recommend as part of a [complete preventive care plan](/dog-annual-physical-exam-guide/) for dogs in endemic areas.
 
 ## The Main Types of Prevention Products: A Honest Comparison
+
+| Product Type | Duration | Requires Rx? | Waterproof? | Kills Ticks? |
+|---|---|---|---|---|
+| Oral chewable (e.g., NexGard) | 30 days | Yes | Yes | Yes |
+| Oral chewable (e.g., Bravecto) | 12 weeks | Yes | Yes | Yes |
+| Topical spot-on (e.g., Frontline) | 30 days | No (some yes) | Mostly | Yes |
+| Seresto collar | 8 months | No | Yes | Yes |
+| Flea shampoo | Contact only | No | No | Partial |
 
 Walk into any pet store and you'll see 30 different products promising protection. Let me break down the actual categories so you can make an informed decision with your vet.
 

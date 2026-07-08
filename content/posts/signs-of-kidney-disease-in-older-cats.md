@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-
+lastmod: 2026-07-07
 ---
 Your 14-year-old cat has been drinking water like she's training for a marathon. You noticed it a few weeks ago but chalked it up to the heat, or maybe a preference shift. Then you realized her litter box is suddenly full every single day, she's dropped weight without any diet change, and her coat looks a little dull. You Google "older cat drinking a lot of water" and three words keep coming up: chronic kidney disease. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. That number shocked me when I first encountered it in clinical literature. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.
 
@@ -33,7 +33,7 @@ Cat kidneys are remarkable and fragile at the same time. Unlike dogs, cats evolv
 
 What surprises most owners, and honestly surprised me too when I started seeing patterns across my years in practice, is that clinical signs don't appear until roughly 66 to 75 percent of kidney function is already gone. That's not a typo. A cat can lose two-thirds of kidney function before you notice a single symptom. The kidneys compensate that well for that long.
 
-This is why vets push for bloodwork starting at age 7. Catching early-stage chronic kidney disease (CKD) on labwork, before symptoms appear, gives you and your cat the longest runway for management. The International Renal Interest Society (IRIS) stages CKD from 1 to 4 based on creatinine and SDMA values. Many cats at Stage 1 feel completely fine. By Stage 3 or 4, things get much harder to manage.
+This is why vets push for bloodwork starting at age 7. Catching early-stage [chronic kidney disease (CKD)](/cat-kidney-disease-diet/) on labwork, before symptoms appear, gives you and your cat the longest runway for management. The International Renal Interest Society (IRIS) stages CKD from 1 to 4 based on creatinine and SDMA values. Many cats at Stage 1 feel completely fine. By Stage 3 or 4, things get much harder to manage.
 
 ## The Symptoms You'll Actually See: A Real List
 
@@ -58,6 +58,12 @@ I've watched owners scan symptom lists and feel overwhelmed, so let me break thi
 The tricky part is that many of these signs, weight loss, drinking more, lower energy, look exactly like normal aging to an untrained eye. I've had clients tell me "she's just slowing down, she's old." Sometimes that's true. But it's worth ruling out a treatable cause before you accept that explanation.
 
 ## The Tests That Actually Tell You What's Going On
+
+| Kidney Function Loss | Clinical Signs | IRIS Stage | Urine Specific Gravity |
+| --- | --- | --- | --- |
+| Up to 66-75% | None (asymptomatic) | 1-2 | 1.020-1.035+ |
+| 66-75%+ | Increased thirst/urination, weight loss, appetite changes, coat changes | 2-3 | Below 1.020 |
+| Severe (75%+) | Vomiting, mouth ulcers, ammonia breath, weakness, hiding, disorientation | 3-4 | 1.008-1.015 |
 
 If you bring a senior cat in with any of the signs above, here's what your vet will likely run and why each piece matters.
 

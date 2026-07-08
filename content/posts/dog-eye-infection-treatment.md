@@ -23,13 +23,14 @@ faqs:
    a: "Yes, honestly, get the cone on. Self-trauma to the eye escalates quickly. A dog pawing at a mild infection can turn it into a corneal scratch in an afternoon. If you don't have a cone, a soft 'donut' style collar works almost as well for eye protection and is generally better tolerated. Either way, stop the pawing until you can get your vet's assessment."
  - q: "Will an eye infection go away on its own without treatment?"
    a: "Some very mild viral irritation might. But a true bacterial infection won't clear up without antibiotics, and waiting it out risks the infection progressing or spreading. I'd put it this way: the cost of waiting to see if it resolves on its own is potentially much higher than the cost of a vet visit if it doesn't. Get it checked within 24 to 48 hours if the discharge is colored or the eye is visibly irritated."
+lastmod: 2026-07-07
 ---
 
 Your dog woke up with one eye crusted shut and now you're standing in the bathroom at 7 a.m. trying to decide if this is a "rush to the emergency vet" situation or a "wait until Monday" situation. I've had that exact call made to me dozens of times. The answer depends on a few specific things, and I'll walk you through all of them.
 
 First, the honest version of what you're dealing with: dog eye infections range from genuinely minor (a little conjunctivitis that clears up with a week of antibiotic drops) to vision-threatening emergencies (a corneal ulcer or glaucoma that needs treatment within hours). Most pet owners can't tell the difference at a glance. That's not a failing. Even I'll look at a photo and want to examine the eye before committing to an opinion.
 
-Here's what I'll say upfront: if your dog's eye is bulging, if the cornea looks cloudy or blue, if your dog is pawing at it constantly or squinting hard in normal light, stop reading and go now. Don't wait for morning. Don't call the regular vet who opens at 8. Those specific signs point to conditions where a few hours genuinely matter.
+Here's what I'll say upfront: if your dog's eye is bulging, if the [cornea looks cloudy or blue](/how-to-treat-cloudy-eyes-in-older-dogs/), if your dog is pawing at it constantly or squinting hard in normal light, stop reading and go now. Don't wait for morning. Don't call the regular vet who opens at 8. Those specific signs point to conditions where a few hours genuinely matter.
 
 Everything else? Let's work through it.
 

@@ -12,6 +12,7 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "heartworm-is-spreading-to-places-vets-never-expected"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you live in Illinois, Maine, Colorado, or California, there's a good chance nobody has ever sat you down and had a real talk about heartworm. That disease is a Southern problem, right? A hot, humid, mosquito-thick problem that belongs to states like Louisiana and Mississippi. You might be wondering why your vet keeps pushing year-round prevention when you live somewhere with actual winters. I get it. That reasoning made sense for a long time. It doesn't anymore.
@@ -43,6 +44,16 @@ Rescue dog transport is also a real factor. Dogs moved from high-incidence regio
 Finally, inconsistent preventive use remains one of the most controllable variables in this entire picture. Many owners in historically low-risk areas never started prevention, or they use it seasonally rather than year-round. As the risk geography shifts beneath them, that gap in protection becomes a real vulnerability.
 
 ## What "Moderate Risk" Actually Means for Your Dog
+
+| Metric | Figure | Source |
+| --- | --- | --- |
+| Heartworm increase in insurance claims (2020-2025) | 201% | Embrace Pet Insurance, June 30, 2026 |
+| Claims involving pets age 4 and younger | 79% | Embrace Pet Insurance, June 30, 2026 |
+| Texas positive dogs average per clinic | ~50 | 2026 AHS Survey |
+| Texas positivity rate (2026) | 3.78% | 2026 AHS Survey |
+| Texas positivity rate (2022) | 2.97% | 2026 AHS Survey |
+| Heartworm treatment cost range | $1,000-$1,500+ | Article |
+| Annual prevention cost range | $35-$120 | Article |
 
 When the AHS designates a region as moderate risk, it means the probability of your unprotected dog encountering an infected mosquito is now meaningful enough that a vet in that area should be seeing it clinically. It doesn't mean your dog will definitely get heartworm. It means the old assumption that you're safe without prevention is no longer valid.
 

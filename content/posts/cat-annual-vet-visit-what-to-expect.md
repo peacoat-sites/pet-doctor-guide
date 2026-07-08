@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 Your cat acts completely normal all year, eats well, plays occasionally, and then the vet finds a heart murmur at a routine checkup. That's not a rare story. I've seen it play out dozens of times in the exam room, and it's exactly why annual wellness visits matter even when your cat seems absolutely fine. Cats are masters of hiding illness, a survival instinct baked in from their wild ancestors, and by the time symptoms become obvious to you at home, a condition is often well advanced.
 
@@ -60,6 +60,13 @@ After the physical exam, the conversation shifts to preventive care. What's due,
 **Blood and urine testing.** For cats under 7, the vet might offer baseline bloodwork but not always push for it unless something in the physical raises a flag. For cats 7 and older, a complete blood count (CBC), chemistry panel, and urinalysis are highly recommended annually. These tests catch kidney disease, diabetes, hyperthyroidism, and anemia long before outward symptoms appear. Early-stage kidney disease (CKD) diagnosed via bloodwork is manageable in a way that late-stage disease simply is not.
 
 ## What Your Cat's Age Changes About the Visit
+
+| Age Group | Visit Frequency | Bloodwork | Blood Pressure | Key Screenings |
+| --- | --- | --- | --- | --- |
+| Kittens (under 1 year) | Multiple visits in first year | As needed | Not routine | Vaccine series, deworming, spay/neuter discussion |
+| Adult cats (1-7 years) | Annual | Optional unless flagged | Not routine | Core vaccine boosters, fecal testing, dental assessment |
+| Senior cats (7-10 years) | Annual | Standard | Recommended | Bloodwork, hyperthyroidism screening, joint pain assessment |
+| Geriatric cats (10+ years) | Twice yearly recommended | Standard | Recommended | Cognitive decline, kidney disease, cancer screening |
 
 A 2-year-old cat and a 12-year-old cat are not getting the same appointment, and they shouldn't be.
 

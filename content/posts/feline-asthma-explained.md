@@ -23,6 +23,7 @@ faqs:
    a: "Some of the same medications are used, but the doses and delivery devices are different. Never use your own inhaler on your cat without explicit veterinary guidance. Even if the medication is technically the same, the dose could be dangerously wrong."
  - q: "Do I need to worry about my other cats getting asthma from the one who has it?"
    a: "Asthma isn't contagious. It's an immune-mediated response, not an infection. That said, if an environmental trigger is driving your cat's asthma, that same environment could theoretically affect another predisposed cat. Improving air quality at home benefits everyone in the household, two-legged and four-legged."
+lastmod: 2026-07-07
 ---
 Your cat has been coughing. Not the hairball kind, but something lower, more labored, maybe even a little alarming. You searched the symptoms, landed here, and now you're sitting with the word "asthma" and a dozen questions you don't know how to rank yet. That's exactly where I want to start.
 
@@ -36,7 +37,7 @@ Feline asthma is an allergic respiratory disease. When a cat inhales a trigger (
 
 It's chronic, meaning it doesn't go away. But it does fluctuate. Some cats go months between episodes. Others deal with near-daily symptoms if their environment isn't managed well.
 
-One thing I always clarify: feline asthma and feline bronchitis often get lumped together under "chronic lower airway disease." They can happen together, or separately. Bronchitis involves persistent inflammation without the dramatic spasm; asthma involves that spasm, which creates the acute "attack" feeling. The distinction matters for treatment.
+One thing I always clarify: [feline asthma and feline bronchitis](/cat-upper-respiratory-infection/) often get lumped together under "chronic lower airway disease." They can happen together, or separately. Bronchitis involves persistent inflammation without the dramatic spasm; asthma involves that spasm, which creates the acute "attack" feeling. The distinction matters for treatment.
 
 ## Recognizing It: The Posture Tells You More Than the Sound
 

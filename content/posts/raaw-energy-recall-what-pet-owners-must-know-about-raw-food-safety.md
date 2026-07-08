@@ -12,11 +12,22 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "raaw-energy-recall-what-pet-owners-must-know-about-raw-food-safety"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 It's May 26, 2026, and if you feed your dog Raaw Energy, you're probably checking your freezer right now, maybe feeling that spike of panic that comes with a recall notification. The FDA has expanded its warning about Listeria contamination in over 60 varieties of the brand's raw dog food, with products manufactured between July 2025 and late December 2025, plus one batch from March 2026. The company has now halted all dog food production entirely. If you've been feeding raw food to your dog, or you're considering it, this moment matters. Not just because of what happened, but because of what Listeria does that most pet owners don't realize.
 
 ## Why Listeria Is Different from Other Foodborne Pathogens
+
+| Aspect | Details |
+| --- | --- |
+| **Affected Brand** | Raaw Energy |
+| **Contamination Type** | Listeria monocytogenes |
+| **Affected Product Varieties** | Over 60 varieties |
+| **Primary Manufacturing Date Range** | July 17, 2025 - December 23, 2025 |
+| **Additional Affected Batch** | March 31, 2026 |
+| **Geographic Distribution** | Connecticut, Delaware, Massachusetts, Maryland, New Hampshire, New Jersey, New York, Pennsylvania, Virginia |
+| **Company Response** | All dog food production halted (May 21, 2026) |
 
 I've seen a lot of recalls over my 13 years in practice. Most of them, Salmonella, E. coli, cause obvious problems. Your dog gets sick, you bring them in, we treat it. Listeria is the one that keeps me up at night because it doesn't always announce itself.
 

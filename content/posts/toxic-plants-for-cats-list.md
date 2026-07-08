@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 A client walked in one spring afternoon with her cat, Miso, limp and drooling in a carrier lined with Easter grass. She'd put a beautiful lily arrangement on her dining table that morning. By evening, Miso had chewed on a few petals. She had no idea lilies were toxic. Most people don't. Within 72 hours of lily ingestion, a cat can go into acute kidney failure. Miso survived, but it was close, and it was expensive, and it was entirely preventable. I've told that story dozens of times in the exam room because it's the one that lands. People hear "plants can be toxic to cats" and mentally file it under "probably fine." This article is for the people who want to actually know what's in their homes.
 
@@ -31,7 +31,7 @@ A client walked in one spring afternoon with her cat, Miso, limp and drooling in
 
 Some plants aren't just mildly irritating. They're lethal at small doses, and cats are particularly vulnerable because they groom themselves constantly, even brushing against a plant and licking their fur counts as exposure.
 
-**True lilies (Lilium and Hemerocallis species):** This is the one that keeps veterinary toxicologists up at night. Easter lilies, tiger lilies, Asiatic lilies, daylilies, stargazer lilies. All of them capable of fatal kidney failure in cats. Every part of the plant is toxic, including the pollen and the water in the vase. Your cat doesn't have to eat a whole flower. One petal. A stamen licked during grooming. That's enough to trigger acute renal failure within 24 to 72 hours. If you see your cat near any lily and there's even a chance of contact, call your vet emergency clinic right now. Not tomorrow. Now.
+**True lilies (Lilium and Hemerocallis species):** This is the one that keeps veterinary toxicologists up at night. Easter lilies, tiger lilies, Asiatic lilies, daylilies, stargazer lilies. All of them capable of fatal kidney failure in cats. Every part of the plant is toxic, including the pollen and the water in the vase. Your cat doesn't have to eat a whole flower. One petal. A stamen licked during grooming. That's enough to trigger acute renal failure within 24 to 72 hours. If you see your cat near any lily and there's even a chance of contact, [call your vet emergency clinic](/pet-emergency-vet-when-to-go/) right now. Not tomorrow. Now.
 
 **Sago palm (Cycas revoluta):** Popular as a houseplant and outdoor ornamental. Every part is toxic, but the seeds will kill fastest. Cycasin, the primary toxin, causes severe liver failure. Even tiny amounts, one or two seeds, can be fatal. Survival is possible but requires aggressive veterinary treatment started early.
 
@@ -42,6 +42,19 @@ Some plants aren't just mildly irritating. They're lethal at small doses, and ca
 If your cat has gotten into any of these, skip the "wait and see" approach entirely. Call your vet, call an emergency clinic, or call the ASPCA Animal Poison Control Center at (888) 426-4435. There's a fee for that call, but in a true poisoning scenario, it's worth every cent because you get immediate guidance from veterinary toxicologists.
 
 ## Common Houseplants That Cause Real Harm (Not Just Mild Upset)
+
+| Plant | Toxin/Mechanism | Primary Risk | Timeline | Severity |
+| --- | --- | --- | --- | --- |
+| True lilies (Lilium, Hemerocallis) | Unknown; affects kidneys | Acute renal failure | 24-72 hours | Fatal |
+| Sago palm (Cycas revoluta) | Cycasin | Liver failure | Rapid | Fatal |
+| Oleander | Cardiac glycosides | Cardiac arrhythmias | Rapid | Fatal |
+| Yew (Taxus) | Taxine | Cardiac arrest | Rapid | Fatal |
+| Dieffenbachia | Calcium oxalate crystals | Oral/throat swelling, pain | Immediate | Serious |
+| Pothos/Philodendron | Calcium oxalate crystals | Oral irritation, GI upset | Immediate | Moderate |
+| Peace lily (Spathiphyllum) | Calcium oxalate crystals | Oral pain, GI symptoms | Immediate | Moderate |
+| Kalanchoe | Unknown | GI upset, cardiac effects | Variable | Moderate |
+| Azalea/Rhododendron | Grayanotoxins | Cardiac & nervous system | Variable | Serious |
+| Autumn crocus (Colchicum autumnale) | Colchicine | Multi-organ failure | Rapid | Serious |
 
 Beyond the fast-killers, there's a longer list of plants that can make your cat genuinely sick, cause painful symptoms, or lead to serious complications if not addressed.
 

@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 Your dog just came home from surgery. You're holding a cone in one hand and a three-page discharge sheet in the other. Your dog is staring at nothing with those glazed, bewildered eyes. You have no idea what the next 72 hours are supposed to look like.
 
@@ -62,6 +62,13 @@ Take a photo of the incision every day at the same time, in the same lighting. I
 Keep the cone on. I know. I've heard every reason why the cone is the enemy. But a dog can remove sutures in under a minute when they're motivated, and infection from licking is one of the most preventable complications I see in recovery cases. Inflatable collar alternatives exist and some dogs tolerate them better, though they don't work well for every surgery location. Check with your vet before swapping.
 
 ## Activity Restrictions: A Step-by-Step Recovery Timeline
+
+| Timeline | Activity Level | Incision Monitoring | Notes |
+| --- | --- | --- | --- |
+| Days 1-3 | Strict rest, leash walks only (2-3 min) | Check daily for discharge, swelling, redness | Anesthesia effects may persist 24-48 hours |
+| Days 4-7 | Leash walks, slightly extended if comfortable | Continue daily monitoring | No running, play, or roughhousing |
+| Days 7-14 | Leash walks, activity as tolerated | Monitor until suture removal | Sutures/staples typically removed at day 10-14 |
+| After recheck | Return to normal per vet clearance | Healing confirmed by veterinarian | Internal healing takes longer than surface healing |
 
 Recovery timelines vary by procedure. Here's a general framework that applies to most soft tissue surgeries (spays, neuters, mass removals, abdominal procedures). Orthopedic surgeries like cruciate repairs have longer, more specific protocols, and you should follow your vet's instructions precisely for those.
 

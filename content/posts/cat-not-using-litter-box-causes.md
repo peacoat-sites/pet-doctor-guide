@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-
+lastmod: 2026-07-07
 ---
 You cleaned the litter box this morning. You bought the good litter. Your cat used the same box for three years without issue. And now, for the second day straight, you're finding wet spots on your bathroom rug and little surprises behind the sofa. Something shifted. Whether it's behavioral, environmental, or medical matters more than you'd think, because the wrong guess can mean missing a serious health problem or spending months fighting a "behavior issue" that was never behavioral to begin with.
 
@@ -34,7 +34,7 @@ I've fielded these panicked calls for 13 years at the clinic, and I can tell you
  <div class="vm-head">Medical vs Behavioral: Diagnostic Checklist</div>
  <div class="vm-body">
  <p class="vm-intro">Use these observable signs to help determine whether your cat's litter box avoidance likely needs a vet visit first or a behavioral/environmental investigation.</p>
- <table><thead><tr><th>Sign or Pattern</th><th>Suggests Medical Cause</th><th>Suggests Behavioral/Environmental</th></tr></thead><tbody><tr><td>Frequency of urination attempts</td><td>Frequent small amounts, straining, or crying while urinating</td><td>Normal-sized urinations, just in wrong locations</td></tr><tr><td>Location choices</td><td>Random spots, smooth cool surfaces (sinks, tile, bathtub)</td><td>Consistent alternative spots, often soft surfaces or specific rooms</td></tr><tr><td>Posture while eliminating</td><td>Hunched, tense, vocalizing, or staying in position longer than usual</td><td>Relaxed, normal posture in the chosen spot</td></tr><tr><td>Other behavior changes</td><td>Lethargy, hiding, appetite loss, excessive genital licking</td><td>Otherwise acting normal between incidents</td></tr><tr><td>Onset timing</td><td>Sudden onset with no household changes</td><td>Correlates with new pet, move, schedule change, or new litter/box</td></tr><tr><td>Urine appearance</td><td>Blood-tinged, unusually strong odor, or cloudy</td><td>Normal color and consistency</td></tr><tr><td>Age consideration</td><td>Senior cats (10+): higher risk of kidney disease, diabetes, arthritis</td><td>Any age, but especially cats with history of anxiety or stress sensitivity</td></tr></tbody></table>
+ <table><thead><tr><th>Sign or Pattern</th><th>Suggests Medical Cause</th><th>Suggests Behavioral/Environmental</th></tr></thead><tbody><tr><td>Frequency of urination attempts</td><td>Frequent small amounts, straining, or crying while urinating</td><td>Normal-sized urinations, just in wrong locations</td></tr><tr><td>Location choices</td><td>Random spots, smooth cool surfaces (sinks, tile, bathtub)</td><td>Consistent alternative spots, often soft surfaces or specific rooms</td></tr><tr><td>Posture while eliminating</td><td>Hunched, tense, vocalizing, or staying in position longer than usual</td><td>Relaxed, normal posture in the chosen spot</td></tr><tr><td>Other behavior changes</td><td>Lethargy, hiding, appetite loss, excessive genital licking</td><td>Otherwise acting normal between incidents</td></tr><tr><td>Onset timing</td><td>Sudden onset with no household changes</td><td>Correlates with new pet, move, schedule change, or new litter/box</td></tr><tr><td>Urine appearance</td><td>Blood-tinged, unusually strong odor, or cloudy</td><td>Normal color and consistency</td></tr><tr><td>Age consideration</td><td>Senior cats (10+): higher risk of kidney disease, diabetes, arthritis</td><td>Any age, but especially cats with history of anxiety or [stress sensitivity](/cat-stress-signs-causes/)</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -61,7 +61,7 @@ Once medical causes are cleared, scrutinize the box setup. Cats are picky in way
 
 **Covered boxes trap odors.** To humans, a lid seems tidy. To your cat, it's a smell chamber. Imagine a port-a-potty with no ventilation. Some cats tolerate it fine; others refuse outright. If you have a covered box and a problem, remove the lid for two weeks. See what happens.
 
-**The number of boxes matters.** One box per cat, plus one extra. Two cats? Three boxes. This isn't random: cats are territorial, and one can block another's access to a single shared box without you noticing.
+**The number of boxes matters.** One box per cat, plus one extra. Two cats? Three boxes. This isn't random: cats are territorial, and [one can block another's access](/multi-pet-household-tips/) to a single shared box without you noticing.
 
 **Location is everything.** Boxes near loud appliances, in high-traffic areas, or spots where a cat gets cornered by another pet or kid get avoided. Cats want a quiet exit when they're vulnerable. Put yourself in their position.
 
@@ -79,7 +79,7 @@ I've had clients insist their cat is broken, then mention almost casually they s
 
 Medical and setup issues ruled out? You're probably dealing with stress or a learned aversion. These need patience.
 
-Cats operate on habit in a way that's almost rigid. A new baby, a new pet, a move, even rearranged furniture triggers avoidance. Multi-cat households with tension are a particularly common source of chronic stress. You might not see obvious fighting; subtle resource-guarding happens constantly, and the litter box is prime real estate.
+Cats operate on habit in a way that's almost rigid. A new baby, a [new pet](/introducing-new-pet-to-home/), a move, even rearranged furniture triggers avoidance. Multi-cat households with tension are a particularly common source of chronic stress. You might not see obvious fighting; subtle resource-guarding happens constantly, and the litter box is prime real estate.
 
 **Marking behavior is different from elimination.** Spraying involves small amounts on vertical surfaces like walls, doors, furniture. It's driven by stress, territorial insecurity, or (in intact cats) hormones. Neutering or spaying fixes marking in about 90% of cases when done early, but even altered cats spray under stress. Small volumes on vertical surfaces? That's marking, not a litter box problem.
 

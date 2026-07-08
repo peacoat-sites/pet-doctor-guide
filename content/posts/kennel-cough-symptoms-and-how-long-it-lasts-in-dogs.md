@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Three days into what looked like allergies, the dog is honking like a goose and the owner is convinced she's dying. I've had that phone call more times than I can count. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary at 11pm when you're Googling worst-case scenarios, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. Knowing the difference between "this is normal kennel cough" and "this dog needs to be seen today" is the whole game.
 
@@ -36,6 +36,13 @@ The cough itself is distinctive once you've heard it. It's loud, harsh, and honk
 What you usually won't see: high fever, lethargy, loss of appetite, or labored breathing. If those are present, you're no longer looking at straightforward kennel cough.
 
 ## How Long It Lasts
+
+| Dog Age/Health Status | Timeline | Risk Level | Monitoring Needed |
+| --- | --- | --- | --- |
+| Healthy adult (1-9 years) | 1-3 weeks; worst days 5-7 | Low | Home monitoring sufficient |
+| Puppy (under 6 months) | Longer; risk of progression | High | Veterinary evaluation recommended |
+| Senior (over 10 years) | Longer; risk of progression | High | Veterinary evaluation recommended |
+| Immunocompromised | Longer; risk of progression | High | Veterinary evaluation recommended |
 
 In a healthy adult dog with a functioning immune system, kennel cough typically runs its course in 1 to 3 weeks. The first 5 to 7 days are usually the worst, with the cough being most frequent and most dramatic. By day 10, most dogs are noticeably improving. By day 14 to 21, the majority are back to normal.
 

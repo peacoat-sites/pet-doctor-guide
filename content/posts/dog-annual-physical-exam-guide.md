@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-
+lastmod: 2026-07-07
 ---
 Most dog owners walk into the annual exam thinking it's basically a formality: the vet listens to the heart, gives a few shots, and everyone goes home. I thought the same thing for years, honestly. What surprised me when I started working in clinical practice was just how much gets caught in those 20-30 minutes that owners had no idea about. Heart murmurs in seemingly healthy 4-year-olds. Early kidney disease in dogs showing zero symptoms. Dental disease so advanced in a dog whose owner thought "bad breath is just a dog thing" that three teeth had to come out that same week. The annual physical isn't a formality. It's often the only safety net your dog has.
 
@@ -53,9 +53,18 @@ A basic wellness panel typically includes a complete blood count (CBC) and a che
 
 What struck me in practice is how often "completely healthy" middle-aged dogs came back with mildly elevated BUN or creatinine, early indicators of kidney insufficiency, that their owners had no idea about. Catching that at Stage 1 versus Stage 3 kidney disease is a completely different prognosis.
 
-If your dog is on long-term medications like NSAIDs, phenobarbital, or cyclosporine, bloodwork isn't optional. It's essential every 6 months to monitor organ health.
+If your dog is on [long-term medications like NSAIDs](/dog-heartworm-prevention-guide/), phenobarbital, or cyclosporine, bloodwork isn't optional. It's essential every 6 months to monitor organ health.
 
 ## Vaccinations: Core vs. Non-Core and How to Have the Right Conversation
+
+| Vaccine Type | Recommended For | Frequency in Adults |
+| --- | --- | --- |
+| Rabies (Core) | Virtually every dog | Per local law; typically every 1-3 years |
+| DAP - Distemper, Adenovirus, Parvovirus (Core) | Virtually every dog | Every 3 years after initial series |
+| Bordetella (Non-Core) | Dogs attending parks, boarding, grooming | As recommended by lifestyle risk |
+| Leptospirosis (Non-Core) | Dogs in high-risk areas | Annually (shorter immunity duration) |
+| Lyme Disease (Non-Core) | Dogs in tick-heavy regions | As recommended by lifestyle risk |
+| Canine Influenza (Non-Core) | Dogs attending parks, boarding, grooming | As recommended by lifestyle risk |
 
 Vaccines at the annual visit aren't automatically given every year anymore, and a good clinic will individualize based on your dog's lifestyle, risk exposure, and prior titers if you've run them.
 

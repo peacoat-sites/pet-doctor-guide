@@ -21,7 +21,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 You've just brought home an eight-week-old puppy. She's small, she's perfect, and she's sneezing directly into your coffee. Your breeder handed you a crinkled sheet of paper listing something called "DHPP" and mentioned she'd had her "first shots." Now you're staring at that paper wondering what any of it means, when she needs more, and whether you're already behind. You're not. But the next few months matter more than most new owners realize, and getting the timing wrong can leave real gaps in protection during the window when puppies are most vulnerable.
 
@@ -55,6 +55,14 @@ Your vet should be asking you questions about where your dog lives, how they exe
 
 ## The Standard Puppy and Adult Vaccination Schedule
 
+| Age | Vaccine(s) |
+|---|---|
+| 6 to 8 weeks | DHPP (first dose); Bordetella (if applicable) |
+| 10 to 12 weeks | DHPP (second dose); Leptospirosis (first dose if applicable); Lyme (first dose if applicable) |
+| 14 to 16 weeks | DHPP (third dose); Rabies (first dose); Leptospirosis (second dose if applicable); Lyme (second dose if applicable) |
+| 12 to 16 months | DHPP booster; Rabies booster (timing depends on local law and product used); any applicable non-core boosters |
+| Adult (every 1 to 3 years) | DHPP (titer testing or booster); Rabies per local law; annual non-core vaccines as indicated |
+
 This is the practical reference you can actually use. Keep in mind these are general guidelines. Your individual vet may adjust timing based on your puppy's health history, the products they stock, or regional disease prevalence.
 
 | Age | Vaccine(s) |
@@ -63,7 +71,7 @@ This is the practical reference you can actually use. Keep in mind these are gen
 | 10 to 12 weeks | DHPP (second dose); Leptospirosis (first dose if applicable); Lyme (first dose if applicable) |
 | 14 to 16 weeks | DHPP (third dose); Rabies (first dose); Leptospirosis (second dose if applicable); Lyme (second dose if applicable) |
 | 12 to 16 months | DHPP booster; Rabies booster (timing depends on local law and product used); any applicable non-core boosters |
-| Adult (every 1 to 3 years) | DHPP (titer testing or booster); Rabies per local law; annual non-core vaccines as indicated |
+| Adult (every 1 to 3 years) | DHPP ([titer testing](/dog-annual-physical-exam-guide/) or booster); Rabies per local law; annual non-core vaccines as indicated |
 
 That 12 to 16 month visit? Most people skip it. Their puppy "completed the series" at 16 weeks and they feel done. But that one-year booster is actually critical for solidifying long-term immunity. Don't skip it.
 

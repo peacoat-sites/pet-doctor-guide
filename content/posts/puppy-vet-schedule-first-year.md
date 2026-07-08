@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 You bring home an eight-week-old puppy on a Saturday afternoon, and by Sunday morning you're already Googling "when does my puppy need shots." That search is something nearly every new puppy owner does, and for good reason. The first year of a dog's life is medically the densest period they'll ever experience. More vaccines, more parasite prevention choices, more developmental checkpoints crammed into twelve months than at any other time. Get it right from the start, and you're protecting your dog for years. Get it wrong, and you're looking at preventable illness, legal liability with licensing, and a vet relationship built on playing catch-up.
 
@@ -33,7 +33,7 @@ Puppies are born with passive immunity from their mother's colostrum, the antibo
 
 This is also why "my breeder gave one vaccine at six weeks and said that was enough" falls short. One dose at six weeks in a litter setting provides some protection, but it almost certainly doesn't complete the series. Distemper and parvovirus especially need that full booster schedule to confer reliable protection.
 
-Beyond vaccines, the first year involves spay and neuter timing decisions, heartworm prevention, flea and tick control, dental health foundations, intestinal parasite screening, and socialization checkpoints that have real medical relevance. It's a lot. Let's break it down visit by visit.
+Beyond vaccines, the first year involves spay and neuter timing decisions, [heartworm prevention](/dog-heartworm-prevention-guide/), flea and tick control, dental health foundations, intestinal parasite screening, and socialization checkpoints that have real medical relevance. It's a lot. Let's break it down visit by visit.
 
 ## The Core Vaccine Schedule: What to Expect at Each Visit
 
@@ -61,14 +61,21 @@ The parasite conversation starts before vaccines are even complete, and it's jus
 
 ## What Happens at Each Puppy Wellness Exam
 
-A puppy wellness exam isn't just about shots. A good veterinarian is doing a full physical assessment every single visit, and each one has a purpose.
-
 | Visit Age | Key Vaccines/Tests | Other Health Checks |
 |---|---|---|
 | 6-8 weeks | DHPP #1, fecal test | Heart murmur screen, hernia check, bite alignment |
 | 10-12 weeks | DHPP #2, bordetella | Eye and ear exam, lymph node palpation, skin and coat check |
 | 14-16 weeks | DHPP #3, rabies | Weight tracking, microchip placement, spay and neuter discussion |
 | 6 months | Rabies booster (some states) | Pre-surgical bloodwork if spay and neuter planned |
+
+A puppy wellness exam isn't just about shots. A good veterinarian is doing a full physical assessment every single visit, and each one has a purpose.
+
+| Visit Age | Key Vaccines/Tests | Other Health Checks |
+|---|---|---|
+| 6-8 weeks | DHPP #1, fecal test | Heart murmur screen, hernia check, bite alignment |
+| 10-12 weeks | DHPP #2, bordetella | Eye and ear exam, lymph node palpation, skin and coat check |
+| 14-16 weeks | DHPP #3, rabies | Weight tracking, [microchip placement](/pet-microchipping-explained/), spay and neuter discussion |
+| 6 months | Rabies booster (some states) | Pre-surgical bloodwork if [spay and neuter](/spay-neuter-benefits-dogs-cats/) planned |
 | 12 months | DHPP and rabies boosters | Heartworm test, full physical, dental assessment |
 
 That murmur screen at six to eight weeks isn't a formality. Congenital heart defects in puppies are occasionally caught at this stage, and early detection changes the management plan significantly. I've seen clients come in for a routine first visit and leave with a referral to a cardiologist. It happens.

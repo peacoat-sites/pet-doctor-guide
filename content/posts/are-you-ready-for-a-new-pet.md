@@ -9,7 +9,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 Bringing a new animal home is one of the most rewarding decisions you can make. It's also one of the biggest.
 
@@ -21,7 +21,7 @@ This quiz isn't a pass-or-fail test. Think of it as a mirror, one that reflects 
 
 Here's what matters: readiness isn't fixed. It grows. And the right pet for your actual life (not the life you wish you had) is worth a little planning upfront.
 
-Start with our beginner guides on choosing a species, budgeting for care, and prepping your home. When you're getting close to deciding, talk to a veterinarian you trust. They can walk through the specifics for your situation and catch things you might miss.
+Start with our beginner guides on choosing a species, [budgeting for care](/cat-kidney-disease-diet/), and prepping your home. When you're getting close to deciding, talk to a veterinarian you trust. They can walk through the specifics for your situation and catch things you might miss.
 
 ## Recommended Resources
 

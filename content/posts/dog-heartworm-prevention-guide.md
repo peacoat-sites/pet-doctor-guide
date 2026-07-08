@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-
+lastmod: 2026-07-07
 ---
 Your dog can carry heartworm for six months without showing a single sign. A cough. Fatigue on walks. Weight loss. By then, the parasites have already dug into the heart and pulmonary arteries, doing damage that won't completely heal. Here's what catches most people off guard: this disease is almost completely preventable. But once it takes hold, treatment is expensive, brutal on your dog's body, and might not undo everything the worms already broke. Prevention is cheaper. It's also kinder.
 
@@ -45,6 +45,13 @@ Most preventives are monthly pills or topicals. Proheart 6 and Proheart 12 are i
 
 ## Choosing the Right Preventive: A Practical Comparison
 
+| Product Type | Example Brands | Heartworm | Fleas | Intestinal Parasites | Notes |
+|---|---|---|---|---|---|
+| Oral monthly (chewable) | Heartgard Plus, Interceptor Plus, Sentinel | Yes | No (Sentinel limits flea reproduction) | Yes (varies by product) | Easiest for most owners |
+| Topical monthly | Revolution, Advantage Multi | Yes | Yes | Yes (varies) | Good for dogs that won't take oral meds |
+| Injectable (vet-administered) | Proheart 6, Proheart 12 | Yes | No | No | Best for compliance issues |
+| Oral monthly combo | Simparica Trio, Sentinel Spectrum | Yes | Yes | Yes | Broad-spectrum convenience |
+
 Products are everywhere, and the options can feel paralyzing. Here's what matters when you're talking to your vet.
 
 | Product Type | Example Brands | Heartworm | Fleas | Intestinal Parasites | Notes |
@@ -54,19 +61,19 @@ Products are everywhere, and the options can feel paralyzing. Here's what matter
 | Injectable (vet-administered) | Proheart 6, Proheart 12 | Yes | No | No | Best for compliance issues |
 | Oral monthly combo | Simparica Trio, Sentinel Spectrum | Yes | Yes | Yes | Broad-spectrum convenience |
 
-Your choice depends on your dog's lifestyle, how many parasites are in your area, whether you need flea and tick coverage too, and whether you'll actually remember monthly dosing. These products don't always require a prescription everywhere, but they all require a current heartworm test first. Giving prevention to a dog with existing adult worms can cause a serious, potentially fatal reaction.
+Your choice depends on your dog's lifestyle, how many parasites are in your area, whether you need [flea and tick coverage](/flea-tick-prevention-dogs/) too, and whether you'll actually remember monthly dosing. These products don't always require a prescription everywhere, but they all require a current heartworm test first. Giving prevention to a dog with existing adult worms can cause a serious, potentially fatal reaction.
 
 For owners looking for reliable supply, [Heartgard Plus chewables are available on Amazon](https://amzn.to/heartworm-prevention) with a vet prescription. *(This site may earn a commission from qualifying purchases.)* But start any preventive only after talking to your vet.
 
 ## The Annual Heartworm Test: Why You Actually Need It Every Year
 
-Your vet wants annual heartworm tests even if your dog's been on prevention the whole time. Lots of owners balk at this. It feels like waste if you've been careful. Here's why it actually matters.
+Your vet wants [annual heartworm tests](/how-often-should-dog-go-to-vet/) even if your dog's been on prevention the whole time. Lots of owners balk at this. It feels like waste if you've been careful. Here's why it actually matters.
 
 No preventive works 100% of the time, in every situation. Dogs spit out chewables and you miss it. A topical washes off before it's fully absorbed. You were late on a dose during a chaotic month. The test catches prevention failures before they become serious infections.
 
 Testing is also required before starting prevention on any dog with an unknown history, which matters a lot for rescues and adoptions. The standard test is an antigen test, which detects proteins from adult female worms. It's a quick in-clinic blood draw that takes about eight minutes. A separate microfilaria test (looking for larvae in the bloodstream) might also run. Neither hurts and both are reliable when done right.
 
-The American Heartworm Society recommends annual testing. AAHA hospital accreditation standards include heartworm screening as part of preventive care, so you know the veterinary profession takes this seriously. If your clinic is AAHA-accredited, this testing is built into their wellness visit structure by design.
+The American Heartworm Society recommends annual testing. AAHA hospital accreditation standards include heartworm screening as part of preventive care, so you know the veterinary profession takes this seriously. If your clinic is AAHA-accredited, this testing is built into their [wellness visit](/dog-annual-physical-exam-guide/) structure by design.
 
 ## Step-by-Step: Starting Your Dog on Heartworm Prevention
 

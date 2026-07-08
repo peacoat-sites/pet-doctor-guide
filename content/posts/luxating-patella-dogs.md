@@ -23,6 +23,7 @@ faqs:
     a: "Prices vary significantly by location, surgeon, and whether one or both knees are affected. Expect a range from roughly $1,500 to $4,000 per knee in most U.S. markets. A board-certified orthopedic surgeon will typically be at the higher end. Get an itemized estimate and ask what follow-up is included."
   - q: "Can I prevent my dog from developing a luxating patella?"
     a: "You can't change genetics, but you can maintain a lean body weight, avoid breeding affected dogs, and not push puppies from at-risk breeds into high-impact activities before their growth plates close (typically 12-18 months depending on breed). That's about as much prevention as the evidence supports."
+lastmod: 2026-07-07
 ---
 
 Roughly one in four small-breed dogs will develop a luxating patella at some point. That number comes from clinical observation, not a scare campaign, and it's the first thing I want pet owners to understand: this is one of the most common orthopedic problems we see, and also one of the most over-treated and under-understood.
@@ -57,15 +58,22 @@ If your dog is diagnosed at Grade II or above, ask specifically: "Is this affect
 
 ## When to Watch and Wait, When to Act
 
+| Luxating Patella Grade | Clinical Presentation | Typical Management Approach | Surgical Consideration |
+| --- | --- | --- | --- |
+| Grade I | Patella manually displaced, reduces spontaneously | Watch and wait, weight management, NSAIDs for flare-ups | Surgery rarely needed |
+| Grade II | Occasional luxation with variable lameness | Case-by-case; conservative management first unless clear pain or worsening | Surgery if quality of life affected |
+| Grade III | Frequent luxation, noticeable lameness | Surgery typically recommended | High risk of CCL tears if untreated |
+| Grade IV | Patella permanently luxated, cannot be reduced | Surgery indicated | Prevents accelerated cartilage wear |
+
 Grade I: Watch and wait, almost always. Weight management. Avoid activities that stress the joint (repetitive stairs, high-impact jumping). NSAIDs for flare-ups, as directed. Most Grade I dogs never progress to surgery.
 
 Grade II: Genuinely case-by-case. A young, active dog whose patella luxates frequently and causes noticeable lameness is a different conversation than a 9-year-old who occasionally skips a step. I lean toward conservative management first unless there's clear pain or worsening trajectory.
 
-Grades III and IV: Surgery is typically the recommendation, and in most cases, it's the right one. Untreated high-grade luxation causes abnormal loading, accelerates cartilage wear, and increases the risk of cranial cruciate ligament (CCL) tears. That's a much bigger, more expensive surgery.
+Grades III and IV: Surgery is typically the recommendation, and in most cases, it's the right one. Untreated high-grade luxation causes abnormal loading, accelerates cartilage wear, and increases the risk of [cranial cruciate ligament (CCL) tears](/torn-acl-in-dogs-treatment/). That's a much bigger, more expensive surgery.
 
 One pattern I've seen repeatedly: owners delay Grade III surgery for months, the CCL tears in the meantime, and what would have been a $2,500 patella repair becomes a $5,500 TPLO. That's not a hypothetical. It's a scenario I watched unfold with a 4-year-old Miniature Pinscher named Marco whose owner thought he was "managing well" on Galliprant for eight months.
 
-Marco → Owner delayed patella surgery, opted for pain management at Grade III → Partial CCL tear at month seven, full TPLO required, total cost approximately $5,800 versus the original $2,200 patella surgery quote.
+Marco → Owner delayed patella surgery, opted for pain management at Grade III → Partial CCL tear at month seven, [full TPLO required](/torn-acl-in-dogs-treatment/), total cost approximately $5,800 versus the original $2,200 patella surgery quote.
 
 ---
 

@@ -23,6 +23,7 @@ faqs:
    a: "No, and this is a common overcorrection. Complete rest leads to muscle atrophy, which actually makes the joint less stable. Controlled, low-impact activity is the goal. Leash walks on soft surfaces, swimming if available. Avoid repetitive jumping, stairs, and high-impact fetch sessions on hard ground."
  - q: "At what point does a dog with hip dysplasia need surgery?"
    a: "There's no single threshold. Surgical decisions are based on the dog's age, degree of joint change, response to conservative management, and quality of life. Some dogs manage well without surgery for years; others clearly don't respond to medical management and are better candidates for intervention. This is genuinely a conversation that belongs between you and a veterinary orthopedic specialist, not a general rule anyone can give you. If your gut is telling you something about your puppy's movement, trust it. You're with that dog every day. Vet exams happen for 15 minutes twice a year. The ob"
+lastmod: 2026-07-07
 ---
 Your golden retriever puppy is 6 months old, running circles in the backyard one minute, and the next he's sitting down mid-play with a weird little grunt you've never heard before. You figure he's just tired. A month later you notice he's started doing this bunny-hop thing when he runs, both back legs pushing off together instead of alternating. Your gut says something's off. You're right.
 
@@ -50,7 +51,7 @@ Puppies are typically screened and symptoms become most noticeable between 4 and
 
 I've seen puppies diagnosed at 5 months who were completely sound on clinical exam but had obvious radiographic changes. The X-ray told a story the dog wasn't yet telling us. This is actually the ideal time to know, because interventions available before the growth plates close (typically around 12-18 months in large breeds) are meaningfully different from what's available after.
 
-If your vet finds hip laxity early, surgical options like juvenile pubic symphysiodesis (JPS) or triple pelvic osteotomy (TPO) may still be on the table. After skeletal maturity, you're generally looking at either a total hip replacement or long-term pain management. Earlier information genuinely changes outcomes.
+If your vet finds hip laxity early, surgical options like juvenile pubic symphysiodesis (JPS) or triple pelvic osteotomy (TPO) may still be on the table. After skeletal maturity, you're generally looking at either a [total hip replacement](/torn-acl-in-dogs-treatment/) or long-term pain management. Earlier information genuinely changes outcomes.
 
 ## How Your Vet Will Confirm It
 

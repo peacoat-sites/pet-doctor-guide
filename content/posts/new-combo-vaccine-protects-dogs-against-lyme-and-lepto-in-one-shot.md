@@ -12,10 +12,21 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "new-combo-vaccine-protects-dogs-against-lyme-and-lepto-in-one-shot"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been meaning to talk to your vet about updating your dog's vaccines before summer gets fully underway, the timing just got more interesting. On June 15, 2026, the USDA approved Elanco's TruCan Ultra Lyme-L4, the first combination vaccine to protect dogs against both Lyme disease and leptospirosis in a single 0.5 mL injection. For anyone who's watched their dog flinch through multiple shots at annual wellness visits, or who has tried to keep track of which boosters are actually current, this is genuinely useful news.
 
 ## What This Vaccine Actually Is (and Why the Size Matters)
+
+| Vaccine Characteristic | TruCan Ultra Lyme-L4 | Traditional Separate Vaccines |
+| --- | --- | --- |
+| Injection volume | 0.5 mL | 1 mL (combination options) |
+| Lyme efficacy (endemic areas) | 92.2% | Varies by product |
+| Lyme efficacy (lab conditions) | 100% | Varies by product |
+| Lepto serovar coverage | L4 (four-serovar) | L2 or L4 depending on product |
+| Number of injections required | One | Two (separate appointments) |
+| Expected availability | Mid-July 2026 | Immediate |
+| Formulation technology | PureFil Technology | Varies by product |
 
 You might be wondering: isn't there already a Lyme vaccine? Yes, there are several. And lepto vaccines have been around for years. What's new here is the combination, and the delivery.
 

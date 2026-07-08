@@ -23,6 +23,7 @@ faqs:
    a: "Very fast. Some dogs develop cataracts within weeks of a diabetes diagnosis, and bilateral involvement is extremely common. If your dog has just been diagnosed with diabetes, get an ophthalmology consultation promptly rather than waiting to see how the eyes look in a few months."
  - q: "Will my dog's vision fully return after cataract surgery?"
    a: "Most dogs with healthy retinas and cataracts caught before the hypermature stage regain functional vision, often within days of surgery. 'Functional' means they can navigate, play, and avoid obstacles. Whether it matches their pre-cataract acuity is harder to measure in dogs, but owners consistently report dramatic improvement in confidence and activity level post-op."
+lastmod: 2026-07-07
 ---
 
 Most people notice it as a cloudiness in one eye. Then the other. You Google "cloudy eyes in dogs" at midnight and end up somewhere between "it's just nuclear sclerosis, totally normal" and "your dog is going blind and needs $4,000 surgery." You're not sure which end of that spectrum you're looking at, and honestly, that uncertainty is exactly where I want to start.
@@ -56,11 +57,17 @@ The takeaway: immature or early mature cataracts respond much better than hyperm
 
 ## When Surgery Isn't the Right Call
 
+| Scenario | Success Rate | Key Consideration |
+| --- | --- | --- |
+| Surgery before hypermature stage | ~90% functional vision at 12 months | Timing is critical; outcomes decline significantly if deferred |
+| Surgery at hypermature stage | Lower success rate | Risk of lens-induced uveitis and retinal damage |
+| Non-surgical management | N/A | Suitable for dogs with systemic illness, non-functional retina, or good adaptation to vision loss |
+
 I want to be honest here because I've seen people pushed toward surgery when it wasn't in the dog's best interest.
 
 Surgery requires general anesthesia, which carries real risk in dogs with uncontrolled diabetes, significant heart disease, or other systemic illness. The ophthalmologist will want comprehensive bloodwork, a cardiac evaluation in older patients, and crucially, an electroretinogram to confirm the retina can actually respond to light before putting your dog under. If the retina is non-functional, the lens removal doesn't give vision back.
 
-There are also dogs who adapt remarkably well to vision loss. Dogs navigate primarily by smell and spatial memory. I've seen completely blind dogs live full, happy lives with some environmental management: keeping furniture in consistent places, using scent markers near stairs, adding texture to floor transitions. The ASPCA has guidance on managing pets with vision impairment that's worth reading if you're going this route.
+There are also dogs who adapt remarkably well to vision loss. Dogs navigate primarily by smell and spatial memory. I've seen completely blind dogs live full, happy lives with some environmental management: keeping furniture in consistent places, using scent markers near stairs, adding texture to floor transitions. The ASPCA has guidance on managing pets with [vision impairment](/how-to-treat-cloudy-eyes-in-older-dogs/) that's worth reading if you're going this route.
 
 **Medical management scenario:**
 A Cavalier King Charles Spaniel named Maisie, seen at the clinic where I worked until 2023, was diagnosed with bilateral cataracts at age eleven. Her owners elected not to pursue surgery given her cardiac issues (which are common in Cavaliers). We managed the lens-induced uveitis with Prednisolone Acetate 1% eye drops twice daily, monitored intraocular pressure quarterly, and kept her environment consistent. She maintained reasonable quality of life for two more years with zero vision restoration but also no surgical risk.

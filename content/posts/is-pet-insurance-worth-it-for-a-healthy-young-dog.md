@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 Most people who skip pet insurance for a young, healthy dog make that decision because nothing's gone wrong yet. That's exactly when they should be buying it.
 
@@ -76,6 +76,15 @@ Annual limits are another gotcha. A policy with a $5,000 annual limit seems fine
 ---
 
 ## The Breeds Where This Becomes a Much Easier Decision
+
+| Condition | Typical Surgery Cost Range | Common Breeds Affected |
+| --- | --- | --- |
+| TPLO Surgery (cruciate ligament tear) | $3,500-$7,000 | Labs, golden retrievers, rottweilers, mixed breeds |
+| Brachycephalic Obstructive Airway Surgery (BOAS) | $2,000-$5,000 | French bulldogs, bulldogs, brachycephalic breeds |
+| Intervertebral Disc Disease Surgery | $8,000+ | Dachshunds, corgis |
+| Bloat (GDV) Emergency Surgery | $3,000-$6,000 | Large and giant breeds |
+| Foreign Body Ingestion Surgery | $2,000+ | All breeds |
+| Cancer Treatment | $8,000-$12,000 | Golden retrievers, boxers, all breeds |
 
 If you own a French bulldog, bulldog, or any brachycephalic breed, this isn't philosophical. It's financial planning you'd be foolish to skip. BOAS surgery runs $2,000 to $5,000 and is common. Intervertebral disc disease wrecks dachshunds and corgis; severe disc herniation surgery hits $8,000 or more. Large and giant breeds face bloat (GDV), which is a genuine six-hour emergency that often costs $3,000 to $6,000.
 

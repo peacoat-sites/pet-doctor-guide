@@ -23,6 +23,7 @@ faqs:
     a: "Your dog should stop scratching their ears, the discharge (if present) should decrease, and the smell should improve within two weeks of starting treatment and cleaning. If things aren't better by three weeks, the treatment or diagnosis might be wrong, call your vet."
   - q: "Is it dangerous to clean my dog's ears myself?"
     a: "No, as long as you use the right solution, don't use cotton swabs, and don't apply excessive pressure. The danger is in cleaning when you shouldn't (missing an infection that needs medication) or cleaning too aggressively (risking the eardrum). Follow your vet's specific instructions."
+lastmod: 2026-07-07
 ---
 
 I thought my Golden Retriever's ears were fine until my vet showed me the inside of one during a routine check. Tan-colored wax buildup, a faint smell, no redness yet, but definitely heading in the wrong direction. That's the thing about dog ears that most owners miss: you can't see the problem until it's already advanced enough to cause discomfort.
@@ -40,6 +41,15 @@ Certain breeds are also just built differently. I've worked with owners of dogs 
 The key insight here is that cleaning is a treatment for an existing problem, not a preventive measure for healthy ears. If you're cleaning ears that don't need it, you're actually disrupting the ear's normal ecosystem and potentially creating the inflammation you're trying to prevent.
 
 ## The actual difference between vet cleaning and home maintenance
+
+| Aspect | Veterinary Cleaning | Home Maintenance |
+| --- | --- | --- |
+| Equipment | Otoscope, pressure-controlled flush system, video otoscope ($3,000-$8,000) | Ear flush solution ($12-$18 per bottle) |
+| Visibility | Full view of vertical and horizontal canals | Cannot see horizontal canal |
+| Diagnostics | Cytology and culture samples taken | No diagnostic capability |
+| Cost | $150-$300 per session | ~$12-$18 per bottle, lasts several weeks |
+| Frequency (typical case) | Every 6 weeks (if needed) | 1-2 times weekly (as directed by vet) |
+| Purpose | Treatment of existing infections; deep cleaning | Maintenance between vet visits |
 
 > **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

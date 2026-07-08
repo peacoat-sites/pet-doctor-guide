@@ -23,6 +23,7 @@ faqs:
     a: "No. Canine distemper virus does not infect humans. Cats have their own separate distemper virus (feline panleukopenia), which is actually a parvovirus and entirely unrelated despite the shared name. The two viruses don't cross species. Your cat is not at risk from a dog with distemper."
   - q: "If my dog survives distemper, can they spread it to other dogs?"
     a: "Recovered dogs can shed the virus for several weeks after clinical recovery, which matters a lot if you have other dogs in the household. Current guidance generally recommends keeping a recovering dog isolated from unvaccinated or immune-compromised dogs for a minimum of several weeks post-recovery. Your vet can help you determine when it's safe to reintroduce your dog to others based on repeat testing."
+lastmod: 2026-07-07
 ---
 
 Most people think distemper is a disease from the past. Like polio in humans, they vaguely know it exists but assume vaccination wiped it out. I wish that were true. In my 13 years in small animal practice, I've watched two dogs come in with full-blown distemper, and both cases ended the same way. It's a brutal disease, and it does not negotiate.
@@ -40,6 +41,12 @@ What most people don't realize is how varied the presentation can be early on. T
 Neurological signs include muscle twitching (especially in the jaw and leg muscles, sometimes described as "chewing gum seizures"), circling, incoordination, partial paralysis, and seizures. Once the nervous system is affected, the prognosis shifts from guarded to poor. I've seen dogs survive the respiratory phase only to develop progressive neurological disease months later. It's devastating every single time.
 
 ## The Vaccine Works. Use It.
+
+| Vaccination Stage | Age | Frequency | Duration |
+| --- | --- | --- | --- |
+| Puppy Series | 6-8 weeks | Every 3-4 weeks | Until 16 weeks of age |
+| First Booster | 1 year | Once | At 12 months |
+| Maintenance | After 1 year | Every 1-3 years | Based on product and risk factors |
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 Your dog swallows something he shouldn't on a Tuesday night. By Thursday he's in emergency surgery for an intestinal obstruction. You leave the clinic with a healthy dog, a discharge summary, and an invoice for $4,800. I've watched this happen dozens of times in 13 years, and I can tell you the owners who had pet insurance walked out relieved. The ones who didn't were doing math on payment plans before their dog was even fully awake from anesthesia.
 
@@ -48,6 +48,16 @@ Key terms before you buy anything:
 **Exclusions:** Pre-existing conditions are almost universally excluded. If your cat was diagnosed with chronic kidney disease before you enrolled, that condition won't be covered. Full stop.
 
 ## The Real Numbers: What Vet Care Actually Costs
+
+| Condition/Scenario | Typical Cost Range |
+|---|---|
+| ACL/CCL rupture surgery (per leg) | $3,500-$7,000 |
+| Cancer treatment (chemotherapy, radiation, or surgery) | $10,000-$20,000 |
+| Bloat surgery (gastric dilatation-volvulus) | $3,000-$7,500 |
+| Abdominal ultrasound | $300-$600 |
+| MRI for neurological evaluation | $2,000-$3,500 |
+| Monthly pet insurance premium (healthy young dog) | $30-$80 |
+| Monthly pet insurance premium (healthy young cat) | $15-$40 |
 
 People underestimate veterinary costs until they're sitting across from a specialist in a waiting room. Routine care is one thing. Emergency and specialty care is a different world entirely.
 

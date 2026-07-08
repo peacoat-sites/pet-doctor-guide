@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 Your dog just had X-rays, and the vet comes back into the room saying, "I think we need to do an ultrasound." Your stomach drops a little. You nod, but you're already running through questions you don't quite know how to ask. What are they looking for that the X-rays couldn't show? Is this serious? How much is this going to cost?
 
@@ -35,13 +35,13 @@ X-rays are excellent at showing dense structures. Bones, foreign objects, the ov
 
 Ultrasound works differently. It uses high-frequency sound waves, usually in the range of 5 to 15 megahertz for small animals, that bounce off internal structures and return to a sensor. The machine converts those returning waves into a real-time image. You can actually watch the heart beating, see blood moving through vessels, and observe the texture of liver or spleen tissue in ways that simply aren't possible with radiographs.
 
-This is why ultrasound and X-rays are often used together. They answer different questions. A chest X-ray might show fluid around the heart. The ultrasound shows the heart itself, whether the chambers are functioning normally, and whether the fluid is coming from inside or outside the cardiac sac.
+This is why ultrasound and X-rays are often used together. They answer different questions. [A chest X-ray](/pet-x-ray-costs/) might show fluid around the heart. The ultrasound shows the heart itself, whether the chambers are functioning normally, and whether the fluid is coming from inside or outside the cardiac sac.
 
 ## What Conditions Vets Use Ultrasound to Diagnose
 
 The range is genuinely broad. In my experience, the most common reasons a vet will reach for an ultrasound include:
 
-**Abdominal concerns.** This is probably the most frequent use. Vomiting, diarrhea, unexplained weight loss, blood in the urine, or abnormal bloodwork values will often prompt an abdominal ultrasound to look at the liver, spleen, kidneys, bladder, adrenal glands, and intestinal walls. A skilled sonographer can identify bladder stones as small as a few millimeters, detect splenic masses before they rupture, or spot the thickened intestinal walls associated with inflammatory bowel disease.
+**Abdominal concerns.** This is probably the most frequent use. Vomiting, diarrhea, unexplained weight loss, blood in the urine, or [abnormal bloodwork values](/blood-work-for-dogs-explained/) will often prompt an abdominal ultrasound to look at the liver, spleen, kidneys, bladder, adrenal glands, and intestinal walls. A skilled sonographer can identify bladder stones as small as a few millimeters, detect splenic masses before they rupture, or spot the thickened intestinal walls associated with inflammatory bowel disease.
 
 **Cardiac evaluation.** An echocardiogram is simply a cardiac ultrasound. It's the gold standard for diagnosing conditions like dilated cardiomyopathy in Dobermans, mitral valve disease in Cavalier King Charles Spaniels, and hypertrophic cardiomyopathy in cats. No other tool gives you a real-time view of how the heart is actually pumping.
 
@@ -68,6 +68,14 @@ Knowing the logistics ahead of time genuinely reduces anxiety.
 **Results.** Your vet may review images with you immediately, or if the scan is being read by a board-certified radiologist (which provides greater diagnostic accuracy), results may come back within 24 to 48 hours.
 
 ## General Practice Ultrasound vs. Specialist Referral: Which Do You Need?
+
+| Feature | General Practice Ultrasound | Veterinary Internal Medicine Specialist |
+|---|---|---|
+| Who performs it | General practice vet, often self-trained | Board-certified internist or radiologist (DACVIM or DACVR) |
+| Best for | Routine checks, bladder stones, pregnancy, obvious masses | Complex cardiac disease, oncology staging, guided biopsies, ambiguous findings |
+| Availability | Most clinics | Specialty hospitals, university teaching hospitals |
+| Image quality | Variable, depends on equipment and operator experience | High, with advanced equipment |
+| Wait time | Usually same day or next day | 1-3 weeks typical |
 
 | Feature | General Practice Ultrasound | Veterinary Internal Medicine Specialist |
 |---|---|---|

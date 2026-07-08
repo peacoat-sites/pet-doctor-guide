@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 It's 11:47 PM on a Sunday, and your dog just ate something off the kitchen counter. Or your cat is hiding under the bed, breathing with her mouth open. Or your rabbit hasn't moved in two hours. Your heart is pounding and you're frantically Googling "do I need the emergency vet?" This article is for that exact moment. Not tomorrow, not at a routine appointment. Right now.
 
@@ -33,7 +33,7 @@ Some situations remove all guesswork. If your pet is showing any of the followin
 
 **Breathing problems** are the most urgent. Open-mouth breathing in cats is almost always an emergency. Cats are obligate nasal breathers, meaning mouth breathing signals severe respiratory distress, heart failure, or fluid in the chest. A dog breathing with extreme effort, a blue or grey tinge to the gums, or what looks like "pumping" of the belly and chest together warrants immediate emergency care.
 
-**Bloat in dogs**, medically known as Gastric Dilatation-Volvulus (GDV), is a killer. It's most common in deep-chested breeds like Great Danes, Standard Poodles, German Shepherds, and Weimaraners, though any dog can develop it. Signs include a visibly distended abdomen, repeated unproductive retching (the dog is trying to vomit but nothing comes up), drooling, and extreme restlessness. GDV can kill within hours. This is a surgical emergency.
+**[Bloat in dogs](/signs-of-bloat-in-dogs-and-when-to-rush-to-the-vet/)**, medically known as Gastric Dilatation-Volvulus (GDV), is a killer. It's most common in deep-chested breeds like Great Danes, Standard Poodles, German Shepherds, and Weimaraners, though any dog can develop it. Signs include a visibly distended abdomen, repeated unproductive retching (the dog is trying to vomit but nothing comes up), drooling, and extreme restlessness. GDV can kill within hours. This is a surgical emergency.
 
 **Urinary blockage**, especially in male cats, is equally time-sensitive. If your male cat is straining in the litter box repeatedly and producing little or no urine, crying, or licking at his genitals obsessively, his urethra may be blocked. A full bladder blockage is fatal within 24 to 48 hours without treatment.
 

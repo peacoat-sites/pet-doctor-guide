@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-07
 ---
 Your cat just vomited for the third time this morning, and you're standing in the kitchen wondering if you should cancel your plans and head to the emergency vet, or just clean it up and keep an eye on things. That moment of uncertainty is stressful, and it happens to almost every cat owner at some point. Here's what most people don't realize: cats are actually physiologically *more prone* to vomiting than dogs, partly because of how their esophagus is angled and how fast they tend to eat. Occasional vomiting is genuinely common in cats. But "common" doesn't mean "always fine," and knowing the difference between a hairball situation and something that needs urgent care can literally save your cat's life.
 
@@ -45,7 +45,7 @@ Some situations are not "let's see how this goes." They are "get in the car." Me
 - Vomiting blood. Fresh red blood or vomit that looks like coffee grounds (digested blood from higher in the GI tract) is always an emergency.
 - Lethargic and vomiting together. Vomiting alone is different. Combined with obvious weakness, unwillingness to move, or hiding, that's serious.
 - Showing signs of pain: vocalizing when touched on the belly, hunching, refusing to let you near them.
-- Vomiting AND not urinating. In male cats especially, this combination can indicate a urinary blockage, which is fatal within 24 to 48 hours if untreated.
+- Vomiting AND [not urinating](/cat-not-eating-for-2-days-but-acting-normal-causes/). In male cats especially, this combination can indicate a urinary blockage, which is fatal within 24 to 48 hours if untreated.
 - Vomiting after known or suspected ingestion of toxins: lilies (any part of a true lily is deadly to cats), household cleaners, medications, or string/thread, which can cause a linear foreign body obstruction requiring surgery.
 
 PetMD's veterinary resource library documents plant toxicity in cats thoroughly, and true lilies (Easter lily, tiger lily, daylily) sit at the top of the danger list. If there's any chance your cat got into one, don't wait for vomiting to start. Call animal poison control immediately.

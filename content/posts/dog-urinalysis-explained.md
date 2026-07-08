@@ -23,9 +23,9 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
-Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. I thought the same thing when I first started in practice. Then I realized how much information is actually hiding in a single urine sample, and how often it catches something serious before your dog shows any signs at all. A dog can have a urinary tract infection, early kidney disease, diabetes, or even certain cancers and still look completely fine at home. That's what makes this test quietly one of the most powerful tools in veterinary medicine. Understanding what it's measuring puts you in a much better position to ask the right questions.
+Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. I thought the same thing when I first started in practice. Then I realized how much information is actually hiding in a single urine sample, and how often it catches something serious before your dog shows any signs at all. A dog can have a urinary tract infection, early [kidney disease](/senior-pet-bloodwork-panel/), diabetes, or even certain cancers and still look completely fine at home. That's what makes this test quietly one of the most powerful tools in veterinary medicine. Understanding what it's measuring puts you in a much better position to ask the right questions.
 
 ## What a Urinalysis Actually Tests For
 
@@ -39,13 +39,19 @@ The third part is the sediment exam. This is where a lot of the important stuff 
 
 ## How the Sample is Collected (And Why It Matters More Than You'd Think)
 
+| Collection Method | Contamination Risk | Stress Level | Best Use Case |
+| --- | --- | --- | --- |
+| Free-catch | High | Low | Routine screening, owner convenience |
+| Catheterization | Moderate | Moderate | When free-catch unavailable |
+| Cystocentesis | Minimal (sterile) | Low | Confirming UTI, culture results, clinical uncertainty |
+
 Here's something that genuinely catches people off guard: the collection method changes how results are interpreted.
 
 Free-catch is what most owners do at home, letting urine fall into a clean container mid-stream (skip the first and last bit). It's practical, but contamination from the environment, skin, and fur is common, especially in females. That contamination can make a sample look like it has bacteria or blood when it doesn't.
 
 Catheterization collects urine directly from the bladder via a sterile catheter. It's cleaner than free-catch but still carries a small contamination risk, and it's more stressful for the dog.
 
-Cystocentesis is the gold standard. Your vet uses a small needle, guided by ultrasound or palpation, to collect urine straight from the bladder. It sounds alarming if you've never heard of it, but most dogs tolerate it well, and the sample is sterile. If your vet is trying to confirm a urinary tract infection and decide whether to prescribe antibiotics, a cystocentesis sample gives you the most reliable culture result.
+Cystocentesis is the gold standard. Your vet uses a small needle, [guided by ultrasound](/pet-ultrasound-explained/) or palpation, to collect urine straight from the bladder. It sounds alarming if you've never heard of it, but most dogs tolerate it well, and the sample is sterile. If your vet is trying to confirm a urinary tract infection and decide whether to prescribe antibiotics, a cystocentesis sample gives you the most reliable culture result.
 
 I've seen more than a few dogs treated for UTIs based on contaminated free-catch samples that didn't actually have infections. If your vet recommends a "cysto," it's not overkill.
 

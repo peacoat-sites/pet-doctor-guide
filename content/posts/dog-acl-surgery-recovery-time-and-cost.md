@@ -12,7 +12,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Your dog just got the worst possible diagnosis from a knee injury, and now you're staring at a bill estimate that made your stomach drop. I've been in that exam room with hundreds of families at this point, watching people do the mental math in real time, trying to figure out whether they're looking at a manageable setback or a genuinely life-altering expense. So let's just talk honestly about what you're actually dealing with.
 
@@ -46,7 +46,7 @@ TPLO surgery at a veterinary surgical specialist typically runs between $3,500 a
 
 What's included in that estimate matters a lot. Ask specifically whether pre-surgical bloodwork, anesthesia, the surgical implant, intraoperative radiographs, and the first recheck are bundled in. Some practices quote the surgeon's fee alone and add everything else separately. I've seen people come in expecting $4,200 and leave with a $5,800 invoice because they didn't ask.
 
-Then there's the recovery phase. Post-operative pain medication (typically carprofen or meloxicam plus a short course of gabapentin) runs maybe $80 to $120 for the initial supply. Physical rehabilitation, which I'll get to in a moment, can add another $100 to $250 per session if you go to a certified canine rehab therapist. You won't need dozens of sessions, but four to six over the recovery period is pretty standard and genuinely worth it.
+Then there's the recovery phase. [Post-operative pain medication](/dog-surgery-recovery-guide/) (typically carprofen or meloxicam plus a short course of gabapentin) runs maybe $80 to $120 for the initial supply. Physical rehabilitation, which I'll get to in a moment, can add another $100 to $250 per session if you go to a certified canine rehab therapist. You won't need dozens of sessions, but four to six over the recovery period is pretty standard and genuinely worth it.
 
 If your dog tears the other CCL (which happens in roughly 40-60% of dogs within two years), you're looking at doing this all over again. I won't sugarcoat it.
 
@@ -64,7 +64,7 @@ Puzzle feeders help. A lot. Something like the Outward Hound Nina Ottosson puzzl
 
 Weeks two through eight involve gradual, controlled leash walking. Your surgeon will give you a protocol: five minutes twice a day at week two, increasing by five minutes every week or two depending on progress. You'll have a recheck radiograph around week six to eight to assess bone healing. This is the appointment that determines whether you get to start increasing activity or whether you're staying conservative. Don't skip it.
 
-From week eight to sixteen, you're building toward off-leash activity, stair use, and eventually running. Physical rehabilitation during this phase makes a real difference. A certified canine rehabilitation practitioner (look for CCRT or CCRP credentials) can do hydrotherapy, therapeutic laser, and targeted strengthening exercises that will get your dog's quad muscles back online faster and reduce the risk of compensatory injuries. It's not cheap, but it shortens the functional recovery window meaningfully.
+From week eight to sixteen, you're building toward off-leash activity, stair use, and eventually running. [Physical rehabilitation](/dog-surgery-recovery-guide/) during this phase makes a real difference. A certified canine rehabilitation practitioner (look for CCRT or CCRP credentials) can do hydrotherapy, therapeutic laser, and targeted strengthening exercises that will get your dog's quad muscles back online faster and reduce the risk of compensatory injuries. It's not cheap, but it shortens the functional recovery window meaningfully.
 
 ## Complications: What to Watch For
 

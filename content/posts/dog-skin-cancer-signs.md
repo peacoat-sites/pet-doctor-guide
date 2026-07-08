@@ -23,6 +23,7 @@ faqs:
    a: "Long-term stability is genuinely reassuring, but it's not a permanent free pass. If a lump you've been monitoring for years suddenly changes in size, texture, or appearance, treat it as new information and get it evaluated. Lipomas can occasionally undergo malignant transformation, though it's uncommon."
  - q: "What does an ulcerated skin tumor look like on a dog?"
    a: "It looks like a sore that won't close, often with a raw, weeping center. The edges may be raised and irregular. Your dog will likely be paying a lot of attention to it. An ulcerated mass isn't automatically cancer, but it warrants same-week veterinary attention regardless of cause."
+lastmod: 2026-07-07
 ---
 
 Most articles about dog skin cancer open with a paragraph about how "early detection is key" and then describe lumps so vague they could be a mosquito bite. That's not useful. What you actually need is enough specificity to know which bumps deserve a Monday morning call to your vet and which ones need you in the car right now.
@@ -30,6 +31,13 @@ Most articles about dog skin cancer open with a paragraph about how "early detec
 Here's the honest framing: skin cancer is one of the most common cancers diagnosed in dogs, and a significant chunk of the lumps I've watched vets examine over 13 years turned out to be completely benign. Lipomas, sebaceous cysts, warts, histiocytomas that resolve on their own in 8 weeks. The skill isn't panicking at every bump. The skill is knowing which bumps to watch, which to measure, and which to stop waiting on.
 
 ## What Dog Skin Tumors Actually Look Like
+
+| Tumor Type | Appearance | Common Location | Higher Risk Breeds/Groups | Key Behavior |
+| --- | --- | --- | --- | --- |
+| Mast Cell Tumor | Soft fatty lump that can become inflamed, firm, red | Trunk, limbs, groin | Boxers, Boston Terriers, Bulldogs, Golden Retrievers | Fluctuates in size and inflammation; swells then shrinks |
+| Melanoma | Dark, irregularly shaped growth; discolored patch | Mouth, nail beds, toes/digits | Dark-pigmented dogs | Aggressive if oral; often in unexpected locations |
+| Squamous Cell Carcinoma (SCC) | Raised, crusty, ulcerated area that doesn't heal | Belly, inner thighs, ear tips, nose | Light-colored dogs, Dalmatians, Beagles, white Bull Terriers | Associated with UV exposure; on sparsely haired skin |
+| Histiocytoma | Raised pink or red button | Variable | Young dogs under 3 years | Benign; resolves within 2 months without treatment |
 
 Forget the generic "unusual lump or bump" description you've read everywhere. Let's be specific.
 

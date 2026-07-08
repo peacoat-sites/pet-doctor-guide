@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 Your 9-year-old Lab mix has started sleeping through his morning walk invitation, the one that used to send him skidding across the hardwood floors. He's eating fine, drinking fine, but something has shifted. You can feel it even if you can't quite name it. That subtle change is often the first sign that your dog has crossed into senior territory, and knowing how to respond can genuinely add quality years to his life.
 
@@ -61,7 +61,7 @@ A few things to bring to your vet's attention proactively:
 - Changes in stool consistency or frequency
 - Any sign of confusion, staring at walls, or getting "stuck" in corners
 
-That last cluster of symptoms can signal canine cognitive dysfunction, a condition similar to Alzheimer's in humans. It's underdiagnosed partly because owners assume confusion is just "being old." It's not inevitable, and there are real treatment options.
+That last cluster of symptoms can signal [canine cognitive dysfunction](/best-supplements-for-senior-dogs-with-arthritis/), a condition similar to Alzheimer's in humans. It's underdiagnosed partly because owners assume confusion is just "being old." It's not inevitable, and there are real treatment options.
 
 For more context on what a thorough wellness exam covers, [this breakdown of what to expect at your cat's annual vet visit](/cat-annual-vet-visit-what-to-expect/) parallels what a senior dog exam should include, and can help you ask better questions.
 

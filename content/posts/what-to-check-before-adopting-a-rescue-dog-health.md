@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Roughly half the rescue dogs I've seen come through our clinic in the first 30 days post-adoption had at least one health issue the new owner didn't know about. Not because shelters are hiding things. Because health assessments done on stressed, under-observed animals in noisy kennels miss a lot, and because most adopters don't know what to look for before they sign the paperwork.
 
@@ -73,7 +73,7 @@ A few things that catch first-time rescue adopters off guard.
 
 Brachycephalic dogs (bulldogs, French bulldogs, pugs, Boston terriers) commonly have structural breathing issues. You can hear this on exam, and it affects anesthesia risk significantly. If you're adopting one of these breeds, ask whether the shelter's vet assessed for BOAS (brachycephalic obstructive airway syndrome). [PetMD's veterinary resource library](https://www.petmd.com/) has a solid plain-language overview of this condition if you want to know what you're dealing with.
 
-Senior dogs (roughly 7+ years depending on size) should get baseline bloodwork. Kidney disease, liver changes, and thyroid issues are common and manageable if you catch them early. They're also much harder and more expensive to treat once they've progressed.
+Senior dogs (roughly 7+ years depending on size) should get [baseline bloodwork](/blood-work-for-dogs-explained/). Kidney disease, liver changes, and thyroid issues are common and manageable if you catch them early. They're also much harder and more expensive to treat once they've progressed.
 
 Large and giant breed dogs have higher rates of orthopedic issues, cardiac disease, and certain cancers. This isn't a reason not to adopt one. It is a reason to budget for it and get good pet insurance in place immediately, not after you already have a diagnosis.
 

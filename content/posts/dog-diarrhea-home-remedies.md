@@ -23,11 +23,22 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-
+lastmod: 2026-07-07
 ---
 It's 10 p.m. on a Sunday. Your dog just had liquid diarrhea on the kitchen floor for the third time tonight, and your regular vet doesn't open until Monday morning. You're Googling frantically, wondering if this is serious, if you should drive to the emergency clinic, or if there's something you can safely do at home right now. That scenario plays out in households every single week, and I've fielded more panicked phone calls about it than I can count. The good news: many cases of acute diarrhea in dogs are self-limiting, meaning they resolve on their own with a little supportive care. The not-so-good news: some cases absolutely need a vet, and knowing the difference is everything.
 
 ## Is This Actually an Emergency? Know Before You Try Anything at Home
+
+| Symptom | Action | Urgency |
+| --- | --- | --- |
+| Bloody diarrhea (red or tarry/coffee-ground stools) | Go to emergency vet | Tonight |
+| Repeated vomiting with diarrhea | Go to emergency vet | Tonight |
+| Lethargy, weakness, or inability to stand | Go to emergency vet | Tonight |
+| Visibly bloated or painful abdomen | Go to emergency vet | Tonight |
+| Puppy under 16 weeks or senior over 10 years old | Go to emergency vet | Tonight |
+| Known toxin, medication, or foreign object ingestion | Go to emergency vet | Tonight |
+| Signs of dehydration (tacky gums, tented skin, sunken eyes) | Go to emergency vet | Tonight |
+| One or two loose stools, eating normally, alert and acting normal | Call vet Monday | Monday morning |
 
 Before you reach for the rice and chicken, stop and assess your dog. Home remedies work fine for mild, uncomplicated diarrhea in otherwise healthy adult dogs. They don't work for a range of specific situations that can spiral fast.
 

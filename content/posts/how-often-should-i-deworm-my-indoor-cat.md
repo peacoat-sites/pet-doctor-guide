@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Most cat owners I talk to assume that because their cat never steps foot outside, worms simply aren't a concern. I used to think the same thing, honestly. Then I started seeing it in practice: a perfectly indoor, pampered apartment cat presenting with a tapeworm segment stuck to the fur near their tail. The owner was baffled. So was I, at first.
 
@@ -41,13 +41,20 @@ What surprised me most when I started digging into the research was how often lo
 
 ## So how often should you actually deworm?
 
+| Cat Risk Category | Fecal Exam Frequency | Routine Prophylactic Deworming | Notes |
+| --- | --- | --- | --- |
+| Kittens | Every 2 weeks until 12 weeks, then monthly until 6 months | Every 2 weeks until 12 weeks, then monthly until 6 months | Standard protocol; non-negotiable due to roundworm risk |
+| Adult indoor-only, minimal risk | Annual | Not necessary | No fleas, no contact with other animals, no outdoor access |
+| Adult indoor with risk factors | Every 6 months | As needed based on exam results | History of fleas, other pets, hunting behavior, new introductions |
+| Multi-cat households / shelter cats | More frequent initial testing | More aggressive initial treatment | High-risk environments; reassess after initial protocol |
+
 The honest answer is: it depends, and anyone giving you a single universal number is oversimplifying.
 
 The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) doesn't publish a one-size-fits-all deworming schedule for adult indoor cats, because the risk profile genuinely varies. What most parasitologists and feline-focused vets I've spoken to recommend falls into a few practical categories:
 
 **For kittens:** Every two weeks from two weeks of age until twelve weeks, then monthly until six months. This is standard, and it's non-negotiable. Roundworm burden in young kittens can be heavy and can cause real harm, including respiratory issues from larval migration.
 
-**For adult indoor-only cats with truly minimal risk:** No fleas, no contact with other animals, no outdoor access, owner doesn't work with soil or animals. An annual fecal exam is reasonable. Routine prophylactic deworming every month isn't necessary or well-supported for this group. You're treating a problem that may not exist.
+**For adult indoor-only cats with truly minimal risk:** No fleas, no contact with other animals, no outdoor access, owner doesn't work with soil or animals. An annual [fecal exam is reasonable](/cat-annual-wellness-exam-guide/). Routine prophylactic deworming every month isn't necessary or well-supported for this group. You're treating a problem that may not exist.
 
 **For adult indoor cats with any of these factors:** another pet that goes outside, a history of fleas, hunting behavior (even just insects), a new cat or kitten introduced to the home, or an owner who works in veterinary medicine, agriculture, or animal rescue. I'd push for a fecal exam every six months and a low threshold for treating if anything looks off.
 
@@ -71,7 +78,7 @@ For cats genuinely at minimal risk, a simple over-the-counter tapeworm tablet li
 
 I'll be honest, the word "schedule" makes it sound more rigid than it needs to be for a healthy adult indoor cat with low risk factors. Here's how I think about it practically:
 
-Start with a fecal exam if your cat hasn't had one in the past year, especially at the next annual wellness visit. If it's clean, great. You've got a baseline. If something shows up, treat specifically for what's there, not with a broad-spectrum product that may not target the right parasite. Pyrantel pamoate is great for roundworms and hookworms. Praziquantel is what you want for tapeworms. Fenbendazole covers a broader range including some protozoa. These aren't interchangeable.
+Start with a fecal exam if your cat hasn't had one in the past year, especially at the next [annual wellness visit](/cat-annual-vet-visit-what-to-expect/). If it's clean, great. You've got a baseline. If something shows up, treat specifically for what's there, not with a broad-spectrum product that may not target the right parasite. Pyrantel pamoate is great for roundworms and hookworms. Praziquantel is what you want for tapeworms. Fenbendazole covers a broader range including some protozoa. These aren't interchangeable.
 
 Recheck the fecal in 2-3 weeks after treating to confirm clearance.
 

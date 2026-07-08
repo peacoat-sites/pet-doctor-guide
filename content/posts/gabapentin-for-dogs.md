@@ -23,6 +23,7 @@ faqs:
    a: "Physical dependence can develop with long-term use, which is why abrupt discontinuation, especially in seizure patients, isn't recommended. This is more of a physiological adaptation than 'addiction' in the behavioral sense. Your vet will guide a gradual taper when it's time to stop."
  - q: "Can gabapentin be used with other medications?"
    a: "It generally plays well with NSAIDs, which is part of why it's popular in multimodal pain protocols. It can enhance the sedative effects of other CNS depressants though, so your vet needs to know everything your dog is taking, including supplements. Antacids can reduce gabapentin absorption if given at the same time, so spacing them out by at least two hours is worth doing."
+lastmod: 2026-07-07
 ---
 
 Most pet owners I talk to assume gabapentin is just a "nerve pain drug" their vet throws at older dogs who seem stiff. That framing is so incomplete it can actually lead people to under-use or misuse a medication that, in the right context, is genuinely remarkable.
@@ -51,7 +52,7 @@ The drug is primarily cleared by the kidneys, which matters if your dog has any 
 
 Here's where it gets interesting, because the list is longer than most owners realize.
 
-**Chronic pain**, especially neuropathic pain, is probably the most common use. Dogs with degenerative joint disease, intervertebral disc disease (IVDD), or spinal cord injuries often have a nerve pain component that NSAIDs like Carprofen or Galliprant don't fully address. Gabapentin fills that gap. I've seen it make a meaningful difference in dogs who were on adequate NSAID dosing and still seemed uncomfortable.
+**Chronic pain**, especially neuropathic pain, is probably the most common use. Dogs with degenerative joint disease, intervertebral disc disease (IVDD), or spinal cord injuries often have a nerve pain component that [NSAIDs like Carprofen or Galliprant](/dog-nsaid-risks/) don't fully address. Gabapentin fills that gap. I've seen it make a meaningful difference in dogs who were on adequate NSAID dosing and still seemed uncomfortable.
 
 **Seizure management** is the original use, and gabapentin is still used as an add-on medication for dogs with epilepsy who aren't fully controlled on phenobarbital or potassium bromide alone.
 
@@ -61,7 +62,7 @@ Here's where it gets interesting, because the list is longer than most owners re
 
 A few real-world examples from my time in practice:
 
-**Scenario 1:** A 9-year-old Labrador with confirmed IVDD, already on Meloxicam, still vocalizing at night. Vet added gabapentin at 10mg/kg twice daily. Owner reported noticeably better sleep behavior within one week, and the dog stopped avoiding stairs within three weeks.
+**Scenario 1:** A 9-year-old Labrador with confirmed IVDD, [already on Meloxicam](/rimadyl-for-dogs-guide/), still vocalizing at night. Vet added gabapentin at 10mg/kg twice daily. Owner reported noticeably better sleep behavior within one week, and the dog stopped avoiding stairs within three weeks.
 
 **Scenario 2:** A 4-year-old Border Collie with severe thunderstorm phobia, not responding well to trazodone alone. Gabapentin added at 100mg two hours before predicted storms. Owner described it as "60-70% improvement" in panic behaviors over several storm events.
 
@@ -70,6 +71,13 @@ A few real-world examples from my time in practice:
 ---
 
 ## The Dosing Reality (And Why It's Complicated)
+
+| Use Case | Typical Dose | Frequency | Notes |
+| --- | --- | --- | --- |
+| Chronic/neuropathic pain | 5-10 mg/kg | 2-3 times daily | Often combined with NSAIDs |
+| Seizure management | Higher doses | As prescribed | Add-on to other anticonvulsants |
+| Pre-surgical anxiety | 50-300 mg (size-dependent) | Single dose, 2 hours pre-visit | One-time use |
+| Situational anxiety | 100-300 mg | As needed before event | For storms, fireworks, etc. |
 
 I'm going to be straightforward here: there's no universally agreed-upon dosing standard for gabapentin in dogs. The research is genuinely mixed, and the dose varies depending on what you're treating.
 

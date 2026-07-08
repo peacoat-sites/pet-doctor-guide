@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-
+lastmod: 2026-07-07
 ---
 My dog Biscuit got his first hot spot in July 2019, and I made every mistake in the book. I left it alone thinking it would clear up. Then I over-cleaned it with hydrogen peroxide. Then I panicked and took him to an emergency clinic at 10 p.m. for something that, honestly, could have waited until morning and cost me $340 I didn't need to spend. Thirteen years later, I've watched hundreds of dogs come into the clinic with these things, and I want to save you from the same spiral.
 
@@ -39,7 +39,14 @@ Here's what most people miss: the hot spot itself isn't the actual problem. It's
 
 ## When "Natural" Is Fine and When It Isn't
 
-I need to be honest with you here: there's a version of "treating hot spots naturally" that is genuinely responsible, and there's a version that involves putting coconut oil on a serious infection and hoping for the best. Those are not the same thing.
+| Situation | Action | Urgency |
+| --- | --- | --- |
+| Quarter-sized or smaller, caught within 1 day, dog acting normally | Home management with natural treatment | Can wait |
+| Large sore (palm-sized+), spreading visibly, or near the eye | Veterinary visit required | See vet immediately |
+| Significant swelling, fever, lethargy, or no improvement after 3-4 days | Veterinary visit required | See vet immediately |
+| Senior dog, puppy, or immunocompromised dog with any hot spot | Veterinary visit required | See vet immediately |
+
+I need to be honest with you here: there's a version of "treating [hot spots](/dog-hot-spots-treatment/) naturally" that is genuinely responsible, and there's a version that involves putting coconut oil on a serious infection and hoping for the best. Those are not the same thing.
 
 **Reasonable candidates for home management:**
 

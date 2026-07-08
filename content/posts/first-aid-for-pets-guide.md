@@ -21,11 +21,16 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-07
 ---
 You just watched your dog eat something off the ground during your walk, and now you're standing in your kitchen wondering if you should panic. Or maybe your cat is limping and you can't quite tell if it's serious. Or your rabbit took a tumble and you have no idea what a "normal" rabbit looks like after a fall. Wherever you are right now, here's something important to know before anything else: staying calm and having some basic knowledge is genuinely the most powerful thing you can do for your pet in a crisis. I've been in clinical practice for 13 years, and the clients who do the best in emergencies aren't necessarily the ones with the most medical knowledge. They're the ones who know what to watch for, what to do first, and when to stop trying to handle something at home.
 
 ## Build Your Pet First Aid Kit Before You Need It
+
+| Species | Heart Rate (BPM) | Respiratory Rate (breaths/min) | Temperature (°F) |
+| --- | --- | --- | --- |
+| Dog | 60-140 | 15-30 | 99.5-102.5 |
+| Cat | 140-220 | 20-30 | 100.5-102.5 |
 
 I tell every new pet owner the same thing at their first visit: the worst time to realize you don't have a first aid kit is when you're already in crisis mode. A good kit doesn't need to be complicated, but it does need to be stocked and somewhere you can find it at 2 AM.
 
@@ -69,12 +74,12 @@ I get asked this more than anything else, and it's the one where being wrong act
 **These need a vet immediately:**
 
 - Difficulty breathing, open-mouth breathing in a cat, blue or white gums
-- Any suspected poisoning (always treat as urgent)
+- [Any suspected poisoning](/dog-poison-emergency-guide/) (always treat as urgent)
 - Seizure lasting more than 2 minutes or multiple seizures in one day
 - Collapse or sudden inability to stand or use hind legs
 - Suspected bloat in dogs: distended belly, unproductive retching, restlessness
 - Eye injuries or sudden vision changes
-- Urinary blockage in cats (straining in the litter box, crying, producing no urine)
+- [Urinary blockage in cats](/pet-emergency-vet-when-to-go/) (straining in the litter box, crying, producing no urine)
 - Trauma from a car, fall, or animal attack (even if they seem fine initially)
 
 **These usually can wait for your regular vet:**

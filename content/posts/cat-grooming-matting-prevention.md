@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and this is underappreciated. Sudden coat changes in a cat that previously groomed well can signal hyperthyroidism, diabetes, arthritis, dental disease, obesity, or even early kidney disease. If your adult cat's coat quality has noticeably declined, mention it at your next vet appointment. Don't assume it's just laziness."
  - q: "What's the best detangling product for cats?"
    a: "Something alcohol-free and fragrance-free, safe for cats if lightly ingested during grooming. BioSilk for Pets and Chris Christensen Ice on Ice (diluted) are both options I've seen used in clinical and grooming settings. Avoid anything marketed primarily for humans; the pH difference matters more than most people realize."
+lastmod: 2026-07-07
 ---
 
 Most cat owners I talk to don't think about matting until they're staring at a tangle the size of a golf ball near their cat's armpit, wondering how long it's been there. By that point, you're past prevention and into damage control. I'll be honest: matting is one of those problems that's almost entirely avoidable, and yet I see the consequences of it constantly in clinical practice, usually on cats whose owners genuinely love them and just didn't realize what was happening under all that fluff.
@@ -36,6 +37,14 @@ There's a logic to it. Mats cluster in areas of friction and moisture: armpits, 
 What surprised me when I really started paying attention was how fast this happens in cats with seasonal coat changes. Spring shed especially. A medium-haired cat that coasted through winter can develop serious mats in four to six weeks when the undercoat starts blowing out if no one's brushing it through.
 
 ## The Actual Prevention Work
+
+| Cat Type | Brushing Frequency | Recommended Tool | Notes |
+| --- | --- | --- | --- |
+| Short-haired | Every 1-2 weeks | Rubber curry brush or soft-bristle brush | Kong ZoomGroom mimics petting pressure |
+| Medium to long-haired | 2-3 times weekly minimum | Wide-toothed metal comb (primary); slicker brush for surface tangles | Daily during peak shedding season if coat is dense |
+| Medium to long-haired (shedding season) | Daily | De-shedding tool (e.g., Furminator) used ~1x/week; wide-tooth comb for diagnosis | Furminator can be too aggressive if overused on fine-coated cats |
+| Senior cats (10+) | Increased frequency | Wide-tooth comb; consider professional grooming | Higher risk of silent matting due to reduced self-grooming |
+| Cats prone to matting | 2-3 times weekly + | Wide-toothed metal comb with detangling spray | Conditioner spray reduces friction and mat formation |
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

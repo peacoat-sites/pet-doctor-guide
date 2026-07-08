@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 You came home from work, called your cat's name, and heard nothing. No jingling collar, no trotting paws on hardwood. You searched the apartment for twenty minutes before finding her wedged behind the washing machine, pupils wide, not wanting to be touched. Now you're spiraling. Is she sick? Did something scare her? Is this the beginning of the end?
 
@@ -64,7 +64,7 @@ Most pet owners get tripped up here. Hiding alone isn't a red flag. The context 
 - She emerged within a few hours on her own, ate her food, used her litter box
 - She's in a spot she's used before
 - Her body language when you find her is alert, not glazed or limp
-- She was recently introduced to a new home, new pet, or new person
+- She was recently introduced to a new home, [new pet, or new person](/introducing-new-pet-to-home/)
 
 **Concerning hiding looks different:**
 

@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-
+lastmod: 2026-07-07
 ---
 Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms, BUN, ALT, T4, CBC, wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. I've had this exact conversation in the exam room hundreds of times. Here's what I wish every pet owner knew before that appointment.
 
@@ -41,7 +41,7 @@ Senior bloodwork gives you a baseline. Even if everything comes back normal this
 
 ## What's Actually in a Senior Panel
 
-A basic senior panel typically includes two components: a complete blood count (CBC) and a chemistry panel, sometimes with add-ons depending on your pet's age, breed, and history.
+A basic senior panel typically includes two components: a [complete blood count (CBC)](/blood-work-for-dogs-explained/) and a chemistry panel, sometimes with add-ons depending on your pet's age, breed, and history.
 
 **The CBC** looks at blood cells. Red blood cell counts tell you about anemia and hydration status. White blood cell counts signal infection, inflammation, or immune problems. Platelet counts matter for clotting.
 
@@ -55,7 +55,7 @@ A basic senior panel typically includes two components: a complete blood count (
 
 **Thyroid testing (T4)** is often added for cats over 7 because hyperthyroidism is the most common hormonal disease in older cats and is very treatable when caught early. Dogs get thyroid testing too, though they tend toward hypothyroidism instead.
 
-Some vets also recommend a urinalysis alongside bloodwork, because urine-specific gravity gives context to kidney values that blood tests alone can't provide.
+Some vets also recommend a [urinalysis alongside bloodwork](/dog-urinalysis-explained/), because urine-specific gravity gives context to kidney values that blood tests alone can't provide.
 
 ---
 

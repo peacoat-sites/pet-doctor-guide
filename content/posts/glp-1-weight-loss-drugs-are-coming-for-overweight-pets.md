@@ -12,6 +12,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "glp-1-weight-loss-drugs-are-coming-for-overweight-pets"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If your cat is fat, there's finally something genuinely new to talk about. Not a prescription diet that requires military-grade portion discipline. Not a puzzle feeder. An actual drug, working the same biological pathway as Ozempic and Wegovy, designed specifically for your overweight pet.
 
@@ -23,7 +24,7 @@ Here's why that matters: 61% of cats and 59% of dogs in the U.S. were classified
 
 GLP-1 stands for glucagon-like peptide-1. In humans, drugs like semaglutide mimic this hormone to slow gastric emptying, increase feelings of fullness, and reduce appetite. The result is that people eat less without fighting the urge to eat more. The mechanism doesn't care if you're human or feline, which is why researchers made the leap.
 
-Cats got the first trial partly because feline obesity carries particularly nasty metabolic consequences, including hepatic lipidosis, a life-threatening liver condition that can develop shockingly fast when an obese cat stops eating for almost any reason. Cats are also physiologically interesting test subjects for metabolic research, though I'll spare you the biochemistry. The practical point: if the feline data holds, OKAVA and Akston researchers have both indicated a dog-specific GLP-1 trial is planned as a follow-on.
+Cats got the first trial partly because feline obesity carries particularly nasty metabolic consequences, including [hepatic lipidosis](/new-guidelines-just-changed-how-vets-treat-cat-diabetes/), a life-threatening liver condition that can develop shockingly fast when an obese cat stops eating for almost any reason. Cats are also physiologically interesting test subjects for metabolic research, though I'll spare you the biochemistry. The practical point: if the feline data holds, OKAVA and Akston researchers have both indicated a dog-specific GLP-1 trial is planned as a follow-on.
 
 The delivery method for OKV-119 is worth noting. It's a subcutaneous implant, not a daily pill or a shot you administer at home. That removes the biggest compliance problem in veterinary medicine: owner-administered medication. Anyone who has tried to give a cat a pill twice daily for 30 days understands why "a six-month implant your vet places once" is a genuinely compelling design choice.
 
@@ -51,7 +52,13 @@ In the meantime, weight management still means what it's always meant: measured 
 
 ## The Bigger Picture: Veterinary Metabolic Medicine Is Moving
 
-The GLP-1 developments aren't happening in isolation. On June 9, 2026, Cronus Pharma's pimobendan chewable tablets became available in the U.S. market as the first FDA-approved bioequivalent of Vetmedin for canine heart failure. That might sound unrelated, but it signals something real: the pipeline of condition-specific veterinary drugs is accelerating. Metabolic disease, cardiac disease, and chronic illness in pets are getting serious pharmaceutical attention in a way they weren't five years ago.
+| Drug/Trial | Species | Developer | Delivery Method | Timeline | Status |
+| --- | --- | --- | --- | --- | --- |
+| AKS-562c | Cats | Akston Biosciences | Weekly injectable | 12 weeks treatment | Data presented June 2026 |
+| OKV-119 | Cats | OKAVA Pharmaceuticals | Subcutaneous implant | 6 months | MEOW-1 trial, results expected mid-2026 |
+| Pimobendan chewable | Dogs | Cronus Pharma | Oral tablet | N/A | FDA-approved June 9, 2026 |
+
+The GLP-1 developments aren't happening in isolation. On June 9, 2026, Cronus Pharma's [pimobendan chewable tablets](/a-cheaper-generic-for-dogs-with-heart-disease-is-now-available/) became available in the U.S. market as the first FDA-approved bioequivalent of Vetmedin for canine heart failure. That might sound unrelated, but it signals something real: the pipeline of condition-specific veterinary drugs is accelerating. Metabolic disease, cardiac disease, and chronic illness in pets are getting serious pharmaceutical attention in a way they weren't five years ago.
 
 The pet obesity crisis has been documented and discussed for two decades with limited results. A drug that removes the hunger equation without requiring perfect owner compliance could actually change outcomes. That's not hype; that's what the mechanism suggests if the safety profile continues to hold in larger trials.
 
