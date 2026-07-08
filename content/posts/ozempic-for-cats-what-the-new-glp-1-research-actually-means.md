@@ -3,7 +3,7 @@ title: "Ozempic for Cats: What the New GLP-1 Research Actually Means"
 date: 2026-06-27T18:40:03.070423+00:00
 draft: false
 description: "Vets are exploring GLP-1 drugs like Ozempic for cats. Learn what the latest research actually shows about safety, weight loss, and what it means for your pet."
-image: "https://images.pexels.com/photos/7129043/pexels-photo-7129043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7129043.jpg"
 categories: ["trending"]
 tags: ["ozempic", "cats:", "what", "glp-1", "research"]
 author: "Karen Lopez"

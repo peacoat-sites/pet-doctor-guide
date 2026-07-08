@@ -3,7 +3,7 @@ title: "Toxic Foods For Dogs List"
 date: 2026-05-19T18:24:34.164198+00:00
 draft: false
 description: "Keep your dog safe by knowing which foods are toxic to them. Discover our complete list of dangerous foods dogs should never eat, including chocolate, grapes, a"
-image: "https://images.pexels.com/photos/15147703/pexels-photo-15147703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15147703.jpg"
 categories: ["Emergency Care"]
 tags: ["toxic", "foods", "dogs", "list"]
 slug: "toxic-foods-for-dogs-list"

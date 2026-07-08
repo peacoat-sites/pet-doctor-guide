@@ -3,7 +3,7 @@ title: "Ear Cleaning Dogs Guide"
 date: 2026-07-03T18:43:07.060911+00:00
 draft: false
 description: "Learn how to safely clean your dog's ears at home. Discover the best techniques, tools, and frequency to prevent infections and keep your pet comfortable."
-image: "https://images.pexels.com/photos/9635029/pexels-photo-9635029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9635029.jpg"
 categories: ["Grooming"]
 tags: ["cleaning", "dogs", "guide"]
 author: "Michelle Chen"

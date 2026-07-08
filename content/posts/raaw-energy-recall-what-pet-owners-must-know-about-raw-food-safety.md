@@ -3,7 +3,7 @@ title: "Raaw Energy Recall: What Pet Owners Must Know About Raw Food Safety"
 date: 2026-07-03T18:41:38.544919+00:00
 draft: false
 description: "Raaw Energy pet food recall: Learn about raw food safety risks, affected products, and steps to protect your pet's health. Stay informed and act now."
-image: "https://images.pexels.com/photos/18182124/pexels-photo-18182124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18182124.jpg"
 categories: ["trending"]
 tags: ["raaw", "energy", "recall:", "what", "owners"]
 author: "Karen Lopez"

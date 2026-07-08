@@ -3,7 +3,7 @@ title: "Dog Breed Health Issues Guide"
 date: 2026-06-22T20:19:12.141402+00:00
 draft: false
 description: "Discover common health issues by dog breed, from hip dysplasia in large breeds to breathing problems in flat-faced dogs. Keep your pet healthy and happy."
-image: "https://images.pexels.com/photos/6235020/pexels-photo-6235020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6235020.jpg"
 categories: ["Breed Info"]
 tags: ["breed", "health", "issues", "guide"]
 author: "Rachel Sanders"

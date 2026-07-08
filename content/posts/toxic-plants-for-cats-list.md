@@ -3,7 +3,7 @@ title: "Toxic Plants For Cats List"
 date: 2026-05-28T01:21:58.056344+00:00
 draft: false
 description: "Keep your cat safe with our complete toxic plants for cats list. Learn which common household and garden plants to avoid and protect your feline friend today."
-image: "https://images.pexels.com/photos/33024522/pexels-photo-33024522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33024522.jpg"
 categories: ["Emergency Care"]
 tags: ["toxic", "plants", "cats", "list"]
 slug: "toxic-plants-for-cats-list"

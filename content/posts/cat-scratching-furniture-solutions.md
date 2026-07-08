@@ -3,7 +3,7 @@ title: "Cat Scratching Furniture Solutions"
 date: 2026-07-04T18:15:19.457588+00:00
 draft: false
 description: "Discover effective cat scratching furniture solutions to protect your home. Learn why cats scratch and how to redirect this natural behavior today."
-image: "https://images.pexels.com/photos/38321659/pexels-photo-38321659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/38321659.jpg"
 categories: ["Behavior"]
 tags: ["scratching", "furniture", "solutions"]
 author: "Rachel Sanders"

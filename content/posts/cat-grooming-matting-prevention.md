@@ -3,7 +3,7 @@ title: "Cat Grooming Matting Prevention"
 date: 2026-06-22T20:17:12.617361+00:00
 draft: false
 description: "Learn how to prevent painful mats in your cats fur with regular brushing routines, the right tools, and expert grooming tips for all coat types."
-image: "https://images.pexels.com/photos/32094616/pexels-photo-32094616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32094616.jpg"
 categories: ["Grooming"]
 tags: ["grooming", "matting", "prevention"]
 author: "Michelle Chen"

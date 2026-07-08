@@ -3,7 +3,7 @@ title: "New World Screwworm Is Back in the US: What Pet Owners Must Know"
 date: 2026-06-20T18:50:07.519444+00:00
 draft: false
 description: "Protect your pets from the deadly New World Screwworm returning to the US. Learn the warning signs, risks, and urgent steps every pet owner must take now."
-image: "https://images.pexels.com/photos/14449083/pexels-photo-14449083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14449083.jpg"
 categories: ["trending"]
 tags: ["world", "screwworm", "back", "what", "owners"]
 author: "Tom Harris"

@@ -3,7 +3,7 @@ title: "Brachycephalic Dog Health Problems"
 date: 2026-06-19T19:12:45.896901+00:00
 draft: false
 description: "Brachycephalic dogs face serious breathing and health issues. Learn what causes these problems and how to keep your flat-faced dog healthy and comfortable."
-image: "https://images.pexels.com/photos/32104935/pexels-photo-32104935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32104935.jpg"
 categories: ["Breed Info"]
 tags: ["brachycephalic", "health", "problems"]
 author: "Michelle Chen"

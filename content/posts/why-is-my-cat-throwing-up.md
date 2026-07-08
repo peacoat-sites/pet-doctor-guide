@@ -3,7 +3,7 @@ title: "Cat Vomiting: 10 Real Reasons and When to Worry"
 date: 2026-07-07T19:16:56.034421+00:00
 draft: false
 description: "Discover the most common reasons cats throw up, from hairballs to serious illness, and learn exactly when to call your vet."
-image: "https://images.pexels.com/photos/33871746/pexels-photo-33871746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33871746.jpg"
 categories: ["Cat Symptoms"]
 tags: ["throwing"]
 author: "Rachel Sanders"

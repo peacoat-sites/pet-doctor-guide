@@ -3,7 +3,7 @@ title: "Lyme Disease Dogs Symptoms"
 date: 2026-06-28T18:20:25.680334+00:00
 draft: false
 description: "Learn to recognize Lyme disease symptoms in dogs including lameness, fever, fatigue, and joint swelling so you can get your pup treated fast."
-image: "https://images.pexels.com/photos/6604130/pexels-photo-6604130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6604130.jpg"
 categories: ["Parasites"]
 tags: ["lyme", "disease", "dogs", "symptoms"]
 author: "Michelle Chen"

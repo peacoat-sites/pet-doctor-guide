@@ -3,7 +3,7 @@ title: "Multi-Pet Household Tips"
 date: 2026-06-24T19:02:15.731570+00:00
 draft: false
 description: "Keep dogs, cats, and small pets happy under one roof with feeding, space, and intro tips that reduce stress for every animal in your home."
-image: "https://images.pexels.com/photos/16440218/pexels-photo-16440218.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16440218.jpg"
 categories: ["Behavior"]
 tags: ["multi-pet", "household", "tips"]
 author: "James Whitfield"

@@ -3,7 +3,7 @@ title: "Dog Grooming Health Benefits"
 date: 2026-07-05T18:20:53.891120+00:00
 draft: false
 description: "Discover the surprising health benefits of dog grooming, from healthier skin and coat to early detection of lumps, infections, and other medical issues."
-image: "https://images.pexels.com/photos/8498857/pexels-photo-8498857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8498857.jpg"
 categories: ["Grooming"]
 tags: ["grooming", "health", "benefits"]
 author: "James Whitfield"

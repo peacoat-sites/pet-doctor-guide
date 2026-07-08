@@ -3,7 +3,7 @@ title: "Small Breed Dental Health Dogs"
 date: 2026-06-23T19:23:27.104128+00:00
 draft: false
 description: "Small breed dogs face unique dental challenges. Learn how to protect your tiny dog's teeth with brushing tips, vet care, and the best dental products."
-image: "https://images.pexels.com/photos/30586500/pexels-photo-30586500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30586500.jpg"
 categories: ["Breed Info"]
 tags: ["small", "breed", "dental", "health", "dogs"]
 author: "Dr. Amanda Foster"

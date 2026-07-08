@@ -3,7 +3,7 @@ title: "New World Screwworm Is Now in the U.S.: What Pet Owners Must Know"
 date: 2026-06-14T19:09:02.700515+00:00
 draft: false
 description: "New World Screwworm has entered the U.S., threatening pets. Learn the warning signs, how to protect your animals, and what to do if you suspect an infestation."
-image: "https://images.pexels.com/photos/4724001/pexels-photo-4724001.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4724001.jpg"
 categories: ["trending"]
 tags: ["world", "screwworm", "u.s.:", "what", "owners"]
 author: "Karen Lopez"

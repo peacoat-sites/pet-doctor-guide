@@ -3,7 +3,7 @@ title: "Dog Nail Trimming Fear"
 date: 2026-06-12T19:24:57.123155+00:00
 draft: false
 description: "Help your dog overcome nail trimming fear with expert tips on desensitization, positive reinforcement, and calming techniques for stress-free grooming sessions "
-image: "https://images.pexels.com/photos/6816842/pexels-photo-6816842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6816842.jpg"
 categories: ["Grooming"]
 tags: ["nail", "trimming", "fear"]
 slug: "dog-nail-trimming-fear"

@@ -3,7 +3,7 @@ title: "Large Breed Dog Joint Health"
 date: 2026-06-30T19:12:45.652437+00:00
 draft: false
 description: "Help your large breed dog stay active and pain-free with expert tips on joint health, nutrition, supplements, and exercise for breeds like Labs and Shepherds."
-image: "https://images.pexels.com/photos/18058228/pexels-photo-18058228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18058228.jpg"
 categories: ["Breed Info"]
 tags: ["large", "breed", "joint", "health"]
 author: "Michelle Chen"

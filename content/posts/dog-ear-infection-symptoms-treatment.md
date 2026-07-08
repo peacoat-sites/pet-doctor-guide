@@ -3,7 +3,7 @@ title: "Dog Ear Infection Symptoms Treatment"
 date: 2026-05-25T03:17:43.878186+00:00
 draft: false
 description: "Learn to spot dog ear infection symptoms like scratching, odor, and discharge. Discover effective treatments to relieve your dog's discomfort and restore ear he"
-image: "https://images.pexels.com/photos/4587965/pexels-photo-4587965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4587965.jpg"
 categories: ["Common Conditions"]
 tags: ["infection", "symptoms", "treatment"]
 slug: "dog-ear-infection-symptoms-treatment"

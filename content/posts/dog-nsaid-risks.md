@@ -3,7 +3,7 @@ title: "Dog Nsaid Risks"
 date: 2026-06-15T20:38:57.456080+00:00
 draft: false
 description: "Learn the serious risks of NSAIDs in dogs, including kidney damage, GI bleeding, and toxicity signs every pet owner should recognize before medicating."
-image: "https://images.pexels.com/photos/35342695/pexels-photo-35342695.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35342695.jpg"
 categories: ["Medications"]
 tags: ["nsaid", "risks"]
 author: "Karen Lopez"

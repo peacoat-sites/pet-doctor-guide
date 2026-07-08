@@ -3,7 +3,7 @@ title: "How Often Should Dog Go To Vet"
 date: 2026-05-21T10:43:21.292870+00:00
 draft: false
 description: "Regular vet visits keep your dog healthy and happy. Learn how often puppies, adult dogs, and seniors should see the vet and what to expect at each checkup."
-image: "https://images.pexels.com/photos/7469229/pexels-photo-7469229.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7469229.jpg"
 categories: ["Preventive Care"]
 tags: ["often", "should"]
 slug: "how-often-should-dog-go-to-vet"

@@ -3,7 +3,7 @@ title: "Grain Free Vs Grain Inclusive Dog Food Which Is Better"
 date: 2026-06-02T12:52:15.336994+00:00
 draft: false
 description: "Confused about grain free vs grain inclusive dog food? Discover the key differences, health benefits, and expert guidance to help you choose the best diet for y"
-image: "https://images.pexels.com/photos/8434637/pexels-photo-8434637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8434637.jpg"
 categories: ["Nutrition"]
 tags: ["grain", "free", "grain", "inclusive", "food"]
 slug: "grain-free-vs-grain-inclusive-dog-food-which-is-better"

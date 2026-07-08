@@ -3,7 +3,7 @@ title: "Cat Hyperthyroidism Treatment"
 date: 2026-06-13T18:47:18.188714+00:00
 draft: false
 description: "Discover effective cat hyperthyroidism treatments including medication, radioactive iodine therapy, surgery, and dietary options to help your cat live a longer,"
-image: "https://images.pexels.com/photos/20548841/pexels-photo-20548841.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20548841.jpg"
 categories: ["Common Conditions"]
 tags: ["hyperthyroidism", "treatment"]
 slug: "cat-hyperthyroidism-treatment"

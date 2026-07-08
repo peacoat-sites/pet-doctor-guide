@@ -3,7 +3,7 @@ title: "Pet Ultrasound Explained"
 date: 2026-05-19T20:17:34.788910+00:00
 draft: false
 description: "Discover how pet ultrasound works, what to expect during the procedure, and how this safe, painless imaging tool helps vets diagnose your animals health issues."
-image: "https://images.pexels.com/photos/7089291/pexels-photo-7089291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7089291.jpg"
 categories: ["Diagnostics"]
 tags: ["ultrasound", "explained"]
 slug: "pet-ultrasound-explained"

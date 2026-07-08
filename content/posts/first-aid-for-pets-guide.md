@@ -3,7 +3,7 @@ title: "First Aid For Pets Guide"
 date: 2026-05-27T17:37:04.095931+00:00
 draft: false
 description: "Learn essential first aid for pets with our comprehensive guide. Discover how to handle emergencies, treat injuries, and keep your furry friends safe and health"
-image: "https://images.pexels.com/photos/7469221/pexels-photo-7469221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7469221.jpg"
 categories: ["Emergency Care"]
 tags: ["first", "pets", "guide"]
 slug: "first-aid-for-pets-guide"

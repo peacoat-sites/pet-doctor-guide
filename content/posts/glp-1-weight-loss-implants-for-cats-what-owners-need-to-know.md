@@ -3,7 +3,7 @@ title: "GLP-1 Weight Loss Implants for Cats: What Owners Need to Know"
 date: 2026-06-24T19:04:24.537230+00:00
 draft: false
 description: "Discover how GLP-1 weight loss implants can help obese cats shed pounds safely. Learn how they work, benefits, risks, and if your cat is a good candidate."
-image: "https://images.pexels.com/photos/12363420/pexels-photo-12363420.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12363420.jpg"
 categories: ["trending"]
 tags: ["glp-1", "weight", "loss", "implants", "cats:"]
 author: "Karen Lopez"

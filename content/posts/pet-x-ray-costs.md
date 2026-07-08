@@ -3,7 +3,7 @@ title: "Pet X-Ray Costs"
 date: 2026-05-27T15:52:48.103660+00:00
 draft: false
 description: "Find out how much pet X-rays cost, what factors affect the price, and how to save money on your furry friend's diagnostic imaging needs."
-image: "https://images.pexels.com/photos/10972100/pexels-photo-10972100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10972100.jpg"
 categories: ["Diagnostics"]
 tags: ["x-ray", "costs"]
 slug: "pet-x-ray-costs"

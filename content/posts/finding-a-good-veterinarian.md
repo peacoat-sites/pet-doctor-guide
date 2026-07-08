@@ -3,7 +3,7 @@ title: "Finding A Good Veterinarian"
 date: 2026-05-26T13:13:39.802235+00:00
 draft: false
 description: "Find tips on choosing the right vet for your pet. Learn what to look for, questions to ask, and how to ensure your furry friend gets the best possible care."
-image: "https://images.pexels.com/photos/6235232/pexels-photo-6235232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6235232.jpg"
 categories: ["Vet Visits"]
 tags: ["finding", "good", "veterinarian"]
 slug: "finding-a-good-veterinarian"

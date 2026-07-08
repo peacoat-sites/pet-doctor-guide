@@ -3,7 +3,7 @@ title: "Dog Hot Spots Treatment"
 date: 2026-06-25T19:19:27.741905+00:00
 draft: false
 description: "Learn how to treat dog hot spots fast with vet-approved remedies, home care tips, and prevention strategies to keep your pup comfortable and heal."
-image: "https://images.pexels.com/photos/6125775/pexels-photo-6125775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6125775.jpg"
 categories: ["Skin Conditions"]
 tags: ["spots", "treatment"]
 author: "Michelle Chen"

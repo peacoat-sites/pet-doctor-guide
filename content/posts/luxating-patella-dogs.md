@@ -3,7 +3,7 @@ title: "Luxating Patella Dogs"
 date: 2026-07-06T19:10:06.550772+00:00
 draft: false
 description: "Learn about luxating patella in dogs, from causes and symptoms to treatment options and recovery tips to help your pup stay active and pain-free."
-image: "https://images.pexels.com/photos/37467772/pexels-photo-37467772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37467772.jpg"
 categories: ["Orthopedic"]
 tags: ["luxating", "patella", "dogs"]
 author: "Karen Lopez"

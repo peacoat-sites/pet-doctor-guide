@@ -3,7 +3,7 @@ title: "Pet Microchipping Explained"
 date: 2026-05-20T08:57:01.410648+00:00
 draft: false
 description: "Find out everything you need to know about pet microchipping, including how it works, the benefits, costs, and why it could help reunite you with a lost pet."
-image: "https://images.pexels.com/photos/6816871/pexels-photo-6816871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6816871.jpg"
 categories: ["Preventive Care"]
 tags: ["microchipping", "explained"]
 slug: "pet-microchipping-explained"

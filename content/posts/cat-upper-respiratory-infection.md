@@ -3,7 +3,7 @@ title: "Cat Upper Respiratory Infection"
 date: 2026-06-18T19:37:56.760807+00:00
 draft: false
 description: "Learn how to recognize and treat cat upper respiratory infections, including common symptoms, causes, home care tips, and when to see a vet."
-image: "https://images.pexels.com/photos/4491602/pexels-photo-4491602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4491602.jpg"
 categories: ["Respiratory"]
 tags: ["upper", "respiratory", "infection"]
 author: "James Whitfield"

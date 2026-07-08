@@ -3,7 +3,7 @@ title: "Early Signs Of Heart Disease In Small Breed Dogs"
 date: 2026-06-08T19:37:44.817656+00:00
 draft: false
 description: "Spot early signs of heart disease in small breed dogs, including coughing, fatigue, and breathing changes, to protect your pet's health and extend their life."
-image: "https://images.pexels.com/photos/11944332/pexels-photo-11944332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11944332.jpg"
 categories: ["Heart Health"]
 tags: ["early", "signs", "heart", "disease", "small"]
 slug: "early-signs-of-heart-disease-in-small-breed-dogs"

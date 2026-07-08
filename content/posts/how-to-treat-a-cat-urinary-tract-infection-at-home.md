@@ -3,7 +3,7 @@ title: "How To Treat A Cat Urinary Tract Infection At Home"
 date: 2026-06-16T20:21:02.890077+00:00
 draft: false
 description: "Learn safe home remedies to help treat a cat urinary tract infection, including diet changes, hydration tips, and when to see a vet fast."
-image: "https://images.pexels.com/photos/18027604/pexels-photo-18027604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18027604.jpg"
 categories: ["Common Conditions"]
 tags: ["treat", "urinary", "tract", "infection", "home"]
 author: "Michelle Chen"

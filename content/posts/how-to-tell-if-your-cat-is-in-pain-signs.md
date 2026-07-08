@@ -3,7 +3,7 @@ title: "How To Tell If Your Cat Is In Pain Signs"
 date: 2026-06-26T19:09:57.378632+00:00
 draft: false
 description: "Learn the key signs your cat is in pain, from changes in behavior and posture to subtle facial cues, so you can act fast and get them the help they need."
-image: "https://images.pexels.com/photos/34162945/pexels-photo-34162945.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34162945.jpg"
 categories: ["General Info"]
 tags: ["tell", "your", "pain", "signs"]
 author: "Dr. Amanda Foster"

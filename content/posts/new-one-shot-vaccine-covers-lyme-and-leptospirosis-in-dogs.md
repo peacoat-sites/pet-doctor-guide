@@ -3,7 +3,7 @@ title: "New One-Shot Vaccine Covers Lyme and Leptospirosis in Dogs"
 date: 2026-06-21T18:57:49.906644+00:00
 draft: false
 description: "Protect your dog with one shot. Learn how a new combination vaccine shields against both Lyme disease and leptospirosis, simplifying pet healthcare visits."
-image: "https://images.pexels.com/photos/7470754/pexels-photo-7470754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7470754.jpg"
 categories: ["trending"]
 tags: ["one-shot", "vaccine", "covers", "lyme", "leptospirosis"]
 author: "Karen Lopez"

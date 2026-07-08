@@ -3,7 +3,7 @@ title: "Signs Of Kidney Disease In Older Cats"
 date: 2026-05-31T11:08:39.847463+00:00
 draft: false
 description: "Discover the key signs of kidney disease in older cats, including increased thirst, weight loss, and lethargy. Early detection can help protect your cats health"
-image: "https://images.pexels.com/photos/1323326/cat-pet-pussy-animal-1323326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1323326.jpg"
 categories: ["Cat Conditions"]
 tags: ["signs", "kidney", "disease", "older", "cats"]
 slug: "signs-of-kidney-disease-in-older-cats"

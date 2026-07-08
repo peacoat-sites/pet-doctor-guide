@@ -3,7 +3,7 @@ title: "Kitten Vet Schedule First Year"
 date: 2026-05-27T21:43:16.959024+00:00
 draft: false
 description: "Help your kitten thrive with our complete first-year vet schedule guide covering vaccinations, deworming, spaying or neutering, and essential wellness checkups."
-image: "https://images.pexels.com/photos/34698791/pexels-photo-34698791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34698791.jpg"
 categories: ["Preventive Care"]
 tags: ["kitten", "schedule", "first", "year"]
 slug: "kitten-vet-schedule-first-year"

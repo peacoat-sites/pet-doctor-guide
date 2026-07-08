@@ -3,7 +3,7 @@ title: "Felv Cats Prevention"
 date: 2026-06-19T19:14:35.558708+00:00
 draft: false
 description: "Learn how to protect your cats from feline leukemia virus with vaccines, testing, and safe housing practices to keep your feline companions healthy."
-image: "https://images.pexels.com/photos/6816869/pexels-photo-6816869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6816869.jpg"
 categories: ["Infectious Disease"]
 tags: ["felv", "cats", "prevention"]
 author: "Rachel Sanders"

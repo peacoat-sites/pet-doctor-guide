@@ -3,7 +3,7 @@ title: "Dog Eye Infection Treatment"
 date: 2026-06-25T19:21:36.971864+00:00
 draft: false
 description: "Learn how to treat dog eye infections at home and when to see a vet. Discover symptoms, causes, and safe treatment options for your dogs eyes."
-image: "https://images.pexels.com/photos/35511914/pexels-photo-35511914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35511914.jpg"
 categories: ["Eye Health"]
 tags: ["infection", "treatment"]
 author: "Rachel Sanders"

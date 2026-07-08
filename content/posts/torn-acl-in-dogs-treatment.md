@@ -3,7 +3,7 @@ title: "Torn Acl In Dogs Treatment"
 date: 2026-06-16T20:23:05.742512+00:00
 draft: false
 description: "Learn about torn ACL in dogs treatment options including surgery and conservative care to help your dog recover and regain mobility."
-image: "https://images.pexels.com/photos/19202649/pexels-photo-19202649.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19202649.jpg"
 categories: ["Orthopedic"]
 tags: ["torn", "dogs", "treatment"]
 author: "Rachel Sanders"

@@ -3,7 +3,7 @@ title: "Separation Anxiety Dogs Treatment"
 date: 2026-06-27T18:37:55.278818+00:00
 draft: false
 description: "Learn effective separation anxiety dog treatment options including training techniques, calming aids, and vet advice to help your dog feel safe when alone."
-image: "https://images.pexels.com/photos/12388486/pexels-photo-12388486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12388486.jpg"
 categories: ["Behavior"]
 tags: ["separation", "anxiety", "dogs", "treatment"]
 author: "James Whitfield"

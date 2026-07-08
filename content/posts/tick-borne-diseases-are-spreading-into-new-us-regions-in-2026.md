@@ -3,7 +3,7 @@ title: "Tick-Borne Diseases Are Spreading Into New U.S. Regions in 2026"
 date: 2026-07-07T19:19:30.381165+00:00
 draft: false
 description: "Tick-borne diseases are expanding across new U.S. regions in 2026. Learn which areas are affected, what symptoms to watch for, and how to stay protected."
-image: "https://images.pexels.com/photos/30226410/pexels-photo-30226410.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30226410.jpg"
 categories: ["trending"]
 tags: ["tick-borne", "diseases", "spreading", "into", "u.s."]
 author: "Tom Harris"

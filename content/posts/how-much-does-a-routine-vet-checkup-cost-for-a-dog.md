@@ -3,7 +3,7 @@ title: "How Much Does A Routine Vet Checkup Cost For A Dog"
 date: 2026-06-02T12:54:36.827219+00:00
 draft: false
 description: "Find out how much a routine vet checkup costs for a dog, including what's covered, average price ranges, and tips to save money on your pet's annual visit."
-image: "https://images.pexels.com/photos/7469223/pexels-photo-7469223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7469223.jpg"
 categories: ["Vet Visits"]
 tags: ["much", "does", "routine", "checkup", "cost"]
 slug: "how-much-does-a-routine-vet-checkup-cost-for-a-dog"

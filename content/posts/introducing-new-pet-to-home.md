@@ -3,7 +3,7 @@ title: "Introducing New Pet To Home"
 date: 2026-06-28T18:22:37.124044+00:00
 draft: false
 description: "Learn how to introduce a new pet to your home with stress-free tips for a smooth transition that keeps every animal safe, calm, and comfortable."
-image: "https://images.pexels.com/photos/35764043/pexels-photo-35764043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35764043.jpg"
 categories: ["Behavior"]
 tags: ["introducing", "home"]
 author: "Rachel Sanders"

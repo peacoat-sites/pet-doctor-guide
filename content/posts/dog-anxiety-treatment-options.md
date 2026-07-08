@@ -3,7 +3,7 @@ title: "Dog Anxiety Treatment Options"
 date: 2026-05-29T11:36:42.863528+00:00
 draft: false
 description: "Dog anxiety can be managed through training, medication, supplements, and behavioral therapy. Learn effective treatment options to help your anxious pet feel ca"
-image: "https://images.pexels.com/photos/16664940/pexels-photo-16664940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16664940.jpg"
 categories: ["Behavior"]
 tags: ["anxiety", "treatment", "options"]
 slug: "dog-anxiety-treatment-options"

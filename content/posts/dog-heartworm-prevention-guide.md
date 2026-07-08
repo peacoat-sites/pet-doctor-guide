@@ -3,7 +3,7 @@ title: "Dog Heartworm Prevention Guide"
 date: 2026-05-18T16:44:41.801462+00:00
 draft: false
 description: "Protect your dog from deadly heartworms with our complete prevention guide. Learn about medications, treatment options, and how to keep your pet safe year-round"
-image: "https://images.pexels.com/photos/16299046/pexels-photo-16299046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16299046.jpg"
 categories: ["Preventive Care"]
 tags: ["heartworm", "prevention", "guide"]
 slug: "dog-heartworm-prevention-guide"

@@ -3,7 +3,7 @@ title: "A Cheaper Generic for Dogs With Heart Disease Is Now Available"
 date: 2026-06-18T19:40:18.617016+00:00
 draft: false
 description: "Discover the new affordable generic medication for dogs with heart disease. Learn how this cost-saving option can help manage your pet's condition without break"
-image: "https://images.pexels.com/photos/7474858/pexels-photo-7474858.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7474858.jpg"
 categories: ["trending"]
 tags: ["cheaper", "generic", "dogs", "with", "heart"]
 author: "Karen Lopez"

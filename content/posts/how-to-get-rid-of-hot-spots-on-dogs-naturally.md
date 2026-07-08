@@ -3,7 +3,7 @@ title: "How To Get Rid Of Hot Spots On Dogs Naturally"
 date: 2026-06-06T18:44:06.967306+00:00
 draft: false
 description: "Help your dog find relief with natural hot spot remedies. Learn gentle, effective treatments using ingredients from home to soothe irritated skin and promote he"
-image: "https://images.pexels.com/photos/30160750/pexels-photo-30160750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30160750.jpg"
 categories: ["Skin Conditions"]
 tags: ["spots", "dogs", "naturally"]
 slug: "how-to-get-rid-of-hot-spots-on-dogs-naturally"

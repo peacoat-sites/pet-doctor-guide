@@ -3,7 +3,7 @@ title: "Cataracts In Dogs Treatment"
 date: 2026-07-02T18:53:04.345401+00:00
 draft: false
 description: "Learn about cataracts in dogs, from early signs to surgical treatment options. Help restore your dogs vision and improve their quality of life."
-image: "https://images.pexels.com/photos/19907136/pexels-photo-19907136.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19907136.jpg"
 categories: ["Eye Health"]
 tags: ["cataracts", "dogs", "treatment"]
 author: "James Whitfield"

@@ -3,7 +3,7 @@ title: "Dog Dental Health Guide"
 date: 2026-05-22T15:31:36.663117+00:00
 draft: false
 description: "Keep your dogs teeth clean and healthy with our complete dental care guide. Learn brushing tips, warning signs, and vet-recommended treatments for better oral h"
-image: "https://images.pexels.com/photos/357142/pexels-photo-357142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/357142.jpg"
 categories: ["Dental Health"]
 tags: ["dental", "health", "guide"]
 slug: "dog-dental-health-guide"

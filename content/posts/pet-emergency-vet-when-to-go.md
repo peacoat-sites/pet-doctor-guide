@@ -3,7 +3,7 @@ title: "Pet Emergency Vet When To Go"
 date: 2026-05-21T05:02:12.073735+00:00
 draft: false
 description: "Know when to rush your pet to an emergency vet. Learn the warning signs of life-threatening conditions in dogs and cats that require immediate veterinary care."
-image: "https://images.pexels.com/photos/7469224/pexels-photo-7469224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7469224.jpg"
 categories: ["Emergency Care"]
 tags: ["emergency", "when"]
 slug: "pet-emergency-vet-when-to-go"

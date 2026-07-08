@@ -3,7 +3,7 @@ title: "Why Is My Dog Coughing And Gagging Like Something Is Stuck"
 date: 2026-06-09T19:33:46.837444+00:00
 draft: false
 description: "Discover why your dog is coughing and gagging like something is stuck, from kennel cough to foreign objects, and learn when to seek urgent veterinary care."
-image: "https://images.pexels.com/photos/27920282/pexels-photo-27920282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27920282.jpg"
 categories: ["Respiratory"]
 tags: ["coughing", "gagging", "like", "something", "stuck"]
 slug: "why-is-my-dog-coughing-and-gagging-like-something-is-stuck"

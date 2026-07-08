@@ -3,7 +3,7 @@ title: "Cat Cancer Treatment Options"
 date: 2026-06-21T18:55:26.743370+00:00
 draft: false
 description: "Explore cat cancer treatment options including surgery, chemotherapy, and radiation. Learn how to help your feline live longer with quality care."
-image: "https://images.pexels.com/photos/6816851/pexels-photo-6816851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6816851.jpg"
 categories: ["Common Conditions"]
 tags: ["cancer", "treatment", "options"]
 author: "James Whitfield"

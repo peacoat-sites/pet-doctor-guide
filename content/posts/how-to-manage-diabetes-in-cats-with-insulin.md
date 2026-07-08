@@ -3,7 +3,7 @@ title: "How To Manage Diabetes In Cats With Insulin"
 date: 2026-07-01T19:14:12.305310+00:00
 draft: false
 description: "Learn how to manage diabetes in cats with insulin, including dosing tips, monitoring blood sugar, and keeping your cat healthy and comfortable."
-image: "https://images.pexels.com/photos/33585487/pexels-photo-33585487.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33585487.jpg"
 categories: ["Common Conditions"]
 tags: ["manage", "diabetes", "cats", "with", "insulin"]
 author: "Rachel Sanders"

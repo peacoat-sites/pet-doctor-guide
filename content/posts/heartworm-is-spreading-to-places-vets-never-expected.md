@@ -3,7 +3,7 @@ title: "Heartworm Is Spreading to Places Vets Never Expected"
 date: 2026-07-04T18:17:19.713534+00:00
 draft: false
 description: "Heartworm disease is reaching new regions, putting more pets at risk. Learn why vets are alarmed, how transmission is spreading, and how to protect your pet."
-image: "https://images.pexels.com/photos/28171138/pexels-photo-28171138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28171138.jpg"
 categories: ["trending"]
 tags: ["heartworm", "spreading", "places", "vets", "never"]
 author: "Tom Harris"

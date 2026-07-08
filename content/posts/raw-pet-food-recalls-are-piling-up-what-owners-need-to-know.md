@@ -3,7 +3,7 @@ title: "Raw Pet Food Recalls Are Piling Up: What Owners Need to Know"
 date: 2026-06-26T19:08:11.639131+00:00
 draft: false
 description: "Raw pet food recalls are increasing due to bacterial contamination risks. Learn what recalls mean for your pet, how to check affected products, and steps to kee"
-image: "https://images.pexels.com/photos/7980680/pexels-photo-7980680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7980680.jpg"
 categories: ["trending"]
 tags: ["food", "recalls", "piling", "what", "owners"]
 author: "Tom Harris"

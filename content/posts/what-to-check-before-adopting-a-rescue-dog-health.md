@@ -3,7 +3,7 @@ title: "What To Check Before Adopting A Rescue Dog Health"
 date: 2026-06-13T18:49:06.080568+00:00
 draft: false
 description: "Before adopting a rescue dog, learn the essential health checks to make, from vet records and vaccinations to behavioural signs and hidden medical conditions."
-image: "https://images.pexels.com/photos/7469217/pexels-photo-7469217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7469217.jpg"
 categories: ["Getting a Pet"]
 tags: ["what", "check", "before", "adopting", "rescue"]
 slug: "what-to-check-before-adopting-a-rescue-dog-health"

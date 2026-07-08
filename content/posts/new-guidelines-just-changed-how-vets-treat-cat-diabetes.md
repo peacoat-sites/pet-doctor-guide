@@ -3,7 +3,7 @@ title: "New Guidelines Just Changed How Vets Treat Cat Diabetes"
 date: 2026-07-01T19:16:55.204008+00:00
 draft: false
 description: "Discover how new veterinary guidelines are transforming cat diabetes treatment. Learn what changes mean for your diabetic cat's diagnosis, insulin therapy, and "
-image: "https://images.pexels.com/photos/8965129/pexels-photo-8965129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8965129.jpg"
 categories: ["trending"]
 tags: ["guidelines", "just", "changed", "vets", "treat"]
 author: "Tom Harris"

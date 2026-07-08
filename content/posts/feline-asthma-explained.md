@@ -3,7 +3,7 @@ title: "Feline Asthma Explained"
 date: 2026-06-15T20:35:41.069940+00:00
 draft: false
 description: "Discover what feline asthma is, what causes it, how to spot the signs in your cat, and the treatment options vets recommend to keep your cat breathing easy."
-image: "https://images.pexels.com/photos/35316211/pexels-photo-35316211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35316211.jpg"
 categories: ["Respiratory"]
 tags: ["feline", "asthma", "explained"]
 author: "James Whitfield"

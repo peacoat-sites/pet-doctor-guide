@@ -3,7 +3,7 @@ title: "Leptospirosis Dog Vaccine"
 date: 2026-06-29T19:17:43.340812+00:00
 draft: false
 description: "Protect your dog from leptospirosis with the right vaccine. Learn which dogs need it, how often to vaccinate, and what side effects to expect."
-image: "https://images.pexels.com/photos/7904450/pexels-photo-7904450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7904450.jpg"
 categories: ["Vaccines"]
 tags: ["leptospirosis", "vaccine"]
 author: "Dr. Amanda Foster"

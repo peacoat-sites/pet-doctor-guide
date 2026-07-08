@@ -3,7 +3,7 @@ title: "Gabapentin For Dogs"
 date: 2026-06-29T19:19:50.424216+00:00
 draft: false
 description: "Learn how gabapentin helps dogs manage pain, anxiety, and seizures. Discover proper dosing, side effects, and what to expect from this medication."
-image: "https://images.pexels.com/photos/6235124/pexels-photo-6235124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6235124.jpg"
 categories: ["Medications"]
 tags: ["gabapentin", "dogs"]
 author: "James Whitfield"

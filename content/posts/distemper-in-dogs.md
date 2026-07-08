@@ -3,7 +3,7 @@ title: "Distemper In Dogs"
 date: 2026-07-05T18:18:27.904020+00:00
 draft: false
 description: "Learn the signs, causes, and prevention of distemper in dogs. Discover how this serious viral disease spreads and how to protect your dog with vaccination."
-image: "https://images.pexels.com/photos/7474857/pexels-photo-7474857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7474857.jpg"
 categories: ["Infectious Disease"]
 tags: ["distemper", "dogs"]
 author: "Dr. Amanda Foster"

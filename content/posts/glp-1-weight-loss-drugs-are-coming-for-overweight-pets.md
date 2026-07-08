@@ -3,7 +3,7 @@ title: "GLP-1 Weight Loss Drugs Are Coming for Overweight Pets"
 date: 2026-06-30T19:10:16.511833+00:00
 draft: false
 description: "Discover how GLP-1 weight loss drugs used in humans are now being explored for overweight pets, offering new hope for healthier animals worldwide."
-image: "https://images.pexels.com/photos/10908498/pexels-photo-10908498.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10908498.jpg"
 categories: ["trending"]
 tags: ["glp-1", "weight", "loss", "drugs", "coming"]
 author: "Karen Lopez"

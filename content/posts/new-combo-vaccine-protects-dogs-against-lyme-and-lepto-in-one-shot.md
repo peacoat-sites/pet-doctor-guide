@@ -3,7 +3,7 @@ title: "New Combo Vaccine Protects Dogs Against Lyme and Lepto in One Shot"
 date: 2026-06-23T19:21:45.876166+00:00
 draft: false
 description: "Discover the new combo vaccine that shields your dog from both Lyme disease and leptospirosis in a single shot, simplifying protection and boosting your pet's h"
-image: "https://images.pexels.com/photos/7582551/pexels-photo-7582551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7582551.jpg"
 categories: ["trending"]
 tags: ["combo", "vaccine", "protects", "dogs", "against"]
 author: "Tom Harris"

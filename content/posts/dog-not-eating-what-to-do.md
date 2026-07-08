@@ -3,7 +3,7 @@ title: "Dog Not Eating What To Do"
 date: 2026-05-25T05:42:28.032027+00:00
 draft: false
 description: "Help your dog regain their appetite. Discover common reasons why dogs stop eating and learn practical tips to get your furry friend back to their food bowl fast"
-image: "https://images.pexels.com/photos/9509757/pexels-photo-9509757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9509757.jpg"
 categories: ["Symptoms"]
 tags: ["eating", "what"]
 slug: "dog-not-eating-what-to-do"

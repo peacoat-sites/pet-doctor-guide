@@ -3,7 +3,7 @@ title: "Cat Vomiting When To Worry"
 date: 2026-05-25T06:01:16.598370+00:00
 draft: false
 description: "Wondering if your cat's vomiting is serious? Learn the warning signs, common causes, and when to call your vet to keep your feline friend safe and healthy."
-image: "https://images.pexels.com/photos/10790434/pexels-photo-10790434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10790434.jpg"
 categories: ["Symptoms"]
 tags: ["vomiting", "when", "worry"]
 slug: "cat-vomiting-when-to-worry"

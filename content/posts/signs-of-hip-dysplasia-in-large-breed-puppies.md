@@ -3,7 +3,7 @@ title: "Signs Of Hip Dysplasia In Large Breed Puppies"
 date: 2026-06-17T19:34:42.819916+00:00
 draft: false
 description: "Learn the early signs of hip dysplasia in large breed puppies so you can get your dog the help they need before joint damage worsens."
-image: "https://images.pexels.com/photos/37197497/pexels-photo-37197497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37197497.jpg"
 categories: ["Orthopedic"]
 tags: ["signs", "dysplasia", "large", "breed", "puppies"]
 author: "Dr. Amanda Foster"

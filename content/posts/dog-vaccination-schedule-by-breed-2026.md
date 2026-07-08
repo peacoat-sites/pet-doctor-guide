@@ -1,6 +1,6 @@
 ---
 title: "Dog Vaccination Schedule by Breed & Age: The Vet Tech Guide (2026)"
-image: "https://images.pexels.com/photos/38198195/pexels-photo-38198195.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/38198195.jpg"
 description: "Complete puppy to senior dog vaccination schedule. Breed-specific risks, timing, and when to skip non-core vaccines based on lifestyle, sourced from AVMA and AAHA guidelines."
 author: "Michelle Chen"
 author_slug: "michelle-chen"

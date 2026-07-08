@@ -3,7 +3,7 @@ title: "Dog Skin Cancer Signs"
 date: 2026-06-20T18:52:05.930151+00:00
 draft: false
 description: "Learn the warning signs of dog skin cancer including lumps, sores, and color changes. Early detection can save your dogs life."
-image: "https://images.pexels.com/photos/6234635/pexels-photo-6234635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6234635.jpg"
 categories: ["Skin Conditions"]
 tags: ["skin", "cancer", "signs"]
 author: "Dr. Amanda Foster"

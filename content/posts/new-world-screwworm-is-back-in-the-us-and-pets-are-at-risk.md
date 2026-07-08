@@ -3,7 +3,7 @@ title: "New World Screwworm Is Back in the US and Pets Are at Risk"
 date: 2026-06-17T19:32:37.493862+00:00
 draft: false
 description: "New World Screwworm has returned to the US, threatening pets and livestock. Learn the signs of infestation, how to protect your animals, and what to do if expos"
-image: "https://images.pexels.com/photos/6235017/pexels-photo-6235017.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6235017.jpg"
 categories: ["trending"]
 tags: ["world", "screwworm", "back", "pets", "risk"]
 author: "Tom Harris"

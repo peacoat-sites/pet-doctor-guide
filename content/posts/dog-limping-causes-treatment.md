@@ -3,7 +3,7 @@ title: "Dog Limping Causes Treatment"
 date: 2026-05-22T20:21:17.597267+00:00
 draft: false
 description: "Find out why your dog is limping, from minor injuries to serious conditions, and discover the best treatment options to help your pet recover quickly and safely"
-image: "https://images.pexels.com/photos/14791463/pexels-photo-14791463.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14791463.jpg"
 categories: ["Symptoms"]
 tags: ["limping", "causes", "treatment"]
 slug: "dog-limping-causes-treatment"

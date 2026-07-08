@@ -3,7 +3,7 @@ title: "Cat Urinary Tract Infection Signs"
 date: 2026-05-19T09:44:42.122535+00:00
 draft: false
 description: "Cat urinary tract infection signs include frequent urination, straining, blood in urine, and behavioral changes. Learn symptoms and when to see a vet."
-image: "https://images.pexels.com/photos/17602393/pexels-photo-17602393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17602393.jpg"
 categories: ["Common Conditions"]
 tags: ["urinary", "tract", "infection", "signs"]
 slug: "cat-urinary-tract-infection-signs"
