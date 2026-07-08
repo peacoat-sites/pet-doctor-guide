@@ -1,5 +1,5 @@
 ---
-title: "How To Treat Cloudy Eyes In Older Dogs"
+title: "Clear Your Senior Dog's Vision: Cloudy Eye Treatments"
 date: 2026-07-02T18:51:02.903078+00:00
 draft: false
 description: "Learn how to treat cloudy eyes in older dogs with vet-approved tips, causes, and care options to help protect your senior dogs vision and health."
@@ -23,7 +23,7 @@ faqs:
    a: "Skip them until you know what you're dealing with. Over-the-counter artificial tears are unlikely to cause harm, but they won't do anything meaningful for cataracts or sclerosis, and using them can delay you getting an actual diagnosis. Some human eye drops contain ingredients that are harmful to dogs. When in doubt, the ASPCA Poison Control Center can advise on specific product ingredients if you're concerned about something your dog was exposed to."
  - q: "How much does cataract surgery for dogs typically cost?"
    a: "Expect a wide range depending on your region, the specialist, and whether one or both eyes are affected. Referral exam and workup alone often runs several hundred dollars before surgery. Surgery itself is typically quoted in the thousands per eye. Pet insurance with ophthalmology coverage or hereditary condition coverage can make a real difference here. Ask your primary vet for a referral to a board-certified veterinary ophthalmologist (DACVO) for the most accurate evaluation and pricing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Cloudy eyes in older dogs get misdiagnosed more often than almost any other age-related condition I see. Owners come in convinced their dog has cataracts. Half the time, they're looking at something completely different. And the treatment path for those two conditions isn't even close to the same.

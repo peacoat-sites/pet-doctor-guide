@@ -1,5 +1,5 @@
 ---
-title: "Cat Urinary Tract Infection Signs"
+title: "Warning Signs Your Cat Has a UTI"
 date: 2026-05-19T09:44:42.122535+00:00
 draft: false
 description: "Cat urinary tract infection signs include frequent urination, straining, blood in urine, and behavioral changes. Learn symptoms and when to see a vet."

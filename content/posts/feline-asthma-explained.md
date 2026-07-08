@@ -1,5 +1,5 @@
 ---
-title: "Feline Asthma Explained"
+title: "Why Your Cat's Cough Might Be Asthma"
 date: 2026-06-15T20:35:41.069940+00:00
 draft: false
 description: "Discover what feline asthma is, what causes it, how to spot the signs in your cat, and the treatment options vets recommend to keep your cat breathing easy."
@@ -23,7 +23,7 @@ faqs:
    a: "Some of the same medications are used, but the doses and delivery devices are different. Never use your own inhaler on your cat without explicit veterinary guidance. Even if the medication is technically the same, the dose could be dangerously wrong."
  - q: "Do I need to worry about my other cats getting asthma from the one who has it?"
    a: "Asthma isn't contagious. It's an immune-mediated response, not an infection. That said, if an environmental trigger is driving your cat's asthma, that same environment could theoretically affect another predisposed cat. Improving air quality at home benefits everyone in the household, two-legged and four-legged."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your cat has been coughing. Not the hairball kind, but something lower, more labored, maybe even a little alarming. You searched the symptoms, landed here, and now you're sitting with the word "asthma" and a dozen questions you don't know how to rank yet. That's exactly where I want to start.
 

@@ -1,5 +1,5 @@
 ---
-title: "Signs Of Bloat In Dogs And When To Rush To The Vet"
+title: "Is Your Dog's Belly Distended? When Bloat Becomes An Emergency"
 date: 2026-06-04T12:21:07.911131+00:00
 draft: false
 description: "Learn to recognize the warning signs of bloat in dogs, a life-threatening emergency. Know when to act fast and rush your pet to the vet for immediate care."
@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Bloat kills fast. Not "maybe serious if untreated" fast. More like "your dog was fine at dinner and gone by midnight" fast. I've seen it happen, and I'd rather walk you through this in graphic detail right now than have you Google symptoms at 11 PM while your dog is in the car.
 

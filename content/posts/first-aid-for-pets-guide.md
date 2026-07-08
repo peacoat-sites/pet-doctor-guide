@@ -1,5 +1,5 @@
 ---
-title: "First Aid For Pets Guide"
+title: "Essential Pet First Aid Steps Every Owner Needs"
 date: 2026-05-27T17:37:04.095931+00:00
 draft: false
 description: "Learn essential first aid for pets with our comprehensive guide. Discover how to handle emergencies, treat injuries, and keep your furry friends safe and health"
@@ -21,7 +21,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just watched your dog eat something off the ground during your walk, and now you're standing in your kitchen wondering if you should panic. Or maybe your cat is limping and you can't quite tell if it's serious. Or your rabbit took a tumble and you have no idea what a "normal" rabbit looks like after a fall. Wherever you are right now, here's something important to know before anything else: staying calm and having some basic knowledge is genuinely the most powerful thing you can do for your pet in a crisis. I've been in clinical practice for 13 years, and the clients who do the best in emergencies aren't necessarily the ones with the most medical knowledge. They're the ones who know what to watch for, what to do first, and when to stop trying to handle something at home.
 

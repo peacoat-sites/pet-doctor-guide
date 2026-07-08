@@ -1,5 +1,5 @@
 ---
-title: "Dog Eye Infection Treatment"
+title: "How To Clear Your Dog's Eye Infection Safely"
 date: 2026-06-25T19:21:36.971864+00:00
 draft: false
 description: "Learn how to treat dog eye infections at home and when to see a vet. Discover symptoms, causes, and safe treatment options for your dogs eyes."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, honestly, get the cone on. Self-trauma to the eye escalates quickly. A dog pawing at a mild infection can turn it into a corneal scratch in an afternoon. If you don't have a cone, a soft 'donut' style collar works almost as well for eye protection and is generally better tolerated. Either way, stop the pawing until you can get your vet's assessment."
  - q: "Will an eye infection go away on its own without treatment?"
    a: "Some very mild viral irritation might. But a true bacterial infection won't clear up without antibiotics, and waiting it out risks the infection progressing or spreading. I'd put it this way: the cost of waiting to see if it resolves on its own is potentially much higher than the cost of a vet visit if it doesn't. Get it checked within 24 to 48 hours if the discharge is colored or the eye is visibly irritated."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your dog woke up with one eye crusted shut and now you're standing in the bathroom at 7 a.m. trying to decide if this is a "rush to the emergency vet" situation or a "wait until Monday" situation. I've had that exact call made to me dozens of times. The answer depends on a few specific things, and I'll walk you through all of them.

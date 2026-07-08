@@ -1,5 +1,5 @@
 ---
-title: "Senior Pet Bloodwork Panel"
+title: "Why Senior Pets Need Regular Blood Tests"
 date: 2026-05-26T12:40:07.675552+00:00
 draft: false
 description: "Regular bloodwork panels help detect hidden health issues in aging pets early. Learn what tests are included, what they reveal, and how often seniors should be "
@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms, BUN, ALT, T4, CBC, wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. I've had this exact conversation in the exam room hundreds of times. Here's what I wish every pet owner knew before that appointment.
 

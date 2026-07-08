@@ -1,5 +1,5 @@
 ---
-title: "Pet Food Ingredients Guide"
+title: "What's Really in Your Pet's Food Bowl"
 date: 2026-05-18T21:30:48.342579+00:00
 draft: false
 description: "Pet food ingredients guide: Learn what's in your pet's food, how to read labels, and choose nutritious options for your dog or cat's health and wellness."
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're standing in the pet food aisle, bag in hand, squinting at an ingredient list that reads like a chemistry exam. Chicken by-product meal, carrageenan, mixed tocopherols, brewers rice, sodium selenite. What does any of it actually mean? Here's the thing most pet food brands won't tell you: the ingredient list on your pet's food is regulated and ordered by weight before cooking, which means a bag that leads with "real chicken" might contain far less actual meat protein than you think once that moisture-heavy chicken is cooked down. Understanding what you're reading isn't about being a neurotic pet parent. It's about making genuinely informed choices for an animal who depends entirely on you to get it right.
 

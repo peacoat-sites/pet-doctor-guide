@@ -1,5 +1,5 @@
 ---
-title: "Dog Dental Health Guide"
+title: "Keep Your Dog's Teeth Healthy: A Vet's Guide"
 date: 2026-05-22T15:31:36.663117+00:00
 draft: false
 description: "Keep your dogs teeth clean and healthy with our complete dental care guide. Learn brushing tips, warning signs, and vet-recommended treatments for better oral h"
@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most dog owners don't realize their pet has a dental problem until the smell hits them. You lean in for a cuddle, your dog yawns, and you pull back wondering if something crawled into their mouth and died. That moment of "wow, that's bad" is actually a turning point, because by the time you're noticing the odor, periodontal disease has very likely already started. Studies from the American Veterinary Dental College suggest that 80% of dogs show signs of periodontal disease by age three. Three years old. That's not a senior dog problem. That's a young dog problem that most people miss entirely.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Manage Diabetes In Cats With Insulin"
+title: "Insulin Injections For Cats: A Step-By-Step Guide"
 date: 2026-07-01T19:14:12.305310+00:00
 draft: false
 description: "Learn how to manage diabetes in cats with insulin, including dosing tips, monitoring blood sugar, and keeping your cat healthy and comfortable."
@@ -23,7 +23,7 @@ faqs:
    a: "Cats with well-managed diabetes can live for years with a good quality of life, and some achieve full remission where insulin is no longer needed. Life expectancy depends heavily on whether complications develop and how well glucose is controlled. Consistency in your routine makes a bigger difference than almost any other variable."
  - q: "Is it normal for insulin requirements to change over time?"
    a: "Yes, and this catches a lot of owners off guard. Stress, illness, concurrent medications (especially steroids), weight changes, and even seasonal variation can all shift a cat's insulin needs. This is why ongoing monitoring matters even after you've found a dose that works. A cat who was stable at 1 unit for six months can start running high again, and it doesn't mean you did anything wrong."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The first time I gave a cat an insulin injection, my hands were shaking more than the cat's. That was early in my career, and the owner standing across the exam table looked like she was going to pass out. I told her what I tell every cat owner leaving our clinic with a new diabetes diagnosis: this is genuinely manageable. It takes about two weeks to feel comfortable and about two months to feel confident. Neither of us believed me that day. By week three, she was texting me that her cat, a tubby orange tabby named Gerald, was "basically a pro."

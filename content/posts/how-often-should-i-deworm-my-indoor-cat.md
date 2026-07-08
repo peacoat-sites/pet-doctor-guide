@@ -1,5 +1,5 @@
 ---
-title: "How Often Should I Deworm My Indoor Cat"
+title: "Indoor Cat Deworming: A Vet's Schedule Guide"
 date: 2026-06-05T19:14:29.845419+00:00
 draft: false
 description: "Find out how often you should deworm your indoor cat, which worms to watch for, signs of infection, and the best treatment options to keep your cat healthy."
@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most cat owners I talk to assume that because their cat never steps foot outside, worms simply aren't a concern. I used to think the same thing, honestly. Then I started seeing it in practice: a perfectly indoor, pampered apartment cat presenting with a tapeworm segment stuck to the fur near their tail. The owner was baffled. So was I, at first.
 

@@ -1,5 +1,5 @@
 ---
-title: "Dog Skin Cancer Signs"
+title: "Warning Signs Your Dog May Have Skin Cancer"
 date: 2026-06-20T18:52:05.930151+00:00
 draft: false
 description: "Learn the warning signs of dog skin cancer including lumps, sores, and color changes. Early detection can save your dogs life."
@@ -23,7 +23,7 @@ faqs:
    a: "Long-term stability is genuinely reassuring, but it's not a permanent free pass. If a lump you've been monitoring for years suddenly changes in size, texture, or appearance, treat it as new information and get it evaluated. Lipomas can occasionally undergo malignant transformation, though it's uncommon."
  - q: "What does an ulcerated skin tumor look like on a dog?"
    a: "It looks like a sore that won't close, often with a raw, weeping center. The edges may be raised and irregular. Your dog will likely be paying a lot of attention to it. An ulcerated mass isn't automatically cancer, but it warrants same-week veterinary attention regardless of cause."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about dog skin cancer open with a paragraph about how "early detection is key" and then describe lumps so vague they could be a mosquito bite. That's not useful. What you actually need is enough specificity to know which bumps deserve a Monday morning call to your vet and which ones need you in the car right now.

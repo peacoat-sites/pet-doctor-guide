@@ -1,5 +1,5 @@
 ---
-title: "Dog Diabetes Management"
+title: "Keeping Your Diabetic Dog Healthy and Happy"
 date: 2026-05-24T04:10:40.746428+00:00
 draft: false
 description: "Learn how to manage dog diabetes with expert tips on insulin therapy, diet, monitoring blood sugar, and improving your diabetic dogs quality of life."

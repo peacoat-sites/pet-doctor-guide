@@ -1,5 +1,5 @@
 ---
-title: "Common Health Problems In French Bulldogs"
+title: "French Bulldog Health Issues: What Every Owner Needs To Know"
 date: 2026-06-05T19:16:29.405540+00:00
 draft: false
 description: "Discover the most common health problems in French Bulldogs, from breathing issues to skin conditions, and learn how to keep your Frenchie happy and healthy."

@@ -1,5 +1,5 @@
 ---
-title: "Best Supplements For Senior Dogs With Arthritis"
+title: "Help Your Senior Dog Move Better: Top Joint Supplements"
 date: 2026-06-06T18:42:01.125828+00:00
 draft: false
 description: "Help your aging dog move comfortably again. Discover the best supplements for senior dogs with arthritis, including glucosamine, fish oil, and more vet-recommen"

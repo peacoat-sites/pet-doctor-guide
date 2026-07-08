@@ -1,5 +1,5 @@
 ---
-title: "Torn Acl In Dogs Treatment"
+title: "Healing a Torn ACL in Dogs: Treatment Options Explained"
 date: 2026-06-16T20:23:05.742512+00:00
 draft: false
 description: "Learn about torn ACL in dogs treatment options including surgery and conservative care to help your dog recover and regain mobility."
@@ -23,7 +23,7 @@ faqs:
    a: "For dogs over 30-40 pounds, most evidence favors TPLO for long-term outcomes. For smaller or older, lower-activity dogs, extracapsular repair performs well and costs significantly less. The honest answer is that the right surgery depends on your specific dog."
  - q: "How do I know if my dog tore the other ACL too?"
    a: "Sudden lameness in the opposite hind leg, especially after a period of over-relying on it during recovery, is the main sign. Your vet will do the same drawer and thrust tests on that leg. If your dog has already had one CCL tear, mention it immediately, because the suspicion should be high."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog limps in from the backyard after a game of fetch, and suddenly you're staring at a $4,000 surgical estimate. Most articles about this injury waste three paragraphs explaining what a ligament is before telling you anything worth knowing. I'm skipping that part.
 

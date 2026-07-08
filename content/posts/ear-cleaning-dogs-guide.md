@@ -1,5 +1,5 @@
 ---
-title: "Ear Cleaning Dogs Guide"
+title: "How to Safely Clean Your Dog's Ears at Home"
 date: 2026-07-03T18:43:07.060911+00:00
 draft: false
 description: "Learn how to safely clean your dog's ears at home. Discover the best techniques, tools, and frequency to prevent infections and keep your pet comfortable."

@@ -1,5 +1,5 @@
 ---
-title: "Dog Nail Trimming Fear"
+title: "Why Your Dog Fears Nail Trimming, And How to Help"
 date: 2026-06-12T19:24:57.123155+00:00
 draft: false
 description: "Help your dog overcome nail trimming fear with expert tips on desensitization, positive reinforcement, and calming techniques for stress-free grooming sessions "
@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If I had to name the single most avoided part of dog care, nail trims would win by a landslide. Not vaccines. Not ear cleaning. Nails. I've watched confident, capable dog owners go completely pale when I bring out the clippers, and I've watched dogs who are otherwise perfectly chill turn into something resembling a small, furry tornado. So if your dog loses their mind at nail time, you're in very good company.
 

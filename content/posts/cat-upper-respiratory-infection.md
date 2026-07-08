@@ -1,5 +1,5 @@
 ---
-title: "Cat Upper Respiratory Infection"
+title: "Signs Your Cat Has an Upper Respiratory Infection"
 date: 2026-06-18T19:37:56.760807+00:00
 draft: false
 description: "Learn how to recognize and treat cat upper respiratory infections, including common symptoms, causes, home care tips, and when to see a vet."
@@ -12,6 +12,7 @@ author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 slug: "cat-upper-respiratory-infection"
 affiliate_disclosure: true
+lastmod: 2026-07-08
 ---
 Most people assume a sneezing cat just has "a little cold" that'll clear up on its own in a few days. Sometimes that's true. But I've seen enough upper respiratory infections turn into weeks-long nightmares, or worse, that I want to give you the real picture of what's actually happening when your cat sounds like a tiny congested human.
 

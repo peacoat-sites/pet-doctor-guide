@@ -1,5 +1,5 @@
 ---
-title: "Cat Cancer Treatment Options"
+title: "Fighting Feline Cancer: Treatment Options Explained"
 date: 2026-06-21T18:55:26.743370+00:00
 draft: false
 description: "Explore cat cancer treatment options including surgery, chemotherapy, and radiation. Learn how to help your feline live longer with quality care."
@@ -23,7 +23,7 @@ faqs:
    a: "A board-certified veterinary oncologist (DACVIM Oncology) has completed a three-year residency specifically in cancer diagnosis and treatment after vet school. They have access to more specialized protocols, are current on clinical trials, and make these treatment decisions every single day. Your GP is great for managing a lot of things, but cancer staging and treatment planning is genuinely specialist territory."
  - q: "When is it time to consider euthanasia?"
    a: "When your cat's bad days consistently outnumber the good ones, when they've stopped eating and won't respond to appetite stimulants, when they're in pain that can't be managed, or when the treatment itself is clearly causing more suffering than the disease. This is an incredibly hard question, and there's no universal formula. Your oncologist and your GP can both help you assess quality of life honestly. The goal has always been a good life, not just a longer one."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your cat has just been diagnosed with cancer. Or you're sitting in the waiting room right now, scrolling your phone while the vet reviews the biopsy results in the back. Either way, you're probably feeling something between dread and a desperate need to understand what comes next before anyone asks you to make a decision you're not ready to make.

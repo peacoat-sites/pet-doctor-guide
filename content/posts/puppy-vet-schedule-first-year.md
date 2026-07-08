@@ -1,5 +1,5 @@
 ---
-title: "Puppy Vet Schedule First Year"
+title: "Your Puppy's First Year Vet Visits: The Complete Schedule"
 date: 2026-05-22T01:53:57.162204+00:00
 draft: false
 description: "Help your puppy thrive with our complete first-year vet schedule guide. Learn which vaccines, checkups, and treatments your pup needs and when to book them."
@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You bring home an eight-week-old puppy on a Saturday afternoon, and by Sunday morning you're already Googling "when does my puppy need shots." That search is something nearly every new puppy owner does, and for good reason. The first year of a dog's life is medically the densest period they'll ever experience. More vaccines, more parasite prevention choices, more developmental checkpoints crammed into twelve months than at any other time. Get it right from the start, and you're protecting your dog for years. Get it wrong, and you're looking at preventable illness, legal liability with licensing, and a vet relationship built on playing catch-up.
 

@@ -1,5 +1,5 @@
 ---
-title: "Senior Cat Care Changes"
+title: "What Your Aging Cat Needs: A Senior Care Guide"
 date: 2026-05-26T06:52:16.844424+00:00
 draft: false
 description: "Senior cat care changes: essential tips for managing health, nutrition, mobility, and comfort as your feline friend enters their golden years."
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-
+lastmod: 2026-07-08
 ---
 Your cat turns 11, and suddenly she's sleeping in different spots, drinking more water, and seems a little stiff getting up from her favorite chair. You chalk it up to "just getting older." But here's what a lot of people don't realize: cats are considered senior at age 11, and geriatric by 15. Those subtle changes you're noticing aren't random. They're often the first signals of conditions that are very manageable when caught early, and genuinely serious when they're not.
 

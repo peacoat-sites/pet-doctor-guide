@@ -1,5 +1,5 @@
 ---
-title: "Pet X-Ray Costs"
+title: "How Much Should Pet X-Rays Really Cost?"
 date: 2026-05-27T15:52:48.103660+00:00
 draft: false
 description: "Find out how much pet X-rays cost, what factors affect the price, and how to save money on your furry friend's diagnostic imaging needs."
@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most pet owners learn what an x-ray costs at the worst possible moment: their dog is limping badly, it's 9 PM on a Friday, and the emergency clinic just quoted them a number that makes their stomach drop. That's exactly when you don't want surprises. So let's talk about what pet x-rays actually cost, why prices swing so wildly, and how to avoid getting blindsided when your animal needs imaging fast.
 

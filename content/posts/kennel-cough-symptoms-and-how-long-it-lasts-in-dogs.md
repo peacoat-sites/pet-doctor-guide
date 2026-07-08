@@ -1,5 +1,5 @@
 ---
-title: "Kennel Cough Symptoms And How Long It Lasts In Dogs"
+title: "Kennel Cough In Dogs: Signs, Duration, And Recovery"
 date: 2026-06-12T19:26:36.669068+00:00
 draft: false
 description: "Learn to spot kennel cough symptoms in dogs, including honking cough and runny nose, and find out how long it typically lasts before your dog fully recovers."
@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three days into what looked like allergies, the dog is honking like a goose and the owner is convinced she's dying. I've had that phone call more times than I can count. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary at 11pm when you're Googling worst-case scenarios, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. Knowing the difference between "this is normal kennel cough" and "this dog needs to be seen today" is the whole game.
 

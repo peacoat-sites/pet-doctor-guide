@@ -1,5 +1,5 @@
 ---
-title: "How To Treat A Cat Urinary Tract Infection At Home"
+title: "Home Remedies For Cat UTIs That Actually Work"
 date: 2026-06-16T20:21:02.890077+00:00
 draft: false
 description: "Learn safe home remedies to help treat a cat urinary tract infection, including diet changes, hydration tips, and when to see a vet fast."
@@ -23,7 +23,7 @@ faqs:
    a: "I'd say no. The idea is that acidifying the urine would help, but the urinary pH that's 'helpful' depends entirely on what type of crystal or bacteria is present, and giving ACV without knowing that could make things worse. It also tastes terrible to cats and rarely gets consumed in any meaningful amount."
  - q: "How much does a vet visit for a cat UTI typically cost?"
    a: "It varies a lot by region, but expect a physical exam, urinalysis, and possibly a urine culture to run somewhere between $150 and $400 at a general practice clinic. Emergency clinics run higher. If your cat has recurrent urinary issues, pet insurance with a solid illness rider is worth pricing out sooner rather than later. The truth is, urinary issues are one of the more manageable chronic problems in cats, once you have an accurate diagnosis and a real plan. The home piece matters. The stress reduction matters. The wet food genuinely matters. But none of it replaces knowing what you're actual"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most of the "home remedies for cat UTI" articles floating around the internet are, I'll be honest, genuinely dangerous. Not unhelpful. Dangerous. Because cats with urinary problems can go from "acting a little off" to dead within 24 to 48 hours, and the advice to "try cranberry supplements first" can cost your cat its life.
 

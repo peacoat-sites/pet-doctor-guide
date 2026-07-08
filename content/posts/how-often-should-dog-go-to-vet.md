@@ -1,5 +1,5 @@
 ---
-title: "How Often Should Dog Go To Vet"
+title: "Your Dog's Vet Visit Schedule: How Often Is Enough?"
 date: 2026-05-21T10:43:21.292870+00:00
 draft: false
 description: "Regular vet visits keep your dog healthy and happy. Learn how often puppies, adult dogs, and seniors should see the vet and what to expect at each checkup."
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most dog owners wait until something's obviously wrong to call the vet. Here's a fact that should change that thinking: dogs can lose 75% of their kidney function without showing a single symptom. By the time your dog seems off, the disease has often been quietly progressing for months or years. Routine wellness visits aren't just about vaccines and a quick heart listen. They're your best shot at catching the invisible stuff early, when you actually have treatment options.
 

@@ -1,5 +1,5 @@
 ---
-title: "Toxic Plants For Cats List"
+title: "Keep Your Cat Safe: 25 Common Toxic Plants"
 date: 2026-05-28T01:21:58.056344+00:00
 draft: false
 description: "Keep your cat safe with our complete toxic plants for cats list. Learn which common household and garden plants to avoid and protect your feline friend today."
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A client walked in one spring afternoon with her cat, Miso, limp and drooling in a carrier lined with Easter grass. She'd put a beautiful lily arrangement on her dining table that morning. By evening, Miso had chewed on a few petals. She had no idea lilies were toxic. Most people don't. Within 72 hours of lily ingestion, a cat can go into acute kidney failure. Miso survived, but it was close, and it was expensive, and it was entirely preventable. I've told that story dozens of times in the exam room because it's the one that lands. People hear "plants can be toxic to cats" and mentally file it under "probably fine." This article is for the people who want to actually know what's in their homes.
 

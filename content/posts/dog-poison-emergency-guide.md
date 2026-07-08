@@ -1,5 +1,5 @@
 ---
-title: "Dog Poison Emergency Guide"
+title: "What To Do If Your Dog Eats Poison"
 date: 2026-05-29T01:01:05.584095+00:00
 draft: false
 description: "Learn what to do if your dog ingests something toxic. Discover common poisons, warning signs, and emergency steps to take to keep your pet safe and act fast."
@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-
+lastmod: 2026-07-08
 ---
 You just watched your dog eat something off the counter, or maybe you came home to find a chewed-up package and a guilty-looking culprit staring back at you. Your stomach just dropped. That moment of "wait, is that toxic?" is one of the most common panicked calls we get in veterinary practice, and I want you to know: you're not overreacting. Some of the most dangerous substances for dogs look completely harmless to us. Xylitol, the sugar substitute in many sugar-free gums and peanut butters, can cause life-threatening liver failure at doses so small you'd barely notice them missing. Grapes and raisins, which seem like innocent snacks, can trigger acute kidney failure in some dogs with no predictable dose threshold. So if you're here because something just happened, keep reading. This guide is built around the questions I wish every pet owner had answers to before they needed them.
 

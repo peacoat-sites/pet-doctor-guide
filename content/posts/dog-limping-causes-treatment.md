@@ -1,5 +1,5 @@
 ---
-title: "Dog Limping Causes Treatment"
+title: "Why Your Dog Is Limping and How to Help"
 date: 2026-05-22T20:21:17.597267+00:00
 draft: false
 description: "Find out why your dog is limping, from minor injuries to serious conditions, and discover the best treatment options to help your pet recover quickly and safely"
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You glance over at your dog and something stops you cold: he's holding one front leg up off the ground, refusing to put weight on it. Five minutes ago he was fine. Now you're standing in your kitchen at 9 PM on a Sunday wondering if you need to find an emergency vet or if this can wait until morning. That moment of uncertainty is exactly why I'm writing this.
 

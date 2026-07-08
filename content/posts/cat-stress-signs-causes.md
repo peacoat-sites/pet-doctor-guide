@@ -1,5 +1,5 @@
 ---
-title: "Cat Stress Signs Causes"
+title: "Why Your Cat Acts Stressed: 7 Warning Signs"
 date: 2026-05-23T22:46:42.585850+00:00
 draft: false
 description: "Recognizing cat stress signs is essential for pet health. Learn common causes like environmental changes, loud noises, and medical issues, plus how to help your"
@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your cat has been hiding under the bed for three days. She's barely touched her food. When you try to coax her out, she hisses, which she has never done before. You're worried, but you're also second-guessing yourself: is this stress, is she sick, or is this just a cat being a cat? The truth is, those three things are often tangled together, and figuring out which is which can genuinely change how fast she gets better.
 

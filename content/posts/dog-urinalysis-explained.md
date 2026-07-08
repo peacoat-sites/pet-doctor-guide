@@ -1,5 +1,5 @@
 ---
-title: "Dog Urinalysis Explained"
+title: "What Your Dog's Urine Test Results Really Mean"
 date: 2026-05-18T17:03:13.480607+00:00
 draft: false
 description: "Learn what a dog urinalysis reveals about your pet's health, how the test works, what results mean, and when your vet may recommend this simple diagnostic tool."
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. I thought the same thing when I first started in practice. Then I realized how much information is actually hiding in a single urine sample, and how often it catches something serious before your dog shows any signs at all. A dog can have a urinary tract infection, early [kidney disease](/senior-pet-bloodwork-panel/), diabetes, or even certain cancers and still look completely fine at home. That's what makes this test quietly one of the most powerful tools in veterinary medicine. Understanding what it's measuring puts you in a much better position to ask the right questions.
 

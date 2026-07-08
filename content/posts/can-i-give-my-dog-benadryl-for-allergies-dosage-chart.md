@@ -1,5 +1,5 @@
 ---
-title: "Can I Give My Dog Benadryl For Allergies Dosage Chart"
+title: "Safe Benadryl Dosing for Dogs With Allergies"
 date: 2026-06-03T14:09:27.680450+00:00
 draft: false
 description: "Find out if Benadryl is safe for dogs with allergies, the correct dosage by weight, potential side effects, and when to consult your vet before giving it."
@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog is scratching herself raw at 10 PM on a Saturday, your vet's office is closed, and you're standing in the bathroom staring at a box of Benadryl wondering if this is okay to give her. I've had that exact conversation with panicked pet owners more times than I can count, usually through the clinic's after-hours line or a frantic text from a friend.
 

@@ -1,5 +1,5 @@
 ---
-title: "Dog Acl Surgery Recovery Time And Cost"
+title: "Dog ACL Surgery: Recovery Timeline And True Costs"
 date: 2026-06-10T19:46:48.196414+00:00
 draft: false
 description: "Learn about dog ACL surgery recovery time, typical costs, and what to expect during rehabilitation to help your pet heal faster and get back on their feet."

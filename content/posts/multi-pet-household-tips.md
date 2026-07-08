@@ -1,5 +1,5 @@
 ---
-title: "Multi-Pet Household Tips"
+title: "Keep Multiple Pets Healthy: Essential Vet Care Tips"
 date: 2026-06-24T19:02:15.731570+00:00
 draft: false
 description: "Keep dogs, cats, and small pets happy under one roof with feeding, space, and intro tips that reduce stress for every animal in your home."
@@ -23,7 +23,7 @@ faqs:
    a: "Adjustment looks like gradual improvement over days or weeks. Stress that needs attention looks like hiding that doesn't reduce, stopped eating, litter box avoidance, over-grooming, or aggression that escalates rather than settles. If the trajectory is getting worse, not better, talk to your vet or a veterinary behaviorist."
  - q: "Do all my pets need to see the same vet?"
    a: "It helps but isn't required. What's more important is that at least one provider knows your household's full picture. If you use different vets, make sure each one knows what other animals are in the home, because that context changes medication and treatment decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Three cats and a dog under one roof sounds charming until 2 a.m. when the terrier is sprinting laps because the tabby ambushed him off the couch. I'll be honest: I spent years telling clients that multi-pet households "just take some adjustment," and while that's technically true, it undersells how deliberate you have to be about the setup. Most of the chaos I see in multi-pet homes isn't personality conflict. It's resource competition that nobody noticed until it got loud.

@@ -1,5 +1,5 @@
 ---
-title: "Dog Nsaid Risks"
+title: "Why NSAIDs For Dogs Carry Hidden Health Risks"
 date: 2026-06-15T20:38:57.456080+00:00
 draft: false
 description: "Learn the serious risks of NSAIDs in dogs, including kidney damage, GI bleeding, and toxicity signs every pet owner should recognize before medicating."
@@ -23,7 +23,7 @@ faqs:
    a: "The research here is somewhat limited, but dogs with pre-existing kidney disease, liver disease, or heart disease are at significantly higher risk regardless of breed. Some individual dogs also have idiosyncratic reactions that aren't predictable from breed or age. This is another reason bloodwork before starting is worth doing."
  - q: "Can I give my dog an NSAID I have left over from a previous prescription?"
    a: "Please don't. Prescription NSAIDs are dosed specifically for the dog and condition they were dispensed for. Using leftover medication skips the step where a vet confirms the current diagnosis, checks for drug interactions with anything new your dog is on, and verifies that your dog's organ function can handle it. The savings aren't worth the risk."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most dogs who end up in emergency clinics bleeding internally or with acute kidney failure got there because someone grabbed ibuprofen from the medicine cabinet, or their owner didn't realize the dog was already on a prescription NSAID and gave another one. I've seen it happen more times than I'd like. The owner is devastated. The outcome is sometimes terrible. And almost every time it was entirely preventable.
 

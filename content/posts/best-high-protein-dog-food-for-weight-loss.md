@@ -1,5 +1,5 @@
 ---
-title: "Best High Protein Dog Food For Weight Loss"
+title: "High-Protein Dog Foods That Support Healthy Weight Loss"
 date: 2026-06-10T19:48:52.174310+00:00
 draft: false
 description: "Discover the best high protein dog foods for weight loss to help your pup shed pounds, build lean muscle, and stay energized with our expert-reviewed top picks."

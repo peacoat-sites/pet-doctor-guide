@@ -1,5 +1,5 @@
 ---
-title: "Leptospirosis Dog Vaccine"
+title: "Does Your Dog Need a Leptospirosis Vaccine?"
 date: 2026-06-29T19:17:43.340812+00:00
 draft: false
 description: "Protect your dog from leptospirosis with the right vaccine. Learn which dogs need it, how often to vaccinate, and what side effects to expect."
@@ -23,6 +23,7 @@ faqs:
    a: "Honestly, maybe not, depending on his actual exposure. A dog who goes outside only on leash, never contacts standing water or wildlife, and lives in a low-risk geographic area may have a risk-benefit profile that doesn't justify the vaccine. This is a conversation worth having with your specific vet rather than defaulting to yes or no."
  - q: "Can humans catch leptospirosis from a sick dog?"
    a: "Yes. Leptospirosis is zoonotic, which means infected dogs can shed the bacteria in their urine and expose people in the household. This is particularly concerning if an infected dog is incontinent or if there are immunocompromised people in the home. If your dog is diagnosed with lepto, your vet should walk you through safe handling protocols immediately."
+lastmod: 2026-07-08
 ---
 
 Most pet owners I talk to think of leptospirosis as some exotic, rare disease that only matters if you're hiking in the Amazon. I've had this exact conversation hundreds of times in the exam room. Then someone's dog gets sick, and suddenly it's very real, very fast.

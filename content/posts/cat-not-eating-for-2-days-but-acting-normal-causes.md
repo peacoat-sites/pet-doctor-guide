@@ -1,5 +1,5 @@
 ---
-title: "Cat Not Eating For 2 Days But Acting Normal Causes"
+title: "Why Your Cat Won't Eat But Seems Fine"
 date: 2026-06-07T18:42:22.238558+00:00
 draft: false
 description: "Worried your cat hasn't eaten in 2 days but seems fine? Discover common causes, warning signs to watch for, and when to visit your vet for help."
@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-08
 ---
 Two days. That's the number that should shift you from "oh, she's just being picky" to "okay, I actually need to figure out what's going on." Not three days. Not a week. Forty-eight hours of a cat not eating is the point where biology starts working against you, even when your cat seems completely fine otherwise.
 

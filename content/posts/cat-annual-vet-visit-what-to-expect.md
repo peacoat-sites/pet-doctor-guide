@@ -1,5 +1,5 @@
 ---
-title: "Cat Annual Vet Visit What To Expect"
+title: "What Your Cat's Annual Vet Visit Will Include"
 date: 2026-05-20T18:54:03.393837+00:00
 draft: false
 description: "Learn what happens during your cat's annual vet visit, from physical exams and vaccinations to bloodwork and parasite prevention, so you can feel fully prepared"
@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your cat acts completely normal all year, eats well, plays occasionally, and then the vet finds a heart murmur at a routine checkup. That's not a rare story. I've seen it play out dozens of times in the exam room, and it's exactly why annual wellness visits matter even when your cat seems absolutely fine. Cats are masters of hiding illness, a survival instinct baked in from their wild ancestors, and by the time symptoms become obvious to you at home, a condition is often well advanced.
 

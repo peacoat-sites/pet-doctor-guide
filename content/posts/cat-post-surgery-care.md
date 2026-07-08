@@ -1,5 +1,5 @@
 ---
-title: "Cat Post-Surgery Care"
+title: "Help Your Cat Heal: Essential Post-Surgery Care Tips"
 date: 2026-05-25T14:05:11.437757+00:00
 draft: false
 description: "Help your cat recover safely after surgery with expert tips on rest, wound care, medications, diet, and signs of complications to watch for at home."

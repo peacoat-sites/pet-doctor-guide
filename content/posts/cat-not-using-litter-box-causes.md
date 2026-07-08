@@ -1,5 +1,5 @@
 ---
-title: "Cat Not Using Litter Box Causes"
+title: "Why Your Cat Is Avoiding the Litter Box"
 date: 2026-05-27T05:54:20.919286+00:00
 draft: false
 description: "Discover the most common reasons your cat is avoiding the litter box and learn simple, effective solutions to solve the problem and restore good litter habits f"
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You cleaned the litter box this morning. You bought the good litter. Your cat used the same box for three years without issue. And now, for the second day straight, you're finding wet spots on your bathroom rug and little surprises behind the sofa. Something shifted. Whether it's behavioral, environmental, or medical matters more than you'd think, because the wrong guess can mean missing a serious health problem or spending months fighting a "behavior issue" that was never behavioral to begin with.
 

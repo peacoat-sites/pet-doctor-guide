@@ -1,5 +1,5 @@
 ---
-title: "Early Signs Of Heart Disease In Small Breed Dogs"
+title: "Spot Heart Disease Early In Small Dogs"
 date: 2026-06-08T19:37:44.817656+00:00
 draft: false
 description: "Spot early signs of heart disease in small breed dogs, including coughing, fatigue, and breathing changes, to protect your pet's health and extend their life."
@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-
+lastmod: 2026-07-08
 ---
 Your small dog has been slowing down a little. Maybe they used to meet you at the door and now they're still on the couch when you get home. Or you've noticed a cough that shows up after excitement, or they seem to tire faster on walks than they did six months ago. You've been telling yourself it's probably just age. You might be wondering if you're being paranoid.
 

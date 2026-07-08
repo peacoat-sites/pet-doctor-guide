@@ -1,5 +1,5 @@
 ---
-title: "Felv Cats Prevention"
+title: "How to Protect Cats From FeLV Infection"
 date: 2026-06-19T19:14:35.558708+00:00
 draft: false
 description: "Learn how to protect your cats from feline leukemia virus with vaccines, testing, and safe housing practices to keep your feline companions healthy."
@@ -23,6 +23,7 @@ faqs:
    a: "No. FeLV is species-specific to cats. Dogs, humans, and other animals are not at risk. You can safely handle and care for a FeLV-positive cat without any risk to yourself."
  - q: "Is there any treatment for FeLV itself?"
    a: "There's no cure that eliminates the virus. Treatment is focused on managing complications, like treating infections aggressively, managing anemia, and monitoring for lymphoma. Some vets use antiviral medications like interferon with mixed results. The AAHA hospital accreditation standards include guidelines on FeLV management that your vet should be following. The goal is keeping the cat comfortable and healthy for as long as possible, and that's genuinely achievable for many cats."
+lastmod: 2026-07-08
 ---
 
 A cat came into our clinic one Tuesday with a history that made my stomach drop a little. He was a 3-year-old indoor/outdoor tabby named Marty, sweet as anything, and his owner had just adopted a second cat from a rescue that turned out to be FeLV-positive. The rescue hadn't tested. Now she was sitting in our exam room asking me if Marty was going to be okay.

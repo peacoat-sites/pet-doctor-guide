@@ -1,5 +1,5 @@
 ---
-title: "Dog Teeth Cleaning Cost"
+title: "How Much Does Professional Dog Teeth Cleaning Cost?"
 date: 2026-05-22T01:42:51.376870+00:00
 draft: false
 description: "Learn how much dog teeth cleaning costs, what factors affect the price, and how to keep your pup's smile healthy without breaking the bank."
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 [periodontal disease](/dog-dental-health-guide/)," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.
 

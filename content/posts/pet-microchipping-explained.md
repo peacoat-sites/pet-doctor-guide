@@ -1,5 +1,5 @@
 ---
-title: "Pet Microchipping Explained"
+title: "Why Every Pet Owner Needs Microchipping Now"
 date: 2026-05-20T08:57:01.410648+00:00
 draft: false
 description: "Find out everything you need to know about pet microchipping, including how it works, the benefits, costs, and why it could help reunite you with a lost pet."
@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog bolts through an open gate during a thunderstorm. By morning, he's been picked up by animal control, scanned, and is already on his way home before you've even finished printing lost-dog flyers. That's not luck. That's a microchip working exactly as intended. If your pet doesn't have one yet, you're probably wondering whether it's worth it, whether it hurts, and how the whole thing actually works.
 

@@ -1,5 +1,5 @@
 ---
-title: "Cat Scratching Furniture Solutions"
+title: "Stop Furniture Damage: Why Cats Scratch And How To Stop It"
 date: 2026-07-04T18:15:19.457588+00:00
 draft: false
 description: "Discover effective cat scratching furniture solutions to protect your home. Learn why cats scratch and how to redirect this natural behavior today."

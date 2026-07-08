@@ -1,5 +1,5 @@
 ---
-title: "Dog Surgery Recovery Guide"
+title: "Help Your Dog Heal: Post-Surgery Recovery Steps"
 date: 2026-05-27T06:37:35.240560+00:00
 draft: false
 description: "Help your dog heal faster with our complete surgery recovery guide. Learn post-op care tips, pain management, and when to call your vet for peace of mind."
@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog just came home from surgery. You're holding a cone in one hand and a three-page discharge sheet in the other. Your dog is staring at nothing with those glazed, bewildered eyes. You have no idea what the next 72 hours are supposed to look like.
 

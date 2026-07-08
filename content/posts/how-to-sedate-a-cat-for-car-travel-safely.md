@@ -1,5 +1,5 @@
 ---
-title: "How To Sedate A Cat For Car Travel Safely"
+title: "Calming Your Cat For Car Trips: A Safe Guide"
 date: 2026-06-11T19:51:10.015060+00:00
 draft: false
 description: "Learn how to safely sedate your cat for car travel using vet-approved methods, calming aids, and expert tips to keep your feline stress-free on every journey."
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most articles about sedating cats for travel bury the actual useful information under so many "always ask your vet first" disclaimers that you finish reading knowing nothing more than when you started. So let's fix that.
 

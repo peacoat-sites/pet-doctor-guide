@@ -1,5 +1,5 @@
 ---
-title: "Pet Insurance Worth It"
+title: "Does Pet Insurance Actually Save You Money?"
 date: 2026-05-29T03:26:03.372691+00:00
 draft: false
 description: "Wondering if pet insurance is worth it? Discover the pros, cons, and costs to help you decide if coverage is the right choice for your furry companion."
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog swallows something he shouldn't on a Tuesday night. By Thursday he's in emergency surgery for an intestinal obstruction. You leave the clinic with a healthy dog, a discharge summary, and an invoice for $4,800. I've watched this happen dozens of times in 13 years, and I can tell you the owners who had pet insurance walked out relieved. The ones who didn't were doing math on payment plans before their dog was even fully awake from anesthesia.
 

@@ -1,5 +1,5 @@
 ---
-title: "Large Breed Dog Joint Health"
+title: "Keep Your Large Dog's Joints Healthy for Life"
 date: 2026-06-30T19:12:45.652437+00:00
 draft: false
 description: "Help your large breed dog stay active and pain-free with expert tips on joint health, nutrition, supplements, and exercise for breeds like Labs and Shepherds."
@@ -12,7 +12,7 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 slug: "large-breed-dog-joint-health"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Large breed dogs age faster than most people realize. A Great Dane is considered a senior at 6. A Rottweiler's hips can start showing arthritis changes on X-ray at 3 or 4, years before they limp visibly. If you've got a dog over 40 pounds and you're reading this, you're probably somewhere on the spectrum between "I want to be proactive" and "my dog is already struggling and I don't know what to do." Both of those places are completely reasonable, and this article is for both of you.
 

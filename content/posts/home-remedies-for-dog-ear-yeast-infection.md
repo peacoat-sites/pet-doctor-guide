@@ -1,5 +1,5 @@
 ---
-title: "Home Remedies For Dog Ear Yeast Infection"
+title: "Stop Dog Ear Yeast Infections at Home"
 date: 2026-06-05T12:22:27.534871+00:00
 draft: false
 description: "Discover effective home remedies for dog ear yeast infections. Learn natural treatments to relieve your pet's discomfort and prevent recurring infections safely"
@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog is shaking his head like he's trying to fling something off, one ear smells vaguely like a corn chip or sourdough bread, and the inside of the flap looks pink and a little gunky. You've seen this before. Maybe it's the third time this year. You already know what it is.
 

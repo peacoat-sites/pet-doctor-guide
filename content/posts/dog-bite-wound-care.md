@@ -1,5 +1,5 @@
 ---
-title: "Dog Bite Wound Care"
+title: "How To Clean And Treat A Dog Bite Wound"
 date: 2026-05-27T09:37:55.838990+00:00
 draft: false
 description: "Learn how to properly clean and treat a dog bite wound at home, when to seek medical care, and how to reduce the risk of infection and complications."
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog just nipped a visitor. Or maybe a neighbor's Lab got your hand during a leash tangle. Or your own cat got startled and your dog jumped in and now someone's bleeding and nobody's quite sure what happened. Whatever the specifics, you're here because there's a bite wound and you want to know what to do with it. Most articles will tell you to "seek medical attention immediately" and leave you there. That's not useful. Let's actually talk about what you're dealing with.
 

@@ -1,5 +1,5 @@
 ---
-title: "Blood Work For Dogs Explained"
+title: "Why Your Vet Wants Blood Work For Your Dog"
 date: 2026-05-20T23:06:45.296745+00:00
 draft: false
 description: "Learn what blood work for dogs reveals about their health, why vets recommend it, and how to understand your dog's test results with confidence."
@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog just had their annual exam, and the vet mentioned it's time for blood work. Or maybe your pup is sick, and the vet wants to run a panel before deciding on treatment. Either way, you're staring at an invoice with terms like "CBC" and "chemistry panel" and wondering what any of it actually means, whether it's really necessary, and what happens if the results come back abnormal.
 

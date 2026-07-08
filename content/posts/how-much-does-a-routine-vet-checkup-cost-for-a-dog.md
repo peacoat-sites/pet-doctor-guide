@@ -1,5 +1,5 @@
 ---
-title: "How Much Does A Routine Vet Checkup Cost For A Dog"
+title: "Dog Vet Checkup Costs: What To Budget"
 date: 2026-06-02T12:54:36.827219+00:00
 draft: false
 description: "Find out how much a routine vet checkup costs for a dog, including what's covered, average price ranges, and tips to save money on your pet's annual visit."
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You budget carefully for your dog's food, toys, and the occasional emergency. Then the reminder card arrives for the annual checkup and you realize you have no idea what it's actually going to cost. You've heard numbers ranging from $50 to $400 for what people vaguely call a "routine visit," and the spread is so wide it's almost useless. Here's what most coverage on this topic gets wrong: they throw out a national average, call it a day, and leave you no better equipped to predict your own bill. Let's fix that.
 

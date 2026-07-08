@@ -1,5 +1,5 @@
 ---
-title: "Kitten Vet Schedule First Year"
+title: "Your Kitten's First Year Vet Visit Checklist"
 date: 2026-05-27T21:43:16.959024+00:00
 draft: false
 description: "Help your kitten thrive with our complete first-year vet schedule guide covering vaccinations, deworming, spaying or neutering, and essential wellness checkups."
@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You brought home an eight-week-old kitten on a Saturday afternoon, and by Sunday you're already wondering: when exactly does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? You're not alone. I've watched hundreds of new kitten owners walk through our clinic doors completely unsure of what the first year actually looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.
 

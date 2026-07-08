@@ -1,5 +1,5 @@
 ---
-title: "Senior Dog Care Guide"
+title: "Keep Your Senior Dog Healthy: Essential Care Tips"
 date: 2026-05-28T14:10:34.715292+00:00
 draft: false
 description: "Senior dog care guide: Learn essential tips for nutrition, exercise, health monitoring, and comfort to keep your aging dog happy and healthy in their golden yea"
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your 9-year-old Lab mix has started sleeping through his morning walk invitation, the one that used to send him skidding across the hardwood floors. He's eating fine, drinking fine, but something has shifted. You can feel it even if you can't quite name it. That subtle change is often the first sign that your dog has crossed into senior territory, and knowing how to respond can genuinely add quality years to his life.
 

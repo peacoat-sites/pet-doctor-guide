@@ -1,5 +1,5 @@
 ---
-title: "Finding A Good Veterinarian"
+title: "How To Find A Vet Your Pet Actually Trusts"
 date: 2026-05-26T13:13:39.802235+00:00
 draft: false
 description: "Find tips on choosing the right vet for your pet. Learn what to look for, questions to ask, and how to ensure your furry friend gets the best possible care."
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just moved to a new city. Your dog is scratching at her ear like her life depends on it, and the nearest vet you can find on Google has 2.3 stars and a review that says "waited 3 hours and they forgot my cat." You're already stressed. The last thing you need is to play roulette with your pet's care. I've been on both sides of this, as a technician who's watched great vets do extraordinary things and as a pet owner who once walked out of a clinic feeling worse than when I walked in. Finding a good veterinarian is one of the most important decisions you'll make for your animal, and most people do it completely backwards.
 

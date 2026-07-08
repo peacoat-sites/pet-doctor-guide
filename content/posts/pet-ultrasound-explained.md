@@ -1,5 +1,5 @@
 ---
-title: "Pet Ultrasound Explained"
+title: "What Your Vet Sees During A Pet Ultrasound"
 date: 2026-05-19T20:17:34.788910+00:00
 draft: false
 description: "Discover how pet ultrasound works, what to expect during the procedure, and how this safe, painless imaging tool helps vets diagnose your animals health issues."
@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog just had X-rays, and the vet comes back into the room saying, "I think we need to do an ultrasound." Your stomach drops a little. You nod, but you're already running through questions you don't quite know how to ask. What are they looking for that the X-rays couldn't show? Is this serious? How much is this going to cost?
 

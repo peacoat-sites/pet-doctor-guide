@@ -1,5 +1,5 @@
 ---
-title: "Why Is My Dog Throwing Up White Foam And Not Eating"
+title: "Why Your Dog Won't Eat and Is Vomiting White Foam"
 date: 2026-06-09T19:31:37.688939+00:00
 draft: false
 description: "Discover why your dog is vomiting white foam and refusing food. Learn common causes, warning signs, and when to seek urgent veterinary care for your pet."
@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 White foam vomit from a dog who won't eat is one of those symptoms that genuinely ranges from "wait until morning" to "drive to the emergency clinic right now," and most of the advice online makes it sound like it's always one or the other. I'll be honest: that ambiguity used to frustrate me too, even after years in a clinical setting. So let me give you the real breakdown.
 

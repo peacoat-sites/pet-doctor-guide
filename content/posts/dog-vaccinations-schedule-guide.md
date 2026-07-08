@@ -1,5 +1,5 @@
 ---
-title: "Dog Vaccinations Schedule Guide"
+title: "When Your Dog Needs Vaccines: A Complete Schedule"
 date: 2026-05-22T23:41:33.647788+00:00
 draft: false
 description: "Stay on top of your dog's health with our complete vaccination schedule guide. Learn which vaccines are essential, when to give them, and why they matter."
@@ -21,7 +21,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just brought home an eight-week-old puppy. She's small, she's perfect, and she's sneezing directly into your coffee. Your breeder handed you a crinkled sheet of paper listing something called "DHPP" and mentioned she'd had her "first shots." Now you're staring at that paper wondering what any of it means, when she needs more, and whether you're already behind. You're not. But the next few months matter more than most new owners realize, and getting the timing wrong can leave real gaps in protection during the window when puppies are most vulnerable.
 

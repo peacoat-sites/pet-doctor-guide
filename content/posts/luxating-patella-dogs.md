@@ -1,5 +1,5 @@
 ---
-title: "Luxating Patella Dogs"
+title: "Why Dogs Develop Luxating Patellas and How to Help"
 date: 2026-07-06T19:10:06.550772+00:00
 draft: false
 description: "Learn about luxating patella in dogs, from causes and symptoms to treatment options and recovery tips to help your pup stay active and pain-free."

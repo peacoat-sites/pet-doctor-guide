@@ -1,5 +1,5 @@
 ---
-title: "Toxic Foods For Dogs List"
+title: "Foods Your Dog Should Never Eat"
 date: 2026-05-19T18:24:34.164198+00:00
 draft: false
 description: "Keep your dog safe by knowing which foods are toxic to them. Discover our complete list of dangerous foods dogs should never eat, including chocolate, grapes, a"
@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most dog owners know grapes are bad. What fewer people realize is that a single grape can potentially cause acute kidney failure in a 20-pound dog, and toxicologists still don't fully understand why. That's the part that gets me every time I tell clients this. It's not a dose-dependent toxin where "a little is probably fine." There's no safe threshold anyone can point to with confidence. After 13 years of watching owners come in panicked, receipt in one hand and dog on leash in the other, I decided to go deep on this topic, not to write another bland "avoid chocolate" list, but to actually explain what these foods do inside your dog's body, why some are genuinely terrifying, and how to tell the difference between a real emergency and a call-your-vet-Monday situation.
 

@@ -1,5 +1,5 @@
 ---
-title: "Rimadyl For Dogs Guide"
+title: "Rimadyl for Dogs: Pain Relief and Side Effects Explained"
 date: 2026-07-06T19:12:23.926074+00:00
 draft: false
 description: "Learn how Rimadyl helps dogs manage pain and inflammation, proper dosing, side effects to watch for, and when to call your vet."

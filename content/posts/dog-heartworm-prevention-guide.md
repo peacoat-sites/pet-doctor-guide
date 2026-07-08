@@ -1,5 +1,5 @@
 ---
-title: "Dog Heartworm Prevention Guide"
+title: "Stop Heartworm Before It Starts: A Dog Owner's Guide"
 date: 2026-05-18T16:44:41.801462+00:00
 draft: false
 description: "Protect your dog from deadly heartworms with our complete prevention guide. Learn about medications, treatment options, and how to keep your pet safe year-round"

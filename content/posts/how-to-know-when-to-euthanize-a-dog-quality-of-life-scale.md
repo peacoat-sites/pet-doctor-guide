@@ -1,5 +1,5 @@
 ---
-title: "How To Know When To Euthanize A Dog Quality Of Life Scale"
+title: "When Should You Say Goodbye? A Dog Quality Of Life Guide"
 date: 2026-06-04T12:19:06.563705+00:00
 draft: false
 description: "Discover how to use a dog quality of life scale to help you make the difficult decision of when to euthanize your dog with compassion and clarity."
@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Nobody tells you how hard the "how will I know?" question actually is until you're living it. By the time most pet owners are searching for quality of life scales, they've already been watching their dog for weeks, maybe months, carrying a quiet dread that doesn't go away. I've been in exam rooms with hundreds of families at this crossroads, and I'll be honest: the information available online is all over the place. Some of it is genuinely helpful. A lot of it is vague in a way that makes grieving people feel worse, not better.
 

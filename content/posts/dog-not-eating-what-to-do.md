@@ -1,5 +1,5 @@
 ---
-title: "Dog Not Eating What To Do"
+title: "Why Your Dog Stopped Eating and How to Help"
 date: 2026-05-25T05:42:28.032027+00:00
 draft: false
 description: "Help your dog regain their appetite. Discover common reasons why dogs stop eating and learn practical tips to get your furry friend back to their food bowl fast"
@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog hasn't touched his bowl in 24 hours. He sniffed it, walked away, and is now lying in his bed looking vaguely miserable. Your stomach drops. Is this serious? Should you be rushing to an emergency clinic at 10pm, or will he be fine by morning? That anxious feeling is completely normal, and the good news is that most cases of a dog skipping meals are not emergencies. But some absolutely are, and knowing the difference could save your dog's life.
 

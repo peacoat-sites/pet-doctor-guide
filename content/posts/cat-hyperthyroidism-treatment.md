@@ -1,5 +1,5 @@
 ---
-title: "Cat Hyperthyroidism Treatment"
+title: "Managing Feline Hyperthyroidism: Treatment Options That Work"
 date: 2026-06-13T18:47:18.188714+00:00
 draft: false
 description: "Discover effective cat hyperthyroidism treatments including medication, radioactive iodine therapy, surgery, and dietary options to help your cat live a longer,"

@@ -1,5 +1,5 @@
 ---
-title: "Cat Dental Disease Signs"
+title: "Is Your Cat's Breath a Warning Sign of Dental Disease?"
 date: 2026-05-26T12:44:10.382744+00:00
 draft: false
 description: "Spot the early signs of cat dental disease before pain sets in. Learn what to look for, from bad breath to red gums, to protect your cat's oral health."
@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-08
 ---
 Your cat's been pushing food around the bowl for three weeks now. Used to devour it in minutes. Now she sniffs, takes a bite or two, walks away. You figure she's just being picky. Then your vet finds a tooth so infected it needs extraction that same afternoon.
 
