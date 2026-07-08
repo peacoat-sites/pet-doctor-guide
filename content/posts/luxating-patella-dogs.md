@@ -23,7 +23,7 @@ faqs:
     a: "Prices vary significantly by location, surgeon, and whether one or both knees are affected. Expect a range from roughly $1,500 to $4,000 per knee in most U.S. markets. A board-certified orthopedic surgeon will typically be at the higher end. Get an itemized estimate and ask what follow-up is included."
   - q: "Can I prevent my dog from developing a luxating patella?"
     a: "You can't change genetics, but you can maintain a lean body weight, avoid breeding affected dogs, and not push puppies from at-risk breeds into high-impact activities before their growth plates close (typically 12-18 months depending on breed). That's about as much prevention as the evidence supports."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Roughly one in four small-breed dogs will develop a luxating patella at some point. That number comes from clinical observation, not a scare campaign, and it's the first thing I want pet owners to understand: this is one of the most common orthopedic problems we see, and also one of the most over-treated and under-understood.
@@ -147,6 +147,6 @@ I'll say directly: buying from a pet store or a breeder who doesn't health-test 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it was the way she hesitated before jumping onto the couch she's claimed for the last nine years. You're Googling at 11pm, reading ingredient labels you don't fully understand, wondering if you're doing enough. I know this place. I've watched hundreds of owners arrive at it, and I want to give you something actually useful.
 
@@ -34,7 +34,7 @@ Let's talk about what works, what's overhyped, and how to think about supplement
  <div class="vm-head">Dosing Thresholds by Dog Weight</div>
  <div class="vm-body">
  <p class="vm-intro">Most joint supplements fail because owners unknowingly underdose, here are the clinically-relevant daily targets for the four core arthritis supplements, scaled by weight.</p>
- <table><caption>Daily Supplement Dosing Guide for Senior Dogs with Arthritis</caption><thead><tr><th>Dog Weight</th><th>Glucosamine</th><th>Chondroitin</th><th>EPA+DHA (Omega-3)</th><th>Green-Lipped Mussel</th></tr></thead><tbody><tr><td>10–25 lb (small)</td><td>500–750 mg</td><td>200–350 mg</td><td>500–750 mg</td><td>15–20 mg/kg</td></tr><tr><td>26–50 lb (medium)</td><td>1,000–1,250 mg</td><td>400–600 mg</td><td>1,000–1,500 mg</td><td>15–20 mg/kg</td></tr><tr><td>51–75 lb (large)</td><td>1,500 mg</td><td>600–800 mg</td><td>1,500–2,000 mg</td><td>15–20 mg/kg</td></tr><tr><td>76–100+ lb (giant)</td><td>1,500–2,000 mg</td><td>800–1,200 mg</td><td>2,000–2,500 mg</td><td>15–20 mg/kg</td></tr></tbody><tfoot><tr><td colspan="5">Loading phase (first 4–6 weeks): double the glucosamine/chondroitin dose, then taper to maintenance. Omega-3 figures refer to combined EPA+DHA, not total fish oil. Always confirm with your veterinarian before starting a regimen.</td></tr></tfoot></table>
+ <table><caption>Daily Supplement Dosing Guide for Senior Dogs with Arthritis</caption><thead><tr><th>Dog Weight</th><th>Glucosamine</th><th>Chondroitin</th><th>EPA+DHA (Omega-3)</th><th>Green-Lipped Mussel</th></tr></thead><tbody><tr><td>10-25 lb (small)</td><td>500-750 mg</td><td>200-350 mg</td><td>500-750 mg</td><td>15-20 mg/kg</td></tr><tr><td>26-50 lb (medium)</td><td>1,000-1,250 mg</td><td>400-600 mg</td><td>1,000-1,500 mg</td><td>15-20 mg/kg</td></tr><tr><td>51-75 lb (large)</td><td>1,500 mg</td><td>600-800 mg</td><td>1,500-2,000 mg</td><td>15-20 mg/kg</td></tr><tr><td>76-100+ lb (giant)</td><td>1,500-2,000 mg</td><td>800-1,200 mg</td><td>2,000-2,500 mg</td><td>15-20 mg/kg</td></tr></tbody><tfoot><tr><td colspan="5">Loading phase (first 4-6 weeks): double the glucosamine/chondroitin dose, then taper to maintenance. Omega-3 figures refer to combined EPA+DHA, not total fish oil. Always confirm with your veterinarian before starting a regimen.</td></tr></tfoot></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>

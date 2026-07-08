@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-
+lastmod: 2026-07-08
 ---
 Your dog is overweight. You switched to a "weight management" kibble six months ago. Nothing happened. Maybe a pound down, maybe not even that.
 
@@ -38,14 +38,14 @@ High-protein diets work differently. Protein is thermogenic, meaning your dog's 
  <div class="vm-head">Protein & Calorie Comparison: Weight Loss Kibbles</div>
  <div class="vm-body">
  <p class="vm-intro">This table compares typical nutritional profiles across diet food categories to illustrate why label claims can be misleading, use dry matter protein as your true comparison metric.</p>
- <table><thead><tr><th>Food Category</th><th>Typical As-Fed Protein</th><th>Typical Dry Matter Protein</th><th>Calories (per cup)</th><th>Weight Loss Suitability</th></tr></thead><tbody><tr><td>Standard "Light" kibble</td><td>18–24%</td><td>20–27%</td><td>280–320</td><td>Poor: low protein promotes muscle loss</td></tr><tr><td>Premium weight management</td><td>26–30%</td><td>28–33%</td><td>250–300</td><td>Moderate: adequate protein but watch carb fillers</td></tr><tr><td>High-protein weight loss formula</td><td>32–38%</td><td>35–42%</td><td>300–360</td><td>Good: preserves muscle; requires strict portioning</td></tr><tr><td>Veterinary metabolic diet</td><td>28–35%</td><td>30–38%</td><td>240–290</td><td>Best: formulated for satiety + muscle retention</td></tr><tr><td>Raw/freeze-dried (rehydrated)</td><td>12–16% as-fed</td><td>40–55%</td><td>Varies widely</td><td>Variable: very high protein but hard to calorie-control</td></tr></tbody></table>
+ <table><thead><tr><th>Food Category</th><th>Typical As-Fed Protein</th><th>Typical Dry Matter Protein</th><th>Calories (per cup)</th><th>Weight Loss Suitability</th></tr></thead><tbody><tr><td>Standard "Light" kibble</td><td>18-24%</td><td>20-27%</td><td>280-320</td><td>Poor: low protein promotes muscle loss</td></tr><tr><td>Premium weight management</td><td>26-30%</td><td>28-33%</td><td>250-300</td><td>Moderate: adequate protein but watch carb fillers</td></tr><tr><td>High-protein weight loss formula</td><td>32-38%</td><td>35-42%</td><td>300-360</td><td>Good: preserves muscle; requires strict portioning</td></tr><tr><td>Veterinary metabolic diet</td><td>28-35%</td><td>30-38%</td><td>240-290</td><td>Best: formulated for satiety + muscle retention</td></tr><tr><td>Raw/freeze-dried (rehydrated)</td><td>12-16% as-fed</td><td>40-55%</td><td>Varies widely</td><td>Variable: very high protein but hard to calorie-control</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
 
 ## What "High Protein" Actually Means on a Dog Food Label
 
-The pet food industry isn't always your friend here. "High protein" is unregulated, so brands throw it around loosely. What you're actually looking for is a food where protein makes up at least 30% of the dry matter, ideally closer to 35–40% if your dog is sedentary or has significant weight to lose.
+The pet food industry isn't always your friend here. "High protein" is unregulated, so brands throw it around loosely. What you're actually looking for is a food where protein makes up at least 30% of the dry matter, ideally closer to 35-40% if your dog is sedentary or has significant weight to lose.
 
 The label trick: the guaranteed analysis lists percentages "as fed," which includes moisture. Canned food with 10% protein sounds worse than kibble with 32%, but the dry matter math might tell a different story. Here's how to check: subtract the moisture percentage from 100 to get dry matter, then divide the stated protein by that number. A canned food showing 8% protein and 78% moisture? That's 8 divided by 22, which equals about 36% dry matter protein. Genuinely good.
 
@@ -55,9 +55,9 @@ Named animal proteins should be the first ingredient or two. Chicken, beef, salm
 
 I want to be upfront: the research on whether any single brand outperforms others for canine weight loss is mixed. What I'm recommending here is based on formulation quality, ingredient sourcing, and what I've actually seen work clinically over thirteen years.
 
-**Orijen Original.** I bring this up most often. It's 38% protein (dry matter) with 85–90% animal ingredients, which is genuinely unusual in kibble. It runs around $100–120 for a 25-pound bag, and that price tag puts people off. But feed the correct amount for weight loss (which is almost always less than the bag suggests), and a bag lasts longer than you'd expect for a medium dog. The high protein density means smaller portions.
+**Orijen Original.** I bring this up most often. It's 38% protein (dry matter) with 85-90% animal ingredients, which is genuinely unusual in kibble. It runs around $100-120 for a 25-pound bag, and that price tag puts people off. But feed the correct amount for weight loss (which is almost always less than the bag suggests), and a bag lasts longer than you'd expect for a medium dog. The high protein density means smaller portions.
 
-**Merrick Grain-Free Real Chicken + Sweet Potato** costs closer to $60–70 for a large bag and hits around 34–36% dry matter protein. It's solid for dogs without specific protein sensitivities.
+**Merrick Grain-Free Real Chicken + Sweet Potato** costs closer to $60-70 for a large bag and hits around 34-36% dry matter protein. It's solid for dogs without specific protein sensitivities.
 
 For raw or freeze-dried options, **Stella & Chewy's Freeze-Dried Raw Dinner Patties** are worth serious consideration. Protein content is very high (often 40%+ dry matter) and ingredient lists are clean. The per-day cost can be steep for a large dog if you use it as the primary food, but some people use it as a kibble topper, getting those benefits at lower cost.
 
@@ -69,7 +69,7 @@ One caution: don't assume "grain-free" means "high protein." Some grain-free kib
 
 The biggest mistake I see isn't picking the wrong food. It's feeding the right food in the wrong amount.
 
-The feeding guides on bags are calibrated for active adult dogs at maintenance, not for weight loss. You're generally looking at feeding 60–80% of your dog's resting energy requirement (RER), not the bag recommendation. Your vet can calculate this specifically, and I'd really encourage you to get that number before starting. It varies a lot by breed, age, and body condition.
+The feeding guides on bags are calibrated for active adult dogs at maintenance, not for weight loss. You're generally looking at feeding 60-80% of your dog's resting energy requirement (RER), not the bag recommendation. Your vet can calculate this specifically, and I'd really encourage you to get that number before starting. It varies a lot by breed, age, and body condition.
 
 The practical tools: a kitchen scale (not a measuring cup, which is notoriously imprecise), a feeding log for the first few weeks, and a storage container with a measured scoop. Get a basic digital kitchen scale like an OXO Good Grips, around $15. It'll do more for your dog's weight loss than almost anything else you could buy.
 

@@ -23,7 +23,7 @@ faqs:
     a: "Your dog should stop scratching their ears, the discharge (if present) should decrease, and the smell should improve within two weeks of starting treatment and cleaning. If things aren't better by three weeks, the treatment or diagnosis might be wrong, call your vet."
   - q: "Is it dangerous to clean my dog's ears myself?"
     a: "No, as long as you use the right solution, don't use cotton swabs, and don't apply excessive pressure. The danger is in cleaning when you shouldn't (missing an infection that needs medication) or cleaning too aggressively (risking the eardrum). Follow your vet's specific instructions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 I thought my Golden Retriever's ears were fine until my vet showed me the inside of one during a routine check. Tan-colored wax buildup, a faint smell, no redness yet, but definitely heading in the wrong direction. That's the thing about dog ears that most owners miss: you can't see the problem until it's already advanced enough to cause discomfort.
@@ -124,8 +124,8 @@ The one product category I'd avoid is anything labeled as a "cleaner" that's als
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
 *Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
@@ -140,6 +140,6 @@ The one product category I'd avoid is anything labeled as a "cleaner" that's als
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

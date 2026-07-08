@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A single flea can lay up to 50 eggs per day. By the time you spot one flea on your dog, there's a good chance a few hundred eggs are already scattered through your carpet, bedding, and couch cushions. That's not a scare tactic. That's just flea biology, and it's exactly why prevention is so much easier than treatment. Ticks are a different kind of trouble, capable of transmitting Lyme disease, Rocky Mountain spotted fever, and ehrlichiosis, sometimes within 24 to 48 hours of attachment. The good news is that protecting your dog from both is genuinely straightforward once you understand your options and pick the right product for your situation.
 
@@ -143,7 +143,7 @@ The goal with flea and tick prevention is simple: pick a product appropriate for
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
-- **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price, 6-month supply.
+- **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23-44 lbs at a fraction of the prescription price, 6-month supply.
 
 *Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
 

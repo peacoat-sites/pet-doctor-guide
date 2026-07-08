@@ -23,7 +23,7 @@ faqs:
     a: "Go to an emergency vet immediately if your cat is vomiting blood, vomiting more than 3-4 times in a few hours, retching without producing anything, showing signs of weakness or collapse, has a swollen abdomen, or you know they ingested something toxic. Lily ingestion in particular is a genuine life-threatening emergency that cannot wait until morning."
   - q: "Can a cat throw up from stress or anxiety?"
     a: "Yes, absolutely. Cats are more sensitive to environmental stress than most people give them credit for. A new pet in the house, a move, construction noise, or even a change in your schedule can trigger acute vomiting. If the vomiting resolves when the stressor does, stress is a likely factor, but if it continues for more than a day or two, rule out a physical cause with your vet."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most cat owners have been there: it's 2 a.m., you're half asleep, and you step in something warm and wet in the dark hallway. Your cat looks up at you completely unbothered. You're the one having a crisis.
@@ -122,7 +122,7 @@ As of July 2026, more telehealth vet services exist than ever before, and honest
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 - **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
 
 
@@ -138,8 +138,8 @@ As of July 2026, more telehealth vet services exist than ever before, and honest
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32) — The #1 vet-recommended probiotic for dogs — prescribed to manage diarrhea, vomiting, and intestinal upset.
-- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32) — Multi-strain probiotic for both dogs and cats — supports digestive health and immune function.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
+- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
 

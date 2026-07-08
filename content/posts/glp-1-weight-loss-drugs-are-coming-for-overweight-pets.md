@@ -12,11 +12,11 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "glp-1-weight-loss-drugs-are-coming-for-overweight-pets"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If your cat is fat, there's finally something genuinely new to talk about. Not a prescription diet that requires military-grade portion discipline. Not a puzzle feeder. An actual drug, working the same biological pathway as Ozempic and Wegovy, designed specifically for your overweight pet.
 
-Two companies are moving fast. Akston Biosciences presented data on AKS-562c, a weekly injectable GLP-1 therapy for cats, at the ACVIM Forum in Seattle on June 11–13, 2026. Twelve weeks of treatment. No treatment-related toxicity. Reduced food intake. That's not a dramatic result, but in early-phase pharmaceutical research, "safe and it does the thing" is exactly what you need. Separately, OKAVA Pharmaceuticals has already launched MEOW-1, the first-ever GLP-1 clinical trial in cats or dogs, enrolling at least 50 overweight cats for a six-month subcutaneous implant called OKV-119. Results are expected mid-2026. This is happening now, not in some theoretical future.
+Two companies are moving fast. Akston Biosciences presented data on AKS-562c, a weekly injectable GLP-1 therapy for cats, at the ACVIM Forum in Seattle on June 11-13, 2026. Twelve weeks of treatment. No treatment-related toxicity. Reduced food intake. That's not a dramatic result, but in early-phase pharmaceutical research, "safe and it does the thing" is exactly what you need. Separately, OKAVA Pharmaceuticals has already launched MEOW-1, the first-ever GLP-1 clinical trial in cats or dogs, enrolling at least 50 overweight cats for a six-month subcutaneous implant called OKV-119. Results are expected mid-2026. This is happening now, not in some theoretical future.
 
 Here's why that matters: 61% of cats and 59% of dogs in the U.S. were classified as overweight or obese as of 2022, according to the Association for Pet Obesity Prevention. We have not moved the needle meaningfully on those numbers in years. Diet counseling and feeding guidelines work beautifully in theory and collapse in practice the moment a cat figures out how to stare at you with genuine moral authority at 4 a.m.
 

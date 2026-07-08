@@ -23,7 +23,7 @@ faqs:
     a: "A single episode of mild vomiting after a dose is worth noting but not necessarily cause to stop the medication immediately. Try giving the next dose with a small meal. If vomiting continues, or if you see blood in the vomit, dark tarry stools, or your dog stops eating, stop the medication and call your vet the same day."
   - q: "Can I use Rimadyl for my dog's pain if it was prescribed for a different condition?"
     a: "In theory you're using the same drug, but I'd call your vet first. Dosing, duration, and appropriateness vary by condition. What was prescribed for a 5-day post-op course might not be the right approach for, say, a new injury without an exam to rule out fractures or internal issues."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your dog has been limping for a few days, your vet just prescribed Rimadyl, and now you're sitting at home staring at the bottle trying to figure out exactly what you've agreed to put in your dog's body. That's a completely reasonable place to be, and I want to give you the kind of honest rundown I wish more people had before they started.
@@ -137,6 +137,6 @@ Never combine Rimadyl with other NSAIDs (including aspirin) or with corticostero
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

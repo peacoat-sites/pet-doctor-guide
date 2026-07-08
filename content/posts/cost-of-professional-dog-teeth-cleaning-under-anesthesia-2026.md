@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Last year, a client stormed into our clinic absolutely livid. She'd gotten a quote of $850 for her four-year-old beagle's dental cleaning, convinced we were running a scam. "It's just teeth cleaning," she said. "My dentist charges less than that." I spent ten minutes walking her through the line items, and by the end, she wasn't thrilled about the price, but she got it. That's what I'm doing here.
 
@@ -36,7 +36,7 @@ What most people don't realize is how little of that bill is actually "the clean
  <div class="vm-head">Cost Breakdown by Dog Size</div>
  <div class="vm-body">
  <p class="vm-intro">Procedure costs scale with body weight because larger dogs require more anesthesia, longer procedure times, and higher drug dosages-here's how that translates to your estimate.</p>
- <table><thead><tr><th>Dog Size</th><th>Weight Range</th><th>Anesthesia Time</th><th>Typical Cost Range (Routine Cleaning, No Extractions)</th><th>Key Cost Drivers</th></tr></thead><tbody><tr><td>Small</td><td>Under 20 lbs</td><td>45–60 min</td><td>$450–$800</td><td>Lower drug volume; often higher dental disease incidence (toy breeds), which may add extractions</td></tr><tr><td>Medium</td><td>20–50 lbs</td><td>60–75 min</td><td>$550–$1,000</td><td>Moderate drug/fluid requirements; baseline staffing needs</td></tr><tr><td>Large</td><td>50–90 lbs</td><td>75–90 min</td><td>$700–$1,300</td><td>Higher anesthesia volume; may require second tech for positioning</td></tr><tr><td>Giant</td><td>Over 90 lbs</td><td>90–120 min</td><td>$900–$1,800</td><td>Significantly more drugs, fluids, and monitoring time; specialized intubation equipment</td></tr></tbody></table>
+ <table><thead><tr><th>Dog Size</th><th>Weight Range</th><th>Anesthesia Time</th><th>Typical Cost Range (Routine Cleaning, No Extractions)</th><th>Key Cost Drivers</th></tr></thead><tbody><tr><td>Small</td><td>Under 20 lbs</td><td>45-60 min</td><td>$450-$800</td><td>Lower drug volume; often higher dental disease incidence (toy breeds), which may add extractions</td></tr><tr><td>Medium</td><td>20-50 lbs</td><td>60-75 min</td><td>$550-$1,000</td><td>Moderate drug/fluid requirements; baseline staffing needs</td></tr><tr><td>Large</td><td>50-90 lbs</td><td>75-90 min</td><td>$700-$1,300</td><td>Higher anesthesia volume; may require second tech for positioning</td></tr><tr><td>Giant</td><td>Over 90 lbs</td><td>90-120 min</td><td>$900-$1,800</td><td>Significantly more drugs, fluids, and monitoring time; specialized intubation equipment</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>

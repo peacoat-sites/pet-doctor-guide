@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dog's been drinking the toilet dry, dragging you outside at 3 a.m., and losing weight despite eating normally. Then the vet says the word "diabetes" and you're sitting in your car trying to figure out how you'll give insulin injections twice a day for the rest of his life. I've stood in that parking lot with enough terrified pet owners to know exactly what you're thinking: this is impossible. Here's what I tell every single one of them: it's not. It becomes routine faster than you'd expect. But first you need to understand what's actually happening.
 
@@ -32,7 +32,7 @@ Your dog's been drinking the toilet dry, dragging you outside at 3 a.m., and los
  <div class="vm-head">Blood Glucose Target Ranges Reference</div>
  <div class="vm-body">
  <p class="vm-intro">Use this quick-reference table to interpret your dog's glucose readings and know when to act.</p>
- <table><thead><tr><th>Glucose Reading (mg/dL)</th><th>Status</th><th>What You Should Do</th><th>Timing Context</th></tr></thead><tbody><tr><td>Below 60</td><td>Hypoglycemia (dangerous)</td><td>Give corn syrup or honey on gums immediately; call vet/emergency clinic</td><td>Any time</td></tr><tr><td>60–80</td><td>Low (caution zone)</td><td>Feed a small meal; recheck in 30 min; skip or reduce insulin dose only per vet protocol</td><td>Pre-insulin check</td></tr><tr><td>80–150</td><td>Ideal fasting range</td><td>Proceed with normal insulin and feeding routine</td><td>Pre-meal/pre-insulin</td></tr><tr><td>150–250</td><td>Acceptable post-meal</td><td>No action needed if within 2–4 hours of eating</td><td>Post-meal peak</td></tr><tr><td>250–400</td><td>Elevated (common early in regulation)</td><td>Continue current protocol; note for next vet review</td><td>Any time during regulation</td></tr><tr><td>Above 400</td><td>Poorly controlled</td><td>Contact vet within 24–48 hours for dose adjustment discussion</td><td>Persistent readings</td></tr><tr><td>Above 500 with vomiting/lethargy</td><td>Possible diabetic ketoacidosis</td><td>Emergency vet visit immediately</td><td>Any time</td></tr></tbody></table>
+ <table><thead><tr><th>Glucose Reading (mg/dL)</th><th>Status</th><th>What You Should Do</th><th>Timing Context</th></tr></thead><tbody><tr><td>Below 60</td><td>Hypoglycemia (dangerous)</td><td>Give corn syrup or honey on gums immediately; call vet/emergency clinic</td><td>Any time</td></tr><tr><td>60-80</td><td>Low (caution zone)</td><td>Feed a small meal; recheck in 30 min; skip or reduce insulin dose only per vet protocol</td><td>Pre-insulin check</td></tr><tr><td>80-150</td><td>Ideal fasting range</td><td>Proceed with normal insulin and feeding routine</td><td>Pre-meal/pre-insulin</td></tr><tr><td>150-250</td><td>Acceptable post-meal</td><td>No action needed if within 2-4 hours of eating</td><td>Post-meal peak</td></tr><tr><td>250-400</td><td>Elevated (common early in regulation)</td><td>Continue current protocol; note for next vet review</td><td>Any time during regulation</td></tr><tr><td>Above 400</td><td>Poorly controlled</td><td>Contact vet within 24-48 hours for dose adjustment discussion</td><td>Persistent readings</td></tr><tr><td>Above 500 with vomiting/lethargy</td><td>Possible diabetic ketoacidosis</td><td>Emergency vet visit immediately</td><td>Any time</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -65,7 +65,7 @@ Keep insulin refrigerated and roll it gently between your palms before injecting
 
 The first injection feels enormous. By the fifteenth, it takes about 45 seconds flat. Here's the breakdown:
 
-1. **Pull insulin from the fridge 10–15 minutes early** and let it warm slightly. Roll the vial gently between your palms about 10 times. Never shake it.
+1. **Pull insulin from the fridge 10-15 minutes early** and let it warm slightly. Roll the vial gently between your palms about 10 times. Never shake it.
 2. **Feed your dog his full meal first.** Don't inject a dog who hasn't eaten. If he refuses food, call your vet before you inject.
 3. **Draw the prescribed dose into the syringe.** U-40 syringes go with Vetsulin; U-100 syringes go with NPH. Wrong syringe equals dangerous dosing errors. Confirm which one you need with your vet.
 4. **Get comfortable.** Your dog can sit or stand. You don't need to wrestle him into submission.

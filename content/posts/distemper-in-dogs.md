@@ -23,7 +23,7 @@ faqs:
     a: "No. Canine distemper virus does not infect humans. Cats have their own separate distemper virus (feline panleukopenia), which is actually a parvovirus and entirely unrelated despite the shared name. The two viruses don't cross species. Your cat is not at risk from a dog with distemper."
   - q: "If my dog survives distemper, can they spread it to other dogs?"
     a: "Recovered dogs can shed the virus for several weeks after clinical recovery, which matters a lot if you have other dogs in the household. Current guidance generally recommends keeping a recovering dog isolated from unvaccinated or immune-compromised dogs for a minimum of several weeks post-recovery. Your vet can help you determine when it's safe to reintroduce your dog to others based on repeat testing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people think distemper is a disease from the past. Like polio in humans, they vaguely know it exists but assume vaccination wiped it out. I wish that were true. In my 13 years in small animal practice, I've watched two dogs come in with full-blown distemper, and both cases ended the same way. It's a brutal disease, and it does not negotiate.
@@ -116,6 +116,6 @@ One thing I'll be honest about: I don't have solid current data on how much wild
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

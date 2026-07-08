@@ -12,6 +12,7 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "tick-borne-diseases-are-spreading-into-new-us-regions-in-2026"
 affiliate_disclosure: true
+lastmod: 2026-07-08
 ---
 
 If you live in Minnesota, Georgia, Utah, or coastal Maine and you've never really stressed about tick-borne diseases in your pets, I need you to sit with this for a second: that assumption may now be genuinely dangerous. The Companion Animal Parasite Council released its 2026 Pet Parasite Forecast in March, and what surprised me most wasn't that tick ranges are shifting. It's how fast they're shifting, and how many pet owners in historically "safe" zones are heading into peak tick season with zero prevention in place.
@@ -78,7 +79,7 @@ The geography of risk in the United States is genuinely different in 2026 than i
 
 - **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Catit Flower Fountain — Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
+- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
 
 
 *Photo: [Giovanny  Vargas](https://www.pexels.com/@giovanny-vargas-1310043640) via Pexels*
@@ -93,8 +94,8 @@ The geography of risk in the United States is genuinely different in 2026 than i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[PetArmor Plus Flea & Tick Prevention — Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32) — Same active ingredient as Frontline Plus at a lower price — waterproof topical flea and tick prevention.
-- **[PetArmor Plus Flea & Tick Prevention — Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32) — Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price — 6-month supply.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
+- **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23-44 lbs at a fraction of the prescription price, 6-month supply.
 
