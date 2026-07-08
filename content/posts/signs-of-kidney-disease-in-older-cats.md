@@ -1,5 +1,5 @@
 ---
-title: "Signs Of Kidney Disease In Older Cats"
+title: "Is Your Older Cat Showing These Kidney Disease Warning Signs?"
 date: 2026-05-31T11:08:39.847463+00:00
 draft: false
 description: "Discover the key signs of kidney disease in older cats, including increased thirst, weight loss, and lethargy. Early detection can help protect your cats health"
@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your 14-year-old cat has been drinking water like she's training for a marathon. You noticed it a few weeks ago but chalked it up to the heat, or maybe a preference shift. Then you realized her litter box is suddenly full every single day, she's dropped weight without any diet change, and her coat looks a little dull. You Google "older cat drinking a lot of water" and three words keep coming up: chronic kidney disease. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. That number shocked me when I first encountered it in clinical literature. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.
 
