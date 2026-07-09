@@ -3,6 +3,9 @@ title: "Dog Breed Lifespan & Health Issues Chart"
 date: 2026-01-01
 draft: false
 description: "Average lifespan and the most common health issues for 18 popular dog breeds, so you know what to watch for and budget for over your dog's life."
+author: "Michelle Chen"
+author_slug: "michelle-chen"
+author_title: "Cat Behavior Expert"
 ---
 
 Every breed comes with a rough script: the conditions it's genetically predisposed to, and the lifespan you can reasonably plan around. Knowing that script early changes how you care for a dog. It tells you which screenings are worth doing, what pet-insurance is actually protecting against, and which early symptoms deserve a same-day vet call instead of a wait-and-see.
