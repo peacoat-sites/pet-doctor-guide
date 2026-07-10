@@ -3,7 +3,8 @@ title: "Dog Chocolate Toxicity Calculator — How Much Is Dangerous?"
 hide_title: true
 description: "Use our free chocolate toxicity calculator for dogs to estimate risk based on your dog's weight, the type of chocolate, and the amount eaten. Get immediate safety guidance."
 date: 2026-06-10
-author: "Becca Hamlin"
+author: "Dr. Amanda Foster"
+author_slug: "dr-amanda-foster"
 slug: "chocolate-toxicity-calculator-dogs"
 categories: ["Pet Safety"]
 tags: ["dog safety", "chocolate toxicity", "pet poison", "emergency vet"]

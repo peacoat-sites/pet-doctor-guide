@@ -5,7 +5,8 @@ date: 2026-06-10
 slug: "dog-age-human-years"
 description: "Use the new NIH epigenetic formula to convert your dog's age to human years. The old 7x rule is scientifically outdated - dogs age much faster when young."
 categories: ["Pet Care"]
-author: "Becca Hamlin"
+author: "Karen Lopez"
+author_slug: "karen-lopez"
 image: "https://images.pexels.com/photos/2958113/pexels-photo-2958113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
