@@ -1,0 +1,21 @@
+{
+  "question": "What pet health topic worries you most?",
+  "options": [
+    {
+      "label": "Nutrition and weight",
+      "votes": 264
+    },
+    {
+      "label": "Senior pet care",
+      "votes": 176
+    },
+    {
+      "label": "Vaccinations",
+      "votes": 118
+    },
+    {
+      "label": "Dental care",
+      "votes": 97
+    }
+  ]
+}
