@@ -25,7 +25,7 @@ faqs:
     a: "For anything on the 'go now' list: yes, you really need to go at 3 a.m. For anything in the middle-ground category, it depends on trajectory. Is your dog getting worse, holding steady, or improving? If they're stable or improving, a first-thing-in-the-morning urgent appointment may be appropriate. If they're declining, don't wait. Five hours is a long time when a condition is progressing."
 ---
 
-Most people get this wrong in the direction of waiting too long. Not because they don't care about their dog — obviously they do — but because emergency vet visits are expensive and scary, and our brains are really good at convincing us that things will probably be fine by morning. I've watched this play out hundreds of times over 13 years, and I'll be honest: the cases that haunt me aren't the ones where someone panicked over nothing. They're the ones where someone waited.
+Most people get this wrong in the direction of waiting too long. Not because they don't care about their dog, obviously they do, but because emergency vet visits are expensive and scary, and our brains are really good at convincing us that things will probably be fine by morning. I've watched this play out hundreds of times over 13 years, and I'll be honest: the cases that haunt me aren't the ones where someone panicked over nothing. They're the ones where someone waited.
 
 So let's get into what actually warrants a 2 a.m. drive to the emergency clinic, what can reasonably wait until your regular vet opens Monday, and how to tell the difference when your dog is acting weird and your anxiety is through the roof.
 
@@ -33,19 +33,19 @@ So let's get into what actually warrants a 2 a.m. drive to the emergency clinic,
 
 Some things are straightforward emergencies. Not "probably fine but maybe check it out." Drop everything and go.
 
-**Breathing difficulties.** Any dog struggling to breathe, breathing with their mouth open in a labored way (dogs don't pant when they're in respiratory distress — this looks different, more effortful, with neck extended), or making new wheezing or crackling sounds needs to be seen immediately. Oxygen deprivation causes irreversible damage fast.
+**Breathing difficulties.** Any dog struggling to breathe, breathing with their mouth open in a labored way (dogs don't pant when they're in respiratory distress, this looks different, more effortful, with neck extended), or making new wheezing or crackling sounds needs to be seen immediately. Oxygen deprivation causes irreversible damage fast.
 
 **Suspected bloat (GDV).** This one kills me because it's so easy to misread as an upset stomach. If your dog, especially a large or deep-chested breed, is repeatedly trying to vomit without producing anything, has a visibly distended abdomen, is restless and clearly uncomfortable, you may be looking at gastric dilatation-volvulus. The stomach literally rotates. Without surgery, most dogs die within hours. I've seen owners lose dogs to GDV because they thought it was just gas. Anyone who's owned a Great Dane or standard poodle should have this burned into their brain: unproductive retching plus bloated belly equals emergency clinic, no exceptions.
 
-**Seizures lasting more than two to three minutes, or cluster seizures.** A single brief seizure in a dog with a known seizure disorder may not be an emergency — but prolonged seizure activity causes brain damage and can be fatal. If you've never seen your dog seize before, go in. Period.
+**Seizures lasting more than two to three minutes, or cluster seizures.** A single brief seizure in a dog with a known seizure disorder may not be an emergency, but prolonged seizure activity causes brain damage and can be fatal. If you've never seen your dog seize before, go in. Period.
 
 **Collapse or sudden inability to use limbs.** This includes sudden paralysis of the back legs, which can signal intervertebral disc disease (IVDD) and requires immediate imaging to determine whether surgery is even an option. Time matters enormously here. A reader, Karen from Portland, messaged me last year after her dachshund suddenly stopped using his hind legs one Sunday afternoon. She almost waited until Monday. She didn't. He had emergency surgery that night and regained full function. That window closes.
 
-**Suspected toxin ingestion.** The ASPCA Animal Poison Control Center (888-426-4435, $95 consultation fee as of this year) is your first call, but don't let that call replace an emergency vet visit if they advise one. Common culprits: xylitol (in sugar-free gum and some peanut butters), grapes and raisins, rodenticides, certain mushrooms, and human medications. The tricky part is that some toxins have delayed symptoms — the dog seems fine for hours and then crashes. Don't wait for symptoms if you know ingestion happened.
+**Suspected toxin ingestion.** The ASPCA Animal Poison Control Center (888-426-4435, $95 consultation fee as of this year) is your first call, but don't let that call replace an emergency vet visit if they advise one. Common culprits: xylitol (in sugar-free gum and some peanut butters), grapes and raisins, rodenticides, certain mushrooms, and human medications. The tricky part is that some toxins have delayed symptoms, the dog seems fine for hours and then crashes. Don't wait for symptoms if you know ingestion happened.
 
 **Eye injuries or sudden vision loss.** Eyes are uniquely time-sensitive. Proptosis (eye popped from socket), deep lacerations, chemical exposure, or a dog that suddenly can't seem to see and is bumping into things needs emergency evaluation. Glaucoma causes permanent vision loss within hours if untreated.
 
-**Pale gums, collapse, or rapid weak pulse.** Pale, white, or bluish gums mean the dog isn't getting adequate circulation. This could be internal bleeding, heart failure, anemia from toxin exposure, or shock. Check your dog's gums regularly so you know what "pink and moist" looks like for them — it matters when you're panicking at midnight.
+**Pale gums, collapse, or rapid weak pulse.** Pale, white, or bluish gums mean the dog isn't getting adequate circulation. This could be internal bleeding, heart failure, anemia from toxin exposure, or shock. Check your dog's gums regularly so you know what "pink and moist" looks like for them, it matters when you're panicking at midnight.
 
 ## The middle zone (where it actually gets complicated)
 
@@ -75,13 +75,13 @@ Age, breed history, known medical conditions, and whether your dog "just seems o
 
 Don't spend more than four minutes on this. Stabilization first, information gathering second.
 
-Keep your dog calm and confined. If they're in pain, even the gentlest dog can bite — muzzle them if you have one. Restrain movement if you suspect a spinal injury. Don't give any medications unless poison control or your vet specifically instructs you to (hydrogen peroxide to induce vomiting, for example, is only appropriate in very specific situations and can cause serious harm otherwise).
+Keep your dog calm and confined. If they're in pain, even the gentlest dog can bite, muzzle them if you have one. Restrain movement if you suspect a spinal injury. Don't give any medications unless poison control or your vet specifically instructs you to (hydrogen peroxide to induce vomiting, for example, is only appropriate in very specific situations and can cause serious harm otherwise).
 
 Grab: any medication your dog takes, the packaging of anything they might have eaten, a leash and carrier or blanket for transport.
 
-Call ahead. Emergency clinics genuinely appreciate a heads up because it allows them to prepare — and they can give you instructions for transport or first aid in transit. If you're dealing with a possible toxin ingestion, call the ASPCA Poison Control line in the car on the way.
+Call ahead. Emergency clinics genuinely appreciate a heads up because it allows them to prepare, and they can give you instructions for transport or first aid in transit. If you're dealing with a possible toxin ingestion, call the ASPCA Poison Control line in the car on the way.
 
-A basic pet first aid kit (something like the Rayco International Pet First Aid Kit, around $25 on Amazon, though prices vary — the site may earn a small commission if you buy through our links) won't replace emergency care, but having gauze and bandaging material can help with active bleeding during transport.
+A basic pet first aid kit (something like the Rayco International Pet First Aid Kit, around $25 on Amazon, though prices vary, the site may earn a small commission if you buy through our links) won't replace emergency care, but having gauze and bandaging material can help with active bleeding during transport.
 
 ## The money conversation nobody wants to have but everyone needs to
 
@@ -113,7 +113,7 @@ Scenario: Seven-year-old male golden retriever showed labored breathing and relu
 *As an Amazon Associate this site earns from qualifying purchases.*
 
 - **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray — No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
+- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
 - **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
 
 
@@ -129,6 +129,6 @@ Scenario: Seven-year-old male golden retriever showed labored breathing and relu
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
