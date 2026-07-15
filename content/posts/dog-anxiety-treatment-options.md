@@ -155,3 +155,13 @@ Anxiety is one of the more treatable behavioral issues in dogs when you approach
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
 - **[Coping With Stress: A Therapy Self-Care Journal](https://www.amazon.com/dp/B085RPXGM6/?tag=contentportfo-20)** (~$10), Guided self-care journal for managing anxiety and depression, a low-cost tool to complement your therapy work.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+
