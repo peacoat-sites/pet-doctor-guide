@@ -98,22 +98,7 @@ If your dog has been in a boarding facility, dog park, groomer, or any high-dog-
 
 Most of the time, this symptom resolves on its own or with simple management. But "most of the time" isn't all the time, and knowing the difference is what I hope you're walking away with here. Trust your gut about your dog. You know what "off" looks like for them better than any article does.
 
-## Helpful Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
-- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
-
-*Photo: [Gorky Sinha](https://www.pexels.com/@gorky) via Pexels*
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -130,4 +115,3 @@ Most of the time, this symptom resolves on its own or with simple management. Bu
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
 - **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.
-

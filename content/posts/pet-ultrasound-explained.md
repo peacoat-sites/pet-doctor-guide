@@ -103,18 +103,6 @@ If your pet has ongoing health concerns, having a basic [pet first aid kit](http
 
 The goal of any diagnostic tool, ultrasound included, is simply to get you better information so you can make good decisions for your pet. It's not the scary thing in the room. It's actually one of the kinder ones: no needles, no radiation, just sound waves and a clear picture of what's going on inside. You've already done the hard part by paying attention and getting your pet to the vet. The rest is just information, and information is almost always better than not knowing.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
-
 ## Sources
 
 - [AAHA accreditation standards](https://www.aaha.org/)

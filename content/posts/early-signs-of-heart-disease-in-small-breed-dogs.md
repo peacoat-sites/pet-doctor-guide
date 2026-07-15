@@ -83,20 +83,6 @@ Keep a simple log at home: resting respiratory rates, when coughing occurs, any 
 
 The cough you're hearing, the slowing down you've noticed, the gut feeling that something's a little off. These aren't nothing. Small breed dogs are prone to heart disease in a way that other dogs simply aren't, and catching it before symptoms become severe genuinely changes what's possible. You know your dog. Trust what you're seeing, write it down, and say something at your next appointment.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-
-*Photo: [Alexey Demidov](https://www.pexels.com/@alexeydemidov) via Pexels*
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
-
 ## Sources
 
 - [ASPCA Poison Control Center's](https://www.aspca.org/pet-care/animal-poison-control)

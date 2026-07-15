@@ -79,20 +79,7 @@ The ASPCA Animal Poison Control Center has a pet loss support line (888-478-7574
 
 Somewhere in the middle of writing this, I thought about a lab named Otis whose owner I worked with for six months. She used the daily journal. She asked the hard question out loud. She made the call on a Tuesday afternoon in her backyard, with Otis in the grass in the sun. She told me later she was glad she didn't wait. That's what most families say, eventually. I hope it helps to hear that now, before you need it to.
 
-## Helpful Resources
-
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-
-*Photo: [Blue Bird](https://www.pexels.com/@blue-bird) via Pexels*
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -107,4 +94,3 @@ Somewhere in the middle of writing this, I thought about a lab named Otis whose 
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

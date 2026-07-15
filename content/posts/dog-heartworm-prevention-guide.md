@@ -113,23 +113,11 @@ If you ever suspect poisoning or have questions about drug interactions, the [AS
 
 Heartworm prevention is one of the simplest, most impactful things you can do for your dog's health. A monthly chewable or annual injection protects against a disease that costs a fortune to treat and leaves lasting damage to the heart and lungs. This isn't fear-mongering. It's giving your dog the best chance at a long, healthy life. Talk to your vet, get the test, set up prevention. That's the whole game.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
-*Photo: [Sudhir Sangwan](https://www.pexels.com/@sudhirsangwan) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

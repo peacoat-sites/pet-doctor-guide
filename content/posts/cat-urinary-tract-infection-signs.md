@@ -130,13 +130,6 @@ Having a decent pet first aid kit on hand is genuinely useful for cat owners man
 
 Urinary problems in cats sit in that frustrating space where some cases can legitimately wait until Monday morning, and others need you in the car right now. The key is knowing which is which. Paying close attention to your cat's litter box habits, acting fast when something looks wrong, and building a relationship with your vet ahead of a crisis, those three things will help you far more than any home remedy. If you're already seeing your vet regularly, her annual checkup is the perfect time to talk about urinary health proactively. Check out what a [cat annual vet visit typically covers](/cat-annual-vet-visit-what-to-expect/) so you know what questions to ask.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
@@ -148,8 +141,6 @@ Urinary problems in cats sit in that frustrating space where some cases can legi
 *Photo: [Felix Maltz](https://www.pexels.com/@ektra) via Pexels*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -163,4 +154,3 @@ Urinary problems in cats sit in that frustrating space where some cases can legi
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

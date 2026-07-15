@@ -106,8 +106,6 @@ If your dog is already on a grain-free diet and you're worried, don't panic and 
 
 Thirteen years in small animal practice has taught me that the best dog food is almost never the one with the best packaging. It's the one that fits your specific dog's age, health history, and metabolic needs, chosen with real information rather than marketing copy. Grain-free isn't a villain, and grains aren't a cop-out. The more useful question is always: what's actually in the bag, who made it, and does it suit this particular dog? Start there, loop in your vet, and ignore the wolf on the label.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

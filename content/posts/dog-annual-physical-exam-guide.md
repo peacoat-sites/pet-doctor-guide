@@ -97,18 +97,6 @@ Ask your vet directly: "Which of these does my dog's actual lifestyle warrant?" 
 
 The annual exam is one of the highest-value hours you'll spend on your dog's health. Not because something is always wrong, but because when something is developing quietly, this is how you find it while options are still wide open. Go in prepared, ask your questions, and push back if an exam feels rushed or incomplete. Your dog can't advocate for themselves in that room. That's your job, and it matters.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
-
 ## Sources
 
 - [the American Veterinary Medical Association (AVMA)](https://www.avma.org/)

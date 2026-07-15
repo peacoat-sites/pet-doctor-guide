@@ -89,21 +89,11 @@ The cases where owners declined x-rays due to cost and then returned two days la
 
 X-rays are one of those veterinary expenses that feels shocking in the moment and completely reasonable in hindsight, especially when the image shows exactly what was wrong. Knowing the cost landscape ahead of time, asking good questions before the stress hits, and having some financial buffer in place means you'll spend less energy on the money conversation and more on what actually matters: getting your animal the care they need.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -108,15 +108,6 @@ Your dog needs regular checkups, probably every three to four months once stable
 
 The learning curve is steep, and the first few weeks are genuinely hard. But I've watched hundreds of owners go from terrified in a parking lot to completely confident managing their dog's diabetes at home. The disease is serious and deserves your full attention. It's manageable. Your dog doesn't know his diagnosis, he just knows how he feels. With consistent care, he'll feel genuinely well for years.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
@@ -124,8 +115,6 @@ The learning curve is steep, and the first few weeks are genuinely hard. But I'v
 ---
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -105,23 +105,11 @@ Orthopedic dog beds aren't a supplement, but they belong in this conversation. A
 
 Your dog can't tell you where it hurts or whether the supplements are helping. That's the hardest part of this. But you're paying attention, you're asking questions. That matters more than you might think. The dogs who do best with arthritis management are almost always the ones whose owners are exactly where you are right now.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
-*Photo: [Alessandro Antonio Serra](https://www.pexels.com/@alessandro-antonio-serra-2148929360) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

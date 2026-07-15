@@ -100,23 +100,11 @@ On the behavioral side, socialization has a biological deadline. The primary soc
 
 Your puppy's first year is a sprint. It's more vet visits, more decisions, and more learning than most pet owners anticipate going in. But each one of those appointments builds the foundation for a healthy adult dog who you'll spend the next decade or more with. Keep a simple notebook or phone note tracking every vaccine date, product name, and parasite preventative given. That record becomes invaluable when you move, switch vets, or deal with a health issue down the line. You're already doing the right thing by looking this up now. That matters.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-
-*Photo: [Susanne Jutzeler, suju-foto](https://www.pexels.com/@suju) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

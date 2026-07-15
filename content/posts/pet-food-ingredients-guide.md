@@ -108,21 +108,11 @@ If you want a simple addition to support your pet's coat and joint health, a qua
 
 Pet food marketing is loud, and it's designed to make you feel certain choices are obviously superior without giving you tools to evaluate them yourself. The actual work is quieter: reading the label, knowing what you're looking for, and matching your pet's specific needs to what the food actually delivers. Your pet can't read the bag. You can. That's your whole advantage.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

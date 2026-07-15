@@ -114,21 +114,9 @@ Also: be honest about diet, treats, and what's accessible in your home. Indoor p
 
 Cat vomiting is one of those topics where context truly is everything. The same act can mean "she ate too fast again" or "this needs surgery today," and the difference lies in the details you observe. Trust your gut when something feels off. You know your cat's baseline better than anyone, and a vet visit that turns out to be unnecessary is always better than waiting too long on something that wasn't. If you're ever genuinely unsure, a quick call to your vet's office or an after-hours nurse line costs nothing and can give you real peace of mind.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-
-*Photo: [Alberta Studios](https://www.pexels.com/@iamabdullahsheik) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
 
 ## Sources
 

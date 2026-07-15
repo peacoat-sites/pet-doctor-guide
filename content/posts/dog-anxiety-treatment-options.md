@@ -134,23 +134,11 @@ If your dog is showing anxiety signs and you're not sure where to begin, here's 
 
 Anxiety is one of the more treatable behavioral issues in dogs when you approach it systematically. The worst thing you can do is wait and hope it resolves. The second worst is throwing money at supplements randomly without a clear plan. What actually works is understanding what you're dealing with, building a consistent strategy, and giving that strategy enough time. Your dog can get better. Many dogs do.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-
-*Photo: [K](https://www.pexels.com/@kelly) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -121,8 +121,6 @@ Probably yes. Annual bloodwork for cats 7 and older is standard care and catches
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)

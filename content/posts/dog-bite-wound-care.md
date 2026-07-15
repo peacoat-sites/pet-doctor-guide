@@ -121,23 +121,11 @@ The [AAHA hospital accreditation standards](https://www.aaha.org/) set the bar f
 
 Dog bites sit in an awkward middle zone. Common enough that people underestimate them, dangerous enough that the wrong call leads to a serious infection or a missed rabies exposure. The gap between "this is fine" and "this needed an ER" is often just a matter of location, timing, and the health status of the person bitten. Clean the wound immediately, assess it honestly, and don't let embarrassment or inconvenience delay care for something that genuinely warrants it. A dog bite that goes bad does so faster than most people expect.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

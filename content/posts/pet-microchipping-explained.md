@@ -99,8 +99,6 @@ Keeping a dedicated folder or binder with vaccine records, chip numbers, and vet
 
 If your pet isn't microchipped yet, the good news is that fixing that is one of the easiest things you'll ever do at a vet visit. It's fast. It's affordable. It's the kind of quiet, invisible protection you'll only fully appreciate if you ever need it. Do the chip. Register the chip. Update the registry when your life changes. That's really the whole thing.
 
-## Recommended Resources
-
 ## Sources
 
 - [hospital accreditation standards](https://www.aaha.org/)

@@ -75,8 +75,6 @@ Tell them how many times you've seen your cat attempt to urinate in the last 12 
 
 If cost is a concern (and it often is, this is real not shameful), say so directly. A vet who knows your budget can sometimes prioritize the most critical tests rather than a full workup. A urinalysis and blood pressure check is cheaper than a full senior panel, and for a first-time young cat with mild symptoms, it might be the right starting point.
 
-## Recommended Resources
-
 ## Sources
 
 - [The Pioneer Pet Raindrop fountain](https://www.amazon.com/s?k=Pioneer+Pet+Raindrop+cat+water+fountain&tag=contentportfo-20)

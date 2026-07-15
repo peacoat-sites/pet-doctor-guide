@@ -84,21 +84,9 @@ Keep a simple log. Date, duration of symptoms, anything unusual in the environme
 
 Have a rescue plan. Talk to your vet about what to do if your cat has a severe episode outside of clinic hours. Know where your nearest emergency vet is. If your vet prescribes an albuterol rescue inhaler, make sure you know how to use it before you need it, not during a crisis.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
-*Photo: [Mahmoud Yahyaoui](https://www.pexels.com/@mahmoud-yahyaoui) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
 
 ## Sources
 

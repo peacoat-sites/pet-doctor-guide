@@ -87,24 +87,11 @@ When you do talk to your vet, ask specifically for a body condition score on a 9
 
 Watching a dog get to a healthy weight is genuinely one of the more satisfying things in this work. It's not fast, usually four to six months of consistency, and it requires tolerating a dog who'll give you the most pitiful hungry eyes ever. But the payoff is real: better mobility, less joint stress, a longer projected lifespan. Get the protein right, get the portions right, and you've done the hard part.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-
-
-*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

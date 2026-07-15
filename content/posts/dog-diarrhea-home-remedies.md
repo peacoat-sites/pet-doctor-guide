@@ -118,23 +118,11 @@ That information helps your vet triage the call and decide whether it's a "come 
 
 Mild diarrhea is one of those things every dog owner deals with eventually, usually more than once. Having a plan before 10 p.m. on a Sunday makes the whole experience less stressful for both of you. Stock your pantry with plain canned pumpkin and a quality probiotic, know your emergency vet's number, and trust your gut when something feels off. You know your dog. When in doubt, call.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-
-*Photo: [Timo Piredda](https://www.pexels.com/@timo-piredda-373061) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

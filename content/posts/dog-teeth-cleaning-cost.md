@@ -107,23 +107,11 @@ Some areas have low-cost veterinary clinics through humane societies or veterina
 
 Dental disease is the most common condition I see go unaddressed until it becomes genuinely painful and expensive. The dogs can't tell you their teeth hurt. They just stop playing tug, get a little quieter, eat a little slower, and their owners often chalk it up to aging. Sometimes it is. Sometimes it's a mouth full of problems that could have been managed earlier for a fraction of the cost and none of the suffering. The investment in a cleaning now, and in daily brushing starting tonight, is almost always worth it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
-*Photo: [Ivan Babydov](https://www.pexels.com/@babydov) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

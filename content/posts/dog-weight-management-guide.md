@@ -108,8 +108,6 @@ You might also consider a quality joint supplement if your overweight dog is alr
 
 Weight management is one of the few things you can do for your dog that has a measurable, meaningful impact on both how long they live and how good those years feel. It's not glamorous. It involves saying no to the begging face and actually measuring food every single day. But I've watched dogs go from barely being able to get up off the floor to trotting around a yard again after losing 15% of their body weight. The change is real and it's worth the effort. Your dog can't make these choices for himself. You're the one who can.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

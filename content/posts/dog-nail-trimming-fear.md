@@ -79,23 +79,11 @@ One more thing: if your dog's nails are already very long, meaning they're touch
 
 The dogs I've seen make the most progress with nail fear aren't the ones whose owners powered through it. They're the ones whose owners slowed all the way down, treated it seriously, and stopped measuring success by whether nails got trimmed that day. Give your dog some credit. They're not being dramatic. They're scared. Work with that, and you'll get somewhere.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

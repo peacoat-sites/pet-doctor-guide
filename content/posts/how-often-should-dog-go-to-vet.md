@@ -136,17 +136,6 @@ For older dogs showing joint stiffness, supporting them at home with vet-approve
 
 The relationship between you, your dog, and your vet works best when it's consistent and proactive. You know your dog better than anyone else. Your vet has the training to interpret what you're seeing. Those two things together are genuinely powerful for keeping your dog healthy as long as possible. Don't wait for something to go wrong.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
-
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
@@ -154,8 +143,6 @@ The relationship between you, your dog, and your vet works best when it's consis
 ---
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

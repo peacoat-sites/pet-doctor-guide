@@ -103,8 +103,6 @@ Almost nothing in your medicine cabinet is safe for cats. No Sudafed, no Benadry
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
@@ -118,4 +116,3 @@ Almost nothing in your medicine cabinet is safe for cats. No Sudafed, no Benadry
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

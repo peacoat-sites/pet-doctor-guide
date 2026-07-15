@@ -121,21 +121,9 @@ Keeping ear infections from coming back is about addressing risk factors, not ma
 
 Ear infections are uncomfortable and sometimes painful for your dog, but they're genuinely treatable when caught and addressed correctly. The difference between a dog that clears up cleanly after one round of treatment and a dog that cycles through infections for years usually comes down to how thoroughly the first infection was worked up and whether the follow-through happened. Take the recheck seriously. Address the underlying cause if your vet identifies one. Trust your nose: if the ear smells wrong, something is wrong.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-
-*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
 
 ## Sources
 

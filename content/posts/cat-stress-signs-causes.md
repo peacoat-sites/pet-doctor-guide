@@ -108,8 +108,6 @@ For cats with significant anxiety, your vet may discuss medications like gabapen
 
 Stress in cats is real, it's common, and it's treatable. The goal isn't to bubble-wrap your home or panic at every hiss. It's to know your cat well enough to notice when something is genuinely off, understand what might be driving it, and take appropriate action without either dismissing it or catastrophizing. You've clearly got the first part handled. Trust that instinct, and don't hesitate to bring in your vet when the picture isn't clear.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

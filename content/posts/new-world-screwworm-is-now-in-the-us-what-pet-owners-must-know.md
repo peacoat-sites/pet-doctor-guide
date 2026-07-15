@@ -69,25 +69,8 @@ Most veterinarians practicing today trained without ever diagnosing this parasit
 - [Click2Houston, Can Your Dog or Cat Get Screwworm?](https://www.click2houston.com/news/local/2026/06/09/can-your-dog-or-cat-get-screwworm-heres-what-experts-say-about-the-risk-to-pets-and-people/) (June 9, 2026)
 - [USDA APHIS, Screwworm.gov](https://www.aphis.usda.gov/animals/animal-health/livestock-and-poultry-disease/stop-screwworm) (June 2026, ongoing)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-
-*Photo: [Lisa from Pexels](https://www.pexels.com/@fotios-photos) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
-
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32). Vet-approved 95-piece kit for dogs and cats covering cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36). The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

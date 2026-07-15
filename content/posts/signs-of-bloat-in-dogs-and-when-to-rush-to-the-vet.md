@@ -107,8 +107,6 @@ The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-c
 
 Trust your gut about your dog. You know what "normal" looks like for them. If something feels wrong and you can't shake it, that's worth a phone call to an emergency line, even just to describe what you're seeing. A good emergency clinic would rather talk you through it than have you wait too long.
 
-## Recommended Resources
-
 ## Sources
 
 - [AAHA hospital accreditation standards](https://www.aaha.org/)

@@ -126,23 +126,11 @@ The weight check deserves special attention. A 10-pound weight loss in a 70-poun
 
 The dogs who age most gracefully aren't necessarily the ones with the best genetics or the most expensive care. They're the ones whose owners noticed the small changes, asked good questions, and adjusted thoughtfully without waiting for a crisis. Your job isn't to reverse aging. It's to make sure your dog's later years are genuinely good ones, full of comfort, engagement, and the kind of quiet daily joy that old dogs do better than anyone.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-
-*Photo: [Griffin Wooldridge](https://www.pexels.com/@griffinw) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

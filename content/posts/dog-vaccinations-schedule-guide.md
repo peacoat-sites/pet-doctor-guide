@@ -111,23 +111,11 @@ For senior dogs, the conversation around vaccines becomes more nuanced. Some ger
 
 Getting vaccinations right isn't about blindly following a generic checklist. It's about understanding the reasoning behind the schedule, being honest with your vet about your dog's actual lifestyle, and staying consistent through adulthood, not just the puppy months. The science behind canine vaccines is solid, and the diseases they prevent are genuinely awful. Your dog can't advocate for herself. That's what you're there for.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-
-*Photo: [freestocks.org](https://www.pexels.com/@freestocks) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

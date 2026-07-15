@@ -130,23 +130,11 @@ If your dog's symptoms include vomiting alongside the skin issues, check out our
 
 Living with an allergic dog is genuinely challenging, and I won't pretend otherwise. But it's also manageable, often very well, once you identify the trigger and find the right combination of treatments. The key is not to spin your wheels guessing when a proper diagnosis can give you a real roadmap. If your dog has been uncomfortable for weeks, that's not a "wait and see." That's a Tuesday appointment at the clinic.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-
-*Photo: [Anastasia Lashkevich](https://www.pexels.com/@immortelleana) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -127,24 +127,11 @@ For dogs who show limping as part of their presentation, the guide on [dog limpi
 
 Managing a dog with arthritis is a long game. There will be medication adjustments, better months and harder ones, and ongoing decisions about quality of life. But the dogs I've seen do best are the ones whose owners caught the signs early, advocated loudly at the vet clinic, and committed to the full picture: pain management, weight control, physical support, and home modifications working together. Your dog can't tell you he's hurting. That's on you, watching closely enough to figure it out anyway, and then doing something about it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-
-
-*Photo: [Alexandre P. Junior](https://www.pexels.com/@alexandrep-junior) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -85,8 +85,6 @@ For dogs with chronic findings that need monitoring, glucose, protein, or dilute
 
 A urinalysis is one of those tests that looks simple from the outside and turns out to be quietly sophisticated once you understand what's being measured. The more you know about what your vet is looking at and why, the better partner you can be in your dog's care. If something in your dog's results has you confused, write down your specific questions before the appointment. Ask what the number means, what the next step is if it stays elevated, and what signs at home should prompt a call. A good vet wants you asking those questions.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

@@ -120,8 +120,6 @@ New kitten owners often err in one of two directions: they panic over normal kit
 
 The first year is a lot of appointments, some needle sticks, a surgery, and a few moments where you'll Google something at 2 a.m. and convince yourself the worst is happening. But here's what I know after 13 years of watching kittens grow up: the owners who stay on schedule, ask questions without embarrassment, and build a real relationship with their vet during this first year end up with healthier adult cats and far fewer expensive surprises later. Start right, and you're already ahead.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

@@ -107,21 +107,11 @@ The difference in what gets tested matters. For a healthy 3-year-old with no sym
 
 Blood work isn't something to dread. It's one of the kindest things you can do for a dog who can't tell you something's wrong. The results give your vet, and you, the information to catch problems early, make smarter decisions, and sometimes prevent a crisis entirely. If you're unsure about anything your vet has recommended or any result you've received, ask for clarification. Ask again if you need to. Don't leave the appointment more confused than when you walked in. You're your dog's advocate. That's exactly as it should be.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

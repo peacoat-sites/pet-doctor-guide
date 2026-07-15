@@ -84,8 +84,6 @@ For longer trips, check in on your cat at stops. If you see labored breathing, e
 
 Keep [the ASPCA Poison Control Center number](https://www.aspca.org/pet-care/animal-poison-control) saved on your phone: (888) 426-4435. If anything about your cat's response looks wrong, you want that number accessible without searching.
 
-## Recommended Resources
-
 ## Sources
 
 - [the ASPCA Poison Control Center number](https://www.aspca.org/pet-care/animal-poison-control)

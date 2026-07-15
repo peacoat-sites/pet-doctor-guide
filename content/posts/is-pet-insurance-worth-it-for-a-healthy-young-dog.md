@@ -110,23 +110,11 @@ And if you're not buying insurance, put $100 a month into a dedicated pet emerge
 
 Pet insurance won't make financial sense for every single owner in every situation. But an uninsured young dog is a financial liability you're holding entirely yourself, and most people dramatically underestimate what a single bad week at the emergency vet costs. The time to think it through is before the corn cob, not after.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
-*Photo: [Dogs Devotion](https://www.pexels.com/@dogs-devotion-452612438) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

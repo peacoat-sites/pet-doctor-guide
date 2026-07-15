@@ -101,8 +101,6 @@ Everything else, the occasional tapeworm segment, a single episode of vomiting w
 
 Here's where I land after all this: the "deworm your cat every month no matter what" advice you'll find in some older resources is outdated for low-risk indoor adult cats. But "indoor cats don't need deworming" is equally wrong and potentially harmful. The right answer is somewhere in the middle, built on actual testing and actual knowledge of your cat's specific risk factors. Less satisfying than a simple schedule, but a lot closer to the truth.
 
-## Recommended Resources
-
 ## Sources
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)

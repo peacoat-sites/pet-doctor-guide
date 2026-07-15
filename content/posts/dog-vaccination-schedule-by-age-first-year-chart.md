@@ -112,23 +112,11 @@ If your dog has a moderate reaction (hives, slight swelling but acting okay), yo
 
 The first year of puppy vaccines is one of those things that feels overwhelming until you understand the reasoning, and then it makes complete sense. You're not going through a bureaucratic checklist. You're catching a window in your puppy's immune development that closes at 16 weeks and doesn't open again. Getting the timing right is worth the extra trips to the clinic, the copays, the Tuesday afternoon you had to rearrange. Your puppy is going to live 10 to 15 years. This is four months of appointments, and it matters more than any other four months of veterinary care they'll ever receive.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -110,21 +110,11 @@ If something is abnormal, ask specifically: "What do we watch for at home?" and 
 
 Senior bloodwork isn't about finding something wrong. It's about knowing your pet well enough to catch something early, when there's actually room to act. The pets I've seen do best in their final years are almost always the ones whose owners started paying close attention at 7 or 8, before there was any obvious reason to worry. That proactive window is worth protecting.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

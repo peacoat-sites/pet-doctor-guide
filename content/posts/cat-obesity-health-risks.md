@@ -104,21 +104,11 @@ PetMD's veterinary resource library has detailed breed-specific body condition g
 
 Helping a cat lose weight is a long game, typically six months to a year for meaningful progress. It requires consistency, patience, and a willingness to adjust when things aren't working. Your veterinarian is your most important partner here. Get a plan, stick to it, and know that every small change compounds. Your cat can't read a nutrition label or make a doctor's appointment. That's entirely your job, and taking it seriously might genuinely add years to her life.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

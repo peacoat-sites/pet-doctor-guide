@@ -121,17 +121,6 @@ Suspect your cat ate something toxic causing neurological or behavioral changes 
 
 Most litter box problems are fixable. Cats end up in shelters over this because owners ran out of patience before finding the real cause. Take a systematic approach, get your vet involved early, and stop assuming your cat's being willfully difficult. They're not. They're trying to tell you something, and it's worth listening.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-
-
-*Photo: [Oleksandr Brovko](https://www.pexels.com/@oleksandr-brovko-246989204) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
@@ -139,8 +128,6 @@ Most litter box problems are fixable. Cats end up in shelters over this because 
 ---
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

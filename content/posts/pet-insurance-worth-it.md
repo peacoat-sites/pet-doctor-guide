@@ -126,8 +126,6 @@ That said, combining a lean insurance policy with a clinic-based wellness plan c
 
 Veterinary medicine has advanced enormously. The treatments available today can genuinely save and extend lives. But they cost real money, often in moments when you have no time to prepare. Pet insurance won't cover everything, and no policy is perfect. But having one often means the difference between making a medical decision and making a financial one. Those should never be the same thing. Talk to your vet about what risks are realistic for your specific pet, do your homework on at least three policies, and enroll while your animal is young and healthy. You'll probably be glad you did.
 
-## Recommended Resources
-
 ## Sources
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)

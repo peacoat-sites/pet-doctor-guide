@@ -123,24 +123,11 @@ Rescue dogs and adult adoptees may arrive with unknown dental histories. A basel
 
 Dental disease is one of the most preventable chronic conditions in dogs, and yet it's also one of the most consistently undertreated. You don't have to be perfect about it. Even brushing three times a week and scheduling a cleaning when your vet recommends one puts your dog in dramatically better shape than most pets. Start where you are, build the habit gradually, and your dog's mouth will thank you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)**
-
-
-*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

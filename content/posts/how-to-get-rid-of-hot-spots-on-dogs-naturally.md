@@ -121,20 +121,6 @@ For more context on typical home care versus when to escalate, [PetMD's veterina
 
 The first time I successfully managed a hot spot at home without panicking was on my neighbor's Lab mix, about eight years ago. We clipped the fur, cleaned it properly, put on an e-collar, and it was clearly drying up within two days. Her owner kept saying "I can't believe that's all it took." But that's the thing about hot spots: the basics done correctly actually work. The hard part is resisting the urge to either do too much or wait too long.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-
-*Photo: [José Manuel Ramírez Brenis](https://www.pexels.com/@jose-manuel-ramirez-brenis-2148556734) via Pexels*
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
-
 ## Sources
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)

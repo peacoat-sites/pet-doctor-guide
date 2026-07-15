@@ -90,23 +90,11 @@ Joint supplements like glucosamine and omega-3 fatty acids won't fix instability
 
 One last thing about the other leg: 40-60% of dogs who tear one CCL will tear the other within two years, according to studies. Keep that dog at a healthy weight, forever. Every extra pound is compressive load on a joint that's already been through something.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-
-*Photo: [Andreas Schnabl](https://www.pexels.com/@andreas-schnabl-1775843) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

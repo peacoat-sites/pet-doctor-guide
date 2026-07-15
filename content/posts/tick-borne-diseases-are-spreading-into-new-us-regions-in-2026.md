@@ -73,29 +73,8 @@ The geography of risk in the United States is genuinely different in 2026 than i
 - [Year-round threat: 2026 Pet Parasite Forecast shows rising tick risk (Auburn University CVM)](https://www.vetmed.auburn.edu/blog/cvm-news/year-round-threat-2026-pet-parasite-forecast-shows-rising-tick-risk/) (May 11, 2026)
 - [Growing risk of pet parasites means year-round prevention essential, CAPC says (AVMA)](https://www.avma.org/news/growing-risk-pet-parasites-means-year-round-prevention-essential-capc-says) (April 20, 2026)
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)**
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
-
-*Photo: [Giovanny  Vargas](https://www.pexels.com/@giovanny-vargas-1310043640) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
-- **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23-44 lbs at a fraction of the prescription price, 6-month supply.
-

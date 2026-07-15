@@ -23,8 +23,6 @@ Here's what matters: readiness isn't fixed. It grows. And the right pet for your
 
 Start with our beginner guides on choosing a species, [budgeting for care](/cat-kidney-disease-diet/), and prepping your home. When you're getting close to deciding, talk to a veterinarian you trust. They can walk through the specifics for your situation and catch things you might miss.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

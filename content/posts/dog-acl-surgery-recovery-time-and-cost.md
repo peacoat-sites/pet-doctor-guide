@@ -104,24 +104,11 @@ Most comprehensive pet insurance policies cover TPLO and other CCL repairs as lo
 
 Six months from now, most dogs who've gone through TPLO are running around like nothing happened. That's genuinely true, and worth holding onto when you're two weeks post-op and your dog is losing his mind in a crate and you're second-guessing every decision. The hard part is finite. The recovery is real work, and it costs real money, but dogs come out the other side of this all the time.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)**
-
-
-*Photo: [Masood Aslami](https://www.pexels.com/@masoodaslami) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

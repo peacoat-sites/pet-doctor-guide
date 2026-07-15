@@ -105,23 +105,11 @@ Mental health matters too. Bored, under-stimulated pets are more prone to anxiet
 
 The single most useful thing I can tell you is this: don't let cost shame keep you from getting your pet seen. Most of the options above are genuinely good, and veterinary professionals across the country built them specifically because they understand the barrier is real. Look up your options before there's a crisis, keep a basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) on hand for minor issues, and don't wait until a small problem becomes an expensive one. The information is out there. You just needed someone to lay it out clearly.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

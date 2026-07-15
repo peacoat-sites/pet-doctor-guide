@@ -101,8 +101,6 @@ That said, trust your gut. Pet owners who spend every day with their animals oft
 
 Nobody wants to be the person Googling "emergency vet near me" at midnight. But the people who handle those moments best are the ones who went in with a little knowledge already in their pocket: what the gum color means, what GDV looks like, when to drive versus when to call. You don't have to be a vet tech to make a smart, fast decision when your pet needs you most. You just have to know what to look for. And now you do.
 
-## Recommended Resources
-
 ## Sources
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)

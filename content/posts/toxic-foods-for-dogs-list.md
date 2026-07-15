@@ -139,8 +139,6 @@ The honest takeaway from going deep on this topic is that the stakes are genuine
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)

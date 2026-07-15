@@ -125,18 +125,6 @@ When in doubt, treat it as an emergency. In my 13 years of practice, I've never 
 
 If your dog is showing signs right now and you've been reading this hoping something will tell you it's probably fine, I want to be honest: don't wait. Get in the car. Bloat is the condition that rewards fast action more than almost anything else we see in veterinary medicine, and the dogs who do best are the ones whose owners trusted their gut and went. Trust yours.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-- **[Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)**
-
-*This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
-
 ## Sources
 
 - [A good slow feeder bowl](https://www.amazon.com/s?k=slow+feeder+dog+bowl+large+breed)

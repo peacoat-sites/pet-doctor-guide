@@ -114,8 +114,6 @@ One more thing: if you've been giving Benadryl for more than a few days and you'
 
 If there's one thing I want you to take from all this, it's that Benadryl is a reasonable, vet-approved tool for mild allergic reactions in dogs, but it has limits. Know your dog's weight, check that label carefully, and if things look like more than garden-variety allergies, don't second-guess yourself about going in. Your instincts about your own pet are usually right.
 
-## Recommended Resources
-
 ## Sources
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)

@@ -119,8 +119,6 @@ Acknowledging these things doesn't argue against spaying and neutering. For most
 
 The decision to spay or neuter your pet is almost always the right one, but the timing and specifics deserve more than a default appointment. Push your vet for the individualized conversation your animal deserves, ask about current research on large breed timing if it applies, and go into surgery day knowing exactly what recovery looks like and what would send you back in. That's how you get the full benefit and avoid the avoidable complications.
 
-## Recommended Resources
-
 ## Sources
 
 - [PetMD's veterinary resource library](https://www.petmd.com/)

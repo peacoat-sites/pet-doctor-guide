@@ -71,8 +71,6 @@ Don't leave without a clear answer on the next appointment. Preventive care is w
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

@@ -73,8 +73,6 @@ Anti-inflammatory medications, prescription-grade like meloxicam or carprofen, a
 
 For a puppy who's going to manage this long-term, an orthopedic dog bed makes a real difference. Memory foam, firm support, ideally with a low entry so they're not having to step up. This kind of supportive orthopedic bed is one of the lower-cost things that genuinely helps day-to-day comfort.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

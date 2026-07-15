@@ -143,21 +143,9 @@ If you want to redirect your cat's chewing urges, cat grass kits or catnip plant
 
 You don't have to get rid of every plant in your home. Plenty of beautiful, low-maintenance plants are perfectly safe for cats. But the few that aren't? They're genuinely dangerous, and the consequences of a wrong assumption are severe. Miso's owner didn't know. Now you do. Take an hour this week, check your plants against a reliable toxin database, and make the swaps where it matters. Your cat can't read the labels. That job belongs to you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)**
-
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
-## Recommended Resources
 
 ## Sources
 

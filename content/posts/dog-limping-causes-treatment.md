@@ -111,8 +111,6 @@ That last one matters more than people realize. In my experience, a fair number 
 
 Watching your dog struggle to walk is genuinely hard. The good news is that most limping in dogs is treatable, and many causes respond very well when caught and addressed early. Trust your gut: if something looks seriously wrong, don't wait. If it looks minor, give it 24-48 hours of real rest and keep a close eye on things. And when you do talk to your vet, bring the details. You know your dog better than anyone, and that knowledge is genuinely useful in the exam room.
 
-## Recommended Resources
-
 ## Sources
 
 - [PetMD's veterinary resource library](https://www.petmd.com/)

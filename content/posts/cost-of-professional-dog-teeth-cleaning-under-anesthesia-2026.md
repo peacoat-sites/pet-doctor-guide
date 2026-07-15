@@ -97,24 +97,11 @@ At home, daily tooth brushing with veterinary enzymatic toothpaste (Virbac CET, 
 
 That beagle owner? She went ahead with the cleaning. The radiographs showed two teeth with significant root resorption that would never have shown up on a visual exam alone. Both came out. Her dog, who she'd described as "a little less playful," was back to normal within a week. She cried when she called me. The final bill was $1,100. She said it was worth it. I'm not promising it'll always be this clear-cut. But that's what the money actually buys.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)**
-- **[Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)**
-- **[FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)**
-
-
-*Photo: [Alexas Fotos](https://www.pexels.com/@alexasfotos) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

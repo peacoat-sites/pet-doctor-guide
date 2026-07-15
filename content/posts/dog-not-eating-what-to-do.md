@@ -138,8 +138,6 @@ For dogs who are genuinely healthy but selective, the fix usually involves some 
 
 Most dogs who skip a meal are fine by the next morning, and you'll look back and feel slightly silly for worrying. That's a good outcome. The ones I worry about are the owners who dismissed two or three days of not eating because the dog "seemed okay otherwise," only to arrive at the clinic with a problem that had quietly been building. Trust your gut. You know your dog's normal better than anyone, and when something feels off, it's always okay to make the call.
 
-## Recommended Resources
-
 ## Sources
 
 - [EVERLIT's 95-piece vet-approved kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)

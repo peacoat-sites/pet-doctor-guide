@@ -135,8 +135,6 @@ Talk to anyone who spends time with your dog. Grandparents, neighbors, dog sitte
 
 The honest truth is that knowing what to do in these first few minutes can genuinely change the outcome. Not because home treatment saves the day, but because getting the right help fast enough does. Keep the ASPCA Poison Control number saved in your phone right now, before you need it: (888) 426-4435. You'll be glad it's there.
 
-## Recommended Resources
-
 ## Sources
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)

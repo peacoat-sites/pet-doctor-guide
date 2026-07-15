@@ -104,8 +104,6 @@ The clients who end up with the highest vet bills long-term are the ones who def
 
 The goal isn't to spend as little as possible on your dog's health. It's to spend wisely, understand what you're paying for, and not get blindsided by a bill that was entirely predictable. A little preparation before the visit, a willingness to ask direct questions about cost and priority, and a basic understanding of what "routine" actually includes puts you in control of the conversation. Your vet wants to help your dog. Your job is to make sure you can afford to keep showing up.
 
-## Recommended Resources
-
 ## Sources
 
 - [Check with your vet first before purchasing elsewhere](https://www.petmd.com/)

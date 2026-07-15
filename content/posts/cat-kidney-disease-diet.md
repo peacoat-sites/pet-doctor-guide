@@ -103,19 +103,11 @@ For general context on what gets evaluated at checkups and why it matters for ma
 
 Managing a CKD cat is a long game, and the diet piece genuinely makes a difference. It won't always be simple, and there will be weeks where your cat won't touch the prescribed food and you're improvising. That's real, and it doesn't mean you're failing. It means you're managing a chronic disease in a small creature who has opinions. Stay in close contact with your vet, get bloodwork done on schedule, and don't hesitate to push for a referral to a veterinary internal medicine specialist if you're hitting walls. Your cat has more time with the right support.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
