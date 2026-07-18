@@ -9,3 +9,7 @@
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
 /dr.-amanda-foster/ /dr-amanda-foster/ 301
+
+# 2026-07-18 duplicate-topic merges
+/new-guidelines-just-changed-how-vets-treat-cat-diabetes/ /new-aaha-guidelines-just-changed-how-vets-treat-cat-diabetes/ 301
+/new-world-screwworm-is-now-in-the-us-what-pet-owners-must-know/ /new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/ 301
