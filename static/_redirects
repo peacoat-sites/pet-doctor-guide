@@ -5,3 +5,7 @@
 
 # 2026-07-17 slug-change 301s (GSC 404 cleanup)
 /cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026/ /cost-of-professional-dog-teeth-cleaning-under-anesthesia/ 301
+
+# 2026-07-18 structural cleanup 301s
+/author/ /about/ 301
+/dr.-amanda-foster/ /dr-amanda-foster/ 301
