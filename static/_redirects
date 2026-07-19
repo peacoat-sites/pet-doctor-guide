@@ -13,3 +13,22 @@
 # 2026-07-18 duplicate-topic merges
 /new-guidelines-just-changed-how-vets-treat-cat-diabetes/ /new-aaha-guidelines-just-changed-how-vets-treat-cat-diabetes/ 301
 /new-world-screwworm-is-now-in-the-us-what-pet-owners-must-know/ /new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/cat-conditions/ /categories/common-conditions/ 301
+/categories/cat-symptoms/ /categories/symptoms/ 301
+/categories/dog-conditions/ /categories/common-conditions/ 301
+/categories/dog-health/ /categories/common-conditions/ 301
+/categories/ear-health/ /categories/common-conditions/ 301
+/categories/end-of-life/ /categories/emergency-care/ 301
+/categories/general-info/ /categories/breed-info/ 301
+/categories/getting-a-pet/ /categories/breed-info/ 301
+/categories/heart-health/ /categories/common-conditions/ 301
+/categories/is-it-safe/ /categories/behavior/ 301
+/categories/parasites/ /categories/infectious-disease/ 301
+/categories/pet-emergencies/ /categories/emergency-care/ 301
+/categories/pet-insurance/ /categories/trending/ 301
+/categories/puppy-care/ /categories/breed-info/ 301
+/categories/travel/ /categories/behavior/ 301
+/categories/vaccinations/ /categories/preventive-care/ 301
+/categories/vaccines/ /categories/preventive-care/ 301

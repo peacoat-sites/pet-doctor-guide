@@ -4,7 +4,7 @@ date: 2026-06-29T19:17:43.340812+00:00
 draft: false
 description: "Protect your dog from leptospirosis with the right vaccine. Learn which dogs need it, how often to vaccinate, and what side effects to expect."
 image: "/img/heroes/7904450.jpg"
-categories: ["Vaccines"]
+categories: ["Preventive Care"]
 tags: ["leptospirosis", "vaccine"]
 author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"

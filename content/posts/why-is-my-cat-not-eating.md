@@ -4,7 +4,7 @@ date: 2026-07-11T18:10:35.916043+00:00
 draft: false
 description: "Is your cat refusing food? Learn the most common reasons cats stop eating and when to call your vet before the 48-hour mark."
 image: "/img/heroes/7980680.jpg"
-categories: ["Cat Symptoms"]
+categories: ["Symptoms"]
 tags: ["eating"]
 author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"

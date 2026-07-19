@@ -4,7 +4,7 @@ date: 2026-06-11T19:51:10.015060+00:00
 draft: false
 description: "Learn how to safely sedate your cat for car travel using vet-approved methods, calming aids, and expert tips to keep your feline stress-free on every journey."
 image: "/img/heroes/4062842.jpg"
-categories: ["Travel"]
+categories: ["Behavior"]
 tags: ["sedate", "travel", "safely"]
 slug: "how-to-sedate-a-cat-for-car-travel-safely"
 affiliate_disclosure: true

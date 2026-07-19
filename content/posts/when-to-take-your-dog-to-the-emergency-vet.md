@@ -4,7 +4,7 @@ date: 2026-07-09T19:05:11.896252+00:00
 draft: false
 description: "Learn which symptoms require an immediate vet visit and which can wait. Knowing the difference could save your dog's life."
 image: "/img/heroes/6235020.jpg"
-categories: ["Pet Emergencies"]
+categories: ["Emergency Care"]
 tags: ["when", "take", "your", "emergency"]
 author: "Michelle Chen"
 author_slug: "michelle-chen"

@@ -4,7 +4,7 @@ date: 2026-06-04T12:19:06.563705+00:00
 draft: false
 description: "Discover how to use a dog quality of life scale to help you make the difficult decision of when to euthanize your dog with compassion and clarity."
 image: "/img/heroes/7210317.jpg"
-categories: ["End of Life"]
+categories: ["Emergency Care"]
 tags: ["know", "when", "euthanize", "quality", "life"]
 slug: "how-to-know-when-to-euthanize-a-dog-quality-of-life-scale"
 affiliate_disclosure: true

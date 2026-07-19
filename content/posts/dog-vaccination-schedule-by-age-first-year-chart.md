@@ -4,7 +4,7 @@ date: 2026-06-05T12:20:26.944032+00:00
 draft: false
 description: "Learn the essential dog vaccination schedule for your puppy's first year. Our easy age-by-age chart covers core and optional vaccines to keep your dog healthy."
 image: "/img/heroes/4210555.jpg"
-categories: ["Vaccines"]
+categories: ["Preventive Care"]
 tags: ["vaccination", "schedule", "first", "year", "chart"]
 slug: "dog-vaccination-schedule-by-age-first-year-chart"
 affiliate_disclosure: true

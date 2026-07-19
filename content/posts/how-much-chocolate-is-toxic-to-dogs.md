@@ -4,7 +4,7 @@ date: 2026-07-10T18:49:01.314734+00:00
 draft: false
 description: "Find out exactly how much chocolate can harm your dog by weight and breed size, plus what to do if your dog eats chocolate right now."
 image: "/img/heroes/3993750.jpg"
-categories: ["Is It Safe"]
+categories: ["Behavior"]
 tags: ["much", "chocolate", "toxic", "dogs"]
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"

@@ -4,7 +4,7 @@ date: 2026-06-11T19:49:05.498601+00:00
 draft: false
 description: "Even healthy young dogs face unexpected accidents and illnesses. Discover whether pet insurance is worth the monthly cost and how to choose the right plan for y"
 image: "/img/heroes/30677148.jpg"
-categories: ["Pet Insurance"]
+categories: ["trending"]
 tags: ["insurance", "worth", "healthy", "young"]
 slug: "is-pet-insurance-worth-it-for-a-healthy-young-dog"
 affiliate_disclosure: true

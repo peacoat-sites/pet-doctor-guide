@@ -4,7 +4,7 @@ date: 2026-07-07T19:16:56.034421+00:00
 draft: false
 description: "Discover the most common reasons cats throw up, from hairballs to serious illness, and learn exactly when to call your vet."
 image: "/img/heroes/33871746.jpg"
-categories: ["Cat Symptoms"]
+categories: ["Symptoms"]
 tags: ["throwing"]
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"

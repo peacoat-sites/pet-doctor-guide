@@ -19,7 +19,7 @@ faqs:
    a: "Both provide the same protection. The difference is legal: your state law dictates how often boosters are needed. Some require annual rabies, others allow 3-year. Discuss with your vet which formulation your state allows."
  - q: "Should my senior dog get fewer vaccines?"
    a: "Maybe. Dogs 7+ should have a pre-vaccination health screening (bloodwork + exam) before any shots. If they&#x2019;re healthy, they can continue 3-year boosters. But if they&#x2019;ve had prior vaccine reactions or have chronic illness, your vet might recommend titer testing instead."
-categories: ["Dog Health", "Vaccinations", "Puppy Care"]
+categories: ["Preventive Care"]
 keywords: ["dog vaccination schedule", "puppy shots", "vaccine boosters", "breed-specific vaccine risk", "senior dog vaccines"]
 featured_depth: true
 ---

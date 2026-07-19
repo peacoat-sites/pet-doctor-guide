@@ -4,7 +4,7 @@ date: 2026-06-26T19:09:57.378632+00:00
 draft: false
 description: "Learn the key signs your cat is in pain, from changes in behavior and posture to subtle facial cues, so you can act fast and get them the help they need."
 image: "/img/heroes/34162945.jpg"
-categories: ["General Info"]
+categories: ["Breed Info"]
 tags: ["tell", "your", "pain", "signs"]
 author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
