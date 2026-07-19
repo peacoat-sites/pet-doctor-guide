@@ -1,0 +1,398 @@
+{
+ "title": "Dog Rabies Vaccination Laws by State (2026)",
+ "note": "Compiled from the Animal Legal & Historical Center (Michigan State University) rabies-law table and the NASPHV Compendium of Animal Rabies Prevention. State law is a floor: counties and cities frequently impose stricter or more frequent requirements, and licensing rules differ. Confirm with your local animal-control authority and veterinarian. Titer tests are not accepted in lieu of vaccination in any state.",
+ "search_placeholder": "Search your state…",
+ "filters": [
+  {
+   "key": "requirement",
+   "label": "Requirement"
+  },
+  {
+   "key": "interval",
+   "label": "Booster interval"
+  }
+ ],
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "requirement",
+   "label": "Legal requirement"
+  },
+  {
+   "key": "interval",
+   "label": "Max booster interval"
+  },
+  {
+   "key": "exemption",
+   "label": "Medical exemption"
+  },
+  {
+   "key": "detail",
+   "label": "What it means",
+   "wide": true
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Alaska",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Arizona",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Arkansas",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "California",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Colorado",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Connecticut",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Delaware",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "District of Columbia",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Florida",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Georgia",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Hawaii",
+   "requirement": "Rabies-free state",
+   "interval": "Quarantine on entry (no rabies in wild)",
+   "exemption": "N/A",
+   "detail": "Hawaii is the only rabies-free U.S. state; instead of a vaccine mandate it enforces strict import quarantine and testing."
+  },
+  {
+   "state": "Idaho",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Illinois",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Indiana",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Iowa",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Kansas",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Kentucky",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Louisiana",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Maine",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Maryland",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Massachusetts",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Michigan",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Minnesota",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Mississippi",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Missouri",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Montana",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Nebraska",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Nevada",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "New Hampshire",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "New Jersey",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "New Mexico",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "New York",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "North Carolina",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "North Dakota",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Ohio",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Oklahoma",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Oregon",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Pennsylvania",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Rhode Island",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "South Carolina",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "South Dakota",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Tennessee",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Texas",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Utah",
+   "requirement": "Local ordinance",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Local rules",
+   "detail": "No statewide mandate; counties and cities set the rule (most require it). First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Vermont",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Virginia",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Washington",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "West Virginia",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "No statutory exemption",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  },
+  {
+   "state": "Wisconsin",
+   "requirement": "Required statewide",
+   "interval": "1 year (annual booster)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. Annual boosters are required regardless of the vaccine's labeled duration."
+  },
+  {
+   "state": "Wyoming",
+   "requirement": "Required statewide",
+   "interval": "3 years (per NASPHV compendium)",
+   "exemption": "Medical exemption allowed",
+   "detail": "State law mandates rabies vaccination for dogs. First dose is valid 1 year, then boosters follow a 3-year cycle if a 3-year vaccine is used."
+  }
+ ]
+}
