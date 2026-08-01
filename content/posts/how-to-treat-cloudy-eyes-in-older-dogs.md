@@ -79,7 +79,7 @@ What you *can* do at home:
 
 Keep the area around the eye clean. A warm, damp cloth to gently wipe away any discharge. Never use contact lens solution. Never use Visine or human eye drops unless your vet has specifically said those are appropriate (most aren't, and some are actively harmful to dogs).
 
-Omega-3 fatty acids have some evidence for general eye and systemic health in dogs, though I don't have solid numbers on ocular-specific benefit. Fish oil supplementation is low-risk and I recommend it for most senior dogs regardless. Something like [Zesty Paws Pure Wild Alaskan Salmon Oil](https://www.amazon.com/s?k=salmon+oil+for+dogs&tag=yourtag-20) is a reasonable starting point. (Disclosure: this site may earn a small commission from Amazon links.)
+Omega-3 fatty acids have some evidence for general eye and systemic health in dogs, though I don't have solid numbers on ocular-specific benefit. Fish oil supplementation is low-risk and I recommend it for most senior dogs regardless. Something like [Zesty Paws Pure Wild Alaskan Salmon Oil](https://www.amazon.com/s?k=salmon+oil+for+dogs&tag=contentportfo-20) is a reasonable starting point. (Disclosure: this site may earn a small commission from Amazon links.)
 
 What you shouldn't do: delay getting a diagnosis because the cloudiness doesn't seem to bother your dog. Nuclear sclerosis doesn't bother them. Glaucoma might not show obvious discomfort until serious damage is done.
 

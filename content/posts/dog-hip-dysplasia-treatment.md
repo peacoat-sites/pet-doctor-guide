@@ -68,7 +68,7 @@ I want to flag Librela specifically because it's changed some of my most challen
 
 **Supplements** are a mixed bag and I'll be straight with you: the research quality varies a lot. Omega-3 fatty acids (specifically EPA and DHA from fish oil) have the most consistent evidence for reducing joint inflammation. A dose of about 75-100mg of EPA+DHA per kilogram of body weight daily is the range most veterinary internal medicine specialists cite. Glucosamine and chondroitin are widely used and I do recommend them, but the evidence is more modest than the marketing suggests. They're low-risk, reasonably affordable, and worth trying for 8-12 weeks to see if you notice a response.
 
-For a decent baseline joint supplement, [Cosequin DS](https://www.amazon.com/s?k=Cosequin+DS+dogs&tag=your-affiliate-tag) (double-strength glucosamine/chondroitin) is the one I most often suggest to clients. (Disclosure: this site may earn a commission on purchases made through links.) It's not magic, but it's among the better-studied options, and the price point is reasonable.
+For a decent baseline joint supplement, [Cosequin DS](https://www.amazon.com/s?k=Cosequin+DS+dogs&tag=contentportfo-20) (double-strength glucosamine/chondroitin) is the one I most often suggest to clients. (Disclosure: this site may earn a commission on purchases made through links.) It's not magic, but it's among the better-studied options, and the price point is reasonable.
 
 ## The Surgical Options
 

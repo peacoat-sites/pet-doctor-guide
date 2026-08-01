@@ -67,7 +67,7 @@ A cat with arthritis (much more common in cats over 10 than most people realize)
 
 Watch for: a hunched posture when sitting (spine curved upward rather than neutral), one paw lifted or held differently, a stiff or stilted gait, reluctance to be picked up, or crying out when being lifted. A cat who used to flop over for belly rubs and now tenses up when you reach for them isn't being moody. Something hurts.
 
-**Scenario:** A 9-year-old cat named Biscuit stopped jumping onto a particular window perch her owner had seen her use daily for years. Owner assumed "just getting older." At the vet, hip arthritis was visible on X-ray in both hips. With pain management and a set of [pet stairs](https://www.amazon.com/s?k=cat+stairs+for+furniture&tag=yoursitetag-20) *(affiliate link; the site may earn a commission)*, Biscuit was back on her perch within three weeks. Had they waited another year, the arthritis would have been significantly more advanced.
+**Scenario:** A 9-year-old cat named Biscuit stopped jumping onto a particular window perch her owner had seen her use daily for years. Owner assumed "just getting older." At the vet, hip arthritis was visible on X-ray in both hips. With pain management and a set of [pet stairs](https://www.amazon.com/s?k=cat+stairs+for+furniture&tag=contentportfo-20) *(affiliate link; the site may earn a commission)*, Biscuit was back on her perch within three weeks. Had they waited another year, the arthritis would have been significantly more advanced.
 
 ## Vocalization: Less Reliable Than You Think
 

@@ -99,7 +99,7 @@ Here's something that trips people up regularly. After successful treatment, the
 
 If your dog is positive on a routine annual test but showing zero symptoms, that's almost certainly a residual antibody signal, not active disease. Your vet may run a PCR test to look for actual bacterial DNA if there's any doubt.
 
-What it does mean: your dog has no lasting immunity. They can absolutely get anaplasmosis again if bitten by another infected tick. This is why tick prevention isn't something you do once and forget. Products like Simparica Trio, NexGard Spectra, or Bravecto (all prescription; your vet can advise based on your dog's health history) are worth every penny if your dog spends time outside in tick habitat. A basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=example-20) with tick removal tools is also a smart addition to your gear. *(Note: this site may earn a commission on qualifying Amazon purchases.)*
+What it does mean: your dog has no lasting immunity. They can absolutely get anaplasmosis again if bitten by another infected tick. This is why tick prevention isn't something you do once and forget. Products like Simparica Trio, NexGard Spectra, or Bravecto (all prescription; your vet can advise based on your dog's health history) are worth every penny if your dog spends time outside in tick habitat. A basic [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) with tick removal tools is also a smart addition to your gear. *(Note: this site may earn a commission on qualifying Amazon purchases.)*
 
 ## Sources
 

@@ -66,7 +66,7 @@ Water temperature should be lukewarm, not warm. I know warm feels more comfortab
 
 Apply shampoo diluted. Most veterinary dermatologists recommend diluting shampoo 1:1 or even 1:3 with water before it ever touches the dog's skin. You'll use less, it distributes more evenly, and the rinse is actually achievable. I've been diluting shampoos this way for years and it makes a noticeable difference in how much residue stays behind.
 
-Leave it on. Most medicated and therapeutic shampoos need 5 to 10 minutes of contact time to do anything. That's real time, not "I counted to thirty while my dog tried to escape." Set a phone timer. Give them a Kong stuffed with peanut butter or a [lick mat like the LickiMat Splash](https://www.amazon.com/s?k=LickiMat+Splash+dog&tag=yourtag-20) (note: the site may earn a small commission on qualifying purchases) to keep them occupied. This is the step most people skip entirely.
+Leave it on. Most medicated and therapeutic shampoos need 5 to 10 minutes of contact time to do anything. That's real time, not "I counted to thirty while my dog tried to escape." Set a phone timer. Give them a Kong stuffed with peanut butter or a [lick mat like the LickiMat Splash](https://www.amazon.com/s?k=LickiMat+Splash+dog&tag=contentportfo-20) (note: the site may earn a small commission on qualifying purchases) to keep them occupied. This is the step most people skip entirely.
 
 Rinse for twice as long as you think you need to. Then rinse again. Residual surfactants left on irritated skin will make things worse, guaranteed.
 

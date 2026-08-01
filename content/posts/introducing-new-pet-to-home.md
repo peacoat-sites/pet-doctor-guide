@@ -36,7 +36,7 @@ Setup matters more than most people realize. If you're bringing home a second ca
 
 Designate a "base room" for the newcomer. A spare bedroom or bathroom works well, somewhere the new animal can decompress, establish a scent, and feel safe without any pressure. Stock it with food, water, a litter box (for cats), bedding, and a few toys. Don't skip this step even if the room feels unnecessary. That space is doing real work.
 
-For a [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=yourtag-20) to keep on hand during the transition period: worth having. Stress sometimes manifests as scratches, minor scuffles, or animals hiding and injuring themselves in tight spaces. (Disclosure: this site may earn a small commission from qualifying Amazon purchases.)
+For a [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) to keep on hand during the transition period: worth having. Stress sometimes manifests as scratches, minor scuffles, or animals hiding and injuring themselves in tight spaces. (Disclosure: this site may earn a small commission from qualifying Amazon purchases.)
 
 One thing most guides skip: swap bedding between the resident pet and the newcomer before they meet face-to-face. Put the new cat's blanket near your dog's bed. Tuck a piece of your resident cat's bedding into the newcomer's base room. You're letting them process each other's scent on their own terms, without the pressure of a body attached to it. I've watched this single step dramatically reduce the spike of aggression on first visual contact.
 

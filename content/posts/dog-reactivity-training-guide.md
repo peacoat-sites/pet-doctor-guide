@@ -75,7 +75,7 @@ The sequence looks like this, in practice:
 
 What you're looking for over weeks of this: your dog starts to orient toward you when they see the trigger instead of fixating on it. That's the conditioned emotional response shifting. It's genuinely one of the most satisfying things to watch.
 
-A few things I'd add from experience: the food needs to be high-value enough to compete with the emotional arousal. I've seen owners use their dog's regular training treats and wonder why it's not working. At threshold, you need the good stuff. I keep a small [silicone bento-style treat bag](https://www.amazon.com/s?k=silicone+treat+pouch+dog+training&tag=example-20) loaded before every walk. (Disclosure: the site may earn a commission on that link.) Also, your timing matters more than most people realize. The treat needs to come within a second of the dog noticing the trigger, not after you've both had a five-second staring contest with it.
+A few things I'd add from experience: the food needs to be high-value enough to compete with the emotional arousal. I've seen owners use their dog's regular training treats and wonder why it's not working. At threshold, you need the good stuff. I keep a small [silicone bento-style treat bag](https://www.amazon.com/s?k=silicone+treat+pouch+dog+training&tag=contentportfo-20) loaded before every walk. (Disclosure: the site may earn a commission on that link.) Also, your timing matters more than most people realize. The treat needs to come within a second of the dog noticing the trigger, not after you've both had a five-second staring contest with it.
 
 ## What to Expect: A Realistic Timeline
 

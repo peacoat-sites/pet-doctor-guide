@@ -87,7 +87,7 @@ For a cat who's been off food for less than 24-48 hours with no alarming signs, 
 
 Warming wet food to about 98-102°F works. You can microwave it for about 10 seconds, stir it well, and test on your wrist. The warmth releases volatiles that stimulate appetite. This is one of the first things I do at home with my own cats.
 
-Strong-smelling foods as a topper: a small amount of low-sodium tuna in water, plain cooked chicken, or a product like [Churu squeeze treats](https://www.amazon.com/s?tag=yoursitetag-20&k=churu+cat+treats) (affiliate link, site may earn a commission) can sometimes break through mild nausea or food aversion. These aren't nutritionally complete, so they're strictly a short-term lure, not a meal plan.
+Strong-smelling foods as a topper: a small amount of low-sodium tuna in water, plain cooked chicken, or a product like [Churu squeeze treats](https://www.amazon.com/s?tag=contentportfo-20&k=churu+cat+treats) (affiliate link, site may earn a commission) can sometimes break through mild nausea or food aversion. These aren't nutritionally complete, so they're strictly a short-term lure, not a meal plan.
 
 A small amount of nutritional yeast or parmesan sprinkled on top occasionally works for texture and smell reasons I don't fully understand, but I've had it work on stubborn cats in my own household.
 

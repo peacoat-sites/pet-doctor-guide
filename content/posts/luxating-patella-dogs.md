@@ -93,7 +93,7 @@ One more thing: if your dog is diagnosed bilaterally (both knees affected, which
 
 For dogs that aren't surgical candidates (too old, concurrent health issues, Grade I-II with minimal symptoms), there's a real management toolkit. Not magic, but real.
 
-Joint supplements with glucosamine and chondroitin have mixed research behind them, I'll be honest. The evidence for fish oil (omega-3 fatty acids, specifically EPA and DHA) reducing joint inflammation is considerably stronger. Aim for a product with verified EPA+DHA content, not just "fish oil" on the label. [Nordic Naturals Omega-3 Pet](https://www.amazon.com/s?k=nordic+naturals+omega+3+pet&tag=yourtag-20) is one I've recommended consistently. (Disclosure: this site may earn a commission on purchases.)
+Joint supplements with glucosamine and chondroitin have mixed research behind them, I'll be honest. The evidence for fish oil (omega-3 fatty acids, specifically EPA and DHA) reducing joint inflammation is considerably stronger. Aim for a product with verified EPA+DHA content, not just "fish oil" on the label. [Nordic Naturals Omega-3 Pet](https://www.amazon.com/s?k=nordic+naturals+omega+3+pet&tag=contentportfo-20) is one I've recommended consistently. (Disclosure: this site may earn a commission on purchases.)
 
 Weight is non-negotiable. Every extra pound on a 10-pound dog is proportionally enormous joint stress. I've seen Grade II dogs become essentially asymptomatic after losing 1.5 pounds. That's not an exaggeration.
 

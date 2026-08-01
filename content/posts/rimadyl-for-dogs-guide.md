@@ -85,7 +85,7 @@ What I don't want you to do is read a few bad reviews online and refuse to give 
 
 If your vet is putting your dog on Rimadyl for ongoing arthritis management, there are questions worth asking. I'm not suggesting you challenge their judgment, just that you be an informed participant.
 
-Ask: Are we combining this with any joint supplements? Omega-3 fatty acids (specifically EPA and DHA, not just generic fish oil) have meaningful evidence for reducing inflammation in osteoarthritis. [PetMD's veterinary resource library](https://www.petmd.com/) covers this well if you want to read into it. I often recommend pairing Rimadyl with a joint supplement like Nutramax Cosequin DS (you can find it on [Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=xxx-20) *(affiliate link, site may earn a commission)*) for comprehensive support, but run it by your vet first. I've seen the combination work better than either alone in dogs with moderate-to-severe arthritis.
+Ask: Are we combining this with any joint supplements? Omega-3 fatty acids (specifically EPA and DHA, not just generic fish oil) have meaningful evidence for reducing inflammation in osteoarthritis. [PetMD's veterinary resource library](https://www.petmd.com/) covers this well if you want to read into it. I often recommend pairing Rimadyl with a joint supplement like Nutramax Cosequin DS (you can find it on [Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=contentportfo-20) *(affiliate link, site may earn a commission)*) for comprehensive support, but run it by your vet first. I've seen the combination work better than either alone in dogs with moderate-to-severe arthritis.
 
 Ask: What's our plan if the carprofen stops working? Tolerance isn't usually the issue with NSAIDs the way it is with opioids, but disease progression is. Having a plan B conversation early is smart.
 
@@ -97,7 +97,7 @@ Ask: Is there a reason we're using Rimadyl specifically over another NSAID? Melo
 
 The chewable tablets can usually just be given with food or as a treat. Actually with food is better, not just near food, because carprofen can be harder on an empty stomach.
 
-If your dog figures out the chewable is medication and starts refusing it (some Labs do, which is impressive given that they'll eat socks), try hiding it in a small amount of cream cheese, peanut butter (xylitol-free only), or a [Greenies Pill Pocket](https://www.amazon.com/s?k=Greenies+Pill+Pockets+for+dogs&tag=xxx-20) *(affiliate link)*. In my experience, the hiding method beats the "just shove it in their mouth" method nine times out of ten, for everyone's dignity.
+If your dog figures out the chewable is medication and starts refusing it (some Labs do, which is impressive given that they'll eat socks), try hiding it in a small amount of cream cheese, peanut butter (xylitol-free only), or a [Greenies Pill Pocket](https://www.amazon.com/s?k=Greenies+Pill+Pockets+for+dogs&tag=contentportfo-20) *(affiliate link)*. In my experience, the hiding method beats the "just shove it in their mouth" method nine times out of ten, for everyone's dignity.
 
 Do not double up if you miss a dose. Skip it and resume the next scheduled dose. Doubling an NSAID dose is the kind of thing that causes GI bleeds.
 

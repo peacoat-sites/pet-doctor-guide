@@ -55,7 +55,7 @@ Go to an emergency clinic tonight if your dog has a fever (normal is 99.5 to 102
 
 If the ear is soft, squishy, your dog is uncomfortable but not frantic, and this just appeared in the last day or two, you can wait until your regular vet opens. Keep your dog from scratching at it by putting a cone on overnight if you have one handy. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) hotline sometimes gets calls about people trying to treat hematomas at home with things like witch hazel or needle drainage, and I want to be clear: please don't do that. Puncturing the hematoma at home is not sterile, it's unlikely to work (the blood will re-accumulate), and you can introduce infection.
 
-A soft e-collar or recovery cone, even one of those inflatable ones, helps enormously while you're waiting for the appointment. Something like the [KONG Cloud E-Collar](https://www.amazon.com/dp/B001P2FJXQ?tag=yourtag-20) (typically around $18 to $28 depending on size) is more comfortable for sleeping than the hard plastic kind. *(Disclosure: this site may earn a small commission from qualifying Amazon purchases.)*
+A soft e-collar or recovery cone, even one of those inflatable ones, helps enormously while you're waiting for the appointment. Something like the [KONG Cloud E-Collar](https://www.amazon.com/dp/B001P2FJXQ?tag=contentportfo-20) (typically around $18 to $28 depending on size) is more comfortable for sleeping than the hard plastic kind. *(Disclosure: this site may earn a small commission from qualifying Amazon purchases.)*
 
 ## Treatment Options: What Actually Works
 

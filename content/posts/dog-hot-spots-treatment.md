@@ -48,7 +48,7 @@ For early home management, the steps are:
 
 Keep the area clean and dry twice daily, and watch for signs that it's improving: the redness should decrease, the weeping should slow, and your dog should seem less focused on it within 24 to 48 hours.
 
-A well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=youraffiliatetag-20) that includes chlorhexidine wipes, gloves, and gauze can make this whole process a lot easier to handle quickly. (The site may earn a commission on purchases made through these links.)
+A well-stocked [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) that includes chlorhexidine wipes, gloves, and gauze can make this whole process a lot easier to handle quickly. (The site may earn a commission on purchases made through these links.)
 
 ## When the Vet Has to Handle It
 
@@ -101,7 +101,7 @@ Generally, no. Hot spots need air exposure to dry out and heal. Covering them tr
 ## Sources
 
 - [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
-- [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=youraffiliatetag-20)
+- [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20)
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)
 - [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
