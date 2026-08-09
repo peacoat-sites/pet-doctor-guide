@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /cdn-cgi/
 Disallow:
 
 Sitemap: https://petdoctorguide.com/sitemap.xml
