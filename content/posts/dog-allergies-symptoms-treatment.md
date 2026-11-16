@@ -37,7 +37,7 @@ An allergy is an overreaction of the immune system to something that's technical
 
 Genetics play a massive role here. Certain breeds carry a significantly higher risk: West Highland White Terriers, Bulldogs, Golden Retrievers, Labrador Retrievers, German Shepherds, and Boxers are all heavily represented in allergy caseloads. If you own a Westie who's been scratching since puppyhood, you're not imagining things. That dog may have inherited a defect in the skin barrier that makes it easier for allergens to penetrate.
 
-Allergies can also develop over time. A dog can tolerate chicken-based food for years and then, at age four or five, start reacting to it. This is called sensitization. The immune system gradually builds up a response with repeated exposure until it finally crosses a threshold and symptoms appear. I've seen clients convinced it couldn't be the food because "he's eaten it for years." That's actually one of the most common patterns with food allergies.
+Allergies can also develop over time. A dog can tolerate chicken-based food for years and then, at age four or five, start reacting to it. This is called sensitization. The immune system gradually builds up a response with repeated exposure until it finally crosses a threshold and symptoms appear. A common misconception is that the food can't be the culprit because the dog has eaten it for years. This pattern is actually one of the most common presentations with food allergies.
 
 ---
 
@@ -47,7 +47,7 @@ Not all allergies are the same, and treatment depends entirely on which type you
 
 **Environmental allergies (atopic dermatitis)** are triggered by airborne or contact allergens: pollen, mold spores, dust mites, and grass are the biggest culprits. These often follow a seasonal pattern, though dust mite allergies can cause year-round symptoms. Atopic dermatitis is the most common allergic skin disease in dogs, full stop.
 
-**Food allergies** are less common than most people assume. True food allergies account for roughly 10-15% of all allergic skin disease in dogs, according to veterinary dermatology literature referenced by resources like [PetMD's veterinary resource library](https://www.petmd.com/). The most common food allergens are beef, dairy, chicken, wheat, and lamb, in roughly that order. Here's the thing most people get wrong: food allergies don't usually cause vomiting and diarrhea. They cause skin problems, just like environmental allergies, which is why they're frequently missed.
+**Food allergies** are less common than most people assume. True food allergies account for roughly 10-15% of all allergic skin disease in dogs, according to veterinary dermatology literature referenced by resources like [PetMD's veterinary resource library](https://www.petmd.com/). The most common food allergens are beef, dairy, chicken, wheat, and lamb, in roughly that order. Food allergies don't usually cause vomiting and diarrhea. They cause skin problems, just like environmental allergies, which is why they're frequently missed.
 
 **Flea allergy dermatitis (FAD)** is triggered not by the flea itself but by proteins in flea saliva. A single flea bite can cause a reaction that lasts for weeks in a sensitized dog. You don't need to find a flea on your dog to diagnose this. If you see even one flea, or your dog has been in a yard where other animals roam, FAD is on the table. Read more about staying ahead of this with year-round [flea and tick prevention for dogs](/flea-tick-prevention-dogs/).
 
@@ -143,7 +143,6 @@ Living with an allergic dog is genuinely challenging, and I won't pretend otherw
 - [Look for a quality fish oil supplement formulated for dogs](https://www.amazon.com/s?k=dog+fish+oil+omega+3+supplement&tag=contentportfo-20)
 - [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
 - [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

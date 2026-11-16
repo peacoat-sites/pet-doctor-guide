@@ -76,7 +76,7 @@ Ask your vet directly: "Which of these does my dog's actual lifestyle warrant?" 
 
 ## How to Prepare: A Step-by-Step Guide for Getting the Most Out of the Visit
 
-**Step 1: Write down your observations before you go.** Appetite changes, water intake, any lumps you've noticed, changes in energy, new coughing or sneezing, altered bathroom habits. You will forget half of this in the room. I've watched hundreds of owners walk out, get to the parking lot, and immediately remember something they meant to ask.
+**Step 1: Write down your observations before you go.** Appetite changes, water intake, any lumps you've noticed, changes in energy, new coughing or sneezing, altered bathroom habits. You will forget half of this in the room.
 
 **Step 2: Bring a fresh urine sample if you can.** Collect first-morning urine in a clean container and refrigerate it. Many clinics ask you to bring one but forget to mention it until you arrive.
 
@@ -104,7 +104,6 @@ The annual exam is one of the highest-value hours you'll spend on your dog's hea
 - [joint supplement like Nutramax Cosequin](https://www.amazon.com/s?k=dog+joint+supplement+cosequin&tag=contentportfo-20)
 - [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -25,7 +25,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 lastmod: 2026-07-08
 ---
-Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. I thought the same thing when I first started in practice. Then I realized how much information is actually hiding in a single urine sample, and how often it catches something serious before your dog shows any signs at all. A dog can have a urinary tract infection, early [kidney disease](/senior-pet-bloodwork-panel/), diabetes, or even certain cancers and still look completely fine at home. That's what makes this test quietly one of the most powerful tools in veterinary medicine. Understanding what it's measuring puts you in a much better position to ask the right questions.
+Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. A urine sample can reveal a surprising amount of information, often catching serious conditions like urinary tract infections, early kidney disease, diabetes, or certain cancers before a dog shows any signs at home. A dog can have a urinary tract infection, early [kidney disease](/senior-pet-bloodwork-panel/), diabetes, or even certain cancers and still look completely fine at home. Understanding what it's measuring puts you in a much better position to ask the right questions.
 
 ## What a Urinalysis Actually Tests For
 
@@ -53,7 +53,7 @@ Catheterization collects urine directly from the bladder via a sterile catheter.
 
 Cystocentesis is the gold standard. Your vet uses a small needle, [guided by ultrasound](/pet-ultrasound-explained/) or palpation, to collect urine straight from the bladder. It sounds alarming if you've never heard of it, but most dogs tolerate it well, and the sample is sterile. If your vet is trying to confirm a urinary tract infection and decide whether to prescribe antibiotics, a cystocentesis sample gives you the most reliable culture result.
 
-I've seen more than a few dogs treated for UTIs based on contaminated free-catch samples that didn't actually have infections. If your vet recommends a "cysto," it's not overkill.
+Contaminated free-catch samples can lead to unnecessary UTI treatment, which is why vets may recommend other collection methods. If your vet recommends a "cysto," it's not overkill.
 
 ## How to Collect a Sample at Home (Step-by-Step)
 
@@ -92,7 +92,6 @@ A urinalysis is one of those tests that looks simple from the outside and turns 
 - here is genuinely mixed on what a single finding means without context
 - don't require a midnight ER visit
 - that need monitoring
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

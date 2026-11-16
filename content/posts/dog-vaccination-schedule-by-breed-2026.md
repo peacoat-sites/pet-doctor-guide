@@ -25,7 +25,7 @@ featured_depth: true
 ---
 I made a lot of mistakes in my first year as a vet tech. One that still bothers me: I watched a client bring in their 8-year-old Dachshund for annual vaccines, and the dog had a severe reaction three days later, fever, lethargy, barely ate for a week. The vet said it was probably just a coincidence, but later I learned Dachshunds have a 49.4-per-10,000 adverse event rate. That dog didn't need annual boosters anyway. That reaction was preventable.
 
-Since then, I've watched the vaccination guidelines evolve. The 2022 AAHA update threw out annual boosters for good reason: studies consistently show core vaccine immunity lasts at least 3 years after the initial puppy series plus one booster. Yet plenty of clinics still recommend yearly shots out of habit, not science.
+Vaccination guidelines have evolved significantly in recent years. The 2022 AAHA update threw out annual boosters for good reason: studies consistently show core vaccine immunity lasts at least 3 years after the initial puppy series plus one booster. Yet plenty of clinics still recommend yearly shots out of habit, not science.
 
 This guide reflects what we actually know now, not what clinic handouts from 2010 still say.
 
@@ -47,7 +47,7 @@ Here's the core schedule, this is what every puppy gets:
 
 {{< pet-vaccine-schedule >}}
 
-The spacing matters. I tested this when I switched clinics and one vet wanted to do all vaccines on one visit. We got more adverse events and questionable titer results. Spacing them 2-4 weeks apart, especially non-core vaccines separately from core, measurably reduces reactions.
+The spacing matters. Spacing vaccines 2-4 weeks apart, especially non-core vaccines separately from core, measurably reduces reactions.
 
 ### First-Person Example: Why Timing Matters
 
@@ -65,7 +65,7 @@ If your vet insists on annual boosters for a healthy adult, ask for the reasonin
 
 ### Senior Dogs (7+): The Health Screening First Rule
 
-This is where I break the pattern. Senior dogs need a pre-vaccination workup: physical exam plus baseline bloodwork (CBC and chemistry panel). I've seen older dogs with subclinical kidney disease get vaccinated without screening and then crash post-shot. The vaccine didn't cause it, but it was a stressor they didn't need.
+Senior dogs need a pre-vaccination workup: physical exam plus baseline bloodwork (CBC and chemistry panel). Older dogs with subclinical kidney disease can experience serious complications post-vaccination if not screened beforehand. The vaccine didn't cause it, but it was a stressor they didn't need.
 
 For a healthy senior: continue 3-year DHPP boosters. Rabies per state law.
 

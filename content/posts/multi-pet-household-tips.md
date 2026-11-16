@@ -34,7 +34,7 @@ What surprised me was how often people get the introduction right and then get e
 
 Here's the rule I give every multi-pet client: the number of feeding stations, water bowls, litter boxes, and resting spots should always exceed the number of animals. Not match. Exceed.
 
-For cats specifically, the litter box guideline is n+1, where n is your number of cats. Two cats, three boxes. Four cats, five boxes. I've seen this "rule" printed in a hundred places, but what gets left out is the spatial piece. Those boxes need to be in different rooms or at least different ends of the same room. Clustering three boxes in one bathroom gives a single cat the ability to guard all of them. It sounds absurd, but I've watched it happen.
+For cats specifically, the litter box guideline is n+1, where n is your number of cats. Two cats, three boxes. Four cats, five boxes. This guideline is widely repeated, but the spatial element often gets overlooked. Those boxes need to be in different rooms or at least different ends of the same room. Clustering three boxes in one bathroom gives a single cat the ability to guard all of them.
 
 Feeding is where multi-pet households quietly create anxiety even in animals that look fine on the surface. Dogs and cats shouldn't eat from the same bowls, obviously, but the less obvious issue is that a dog who hoovers his food in 45 seconds and then saunters over to the cat's dish creates chronic stress for the cat even if there's never a growl. Long-term, that kind of food insecurity can show up as over-grooming, hiding, or recurrent GI issues in the cat. The fix is simple: feed the cat somewhere the dog physically can't access, whether that's a countertop, a room with a cat door, or a feeding station with a microchip lock. [Microchip-activated feeders](https://www.amazon.com/s?k=microchip+pet+feeder&tag=contentportfo-20) run roughly $60-90 and have genuinely changed quality of life in several households I follow. (The site may earn a small commission on purchases like this.)
 
@@ -51,8 +51,6 @@ Water is underrated. Dogs are messy drinkers. A dog that splashes water all over
 
 > **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Multi-species households bring a set of health complications that single-species homes don't deal with. Some are obvious, like the fact that dogs and cats have completely different vaccination schedules and parasite prevention needs. Some are less obvious.
 
 Flea prevention is the one I see mismanaged most dangerously. Permethrin, which is in many dog flea treatments and spot-ons, is acutely toxic to cats. Not "could cause some issues" toxic. Potentially fatal within hours toxic. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) lists permethrin as one of their most frequent cat toxicity calls. If you have a cat and a dog in the same house, you need flea products that are safe for both species to be in contact with, or you need to keep animals separated for the full drying time, typically 24-48 hours. Read the label. Every time.
@@ -67,13 +65,13 @@ Most articles on this topic are written as if you're building your multi-pet hou
 
 The protocol that actually works is slower than people want. Separate spaces for at least one week, ideally two. Scent introduction before visual introduction. Short, positive, controlled visual exposure (a baby gate works better than a cracked door because both animals can see the other without being able to rush them). And critically: do not force proximity. The goal is that both animals choose to be near each other, not that you manage them into tolerance.
 
-What I've seen derail otherwise good introductions is the resident animal losing access to things they previously had. The resident dog who always slept on the couch should still have access to the couch during the transition. The resident cat's favorite window perch should not be colonized by the newcomer in week one. Protect the resident animal's resources aggressively while the new animal is establishing their own.
+A common pitfall during introductions is the resident animal losing access to things they previously had. The resident dog who always slept on the couch should still have access to the couch during the transition. The resident cat's favorite window perch should not be colonized by the newcomer in week one. Protect the resident animal's resources aggressively while the new animal is establishing their own.
 
 Some animals take three weeks. Some take three months. A few never become friends but can coexist peacefully if the household is set up correctly. That's a fine outcome.
 
 ## Managing Health Screenings When You Have Multiple Animals
 
-Annual vet visits feel manageable with one pet. With three or four, the logistics, the cost, and the scheduling can create a situation where visits get delayed or skipped. I've seen this pattern enough times to name it directly: multi-pet households are actually at higher risk of preventable health problems going undetected, because the math gets overwhelming.
+Annual vet visits feel manageable with one pet. With three or four, the logistics, the cost, and the scheduling can create a situation where visits get delayed or skipped. Multi-pet households are at higher risk of preventable health problems going undetected, because the logistics and scheduling can become overwhelming.
 
 A few things that help: stagger annual appointments across the year rather than doing them all in one brutal month. Keep a shared document or notes app with each animal's name, their vet, last visit date, due dates for vaccines and parasite prevention, and any ongoing medications. This sounds like overkill until you have a sick animal at 7 p.m. and you cannot remember if the cat got her Bordetella this year. [PetMD's veterinary resource library](https://www.petmd.com/) has solid species-specific checklists for what to track at each life stage, which can help you build that document without starting from nothing.
 
@@ -120,7 +118,6 @@ The honest truth about multi-pet households is that the animals usually figure i
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [A well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -78,7 +78,7 @@ A puppy wellness exam isn't just about shots. A good veterinarian is doing a ful
 | 6 months | Rabies booster (some states) | Pre-surgical bloodwork if [spay and neuter](/spay-neuter-benefits-dogs-cats/) planned |
 | 12 months | DHPP and rabies boosters | Heartworm test, full physical, dental assessment |
 
-That murmur screen at six to eight weeks isn't a formality. Congenital heart defects in puppies are occasionally caught at this stage, and early detection changes the management plan significantly. I've seen clients come in for a routine first visit and leave with a referral to a cardiologist. It happens.
+That murmur screen at six to eight weeks isn't a formality. Congenital heart defects in puppies are occasionally caught at this stage, and early detection changes the management plan significantly. Congenital heart defects caught at this stage can change the management plan significantly and may lead to a referral to a cardiologist.
 
 Microchipping usually happens at one of the early visits, often around 12 to 16 weeks, or at the time of spay and neuter when the puppy is already under anesthesia. It's a one-time procedure that takes seconds and has reunited countless lost pets with their owners.
 
@@ -113,7 +113,6 @@ Your puppy's first year is a sprint. It's more vet visits, more decisions, and m
 - [Dental chews](https://www.amazon.com/s?k=puppy+dental+chews&tag=contentportfo-20)
 - [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
 - [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

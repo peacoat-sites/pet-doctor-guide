@@ -33,7 +33,7 @@ If you're reading this because you're worried your dog might have parvo right no
 
 Here's what I tell people when they want to understand why parvo is so devastating: it's not just a stomach bug. Canine parvovirus (CPV-2 and its variants) targets rapidly dividing cells. That means it goes after the lining of the intestinal tract with ruthless efficiency, destroying the cells that absorb nutrients and maintain the gut barrier. Once that barrier is compromised, bacteria from the gut leak into the bloodstream. Simultaneously, the virus attacks bone marrow, crashing white blood cell production right when the body needs to fight back.
 
-The result is a dog who can't absorb fluids, can't fight infection, and is losing protein and blood from the gut faster than the body can compensate. Sepsis, dehydration, and shock can set in within 24 to 48 hours of symptoms appearing. I've watched healthy-looking 10-week-old puppies deteriorate faster than anyone in the room expected. It is genuinely terrifying, and I don't say that to frighten you into panic. I say it so you understand why "wait and see" is not a safe option here.
+The result is a dog who can't absorb fluids, can't fight infection, and is losing protein and blood from the gut faster than the body can compensate. Sepsis, dehydration, and shock can set in within 24 to 48 hours of symptoms appearing. Puppies can deteriorate rapidly in the early stages, sometimes within hours. This is why "wait and see" is not a safe option here.
 
 ## Signs of Parvo: What to Watch For
 
@@ -55,7 +55,7 @@ The incubation period after exposure is typically 3 to 7 days, and then symptoms
 
 Any combination of vomiting, bloody diarrhea, and lethargy in an unvaccinated or incompletely vaccinated puppy under 6 months old is parvo until proven otherwise. Don't wait for all the symptoms to be present. Call your vet or an emergency clinic immediately.
 
-One thing that trips people up: some dogs, especially in the early hours, look "not that bad." I've had owners tell me they almost talked themselves out of coming in. Parvo can look manageable at 8 a.m. and be life-threatening by 4 p.m. Trust the sick feeling in your gut, because your dog's gut is already failing.
+Some dogs, especially in the early hours, look "not that bad." Parvo can look manageable in the morning and be life-threatening by afternoon. If you suspect parvo, don't delay seeking care.
 
 ## Treatment: What Actually Happens at the Vet
 
@@ -87,8 +87,6 @@ I'm not going to sugarcoat the numbers, because I think people deserve honest in
 These are estimated ranges based on my experience and regional variation; your specific quote will depend on your clinic, your city, and how sick your dog is when they arrive. Costs in metro areas like New York or San Francisco routinely run 30 to 40 percent higher than in rural Midwest clinics.
 
 There are options if cost is a barrier. CareCredit and Scratchpay are financing options many clinics accept. Some veterinary schools with teaching hospitals (like UC Davis or Cornell) offer treatment at reduced rates. Organizations like The Pet Fund and RedRover Relief offer emergency grants for qualifying situations. Ask your vet's front desk; most of us know where to point people.
-
-Worked examples from cases I've been part of:
 
 **12-week-old Lab mix, brought in at first sign of vomiting, no bloody stool yet** → IV fluids, maropitant, antibiotics, 4-day hospitalization, $2,847 total → Discharged, full recovery, currently a healthy 4-year-old.
 

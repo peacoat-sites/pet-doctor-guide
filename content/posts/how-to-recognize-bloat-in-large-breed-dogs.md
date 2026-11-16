@@ -33,7 +33,7 @@ The clinical name is Gastric Dilatation-Volvulus, or GDV. Most people call it bl
 
 Here's what's actually happening. The stomach fills with gas, fluid, or food and begins to expand. In simple gastric dilatation, it stays in place, just distended. Uncomfortable, but not immediately life-threatening. The dangerous version, GDV, is when that swollen stomach physically rotates on itself anywhere from 90 to 360 degrees. When it twists, the entrance and exit to the stomach get sealed off. Gas can't escape. Blood supply to the stomach wall gets cut off. The spleen, which is attached to the stomach by a ligament, often rotates with it. Pressure builds rapidly. The stomach wall begins to die. Toxins flood the bloodstream. The heart develops arrhythmias. Shock follows.
 
-I've seen dogs come in looking fairly normal at the 30-minute mark and be in critical shock by the two-hour mark. That progression is not an exaggeration. So I'll be direct: if your dog is showing the signs I'm about to describe, this is an emergency room situation, not a "let's see how he does overnight" situation.
+Bloat can progress from mild signs to critical shock within hours. If your dog is showing the signs described below, this is an emergency room situation, not a "let's see how he does overnight" situation.
 
 ## Which Dogs Are Most at Risk
 
@@ -132,7 +132,6 @@ If your dog is showing signs right now and you've been reading this hoping somet
 - [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
 - [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

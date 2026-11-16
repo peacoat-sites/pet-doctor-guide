@@ -35,13 +35,13 @@ Hyperadrenocorticism (which is what Cushing's disease actually is) happens when 
 
 ## What Cushing's Is Actually Doing to Your Dog
 
-Here's the thing I try to explain to every owner who comes in with a dog they suspect has Cushing's: the symptoms look scattered at first because cortisol touches almost every system in the body. It's not one thing going wrong. It's everything going a little wrong at once, and the pattern is what gives it away.
+Cushing's symptoms can look scattered at first because cortisol affects almost every system in the body. It's not one thing going wrong. It's everything going a little wrong at once, and the pattern is what gives it away.
 
 The pituitary gland (a small structure at the base of the brain) is responsible for the majority of cases. When a small benign tumor develops there, it sends out too much ACTH, the hormone that tells the adrenal glands to produce cortisol. The adrenals, doing exactly what they're told, just keep pumping. This is pituitary-dependent Cushing's, and it accounts for approximately 80-85% of diagnosed cases, according to the [American Veterinary Medical Association (AVMA)](https://www.avma.org/).
 
 The other 15-20% of cases come from a tumor on one of the adrenal glands directly. That tumor just produces cortisol on its own, without waiting for instructions. This form sometimes gets flagged sooner because adrenal tumors occasionally show up on abdominal ultrasound for other reasons. Small distinction, but it matters when your vet is deciding how to treat.
 
-There's also iatrogenic Cushing's, which is caused by long-term steroid use (prednisone, dexamethasone, and similar medications). I've seen this one catch owners completely off guard, especially when the steroids were prescribed for an unrelated condition like allergies or immune disease. If your dog has been on steroids for months and starts showing these symptoms, that's a conversation to have with your vet immediately.
+There's also iatrogenic Cushing's, which is caused by long-term steroid use (prednisone, dexamethasone, and similar medications). This form can catch owners off guard, especially when the steroids were prescribed for an unrelated condition like allergies or immune disease. If your dog has been on steroids for months and starts showing these symptoms, that's a conversation to have with your vet immediately.
 
 ## The Symptoms, in Order of How Often I See Them
 
@@ -53,7 +53,7 @@ Not every dog presents the same way. But after 13 years of seeing Cushing's case
 
 Then comes the **pot belly**. Cortisol causes fat to redistribute to the abdomen and weakens the abdominal muscles, so the belly actually drops and rounds. People often assume their dog has just gained weight, but you can sometimes see a difference: the ribs are often still palpable and the back is relatively normal, while the belly hangs low. It's a specific shape.
 
-**Hair loss and skin changes** are probably the most visually striking. The hair loss tends to be symmetrical, often on the flanks and sides, and the skin underneath can look darker, sometimes almost gray or mottled. Comedones (those tiny blackhead-like bumps) along the belly are actually a pretty telling sign. The skin can also feel thin and papery. I've had owners describe it as "her skin doesn't bounce back the way it used to."
+**Hair loss and skin changes** are probably the most visually striking. The hair loss tends to be symmetrical, often on the flanks and sides, and the skin underneath can look darker, sometimes almost gray or mottled. Comedones (those tiny blackhead-like bumps) along the belly are actually a pretty telling sign. The skin can also feel thin and papery.
 
 Other symptoms that show up with some regularity:
 
@@ -68,7 +68,7 @@ Other symptoms that show up with some regularity:
 
 ## Which Breeds Are Most at Risk
 
-Honestly, any dog can develop Cushing's, but there's a clear breed pattern. Poodles, Dachshunds, Boston Terriers, Boxers, and Beagles are overrepresented in pretty much every study that's looked at this. A 2023 retrospective from the Journal of Veterinary Internal Medicine found that small and medium breeds account for disproportionately high case numbers, with Miniature Poodles carrying particularly elevated risk.
+Any dog can develop Cushing's, but there's a clear breed pattern. Poodles, Dachshunds, Boston Terriers, Boxers, and Beagles are overrepresented in pretty much every study that's looked at this. A 2023 retrospective from the Journal of Veterinary Internal Medicine found that small and medium breeds account for disproportionately high case numbers, with Miniature Poodles carrying particularly elevated risk.
 
 Age is the other major factor. Most dogs diagnosed with Cushing's are between 7 and 12 years old. That's not a coincidence; the pituitary microadenomas that cause most cases tend to develop slowly over years. A dog presenting with these symptoms at 3 years old is far more likely to have something else going on.
 

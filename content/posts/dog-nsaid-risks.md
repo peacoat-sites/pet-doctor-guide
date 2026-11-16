@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most dogs who end up in emergency clinics bleeding internally or with acute kidney failure got there because someone grabbed ibuprofen from the medicine cabinet, or their owner didn't realize the dog was already on a prescription NSAID and gave another one. I've seen it happen more times than I'd like. The owner is devastated. The outcome is sometimes terrible. And almost every time it was entirely preventable.
 
-NSAIDs, non-steroidal anti-inflammatory drugs, are genuinely useful in veterinary medicine. [Carprofen (Rimadyl)](/rimadyl-for-dogs-guide/), meloxicam (Metacam), deracoxib (Deramaxx), grapiprant (Gallipro Tabs), and several others are prescribed every single day in practices across the country. For a dog with osteoarthritis, post-surgical pain, or an acute soft tissue injury, they make a real difference. I'm not here to scare you away from them. I'm here to make sure you understand what you're agreeing to when your vet writes that prescription, because I've watched that five-minute discharge conversation go way too fast.
+NSAIDs, non-steroidal anti-inflammatory drugs, are genuinely useful in veterinary medicine. [Carprofen (Rimadyl)](/rimadyl-for-dogs-guide/), meloxicam (Metacam), deracoxib (Deramaxx), grapiprant (Gallipro Tabs), and several others are prescribed every single day in practices across the country. For a dog with osteoarthritis, post-surgical pain, or an acute soft tissue injury, they make a real difference. The key is understanding what you're agreeing to when your vet writes that prescription, since discharge conversations often move quickly and important details can get missed.
 
 ## What NSAIDs actually do in your dog's body
 
@@ -43,7 +43,7 @@ Please. Do not give your dog ibuprofen, naproxen (Aleve), or acetaminophen (Tyle
 
 The dose that would give a person mild relief is genuinely dangerous for a medium-sized dog. This isn't about dogs being fragile. It's about species-specific metabolism. Dogs process these drugs very differently than we do, and the safety margins built into human dosing don't transfer.
 
-If your dog is in pain on a Saturday night and your vet is closed, call an emergency clinic or the ASPCA Poison Control line before reaching into your medicine cabinet. Honestly, a well-stocked pet first aid kit matters more in those moments than you'd expect. Something like the [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) won't treat the pain, but it can help you manage wounds or monitor vitals while you figure out your next step. What it definitely won't do is hurt your dog the way a random OTC painkiller can.
+If your dog is in pain on a Saturday night and your vet is closed, call an emergency clinic or the ASPCA Poison Control line before reaching into your medicine cabinet. A well-stocked pet first aid kit matters more in those moments than you'd expect. Something like the [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) won't treat the pain, but it can help you manage wounds or monitor vitals while you figure out your next step. What it definitely won't do is hurt your dog the way a random OTC painkiller can.
 
 ## Bloodwork: the part people skip
 
@@ -82,7 +82,6 @@ Physical therapy and weight management also move the needle in ways that genuine
 - [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
 - [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
 - [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

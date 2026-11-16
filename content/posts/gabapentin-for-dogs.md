@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most pet owners I talk to assume gabapentin is just a "nerve pain drug" their vet throws at older dogs who seem stiff. That framing is so incomplete it can actually lead people to under-use or misuse a medication that, in the right context, is genuinely remarkable.
 
-I'll be honest: when I first encountered gabapentin in clinical practice about a decade ago, I thought of it as a niche drug for seizure management. That was my mental box for it. Then I started seeing it used pre-surgically, for situational anxiety, for neuropathic pain after spinal injuries, and as part of multimodal pain protocols for dogs with cancer. My box got a lot bigger.
+Gabapentin is often thought of narrowly as a seizure medication, but veterinary practice has expanded its use significantly. It's now used pre-surgically, for situational anxiety, for neuropathic pain after spinal injuries, and as part of multimodal pain protocols for dogs with cancer.
 
 So let me tell you what I've actually learned after 13 years of watching this drug work (and occasionally not work) in real dogs.
 
@@ -48,15 +48,13 @@ The drug is primarily cleared by the kidneys, which matters if your dog has any 
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where it gets interesting, because the list is longer than most owners realize.
 
-**Chronic pain**, especially neuropathic pain, is probably the most common use. Dogs with degenerative joint disease, intervertebral disc disease (IVDD), or spinal cord injuries often have a nerve pain component that [NSAIDs like Carprofen or Galliprant](/dog-nsaid-risks/) don't fully address. Gabapentin fills that gap. I've seen it make a meaningful difference in dogs who were on adequate NSAID dosing and still seemed uncomfortable.
+**Chronic pain**, especially neuropathic pain, is probably the most common use. Dogs with degenerative joint disease, intervertebral disc disease (IVDD), or spinal cord injuries often have a nerve pain component that [NSAIDs like Carprofen or Galliprant](/dog-nsaid-risks/) don't fully address. Gabapentin fills that gap. It can make a meaningful difference in dogs on adequate NSAID dosing who still seem uncomfortable.
 
 **Seizure management** is the original use, and gabapentin is still used as an add-on medication for dogs with epilepsy who aren't fully controlled on phenobarbital or potassium bromide alone.
 
-**Pre-surgical sedation and anxiety reduction** is a growing use, and honestly one of the most interesting ones. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has discussed gabapentin as part of fear-free and low-stress handling protocols, because giving a dog 100-300mg about two hours before a stressful vet visit can genuinely take the edge off. Not sedate them. Just... take the edge off. I've watched it transform a dog's experience at the clinic.
+**Pre-surgical sedation and anxiety reduction** is a growing use. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has discussed gabapentin as part of fear-free and low-stress handling protocols, because giving a dog 100-300mg about two hours before a stressful vet visit can take the edge off without full sedation.
 
 **Situational anxiety** more broadly, including thunderstorms and fireworks, is another application. It's not the same as a dedicated anxiolytic, and it won't work for every dog, but for dogs with mild to moderate situational anxiety, it can help.
 
@@ -103,7 +101,7 @@ The one thing I want to be clear about: don't stop gabapentin abruptly, especial
 
 ## Is It Right for Your Dog?
 
-The honest answer is: maybe. Gabapentin isn't magic, and I've seen it underwhelm for certain pain types, particularly pure inflammatory pain where an NSAID is really the right tool. The research on gabapentin for canine osteoarthritis specifically is more mixed than the enthusiasm around it sometimes suggests. Some dogs respond beautifully; others show minimal change.
+The honest answer is: maybe. Gabapentin isn't magic, and it can underwhelm for certain pain types, particularly pure inflammatory pain where an NSAID is really the right tool. The research on gabapentin for canine osteoarthritis specifically is more mixed than the enthusiasm around it sometimes suggests. Some dogs respond beautifully; others show minimal change.
 
 What I've found is that it tends to work best as part of a multimodal approach: combined with an NSAID, with appropriate weight management, with physical therapy if that's accessible. Using it as the only intervention for a dog with moderate to severe arthritis is probably setting yourself up for disappointment.
 
@@ -120,7 +118,6 @@ Anyone who's owned a senior German Shepherd or a Dachshund with spinal issues kn
 - Plumb, D.C. *Plumb's Veterinary Drug Handbook* (current edition): The standard clinical reference for veterinary pharmaceutical dosing, including gabapentin protocols
 
 ---
-
 
 ---
 

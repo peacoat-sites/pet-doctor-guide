@@ -25,7 +25,7 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 lastmod: 2026-07-08
 ---
-Roughly half the rescue dogs I've seen come through our clinic in the first 30 days post-adoption had at least one health issue the new owner didn't know about. Not because shelters are hiding things. Because health assessments done on stressed, under-observed animals in noisy kennels miss a lot, and because most adopters don't know what to look for before they sign the paperwork.
+Roughly half of rescue dogs show at least one health issue within the first 30 days post-adoption that their new owners weren't aware of. Not because shelters are hiding things. Because health assessments done on stressed, under-observed animals in noisy kennels miss a lot, and because most adopters don't know what to look for before they sign the paperwork.
 
 Most adoption advice focuses on temperament, training, and whether the dog will get along with your cat. That's all real. But walking home with a dog who has an undiagnosed ear infection, early hip dysplasia, or an intestinal parasite load is a rough start for everyone, and it costs money you could have planned for if you'd known.
 
@@ -98,7 +98,6 @@ Don't overwhelm the dog with social visits, new environments, and parks in week 
 - [PetMD's veterinary resource library](https://www.petmd.com/)
 - [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
 - [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

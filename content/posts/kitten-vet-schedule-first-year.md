@@ -25,7 +25,7 @@ author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
 lastmod: 2026-07-08
 ---
-You brought home an eight-week-old kitten on a Saturday afternoon, and by Sunday you're already wondering: when exactly does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? You're not alone. I've watched hundreds of new kitten owners walk through our clinic doors completely unsure of what the first year actually looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.
+When you bring home an eight-week-old kitten, questions come up quickly: when does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? New kitten owners often feel unsure about what the first year looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.
 
 ## Why the First Year Is the Most Medically Intensive Period of Your Cat's Life
 
@@ -127,7 +127,6 @@ The first year is a lot of appointments, some needle sticks, a surgery, and a fe
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - [Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)
 - [DUONG QUÁCH](https://www.pexels.com/@quachtungduong)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

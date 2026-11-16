@@ -14,9 +14,9 @@ slug: "cat-upper-respiratory-infection"
 affiliate_disclosure: true
 lastmod: 2026-07-08
 ---
-Most people assume a sneezing cat just has "a little cold" that'll clear up on its own in a few days. Sometimes that's true. But I've seen enough upper respiratory infections turn into weeks-long nightmares, or worse, that I want to give you the real picture of what's actually happening when your cat sounds like a tiny congested human.
+Most people assume a sneezing cat just has "a little cold" that'll clear up on its own in a few days. Sometimes that's true. But upper respiratory infections can turn into weeks-long problems, making it important to understand what's actually happening when your cat sounds congested.
 
-I'll be honest: when I first started in practice, I underestimated how miserable these infections can make cats. Unlike dogs, cats are obligate nasal breathers. When their nose is stuffed up, they frequently stop eating because they can't smell their food. A cat that hasn't eaten in 48 hours is a cat that needs attention, not reassurance.
+Unlike dogs, cats are obligate nasal breathers. When their nose is stuffed up, they frequently stop eating because they can't smell their food. A cat that hasn't eaten in 48 hours needs veterinary attention, not reassurance.
 
 ## What's Actually Causing It
 
@@ -56,7 +56,7 @@ L-lysine supplements were recommended for years to suppress FHV-1 replication. I
 
 Getting a congested cat to eat is often the whole battle. Warm wet food to just above room temperature, this intensifies the smell and usually breaks through even significant nasal congestion. Strong-smelling foods help too: tuna-flavored anything, or a tiny amount of low-sodium chicken broth drizzled over kibble.
 
-A cool-mist humidifier in the room where your cat sleeps makes a real difference in comfort. So does steam from a hot shower if you close the cat in the bathroom with you for 10-15 minutes. Sounds fussy, but I've had clients report it's the thing that finally got their cat comfortable enough to eat.
+A cool-mist humidifier in the room where your cat sleeps can help with comfort. So can steam from a hot shower if you close the cat in the bathroom for 10-15 minutes. Many owners find that improved humidity makes the difference in whether their cat will eat.
 
 Keep the face clean. Dried discharge crusts around the nose and eyes and makes cats even more miserable. Warm water on a soft cloth, gentle pressure, no scrubbing.
 
@@ -110,7 +110,6 @@ Almost nothing in your medicine cabinet is safe for cats. No Sudafed, no Benadry
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Aleksandr Nadyojin](https://www.pexels.com/@aleksandr-nadyojin-2954845)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

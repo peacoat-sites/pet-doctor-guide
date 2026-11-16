@@ -77,7 +77,7 @@ Flea shampoos kill fleas on contact but provide zero residual protection. They'r
 
 ## How to Apply Prevention Products Correctly
 
-Getting this wrong reduces effectiveness dramatically. I've seen clients use the right product and still end up with a flea infestation because they applied it incorrectly.
+Getting this wrong reduces effectiveness dramatically. Using the right product incorrectly can still result in a flea infestation.
 
 **For topical spot-ons:**
 
@@ -134,7 +134,6 @@ The goal with flea and tick prevention is simple: pick a product appropriate for
 - [PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)
 - [PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)
 - [Helena Lopes](https://www.pexels.com/@helenalopes)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

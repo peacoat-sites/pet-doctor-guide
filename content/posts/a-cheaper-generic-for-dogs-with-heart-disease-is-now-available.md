@@ -42,7 +42,7 @@ For dogs already in CHF, Stage C or D, who don't need the branded drug for the p
 
 ## How to Talk to Your Vet About Switching
 
-Vets won't always bring up the generic immediately. It's not that they're hiding it. June 2026 is new. Not every practice has updated its default prescribing yet. You can ask directly: "I've read that an FDA-approved generic pimobendan just launched. My dog is in Stage C heart failure. Is there any clinical reason to stay on branded Vetmedin, or can we switch?"
+Vets may not immediately suggest a generic alternative. Some practices may not yet have updated their default prescribing. You can ask directly: "I've read that an FDA-approved generic pimobendan just launched. My dog is in Stage C heart failure. Is there any clinical reason to stay on branded Vetmedin, or can we switch?"
 
 That's a completely reasonable question. A good cardiologist or internist will give you a straight answer. If your dog is in the preclinical B2 category where the expanded Vetmedin indication applies, they might say "stay on the brand for now." If your dog is managing active heart failure, the generic may work fine.
 

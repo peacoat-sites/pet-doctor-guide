@@ -32,8 +32,6 @@ The delivery method for OKV-119 is worth noting. It's a subcutaneous implant, no
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Pump the brakes before you call your vet asking for a GLP-1 prescription. These drugs are not FDA-approved. They are not commercially available. Every cat currently receiving them is enrolled in a controlled clinical trial, and that's the only legal avenue right now. There is no compounded version of AKS-562c your vet can order. OKV-119 is not at your local veterinary pharmacy.
 
 The reason I'm spelling this out: human GLP-1 drugs are already being requested for pets by owners who've read half an article. Semaglutide and tirzepatide are dosed by body weight for humans who weigh 150 to 300 pounds. The math does not translate cleanly to a 15-pound cat, and the safety profile in cats is entirely unknown. Do not try this. Seriously. The fact that something works in one species at one dose tells you almost nothing about what it does in a different species at a scaled dose.
@@ -60,7 +58,7 @@ In the meantime, weight management still means what it's always meant: measured 
 
 The GLP-1 developments aren't happening in isolation. On June 9, 2026, Cronus Pharma's [pimobendan chewable tablets](/a-cheaper-generic-for-dogs-with-heart-disease-is-now-available/) became available in the U.S. market as the first FDA-approved bioequivalent of Vetmedin for canine heart failure. That might sound unrelated, but it signals something real: the pipeline of condition-specific veterinary drugs is accelerating. Metabolic disease, cardiac disease, and chronic illness in pets are getting serious pharmaceutical attention in a way they weren't five years ago.
 
-The pet obesity crisis has been documented and discussed for two decades with limited results. A drug that removes the hunger equation without requiring perfect owner compliance could actually change outcomes. That's not hype; that's what the mechanism suggests if the safety profile continues to hold in larger trials.
+The pet obesity crisis has been documented and discussed for two decades with limited results. A drug that removes the hunger equation without requiring perfect owner compliance could improve outcomes if the safety profile holds in larger trials.
 
 We're not there yet. But June 2026 is the closest we've ever been.
 

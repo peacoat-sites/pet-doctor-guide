@@ -16,7 +16,7 @@ lastmod: 2026-07-08
 ---
 Your dog is destroying the doorframe every time you leave. Or maybe it's subtler: a neighbor mentioned the barking starts the second your car pulls out of the driveway, and now you're dreading every errand. You might be wondering whether this is a training problem, a behavioral problem, or something that needs medication. The honest answer is that it can be all three, and figuring out which layer you're dealing with first makes everything else more manageable.
 
-Separation anxiety is genuinely one of the hardest things to treat in dogs. I want to be upfront about that. I've seen it resolve beautifully in three months and I've seen it take two years of consistent work. The dogs who get better fastest are almost never the ones whose owners tried the most things simultaneously. They're the ones who understood what they were actually treating.
+Separation anxiety is genuinely one of the hardest things to treat in dogs. Recovery timelines vary widely - some dogs improve within months, while others need a year or more of consistent work. The dogs who improve fastest are usually not those whose owners tried the most interventions at once. They're the ones who understood what they were actually treating.
 
 ## What Separation Anxiety Actually Looks Like (And What It Isn't)
 
@@ -31,8 +31,6 @@ Dogs with boredom-based destructive behavior usually eat while you're gone. They
 ## The Treatment Framework: You Need More Than One Tool
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what I tell people who come in convinced they just need the right training video or the right supplement: separation anxiety at the moderate-to-severe level requires a multi-pronged approach. Behavior modification is the foundation. Medication is often the bridge that makes behavior modification possible. Environmental management keeps everyone sane while you work through it.
 
@@ -91,7 +89,7 @@ It's a completely reasonable thing to feel. Ask your vet specifically about what
 - [the American Veterinary Medical Association (AVMA)](https://www.avma.org/)
 - [the AAHA hospital accreditation standards](https://www.aaha.org/)
 
-Separation anxiety is hard, but it's not hopeless. The dogs I've seen come through it most successfully had owners who stopped expecting fast results and started building a consistent routine they could actually stick to. Start with a good camera so you know what you're really dealing with. Talk to your vet before you buy twelve supplements off Amazon. And be patient with yourself, too. This is exhausting to manage, and the fact that you're looking for real answers means you're already doing something right.
+Separation anxiety is hard, but it's not hopeless. Dogs improve most when their owners stop expecting fast results and build a consistent routine they can actually stick to. Start with a good camera so you know what you're really dealing with. Talk to your vet before you buy twelve supplements off Amazon. And be patient with yourself, too. This is exhausting to manage, and the fact that you're looking for real answers means you're already doing something right.
 
 ---
 

@@ -42,8 +42,6 @@ Not every flat-faced dog has severe BOAS. I want to be clear about that. Some Fr
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Snoring and snuffling in a brachycephalic dog isn't automatically a crisis. It often isn't. But there's a difference between "he's loud when he sleeps" and "she turns blue after running to the back door."
 
 Signs that are worth monitoring but not necessarily urgent:
@@ -75,7 +73,7 @@ This is also why feeding practices matter. Small, frequent meals. Slow feeder bo
 
 ## When Surgery Is Actually the Right Answer
 
-This is where I'll take a stance that sometimes surprises people: corrective airway surgery for moderate to severe BOAS is, in my experience and based on the veterinary literature, genuinely underutilized. A lot of owners hesitate because the dog seems "okay," or because surgery sounds scary, or because someone told them the dog would grow out of it. (They don't grow out of it. The anatomy doesn't change.)
+Corrective airway surgery for moderate to severe BOAS is genuinely underutilized according to veterinary literature. A lot of owners hesitate because the dog seems "okay," or because surgery sounds scary, or because someone told them the dog would grow out of it. (They don't grow out of it. The anatomy doesn't change.)
 
 The procedures involved, which typically include widening stenotic nares, shortening the soft palate, and sometimes removing excess tissue in the larynx, are most effective when done early. Dogs who have the surgery before significant secondary changes develop in the larynx have meaningfully better outcomes. A dog who's been struggling for years with a compromised airway develops secondary problems like laryngeal collapse that are harder to fix. Timing matters.
 
@@ -97,7 +95,6 @@ One more angle worth mentioning: because brachycephalic dogs are already working
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
@@ -111,7 +108,6 @@ One more angle worth mentioning: because brachycephalic dogs are already working
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
 - [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

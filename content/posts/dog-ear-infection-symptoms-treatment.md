@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your dog's been shaking his head for two days straight. You notice him pawing at his left ear, and when you lean in close, there's a smell that stops you cold. You're not imagining it. That's almost certainly an ear infection, and if you've never dealt with one before, the combination of symptoms can feel alarming.
 
-Here's the thing: ear infections are one of the most common reasons dogs visit the vet. According to the [American Veterinary Medical Association (AVMA)](https://www.avma.org/), otitis externa (infection of the outer ear canal) accounts for a significant portion of all small animal veterinary visits. Knowing what you're looking at, when you need to move fast, and how treatment actually works will help you act confidently instead of spiraling into 2 a.m. Google panic.
+Ear infections are one of the most common reasons dogs visit the vet. According to the [American Veterinary Medical Association (AVMA)](https://www.avma.org/), otitis externa (infection of the outer ear canal) accounts for a significant portion of all small animal veterinary visits. Knowing what you're looking at, when you need to move fast, and how treatment actually works will help you act confidently instead of spiraling into 2 a.m. Google panic.
 
 ## What Ear Infections Actually Look Like in Dogs
 

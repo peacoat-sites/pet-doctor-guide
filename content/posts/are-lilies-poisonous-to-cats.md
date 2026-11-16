@@ -31,9 +31,7 @@ Oliver made it. Barely. He spent four days on IV fluids, and his owner, who clea
 
 Here's what you need to know before we go any further: true lilies (genus *Lilium* and *Hemerocallis*) are among the most acutely [toxic plants](/toxic-plants-for-cats-list/) for cats on the planet. Not "might cause an upset stomach" toxic. We're talking complete kidney failure within 24 to 72 hours if untreated. The scary part is that the toxic mechanism isn't even fully understood yet, which is part of why this keeps catching people off guard.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">True lilies (Lilium and Hemerocallis species) cause acute kidney failure in cats, often fatal without treatment within 72 hours.</li><li style="margin:5px 0">Even small exposures, a few petals, a leaf, pollen licked off fur, can be enough to trigger toxicity.</li><li style="margin:5px 0">Treatment works best if started within 6 hours of exposure; after 18+ hours, prognosis drops sharply.</li><li style="margin:5px 0">Peace lilies and calla lilies are toxic but cause different, less severe reactions (mouth irritation, GI upset).</li><li style="margin:5px 0">Dogs are NOT affected by lily nephrotoxicity, this is a cat-specific vulnerability.</li></ul></div>
-
 
 ## Which Lilies Are Actually Dangerous
 
@@ -59,8 +57,6 @@ And then there are plants with "lily" in the name that aren't true lilies at all
 ## What Kidney Failure Actually Looks Like
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The progression is deceptive, and that's what makes lily toxicity so dangerous.
 
@@ -96,10 +92,9 @@ Here's something that trips people up constantly. You don't have to own lilies t
 
 Cut flowers are the bigger risk vector than houseplants, because people receive lily arrangements as gifts without knowing what's in them. Florists use Asiatic and Oriental lilies constantly because they're gorgeous, long-lasting, and cheap wholesale. An arrangement that looks like it's "just flowers" might contain three or four varieties of *Lilium* mixed in with roses and filler.
 
-I've seen cats get toxicity from rubbing against vase arrangements. The pollen is loose, it transfers onto fur, and then the cat grooms. That's a complete exposure pathway from a plant the cat never directly chewed.
+Cats can get toxicity from rubbing against vase arrangements. The pollen transfers onto fur, and then the cat grooms it off during self-cleaning. This is a complete exposure pathway even if the cat never directly chewed the plant.
 
 If you receive flowers, check them against the table above before bringing them inside. If you're not sure what's in an arrangement, keep the cat out of that room entirely until you can identify each stem. It takes two minutes with a phone camera and a quick image search.
-
 
 ## Sources
 

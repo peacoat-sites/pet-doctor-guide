@@ -25,7 +25,7 @@ author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
 lastmod: 2026-07-08
 ---
-Your cat acts completely normal all year, eats well, plays occasionally, and then the vet finds a heart murmur at a routine checkup. That's not a rare story. I've seen it play out dozens of times in the exam room, and it's exactly why annual wellness visits matter even when your cat seems absolutely fine. Cats are masters of hiding illness, a survival instinct baked in from their wild ancestors, and by the time symptoms become obvious to you at home, a condition is often well advanced.
+Your cat acts completely normal all year, eats well, plays occasionally, and then the vet finds a heart murmur at a routine checkup. This scenario is common, which is why annual wellness visits matter even when your cat seems absolutely fine. Cats are masters of hiding illness, a survival instinct baked in from their wild ancestors, and by the time symptoms become obvious to you at home, a condition is often well advanced.
 
 If you've got an annual visit coming up and you're not sure what actually happens during one of these appointments, this guide will walk you through every piece of it, including what the vet is checking, what questions to ask, and how to tell if something found during the exam actually needs urgent follow-up.
 
@@ -152,7 +152,6 @@ Bloodwork catches kidney disease, diabetes, hyperthyroidism, and anemia long bef
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - throws up sometimes. 3
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

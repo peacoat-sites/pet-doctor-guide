@@ -31,7 +31,7 @@ The ligament in question is the CCL (cranial cruciate ligament). "ACL" is the hu
 
 ## Recognizing It: What You're Actually Seeing
 
-A complete rupture is usually obvious. Your dog won't put weight on the leg, or barely touches the toe down. Partial tears? Those are sneaky. The dog limps for a few days, seems to improve, then goes lame again. I've watched owners cycle through "rest and anti-inflammatories" three or four times over several months before anyone gets a definitive diagnosis. By then the joint has accumulated serious damage.
+A complete rupture is usually obvious. Your dog won't put weight on the leg, or barely touches the toe down. Partial tears? Those are sneaky. The dog limps for a few days, seems to improve, then goes lame again. Owners sometimes cycle through rest and anti-inflammatories multiple times over several months before getting a definitive diagnosis. By then the joint has accumulated serious damage.
 
 The "sitting sign" is worth watching for: dogs with a CCL injury often can't flex the knee normally, so they sit with the affected leg kicked out to the side instead of tucked under. Not definitive on its own, but telling.
 
@@ -58,7 +58,7 @@ Three main procedures come up:
 
 **TPLO (Tibial Plateau Leveling Osteotomy)** is the current gold standard. The surgeon cuts and rotates the tibia to change the joint angle, making the CCL functionally unnecessary. It sounds alarming. The outcomes are excellent. Recovery takes roughly 12-16 weeks of restricted activity, and most dogs return to full function.
 
-**TTA (Tibial Tuberosity Advancement)** achieves similar biomechanical goals through a different approach. Outcomes match TPLO closely. Some surgeons prefer one or the other strongly; in my experience, surgeon familiarity with the technique matters more than which technique gets chosen.
+**TTA (Tibial Tuberosity Advancement)** achieves similar biomechanical goals through a different approach. Outcomes match TPLO closely. Some surgeons prefer one or the other strongly; surgeon familiarity with the technique often matters more than which one gets chosen.
 
 **Extracapsular repair** (lateral suture or the newer TightRope variation) places a heavy suture outside the joint to mimic the ligament. Less invasive, cheaper (often $1,500-2,500 versus $3,500-5,000 for TPLO), and perfectly appropriate for dogs under 30 pounds or older, lower-activity dogs. For a 70-pound Labrador? I'd push hard for TPLO.
 
@@ -103,7 +103,6 @@ One last thing about the other leg: 40-60% of dogs who tear one CCL will tear th
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
 - [Healthy Paws](https://www.amazon.com/s?k=pet+insurance)
 - [Big Barker orthopedic dog bed](https://www.amazon.com/s?k=big+barker+orthopedic+dog+bed)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

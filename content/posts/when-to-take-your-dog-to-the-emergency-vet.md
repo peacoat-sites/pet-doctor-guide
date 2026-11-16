@@ -25,7 +25,7 @@ faqs:
     a: "For anything on the 'go now' list: yes, you really need to go at 3 a.m. For anything in the middle-ground category, it depends on trajectory. Is your dog getting worse, holding steady, or improving? If they're stable or improving, a first-thing-in-the-morning urgent appointment may be appropriate. If they're declining, don't wait. Five hours is a long time when a condition is progressing."
 ---
 
-Most people get this wrong in the direction of waiting too long. Not because they don't care about their dog, obviously they do, but because emergency vet visits are expensive and scary, and our brains are really good at convincing us that things will probably be fine by morning. I've watched this play out hundreds of times over 13 years, and I'll be honest: the cases that haunt me aren't the ones where someone panicked over nothing. They're the ones where someone waited.
+Most people get this wrong in the direction of waiting too long. Not because they don't care about their dog, obviously they do, but because emergency vet visits are expensive and scary, and our brains are really good at convincing us that things will probably be fine by morning. The riskier cases are those where someone waited.
 
 So let's get into what actually warrants a 2 a.m. drive to the emergency clinic, what can reasonably wait until your regular vet opens Monday, and how to tell the difference when your dog is acting weird and your anxiety is through the roof.
 
@@ -35,7 +35,7 @@ Some things are straightforward emergencies. Not "probably fine but maybe check 
 
 **Breathing difficulties.** Any dog struggling to breathe, breathing with their mouth open in a labored way (dogs don't pant when they're in respiratory distress, this looks different, more effortful, with neck extended), or making new wheezing or crackling sounds needs to be seen immediately. Oxygen deprivation causes irreversible damage fast.
 
-**Suspected bloat (GDV).** This one kills me because it's so easy to misread as an upset stomach. If your dog, especially a large or deep-chested breed, is repeatedly trying to vomit without producing anything, has a visibly distended abdomen, is restless and clearly uncomfortable, you may be looking at gastric dilatation-volvulus. The stomach literally rotates. Without surgery, most dogs die within hours. I've seen owners lose dogs to GDV because they thought it was just gas. Anyone who's owned a Great Dane or standard poodle should have this burned into their brain: unproductive retching plus bloated belly equals emergency clinic, no exceptions.
+**Suspected bloat (GDV).** This one kills me because it's so easy to misread as an upset stomach. If your dog, especially a large or deep-chested breed, is repeatedly trying to vomit without producing anything, has a visibly distended abdomen, is restless and clearly uncomfortable, you may be looking at gastric dilatation-volvulus. The stomach literally rotates. Without surgery, most dogs die within hours. GDV is often mistaken for an upset stomach or gas, which can delay critical treatment. Anyone who's owned a Great Dane or standard poodle should have this burned into their brain: unproductive retching plus bloated belly equals emergency clinic, no exceptions.
 
 **Seizures lasting more than two to three minutes, or cluster seizures.** A single brief seizure in a dog with a known seizure disorder may not be an emergency, but prolonged seizure activity causes brain damage and can be fatal. If you've never seen your dog seize before, go in. Period.
 
@@ -50,8 +50,6 @@ Some things are straightforward emergencies. Not "probably fine but maybe check 
 ## The middle zone (where it actually gets complicated)
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I'll be honest: this is where the guidance gets harder, and where I think a lot of general pet health articles fail you by being too vague.
 
@@ -106,7 +104,6 @@ Scenario: Seven-year-old male golden retriever showed labored breathing and relu
 - Platt SR, Olby NJ, *BSAVA Manual of Canine and Feline Neurology* (4th ed.): Standard clinical reference for neurological triage, including spinal cord injury timing and outcomes.
 
 ---
-
 
 ---
 

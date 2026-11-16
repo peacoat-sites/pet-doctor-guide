@@ -33,7 +33,7 @@ Most people assume a microchip is a GPS tracker. It's not, and getting that stra
 
 A pet microchip is a passive radio-frequency identification (RFID) device, roughly the size of a grain of rice. No battery. No moving parts. It doesn't emit any signal on its own. When a scanner passes over it, the chip reflects back a unique numeric code, typically 9, 10, or 15 digits depending on the standard. That number gets registered in a database linking it to your contact information. That's the whole system.
 
-Why does this matter? The chip itself is only half the equation. A chip that isn't registered is nearly useless. I've seen lost pets get scanned, a number comes up, and nobody can trace the owner because the registration was never completed or the contact info is years out of date.
+Why does this matter? The chip itself is only half the equation. A chip that isn't registered is nearly useless. A lost pet that gets scanned may yield a number, but if the registration was never completed or the contact info is years out of date, the owner can't be traced.
 
 A microchip will give your pet a permanent, tamper-proof identifier that no collar can replicate. Collars fall off. Tags fade. Breakaway designs release on purpose. A microchip stays put for the animal's entire life.
 
@@ -106,7 +106,6 @@ If your pet isn't microchipped yet, the good news is that fixing that is one of 
 - [veterinary resource library](https://www.petmd.com/)
 - [this vet-approved option on Amazon](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

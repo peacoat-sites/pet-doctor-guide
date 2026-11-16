@@ -25,7 +25,7 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 lastmod: 2026-07-08
 ---
-Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms, BUN, ALT, T4, CBC, wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. I've had this exact conversation in the exam room hundreds of times. Here's what I wish every pet owner knew before that appointment.
+Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms, BUN, ALT, T4, CBC, wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. Many pet owners wonder whether senior bloodwork is necessary when their dog seems healthy. Understanding what these tests reveal can help you make an informed decision.
 
 ---
 
@@ -123,7 +123,6 @@ Senior bloodwork isn't about finding something wrong. It's about knowing your pe
 - [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)
 - [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

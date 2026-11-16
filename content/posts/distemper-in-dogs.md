@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people think distemper is a disease from the past. Like polio in humans, they vaguely know it exists but assume vaccination wiped it out. I wish that were true. In my 13 years in small animal practice, I've watched two dogs come in with full-blown distemper, and both cases ended the same way. It's a brutal disease, and it does not negotiate.
+Most people think distemper is a disease from the past. Like polio in humans, they vaguely know it exists but assume vaccination wiped it out. Distemper remains a serious threat despite available vaccines. It's a brutal disease, and it does not negotiate.
 
 So let's talk about what it actually is, what it looks like in real life, and what you can do about it, because the gap between "I know dogs should be vaccinated" and "I understand why this one matters so much" is wider than most pet owners realize.
 
@@ -38,7 +38,7 @@ The virus spreads through airborne exposure to secretions from infected animals.
 
 What most people don't realize is how varied the presentation can be early on. The first signs often look exactly like a kennel cough or a mild upper respiratory infection: runny nose, watery eyes, coughing, a little lethargy. It's genuinely hard to distinguish without diagnostics. By the time the GI symptoms hit (vomiting, diarrhea, significant appetite loss) and the disease progresses toward neurological involvement, you're already looking at a very sick dog.
 
-Neurological signs include muscle twitching (especially in the jaw and leg muscles, sometimes described as "chewing gum seizures"), circling, incoordination, partial paralysis, and seizures. Once the nervous system is affected, the prognosis shifts from guarded to poor. I've seen dogs survive the respiratory phase only to develop progressive neurological disease months later. It's devastating every single time.
+Neurological signs include muscle twitching (especially in the jaw and leg muscles, sometimes described as "chewing gum seizures"), circling, incoordination, partial paralysis, and seizures. Once the nervous system is affected, the prognosis shifts from guarded to poor. Some dogs that survive the respiratory phase develop progressive neurological disease months later.
 
 ## The Vaccine Works. Use It.
 
@@ -49,8 +49,6 @@ Neurological signs include muscle twitching (especially in the jaw and leg muscl
 | Maintenance | After 1 year | Every 1-3 years | Based on product and risk factors |
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I don't say this about everything. There are plenty of vaccines where the risk-benefit calculation is more nuanced, where geography and lifestyle matter more, where we in the veterinary community genuinely debate frequency and necessity. Distemper is not one of those.
 
@@ -93,7 +91,6 @@ One thing I'll be honest about: I don't have solid current data on how much wild
 - Sykes JE. *Canine and Feline Infectious Diseases*. Elsevier, 2014: Reference for diagnostic approach and treatment protocols
 
 ---
-
 
 ---
 

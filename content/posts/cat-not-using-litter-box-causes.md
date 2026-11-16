@@ -29,7 +29,6 @@ You cleaned the litter box this morning. You bought the good litter. Your cat us
 
 I've fielded these panicked calls for 13 years at the clinic, and I can tell you this: litter box avoidance is one of the top reasons cats get surrendered to shelters. It doesn't have to go that far. Most cases crack once you figure out what's actually driving it.
 
-
 <div class="value-module">
  <div class="vm-head">Medical vs Behavioral: Diagnostic Checklist</div>
  <div class="vm-body">
@@ -73,7 +72,7 @@ Unscented, clumping clay litter wins in most studies, though individual cats var
 
 **Cleanliness is non-negotiable.** Most cats won't use a box with more than one or two clumps in it. In busy households that means scooping twice daily. Dump the full litter, scrub with unscented dish soap (not bleach or ammonia, which smell like urine to cats), and refill with fresh litter every one to two weeks depending on usage.
 
-I've had clients insist their cat is broken, then mention almost casually they scoop every few days. Scoop daily. It's ridiculously simple and solves a surprising number of cases.
+A common issue is owners reporting their cat won't use the box, then mentioning they scoop every few days. Scoop daily. It's ridiculously simple and solves a surprising number of cases.
 
 ## Stress and Behavioral Causes: The Long Game
 
@@ -136,7 +135,6 @@ Most litter box problems are fixable. Cats end up in shelters over this because 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)
 - [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

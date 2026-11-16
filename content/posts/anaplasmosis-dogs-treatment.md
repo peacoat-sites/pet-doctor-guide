@@ -27,13 +27,11 @@ faqs:
 
 Roughly 1 in 5 dogs tested for tick-borne illness in the United States comes back positive for *Anaplasma phagocytophilum* exposure, according to IDEXX Laboratories' tick-borne disease surveillance data, and most of their owners had no idea anything was wrong until the dog stopped eating or couldn't get off the couch.
 
-I've been in small animal practice for 13 years, and anaplasmosis is one of those diseases that sneaks up on you. A dog comes in "just not acting right." Maybe a little fever, maybe some joint stiffness. Half the time the owner has already Googled "dog flu" or "[Lyme disease](/lyme-disease-dogs-symptoms/)" and is convinced it's one of those. And sometimes, honestly, it is Lyme, because deer ticks carry both organisms and co-infection is more common than most people realize.
+Anaplasmosis can be tricky to identify. Affected dogs often show vague symptoms like lethargy, low fever, or joint stiffness. Owners frequently suspect [Lyme disease](/lyme-disease-dogs-symptoms/) or canine flu first, which is understandable since deer ticks can carry both Lyme and Anaplasma, and co-infection does occur.
 
 The good news: when caught and treated correctly, anaplasmosis responds quickly. I'm talking 24 to 48 hours until you start seeing real improvement. But the window between "this can wait until Monday" and "we need to go now" is narrower than you'd think, so let me break this down the way I wish every client came in already knowing.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Doxycycline is the standard treatment; most dogs improve within 24-48 hours of the first dose.</li><li style="margin:5px 0">A full 28-day course is non-negotiable, stopping early risks relapse and resistance.</li><li style="margin:5px 0">Fever above 104°F, collapse, or bleeding from gums warrants an emergency visit, not a wait-and-see.</li><li style="margin:5px 0">Two species cause anaplasmosis in dogs: A. phagocytophilum (joint pain, fever) and A. platys (platelet destruction, bleeding).</li><li style="margin:5px 0">Tick prevention is the only reliable way to stop this; a dog can be reinfected after treatment.</li></ul></div>
-
 
 ## What's Actually Happening Inside Your Dog
 
@@ -46,8 +44,6 @@ What most people don't realize is that a tick has to be attached for at least 24
 ## Recognizing the Symptoms (And What To Do With That Information)
 
 > **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The classic presentation I see: dog is off food for a day or two, running a temperature between 103°F and 106°F (normal is 100-102.5°F), joints look stiff especially in the morning, and the owner says "he's just not himself." Sometimes there's a history of a tick bite; often there isn't, because people miss them.
 
@@ -69,11 +65,9 @@ Doxycycline is the treatment. Full stop. There's no second-line drug that works 
 
 Dosing is typically 5 mg/kg twice daily or 10 mg/kg once daily for 28 days. Your vet will calculate this by weight. For a 50-pound dog, you're looking at roughly 227 mg/day divided in two doses.
 
-The part that surprises owners: doxycycline has to be given with food. Not because it says so on the label, but because it can cause serious esophageal irritation and even ulcers if it's swallowed dry or without enough water. I've seen dogs come back two weeks into treatment with severe nausea and food refusal not because the drug stopped working, but because it was being given on an empty stomach. Give it with a small meal, follow with a bit of water, and if your dog is already nauseous, ask your vet about anti-emetic support in the first few days.
-
+The part that surprises owners: doxycycline has to be given with food. Not because it says so on the label, but because it can cause serious esophageal irritation and even ulcers if it's swallowed dry or without enough water. Dogs given doxycycline on an empty stomach may develop severe nausea and food refusal, which can be mistaken for treatment failure. Give it with a small meal, follow with a bit of water, and if your dog is already nauseous, ask your vet about anti-emetic support in the first few days.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Doxycycline treatment cost by dog size (28-day course, generic)</div><div class="sc-row"><span class="sc-label">Small dog (under 20 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$28</span></div><div class="sc-row"><span class="sc-label">Medium dog (20-50 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">$52</span></div><div class="sc-row"><span class="sc-label">Large dog (50-80 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$87</span></div><div class="sc-row"><span class="sc-label">Giant breed (80+ lbs)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$130</span></div><div class="sc-src">Source: Average pharmacy pricing, 2026</div></div>
-
 
 These are generic doxycycline hyclate prices as of July 2026, pulling from GoodRx pricing for the most common tablet strengths. The drug itself is inexpensive. What you're actually paying for at the vet is the diagnostic workup: a CBC (complete blood count), chemistry panel, and the 4Dx or SNAP test to confirm exposure. Depending on your clinic and your region, that visit plus bloodwork can run $150 to $350 before the prescription. If your dog is severely ill and needs IV fluids or hospitalization, budget for $500 to $1,200 or more.
 
@@ -87,7 +81,7 @@ Beagle, 3 years old, outdoor hunter, positive for both Lyme and Anaplasma on the
 
 ## The 28-Day Rule and Why It's Not Optional
 
-I can't tell you how many times I've had clients stop the doxycycline at day 10 because the dog "seems totally fine." And then three weeks later the dog is back in the clinic looking rough again.
+Stopping doxycycline early when a dog improves is a common mistake; the full course is necessary to clear the infection, and premature cessation can lead to relapse.
 
 Clinical improvement is fast. That part is real. But PCR studies have documented that bacterial DNA can persist in the blood for longer than the dog's symptoms suggest, and undercutting the treatment course gives any surviving bacteria a chance to cause recurrence. There's also a broader concern about doxycycline resistance developing in tick-borne pathogens if treatment is routinely cut short. Set a reminder on your phone. Finish the course.
 
@@ -110,7 +104,6 @@ What it does mean: your dog has no lasting immunity. They can absolutely get ana
 - [AAHA Canine Vaccination Guidelines and Tick-Borne Disease Resources](https://www.aaha.org/): Clinical guidance on prevention and treatment protocols for tick-borne illness in companion animals.
 
 ---
-
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

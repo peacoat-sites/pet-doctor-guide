@@ -25,9 +25,9 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 lastmod: 2026-07-08
 ---
-Your cat just got diagnosed with [chronic kidney disease](/how-to-manage-diabetes-in-cats-with-insulin/), and the vet handed you a prescription diet pamphlet on your way out the door. Now you're home, staring at a bag of food your cat won't touch, reading ingredient labels you don't fully understand, and wondering whether you're slowly starving your cat or slowly killing her kidneys. I've watched this exact scenario play out hundreds of times. The diagnosis is overwhelming enough without the diet piece feeling like a puzzle with missing pieces.
+Your cat just got diagnosed with [chronic kidney disease](/how-to-manage-diabetes-in-cats-with-insulin/), and the vet handed you a prescription diet pamphlet on your way out the door. Now you're home, staring at a bag of food your cat won't touch, reading ingredient labels you don't fully understand, and wondering whether you're slowly starving your cat or slowly killing her kidneys. The diagnosis is overwhelming enough without the diet piece feeling like a puzzle with missing pieces.
 
-Here's the thing: nutrition is genuinely one of the most powerful tools you have for managing feline CKD. The right diet won't cure the disease, but there's solid evidence it can slow progression and meaningfully extend quality of life. Getting this right matters.
+Nutrition is genuinely one of the most powerful tools you have for managing feline CKD. The right diet won't cure the disease, but there's solid evidence it can slow progression and meaningfully extend quality of life. Getting this right matters.
 
 ## What CKD Actually Does to Your Cat's Nutritional Needs
 
@@ -81,7 +81,7 @@ Here's a practical comparison:
 
 Hydration is not optional in a CKD cat. The kidneys are already struggling to concentrate urine. A dehydrated CKD cat's kidneys work much harder and decline faster. Wet food, which runs 70 to 80% moisture compared to dry food's roughly 10%, is strongly preferred. Most veterinary internists and nephrologists who specialize in feline CKD consider this non-negotiable.
 
-I've had clients tell me their cat "only eats dry food" and they can't switch. I understand the frustration. It's worth a real, sustained effort anyway. Transition slowly. Try different textures: pate, shredded, minced. Warm the food slightly to enhance the aroma. Try different protein sources. Some cats who refuse chicken kidney diets will accept fish or rabbit variants.
+Many cat owners report their cat "only eats dry food" and resist switching. I understand the frustration. It's worth a real, sustained effort anyway. Transition slowly. Try different textures: pate, shredded, minced. Warm the food slightly to enhance the aroma. Try different protein sources. Some cats who refuse chicken kidney diets will accept fish or rabbit variants.
 
 If your cat absolutely won't eat wet food no matter what, water fountains and adding low-sodium broth (with no onion or garlic) to dry food can help, but they're not equivalent to a wet diet. Subcutaneous fluids are another route. Your vet can teach you to give them at home, and many owners master it quickly. It genuinely improves quality of life, so don't dismiss this option.
 
@@ -116,7 +116,6 @@ Managing a CKD cat is a long game, and the diet piece genuinely makes a differen
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - on the bag
 - supports their use in slowing CKD progression
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -53,11 +53,9 @@ It's available by prescription only. As of July 2026, a 30-day supply of 75mg ca
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+Carprofen is a workhorse. The situations where I see it used most:
 
-
-Honestly, carprofen is a workhorse. The situations where I see it used most:
-
-Post-surgical pain management, osteoarthritis in older dogs, acute soft tissue injuries, and dental pain following extractions. For chronic arthritis in particular, it can dramatically change a dog's quality of life. I've watched dogs go from refusing to climb stairs to trotting around at the park within a week. That's not hyperbole.
+Post-surgical pain management, osteoarthritis in older dogs, acute soft tissue injuries, and dental pain following extractions. For chronic arthritis in particular, pain relief can dramatically improve a dog's mobility and quality of life, sometimes noticeably within the first week of treatment.
 
 Here's a worked example that stuck with me: A 9-year-old Golden Retriever came in barely weight-bearing on his right rear. His owner had been managing him with fish oil and rest for two months because she was nervous about medications. We started him on 75mg carprofen twice daily. Within 10 days, he was walking normally and had started playing with toys again. The owner called the clinic crying. That's what appropriate pain management does for a dog.
 
@@ -85,7 +83,7 @@ What I don't want you to do is read a few bad reviews online and refuse to give 
 
 If your vet is putting your dog on Rimadyl for ongoing arthritis management, there are questions worth asking. I'm not suggesting you challenge their judgment, just that you be an informed participant.
 
-Ask: Are we combining this with any joint supplements? Omega-3 fatty acids (specifically EPA and DHA, not just generic fish oil) have meaningful evidence for reducing inflammation in osteoarthritis. [PetMD's veterinary resource library](https://www.petmd.com/) covers this well if you want to read into it. I often recommend pairing Rimadyl with a joint supplement like Nutramax Cosequin DS (you can find it on [Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=contentportfo-20) *(affiliate link, site may earn a commission)*) for comprehensive support, but run it by your vet first. I've seen the combination work better than either alone in dogs with moderate-to-severe arthritis.
+Ask: Are we combining this with any joint supplements? Omega-3 fatty acids (specifically EPA and DHA, not just generic fish oil) have meaningful evidence for reducing inflammation in osteoarthritis. [PetMD's veterinary resource library](https://www.petmd.com/) covers this well if you want to read into it. Many vets suggest pairing Rimadyl with a joint supplement like Nutramax Cosequin DS (you can find it on [Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=contentportfo-20) *(affiliate link, site may earn a commission)*) for comprehensive support, but run it by your vet first. The combination is often more effective than either treatment alone in dogs with moderate-to-severe arthritis.
 
 Ask: What's our plan if the carprofen stops working? Tolerance isn't usually the issue with NSAIDs the way it is with opioids, but disease progression is. Having a plan B conversation early is smart.
 
@@ -97,7 +95,7 @@ Ask: Is there a reason we're using Rimadyl specifically over another NSAID? Melo
 
 The chewable tablets can usually just be given with food or as a treat. Actually with food is better, not just near food, because carprofen can be harder on an empty stomach.
 
-If your dog figures out the chewable is medication and starts refusing it (some Labs do, which is impressive given that they'll eat socks), try hiding it in a small amount of cream cheese, peanut butter (xylitol-free only), or a [Greenies Pill Pocket](https://www.amazon.com/s?k=Greenies+Pill+Pockets+for+dogs&tag=contentportfo-20) *(affiliate link)*. In my experience, the hiding method beats the "just shove it in their mouth" method nine times out of ten, for everyone's dignity.
+If your dog figures out the chewable is medication and starts refusing it (some Labs do, which is impressive given that they'll eat socks), try hiding it in a small amount of cream cheese, peanut butter (xylitol-free only), or a [Greenies Pill Pocket](https://www.amazon.com/s?k=Greenies+Pill+Pockets+for+dogs&tag=contentportfo-20) *(affiliate link)*. The hiding method is usually easier and less stressful than forcing the pill directly into the dog's mouth.
 
 Do not double up if you miss a dose. Skip it and resume the next scheduled dose. Doubling an NSAID dose is the kind of thing that causes GI bleeds.
 
@@ -114,7 +112,6 @@ Never combine Rimadyl with other NSAIDs (including aspirin) or with corticostero
 - FDA Freedom of Information Summary for Rimadyl: Available through the FDA's veterinary drug database; includes adverse event reporting data from original approval process.
 
 ---
-
 
 ---
 

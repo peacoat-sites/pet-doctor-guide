@@ -17,17 +17,15 @@ Most pet owners in the US have never heard of New World screwworm. That's actual
 
 ## What New World Screwworm Actually Does (It's Worse Than You Think)
 
-I'll be honest, when I first read through the details on this one, I had to stop for a second. The name sounds almost cartoonish until you understand the biology.
+The name sounds almost cartoonish until you understand the biology.
 
 New World screwworm flies lay their eggs in open wounds or body openings, including eyes, ears, the mouth, the nose, or any small scratch or cut. When the larvae hatch, they don't just sit on the surface. They burrow into living tissue, actively feeding as they go deeper. The "screwworm" name comes from the way they rotate as they bore in. An untreated infestation causes severe pain, expanding tissue destruction, and can be fatal. This isn't like finding a few maggots in an old wound, which is already serious enough. This parasite targets living, healthy tissue.
 
-What surprised me in reading through the AVMA's current resource hub was the emphasis on how quickly this can escalate. Because the larvae are buried, an infestation can look like a small wound from the outside while significant damage is already happening underneath. Pets that go outdoors in affected regions right now, especially if they have any kind of cut, skin irritation, or even mild ear issues, are genuinely at risk.
+According to the AVMA's current resource hub, this condition can escalate quickly. Because the larvae are buried, an infestation can look like a small wound from the outside while significant damage is already happening underneath. Pets that go outdoors in affected regions right now, especially if they have any kind of cut, skin irritation, or even mild ear issues, are genuinely at risk.
 
 ## Where Is the Outbreak Right Now and Who's at Risk
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 As of mid-June 2026, confirmed cases are concentrated in southern Texas and New Mexico. Texas A&M's Veterinary Emergency Team deployed 12 members on June 13, 2026, to support Texas Animal Health Commission field operations, which tells you something about how seriously state authorities are treating this. This isn't a quiet monitoring situation. There are boots on the ground.
 

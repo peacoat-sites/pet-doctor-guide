@@ -29,7 +29,7 @@ Your dog is coughing like he swallowed a pinecone and you're standing there doin
 
 ## The Cough-Gag That Looks Like Choking (But Usually Isn't)
 
-Here's the thing most people don't know: a dog hacking and retching like something is stuck in his throat is almost never actual choking. True choking means the airway is obstructed and the dog can't move air. If your dog is making *any* noise, he's moving air, which means he's not fully obstructed. Terrifying to watch, yes. An airway emergency, usually no.
+A dog hacking and retching like something is stuck in his throat is almost never actual choking. True choking means the airway is obstructed and the dog can't move air. If your dog is making *any* noise, he's moving air, which means he's not fully obstructed. Terrifying to watch, yes. An airway emergency, usually no.
 
 What you're seeing is most often a productive-looking gag reflex triggered by irritation somewhere in the throat, trachea, or upper airway. The dog's body is doing its job. The problem is figuring out *what* it's reacting to.
 
@@ -45,13 +45,13 @@ Occasionally, yes, there genuinely is a foreign object involved. Dogs eat things
 
 A dog with a real foreign body lodged in the esophagus or back of the throat will often swallow repeatedly and compulsively, like he's trying to clear something. He may drool excessively, refuse food even when hungry, or extend his neck in an odd way. He might cough productively at first, then shift to dry, repetitive retching that produces nothing. The thing that tells you this is different from kennel cough: the distress escalates rather than coming in waves. He can't get comfortable. He keeps going back to that same motion over and over.
 
-Bones are the classic culprit, particularly cooked chicken bones, which splinter into sharp shards. Rawhide chunks, sticks, corn cobs (corn cobs are freakishly common), pieces of toys. I've seen cases where the owners were absolutely certain their dog hadn't eaten anything unusual, and yet there it was on the X-ray.
+Bones are the classic culprit, particularly cooked chicken bones, which splinter into sharp shards. Rawhide chunks, sticks, corn cobs (corn cobs are freakishly common), pieces of toys. Dogs sometimes swallow unexpected objects with no obvious warning signs, revealing the problem only on X-ray.
 
 If you suspect a genuine foreign body, don't wait. A lodged esophageal foreign body can cause perforation within hours, and a sharp fragment in soft tissue is a surgical emergency. Call your vet or the nearest emergency clinic immediately. Don't try to induce vomiting at home to dislodge it, because if the object is sharp, you can cause far more damage on the way back up.
 
 ## The Respiratory Conditions That Get Mistaken for Choking
 
-Collapsing trachea is chronically underdiagnosed in small breeds, mostly because owners chalk the cough up to "just a Chihuahua thing" for years before it gets evaluated. The sound is distinctive: a dry, goose-honk cough that worsens when the dog is excited, drinks water, or has anything pressing on his neck (like a collar rather than a harness). If your small dog coughs every time he takes a drink of water and has done so for months, tell your vet specifically. Don't wait for your vet to connect the dots.
+Collapsing trachea is often underdiagnosed in small breeds because owners dismiss the cough as a breed characteristic rather than pursuing evaluation. The sound is distinctive: a dry, goose-honk cough that worsens when the dog is excited, drinks water, or has anything pressing on his neck (like a collar rather than a harness). If your small dog coughs every time he takes a drink of water and has done so for months, tell your vet specifically. Don't wait for your vet to connect the dots.
 
 Congestive heart failure can cause a soft, persistent cough that looks like gagging, especially in older dogs and breeds like Cavalier King Charles Spaniels, Dachshunds, and Dobermans who are genetically predisposed to cardiac disease. The cough from heart failure tends to be worse at night and after exercise, and you may notice the dog tiring faster on walks. The AAHA's [cardiac care guidelines](https://www.aaha.org/) actually recommend that certain high-risk breeds start getting annual cardiac screenings earlier than most owners realize, sometimes as young as two or three years old.
 
@@ -96,7 +96,6 @@ Most of the time, a dog coughing and gagging like something is stuck in his thro
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)
 - [Олександр К](https://www.pexels.com/@1609538911)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

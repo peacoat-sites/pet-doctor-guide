@@ -31,7 +31,6 @@ And that's exactly what makes this scenario so confusing. A cat who's lethargic,
 
 Let me tell you what's actually going on when this happens.
 
-
 <div class="value-module">
  <div class="vm-head">When to Worry: 48-Hour Assessment Checklist</div>
  <div class="vm-body">
@@ -45,9 +44,9 @@ Let me tell you what's actually going on when this happens.
 
 Cats have one of the most sensitive relationships with food of any domestic animal. Dogs will eat garbage off a sidewalk. Cats will refuse a $4 can of food because it's 3 degrees colder than yesterday. That's not an exaggeration. A 2021 study in the journal *Applied Animal Behaviour Science* found that cats are significantly more likely to reject food based on temperature, texture, and even the location of their bowl than dogs are. Their pickiness is neurological, not just personality.
 
-So the first category of causes is the unsexy but common one: something changed. New food formula (manufacturers quietly change recipes all the time), a different batch that smells slightly off, a bowl that was washed with a new detergent, the bowl moved six inches to the left, a new cat in the neighborhood walking past the window near feeding time. I've had clients swear nothing changed, and then remember three days later that they switched from stainless steel to plastic bowls. Plastic holds odors. Cats notice.
+So the first category of causes is the unsexy but common one: something changed. New food formula (manufacturers quietly change recipes all the time), a different batch that smells slightly off, a bowl that was washed with a new detergent, the bowl moved six inches to the left, a new cat in the neighborhood walking past the window near feeding time. A common discovery is that an owner thought nothing had changed, only to realize they switched from stainless steel to plastic bowls. Plastic holds odors. Cats notice.
 
-The second category is stress. Cats are absolute masters at appearing unbothered while being internally stressed out. A new baby, a house guest, construction noise, another pet acting differently, even your own schedule changing can suppress appetite without producing any other obvious symptoms. This is especially common in single-cat households where the cat has a very fixed routine. What surprised me most when I first started really paying attention to this is how often the trigger is something the owner didn't even register as significant.
+The second category is stress. Cats are absolute masters at appearing unbothered while being internally stressed out. A new baby, a house guest, construction noise, another pet acting differently, even your own schedule changing can suppress appetite without producing any other obvious symptoms. This is especially common in single-cat households where the cat has a very fixed routine. Often the trigger is something the owner didn't even register as significant.
 
 Then there's the medical stuff.
 
@@ -55,7 +54,7 @@ Then there's the medical stuff.
 
 Here's where I need to be direct: a cat that's genuinely not eating for two days but otherwise acting normal is not automatically fine. Some conditions present this way on purpose, biologically speaking.
 
-**Dental pain** is probably the most underdiagnosed cause in this scenario. A cat with a fractured tooth, early resorptive lesion, or gum inflammation will often act completely normal between attempts to eat. They'll approach the bowl, maybe sniff it, take one bite, then walk away. Owners read this as picky eating. It's often pain. I'd estimate (rough number from my own clinical impression, not a published stat) that at least a third of cats over age five I've seen for "not eating" had some degree of dental disease contributing.
+**Dental pain** is probably the most underdiagnosed cause in this scenario. A cat with a fractured tooth, early resorptive lesion, or gum inflammation will often act completely normal between attempts to eat. They'll approach the bowl, maybe sniff it, take one bite, then walk away. Owners read this as picky eating. It's often pain. Dental disease is a common factor in cats over age five presenting with reduced appetite.
 
 **Upper respiratory infection** can kill a cat's appetite fast, even before sneezing or discharge shows up. Cats smell their food before they eat it; block the nose, block the appetite. Any squinting? Any subtle nasal discharge? Any change in voice?
 
@@ -102,7 +101,6 @@ For everything else, call your regular vet and describe what you're seeing. A go
 - [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
 - [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
 - [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

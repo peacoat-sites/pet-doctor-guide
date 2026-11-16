@@ -108,7 +108,7 @@ This is current as of July 2026. Treatment options for CKD and feline diabetes h
 
 **Worked example 2:** A 6-year-old indoor Siamese, normal weight, started asking for water constantly but ate well and had no other symptoms. Owner attributed it to a new water fountain (the [Catit Flower Fountain](https://www.amazon.com/s?k=catit+flower+fountain&tag=contentportfo-20) *(affiliate link)* is great, by the way, and genuinely increases water intake in some cats). Blood panel was clean. Urinalysis normal. Diagnosis: psychogenic polydipsia secondary to environmental boredom. A puzzle feeder and an extra play session daily resolved it within two weeks. Sometimes the answer really is that simple.
 
-**Worked example 3:** A reader emailed me last spring about her 9-year-old tabby who'd been on prednisolone ear drops for chronic otitis for about six weeks. She noticed him drinking roughly 20 oz/day. Blood glucose came back at 380 mg/dL. Steroid-induced diabetes. The ear drops were reformulated to a non-steroidal alternative, and the diabetes resolved without insulin. Knowing to mention the ear medication to her vet is what made the diagnosis fast.
+**Worked example 3:** For example, a cat on prednisolone ear drops for chronic otitis might develop steroid-induced diabetes, with symptoms like excessive drinking. A vet testing blood glucose in that case might find elevated levels (around 380 mg/dL). Switching to non-steroidal ear drops can resolve the diabetes without needing insulin. Mentioning all current medications, including ear drops, helps vets make the diagnosis quickly.
 
 ## Sources
 

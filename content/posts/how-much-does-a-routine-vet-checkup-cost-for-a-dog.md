@@ -56,7 +56,7 @@ Here's a more honest breakdown of what you're likely to spend, sorted by dog lif
 
 **Dog with known chronic conditions:** This isn't really a "routine" visit anymore. Costs vary too widely to generalize.
 
-Geography matters more than people realize. A wellness exam in rural Kansas costs less than the same exam in Seattle or Boston, not because the care is inferior but because overhead, rent, and regional wage costs differ. I've seen clients move from a small town to a major metro and double their annual vet spend without changing anything about their dog's health.
+Geography matters more than people realize. A wellness exam in rural Kansas costs less than the same exam in Seattle or Boston, not because the care is inferior but because overhead, rent, and regional wage costs differ.
 
 ## What Drives the Cost Up (and What You Can Control)
 
@@ -111,7 +111,6 @@ The goal isn't to spend as little as possible on your dog's health. It's to spen
 - [ASPCA's Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

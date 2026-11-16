@@ -51,7 +51,7 @@ Spread this over two to three weeks minimum. Rushing it is the single most commo
 
 By week four, you're brushing. Start with ten seconds on the upper front teeth. Build from there.
 
-I know this sounds agonizingly slow. It works. The dogs I've seen owners fail with consistently are the ones who tried to get to a full mouth brush in day three.
+This pace may seem slow, but it works. Owners often struggle when they rush to a full mouth brush by day three.
 
 ## What to Do If Your Dog Is Still Having None of It
 
@@ -87,7 +87,6 @@ You've got this. Just go slower than you think you need to.
 - [AVMA](https://www.avma.org/)
 - [Greenies are easy to find on Amazon](https://www.amazon.com/s?k=greenies+dental+chews+for+dogs)
 - [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

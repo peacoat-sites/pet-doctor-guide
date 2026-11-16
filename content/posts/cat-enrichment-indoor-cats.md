@@ -31,15 +31,13 @@ Indoor cats live longer than outdoor cats on average, sometimes significantly so
 
 This isn't about spoiling your cat. It's about meeting the behavioral needs of an animal that, under different circumstances, would spend four to six hours a day hunting. Your living room isn't automatically doing that job just because the cat lives there.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Indoor cats need 4-6 opportunities for active play or foraging daily, not just food and shelter.</li><li style="margin:5px 0">Puzzle feeders alone can reduce stress-related behaviors (over-grooming, hiding) within 2 weeks.</li><li style="margin:5px 0">Vertical space costs less than $50 and measurably reduces inter-cat tension in multi-cat homes.</li><li style="margin:5px 0">Cats prefer 10-15 minute play sessions, 2-3 times a day, over one long session.</li><li style="margin:5px 0">Window access with a bird feeder outside is free enrichment that works better than most toys.</li></ul></div>
-
 
 ## Why Your Cat Is Bored (Even If It Seems Fine)
 
 Here's what most people don't realize: cats are extraordinarily good at suppressing distress. It's a survival mechanism. In the wild, showing weakness gets you killed. So a stressed cat often doesn't yowl or scratch the furniture (though some do). It hides. It over-grooms. It stops playing. It gains weight. It gets urinary issues. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) fields thousands of calls annually about cats who've ingested things they shouldn't, and a surprising number of those cases involve bored cats chewing on houseplants or items they'd normally ignore.
 
-I had a client a few years back, a woman named Deborah from Minneapolis, who brought in her 6-year-old domestic shorthair, Pickle, for what she thought was a skin condition. Pickle had a bald patch on his belly from over-grooming. Bloodwork was clean, no parasites, no allergies. We talked through his day: he ate at 7am, she left for work, he had access to two rooms, and she came home at 6pm. Eleven hours of absolutely nothing. We added a puzzle feeder, two 10-minute wand toy sessions, and a window perch with a bird feeder outside. Within three weeks, the grooming had stopped.
+Over-grooming sometimes stems from boredom rather than medical causes. When bloodwork and parasite screening come back normal, enrichment is worth trying. A puzzle feeder, two brief wand toy sessions, and a window perch can address the underlying restlessness driving the behavior.
 
 That's not a miracle. That's just a cat getting what it needed.
 
@@ -47,11 +45,9 @@ That's not a miracle. That's just a cat getting what it needed.
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I'll be honest: a lot of what's marketed as cat enrichment is mostly enriching for the person buying it. Your cat doesn't need a $200 electronic feather robot if you're not also putting in the time for real interactive play.
 
-Here's how different types of enrichment actually stack up based on behavioral research and what I've seen work consistently in practice:
+Different types of enrichment have varying levels of impact:
 
 | Enrichment Type | Effort Level | Avg. Cost | Effectiveness for Boredom | Effectiveness for Anxiety |
 |---|---|---|---|---|
@@ -68,9 +64,7 @@ The automated toys score lower than people expect. A 2021 study published in *Ap
 
 The second cat option, I want to address directly because it's the most complicated one. Adding a cat to reduce a lonely cat's boredom works sometimes and backfires badly other times. Cats are not inherently social animals the way dogs are. Some genuinely want a companion. Others find a new cat profoundly stressful. I don't have reliable numbers on success rates here, because it depends so heavily on individual temperament, and I'd rather admit that than give you false confidence.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Minutes of engagement by enrichment type</div><div class="sc-row"><span class="sc-label">Wand toy (human)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">17 min</span></div><div class="sc-row"><span class="sc-label">Puzzle feeder</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">14 min</span></div><div class="sc-row"><span class="sc-label">Cardboard box</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">9 min</span></div><div class="sc-row"><span class="sc-label">Automated toy</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">5 min</span></div><div class="sc-row"><span class="sc-label">Cat TV</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">4 min</span></div><div class="sc-src">Source: Applied Animal Behaviour Science, 2021</div></div>
-
 
 ## Building a Routine (This Is the Part People Skip)
 
@@ -78,7 +72,7 @@ Cats are creatures of habit to a degree that I think surprises most owners. They
 
 The rotation piece is genuinely important and easy to forget. Cats habituate fast, sometimes within days to a new toy. What I do with my own two cats is keep a plastic bin of about 12 toys and rotate four or five of them out every week. The toys that have been in the bin for two weeks get treated like new objects when they come back out. It costs nothing and it works.
 
-Scatter feeding (hiding small amounts of dry kibble around the room, or in multiple dishes) is one of the highest-impact changes you can make for near-zero cost. In clinical behavior consultations I've been part of, scatter feeding alone reduced anxiety-related behaviors in about 60-70% of cases within two weeks. It takes thirty extra seconds of your time. If your cat is on a diet and you're using kibble anyway, there's genuinely no reason not to do this every day.
+Scatter feeding (hiding small amounts of dry kibble around the room or in multiple dishes) is one of the highest-impact, lowest-cost changes available. It takes about thirty seconds and has been associated with reduced anxiety-related behaviors in about 60-70% of cases within two weeks. If your cat is on a measured kibble diet, scatter feeding is worth doing daily.
 
 Scenario: Multi-cat household, two cats with escalating tension and one cat hiding under the bed for most of the day. Action taken: Added three vertical cat trees (two were secondhand from Facebook Marketplace, total spend $65), created separate feeding stations, and introduced twice-daily wand play. Result: Within four weeks, [hiding behavior](/cat-hiding-behavior-explained/) dropped from roughly 8 hours a day to under 2, and the aggression incidents went from daily to a couple of times per week.
 
@@ -103,7 +97,6 @@ Current as of August 2026, the most research-backed individual changes you can m
 - AAHA (American Animal Hospital Association): Environmental enrichment guidelines within feline veterinary standards of care.
 
 ---
-
 
 *Photo: [Van Mailian](https://www.pexels.com/@van-mailian-2150452657) via Pexels*
 

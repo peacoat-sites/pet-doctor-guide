@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 Most dog owners don't realize their pet has a dental problem until the smell hits them. You lean in for a cuddle, your dog yawns, and you pull back wondering if something crawled into their mouth and died. That moment of "wow, that's bad" is actually a turning point, because by the time you're noticing the odor, periodontal disease has very likely already started. Studies from the American Veterinary Dental College suggest that 80% of dogs show signs of periodontal disease by age three. Three years old. That's not a senior dog problem. That's a young dog problem that most people miss entirely.
 
-
 <div class="value-module">
  <div class="vm-head">Home Dental Check: What to Look For</div>
  <div class="vm-body">
@@ -43,7 +42,7 @@ Here's what happens inside your dog's mouth when dental care gets skipped. Bacte
 
 Left alone, tartar becomes a perfect hiding spot for more bacteria to accumulate under the gumline. The gums get inflamed (gingivitis), and eventually the tissue and bone holding the teeth in place begin to break down. This is periodontal disease, and it's painful. Dogs are masters at hiding pain, so they'll keep eating even when their mouths hurt. That's exactly why so many cases go unnoticed until a vet spots it during a routine exam.
 
-Here's the thing that gets overlooked: dental disease isn't just a mouth problem. The bacteria involved can enter the bloodstream and affect kidney, liver, and heart tissue. I've seen dogs come in for lethargy or weight loss only for the vet to find severely infected teeth as the real cause. The mouth is a window into your dog's overall health. Treating it like an afterthought costs money and quality of life.
+Dental disease isn't just a mouth problem. The bacteria involved can enter the bloodstream and affect kidney, liver, and heart tissue. Infected teeth can cause lethargy or weight loss and may be missed if dental health isn't assessed. The mouth is a window into your dog's overall health. Treating it like an afterthought costs money and quality of life.
 
 ## How to Check Your Dog's Mouth at Home
 
@@ -84,7 +83,7 @@ If brushing isn't possible with your dog, dental wipes, water additives, and pre
 
 ## Professional Cleanings: What to Expect and When to Schedule One
 
-Professional cleanings for dogs happen under general anesthesia. Full stop. I've seen ads for "anesthesia-free dental cleanings" at grooming facilities and I understand the appeal, but these can't clean below the gumline where disease actually lives. They may make teeth look cleaner while infection progresses underneath. The American Animal Hospital Association and most veterinary dental specialists consider them inadequate.
+Professional cleanings for dogs happen under general anesthesia. Full stop. Some grooming facilities advertise "anesthesia-free dental cleanings," but these can't clean below the gumline where disease actually lives. They may make teeth look cleaner while infection progresses underneath. The American Animal Hospital Association and most veterinary dental specialists consider them inadequate.
 
 An anesthetic dental cleaning typically includes:
 
@@ -117,7 +116,7 @@ Small breeds as a whole are at higher risk due to genetics and jaw structure, pl
 
 Dogs on certain medications or with systemic illnesses like diabetes or kidney disease may be more prone to oral infections. If your dog has any chronic health condition, bring dental health into that specific conversation with your vet.
 
-Rescue dogs and adult adoptees may arrive with unknown dental histories. A baseline dental exam when you first bring them home is smart. I've seen dogs adopted at two years old with tartar buildup that made them look eight.
+Rescue dogs and adult adoptees may arrive with unknown dental histories. A baseline dental exam when you first bring them home is smart.
 
 ## Final Thought
 
@@ -136,7 +135,6 @@ Dental disease is one of the most preventable chronic conditions in dogs, and ye
 - [A quality rubber chew toy](https://www.amazon.com/s?k=dog+dental+rubber+chew+toy&tag=contentportfo-20)
 - [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)
 - [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

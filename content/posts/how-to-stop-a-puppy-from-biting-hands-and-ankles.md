@@ -43,8 +43,6 @@ This distinction matters for how you respond. If your 9-week-old bites your ankl
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most owners go straight to "no" or to yelping, skip the middle, and then wonder why it's not working six weeks later. Here's the sequence that actually holds up.
 
 **Phase 1: Teach inhibition (weeks 1-2 of ownership)**
@@ -61,13 +59,13 @@ Once your puppy is biting more gently, start yelping for lighter pressure. You'r
 
 Now you can teach the behavior "don't put your mouth on me" because the puppy has the physical control to comply. Say "no bite" calmly, redirect to a toy, praise the moment teeth hit the toy instead of you.
 
-A reader emailed me last spring asking why her Border Collie puppy wasn't responding to "no bite" at all, despite three weeks of training. When I asked her to walk me through the routine, she'd skipped phase 1 entirely. She was asking the dog to comply with a rule it didn't have the muscular habit to follow yet.
+A common mistake is skipping foundational training phases. A puppy asked to comply with "no bite" before developing the muscular habit to follow it will understandably fail to respond, even after weeks of attempts.
 
 ## Ankle Biting Is a Different (But Related) Problem
 
 Hand biting and ankle biting look the same but come from different triggers. Hands get bitten during play and handling. Ankles get bitten during movement, specifically walking away, running, quick direction changes. Anything that looks like prey fleeing.
 
-Herding breeds (Australian Shepherds, Border Collies, Corgis, Heelers) are especially prone to ankle-biting because that nipping-at-heels behavior is literally in their DNA. I've had clients with 10-week-old Corgis leaving actual blood on their heels. That's not aggression; it's ancient occupational programming.
+Herding breeds (Australian Shepherds, Border Collies, Corgis, Heelers) are especially prone to ankle-biting because that nipping-at-heels behavior is literally in their DNA. That's not aggression; it's ancient occupational programming.
 
 For ankle biting, the fix is different:
 
@@ -101,9 +99,7 @@ Different households have different setups, and the toy you choose for redirecti
 
 Flirt poles deserve specific attention. [This one on Amazon](https://www.amazon.com/s?k=flirt+pole+for+puppies) (the site may earn a small commission) completely changed how I recommend working with herding breed puppies. By putting the movement target on a wand, you keep your hands totally out of the game. The puppy's prey drive gets satisfied, your ankles survive, and you're building impulse control at the same time by adding "wait" and "drop it" into the game.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. days to reduce biting with each method (owner-reported)</div><div class="sc-row"><span class="sc-label">Bite inhibition + redirect</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">18 days</span></div><div class="sc-row"><span class="sc-label">Redirect only</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">31 days</span></div><div class="sc-row"><span class="sc-label">Aversives (spray/tap)</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">24 days</span></div><div class="sc-row"><span class="sc-label">Time-outs only</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">29 days</span></div><div class="sc-row"><span class="sc-label">No consistent method</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">58 days</span></div><div class="sc-src">Source: APDT member survey, 2025</div></div>
-
 
 The bite inhibition plus redirect combination wins by a significant margin. Eighteen days versus 58 days with no consistent method isn't a small difference; that's five and a half fewer weeks of shredded skin and ruined pants.
 
@@ -111,7 +107,7 @@ The bite inhibition plus redirect combination wins by a significant margin. Eigh
 
 Training is the long game. Management is what keeps you sane during it.
 
-Tethering the puppy to yourself on a 4-6 foot leash during house time lets you catch and redirect biting before it escalates. Baby gates and exercise pens aren't just for keeping puppies out of rooms; they're for creating predictable, low-stimulation spaces where a tired and overstimulated puppy can decompress. Overtired puppies bite more. This is extremely consistent in my experience and almost universally underestimated by new owners.
+Tethering the puppy to yourself on a 4-6 foot leash during house time lets you catch and redirect biting before it escalates. Baby gates and exercise pens aren't just for keeping puppies out of rooms; they're for creating predictable, low-stimulation spaces where a tired and overstimulated puppy can decompress. Overtired puppies bite more, and this pattern is often overlooked by new owners.
 
 If your puppy is biting hardest in the late afternoon or evening, take a hard look at the nap schedule. A 10-week-old puppy needs 16-18 hours of sleep per day. Many are only getting 12-14 because owners don't realize how important enforced rest is. Put the puppy in its crate or pen, even if it protests. Sleep deprivation makes bite inhibition training nearly impossible because the puppy literally can't regulate its own arousal.
 
@@ -126,7 +122,6 @@ One last thing worth knowing: if your puppy is drawing blood consistently after 
 - ASPCA Animal Behavior Center: Published guidelines on aversive versus reward-based training outcomes in young dogs.
 
 ---
-
 
 ---
 

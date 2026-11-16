@@ -30,19 +30,19 @@ Most articles about cat scratching furniture tell you to "redirect the behavior"
 
 Here's what gets glossed over: cats aren't scratching your couch to spite you. They're doing it because they need to stretch specific muscle groups, maintain their claws, and mark territory visually and chemically. Your couch happens to be the perfect combination of height, texture, and location. Any solution that ignores those three variables is going to fail.
 
-I've worked with hundreds of clients in clinical practice who came in frustrated because "the scratching post didn't work." Almost every time, the post was either the wrong texture, the wrong height, or placed in a corner nobody (human or cat) ever walks past. Let me walk you through what actually works.
+A common reason scratching posts fail is that they're the wrong texture, the wrong height, or tucked away where cats rarely venture. The right setup makes a real difference.
 
 ---
 
 ## Why Your Cat Keeps Ignoring the Scratching Post
 
-The scratching post failure rate is genuinely high. A reader named Jess emailed me last spring to say she'd bought her third post and her tabby hadn't touched any of them. She'd placed all three in the spare bedroom.
+Many cats ignore their scratching posts. A common mistake is placing posts in out-of-the-way rooms instead of high-traffic areas where cats spend most of their time.
 
 That's the core problem right there.
 
 Cats scratch for [territorial marking](/cat-hiding-behavior-explained/), and territory means the spaces they share with you. The living room couch is prime real estate. The spare bedroom post is exile. Put the post where the scratching is happening. Yes, that means your living room. Yes, it'll look like your cat runs the house. (The cat does run the house. That's a separate article.)
 
-Texture matters just as much. Most budget posts are covered in looped berber carpet, which a lot of cats genuinely dislike. In my experience, cats are strongly divided between sisal rope, corrugated cardboard, and wood. The only way to figure out which your cat prefers is to offer two or three options simultaneously. Sisal rope posts like the [SmartCat Ultimate Scratching Post](https://amzn.to/smartcat-sisal) (about $30-35 currently) are consistently popular and actually tall enough for a full stretch at 32 inches. That height matters because a cat needs to extend fully to get the stretch benefit. Most cheap posts are 18 inches. That's too short for most adult cats and they'll ignore it.
+Texture matters just as much. Most budget posts are covered in looped berber carpet, which a lot of cats genuinely dislike. Cats tend to prefer sisal rope, corrugated cardboard, or wood. The only way to figure out which your cat prefers is to offer two or three options simultaneously. Sisal rope posts like the [SmartCat Ultimate Scratching Post](https://amzn.to/smartcat-sisal) (about $30-35 currently) are consistently popular and actually tall enough for a full stretch at 32 inches. That height matters because a cat needs to extend fully to get the stretch benefit. Most cheap posts are 18 inches. That's too short for most adult cats and they'll ignore it.
 
 Horizontal vs. vertical is also a real split. Some cats are horizontal scratchers, period. A cheap corrugated cardboard scratcher flat on the floor will convert them overnight.
 
@@ -61,15 +61,13 @@ Horizontal vs. vertical is also a real split. Some cats are horizontal scratcher
 
 > **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is the part most guides skip entirely: what do you do about the couch right now, today, while you're training your cat toward better options?
 
 Double-sided tape is genuinely effective. The texture cats love about upholstery is gone the moment sticky tape is on it. [Sticky Paws sheets](https://amzn.to/stickypaws) (around $12-15 for a roll) can be applied directly to fabric, removed without damage, and are transparent enough that your couch doesn't look insane. Leave them on for two to four weeks while you make the scratching post more appealing.
 
 Furniture scratch guards are a harder plastic or vinyl option for corners, which are the highest-risk spots. Velcro-attached corner guards like the ones from CLAWGUARD run about $20-25 for four corners and work well on sofas with a defined wooden or structured frame edge.
 
-One thing that consistently does *not* work: citrus sprays. I thought these were reliable for years, until I watched a Siamese in one of my client's homes walk directly up to a citrus-sprayed armchair, sniff it, and start scratching. The research on aversive scents for cats is genuinely mixed, and anecdotally, about a third of cats seem completely unbothered by citrus or lavender deterrents. I wouldn't spend money there.
+Citrus sprays are often ineffective. Research on aversive scents for cats shows mixed results, with roughly a third of cats showing little to no response to citrus or lavender deterrents. Skip these sprays.
 
 **Worked example:** A client with a three-year-old domestic shorthair was dealing with significant damage to a linen sectional. She placed Sticky Paws on all four corners, added an IKEA LURVIG cat tree (tall sisal post) directly adjacent to the couch, and sprinkled dried catnip on the sisal twice daily for the first week. Within 10 days, her cat had transferred scratching almost entirely to the post. The sectional corners showed no new damage after three weeks. Covering those corners cost under $15. The cat tree was $30.
 
@@ -104,7 +102,6 @@ Cats that are under-stimulated also tend to scratch more. Puzzle feeders, schedu
 - Ellis, S.L.H. & Wells, D.L. (2010). "The influence of olfactory stimulation on the behaviour of cats housed in a rescue shelter." *Applied Animal Behaviour Science*, 123(1): Research on how scent-based deterrents affect cat behavior; findings support the mixed efficacy noted for citrus sprays.
 
 ---
-
 
 ---
 

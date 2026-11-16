@@ -41,9 +41,9 @@ Obesity in cats isn't just about reduced mobility or looking a little round. It'
 
 **Diabetes mellitus** is the most direct connection. Obese cats are two to four times more likely to develop Type 2 diabetes than cats at a healthy weight. Excess body fat causes insulin resistance, meaning the pancreas can't keep blood sugar regulated. Once a cat has diabetes, you're looking at twice-daily insulin injections, regular glucose monitoring, and serious dietary management for the rest of its life.
 
-**Hepatic lipidosis**, or fatty liver disease, is particularly dangerous in cats. When an overweight cat stops eating, even for 48 to 72 hours, the body mobilizes fat stores to the liver faster than the liver can process. Liver failure follows. I've seen clients bring in cats who stopped eating because of a stressor like moving or a new pet, and three days later they were critically ill. Overweight cats are significantly more vulnerable than lean cats.
+**Hepatic lipidosis**, or fatty liver disease, is particularly dangerous in cats. When an overweight cat stops eating, even for 48 to 72 hours, the body mobilizes fat stores to the liver faster than the liver can process. Liver failure follows. For example, a cat that stops eating due to a stressor like moving or a new pet can become critically ill within three days. Overweight cats are significantly more vulnerable than lean cats.
 
-**Osteoarthritis** is another major concern. Carrying extra weight puts chronic stress on joints. Studies show that over 90% of cats over 12 years have some radiographic evidence of arthritis, and excess weight accelerates that damage. Cats mask pain brilliantly. If your cat's started hiding more than usual, stopped jumping to favorite perches, or is moving stiffly after rest, joint pain from weight-bearing is worth discussing with your vet.
+**Osteoarthritis** is another major concern. Carrying extra weight puts chronic stress on joints. Over 90% of cats over 12 years have some radiographic evidence of arthritis, and excess weight accelerates that damage. Cats mask pain brilliantly. If your cat's started hiding more than usual, stopped jumping to favorite perches, or is moving stiffly after rest, joint pain from weight-bearing is worth discussing with your vet.
 
 **Lower urinary tract disease** is also closely linked to obesity. Overweight cats tend to be less active, drink less water, and may develop a sedentary lifestyle that predisposes them to bladder crystals, urinary tract infections, and even dangerous blockages. If you're seeing concerning signs, take a look at the [signs of cat urinary tract infections](/cat-urinary-tract-infection-signs/) to know when this warrants urgent attention.
 
@@ -117,7 +117,6 @@ Helping a cat lose weight is a long game, typically six months to a year for mea
 - [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

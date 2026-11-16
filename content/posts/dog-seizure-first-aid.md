@@ -31,23 +31,19 @@ Here's the good news: most seizures in dogs stop on their own within one to two 
 
 The hard part is knowing when "it passed, we're fine" is actually true, and when you need to drop everything and get to an emergency clinic immediately.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most dog seizures last 1-2 minutes and stop on their own; your job is to keep the dog safe, not stop it.</li><li style="margin:5px 0">NEVER put your hand near a seizing dog's mouth, they cannot swallow their tongue, and you will get bitten.</li><li style="margin:5px 0">A seizure lasting more than 5 minutes is a medical emergency; go to the vet immediately, do not wait.</li><li style="margin:5px 0">Time the seizure from first symptom: this single piece of information is what your vet needs most.</li><li style="margin:5px 0">Two or more seizures within 24 hours (cluster seizures) also require same-day emergency evaluation.</li></ul></div>
-
 
 ## What's Actually Happening in Your Dog's Body
 
 A seizure is an abnormal electrical storm in the brain. The muscles fire involuntarily, which is why you see paddling legs, jaw snapping, or rigid, jerking movements. Some dogs lose consciousness entirely. Others stay semi-aware but look confused and glassy. The body may expel urine or feces during the episode, which is normal and not a sign that something is catastrophically different from a "simpler" seizure.
 
-One thing I want to address directly, because I still see this misinformation floating around: dogs cannot swallow their tongue during a seizure. It is physically impossible. I cannot count the number of times I've had to talk someone out of putting their fingers in their dog's mouth "to help." Please don't do it. A seizing dog has no control over their jaw, and bites that happen during seizures are serious, often deep, and completely reflexive. The dog isn't being aggressive. They just can't feel you there.
+Dogs cannot swallow their tongue during a seizure. It is physically impossible. A common instinct is to put fingers in the dog's mouth "to help," but don't do this. Please don't do it. A seizing dog has no control over their jaw, and bites that happen during seizures are serious, often deep, and completely reflexive. The dog isn't being aggressive. They just can't feel you there.
 
-There are different types of seizures. Generalized tonic-clonic (what most people picture: the whole body shaking) are the most dramatic. Focal seizures affect only part of the body, maybe just one leg twitching or the face making repetitive chewing movements, and these can be easy to miss or mistake for something else. I've had clients describe focal seizures as their dog "acting weird" or "fly-biting at nothing," and that dismissiveness sometimes costs them valuable diagnostic time.
+There are different types of seizures. Generalized tonic-clonic (what most people picture: the whole body shaking) are the most dramatic. Focal seizures affect only part of the body, maybe just one leg twitching or the face making repetitive chewing movements, and these can be easy to miss or mistake for something else. Focal seizures might look like the dog is "acting weird" or "fly-biting at nothing." These subtle signs are easy to miss or dismiss, but catching them early matters for diagnosis.
 
 ## What To Do During the Seizure
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Keep your hands away from the mouth. Move furniture, sharp objects, or stairs out of the immediate area if you safely can. If the dog is near a staircase, try to block access, but don't restrain the dog's movements forcibly, because that can cause injury. If the dog is small enough and actively moving toward danger, you can gently guide them away with a blanket or towel between you and them.
 
@@ -72,7 +68,7 @@ This is where I want to be very specific, because the guidance online is often e
 
 Status epilepticus (a seizure that won't stop) is life-threatening. The brain can literally overheat from sustained electrical activity, and permanent neurological damage can begin within 20 to 30 minutes. If you hit five minutes on that clock, you go. Don't wait to see if it stops. A dog who arrives at the clinic mid-seizure gets IV diazepam and phenobarbital fast, and that matters.
 
-I've seen the outcome difference firsthand. A dog named Biscuit came into our clinic after his owner waited "just a few more minutes" through a 12-minute seizure. He survived, but he had lasting cognitive changes. Compare that to a Labrador mix who came in at the six-minute mark, got treatment quickly, and walked out the next morning. Time is the single biggest variable you control.
+The difference in outcomes is significant. A seizure lasting 12 minutes can cause lasting cognitive changes, while getting treatment by the six-minute mark can lead to recovery with minimal complications. Time is the single biggest variable you control.
 
 ## The Recovery Period (Post-Ictal Phase)
 
@@ -99,7 +95,6 @@ One thing I wish someone had told me early in my career: don't downplay seizures
 - Bhatti SFM, et al. (2015). "International Veterinary Epilepsy Task Force Consensus Proposals." *BMC Veterinary Research*: Covers classification, diagnosis, and treatment tiers
 
 ---
-
 
 *Photo: [Marcelo Chagas](https://www.pexels.com/@marcelochagas) via Pexels*
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your cat has been hiding under the bed for three days. She's barely touched her food. When you try to coax her out, she hisses, which she has never done before. You're worried, but you're also second-guessing yourself: is this stress, is she sick, or is this just a cat being a cat? The truth is, those three things are often tangled together, and figuring out which is which can genuinely change how fast she gets better.
 
-Cats are hardwired to mask vulnerability. In the wild, showing weakness invites predators, so they've evolved to bottle things up until they can't anymore. That's not dramatic instinct leftover from ancient ancestors. It shows up every single day in domestic cats, making stress one of the most underdiagnosed problems in feline medicine. I've worked with hundreds of cats over the years, and the ones who come in for "sudden vomiting" or "[stopped using the litter box](/cat-not-using-litter-box-causes/)" are often cats who've been quietly stressed for weeks before the physical symptoms finally broke through.
+Cats are hardwired to mask vulnerability. In the wild, showing weakness invites predators, so they've evolved to bottle things up until they can't anymore. That's not dramatic instinct leftover from ancient ancestors. It shows up every single day in domestic cats, making stress one of the most underdiagnosed problems in feline medicine. Cats who come in for "sudden vomiting" or "[stopped using the litter box](/cat-not-using-litter-box-causes/)" are often dealing with stress that's been building for weeks before physical symptoms surface.
 
 ## What Cat Stress Actually Looks Like
 
@@ -112,7 +112,6 @@ Stress in cats is real, it's common, and it's treatable. The goal isn't to bubbl
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -48,7 +48,7 @@ The distinction matters because different products target different levels, and 
 
 Gabapentin is, genuinely, the current go-to for feline travel anxiety. It's a nerve pain medication that happens to produce significant sedation and anxiolysis in cats at appropriate doses. Vets typically prescribe somewhere in the range of 50-100mg, given 1.5 to 2 hours before travel. A 2017 study in the *Journal of the American Veterinary Medical Association* found gabapentin meaningfully reduced fear and aggression scores in cats during veterinary visits, and most vets have since extrapolated that to travel. It works well. It's inexpensive (often just a few dollars per dose). And it has a solid safety margin compared to older options.
 
-Trazodone is another option your vet might reach for, particularly for longer trips or cats who need more sedation than gabapentin alone provides. Some vets combine the two. I've seen this combination used for cats going on multi-day cross-country moves, and it tends to produce a reliably calm, sleepy animal without the respiratory concerns older drugs carried.
+Trazodone is another option your vet might reach for, particularly for longer trips or cats who need more sedation than gabapentin alone provides. Some vets combine the two. This combination can produce a calm, sleepy animal without the respiratory concerns older drugs carried, making it suitable for longer trips.
 
 The drugs you'll see less of now: acepromazine and Benadryl. Acepromazine (often called "ace") was the standard feline travel sedative for decades. The problem is it doesn't actually reduce anxiety, it just causes physical sedation while the cat remains mentally stressed. Loud noises can still cause pronounced reactions. It also lowers blood pressure and has a more variable effect in cats than in dogs. Most veterinary behaviorists have moved away from it for routine travel. Benadryl (diphenhydramine) is similarly unreliable. It works for some cats, causes excitability in others, and at best provides mild sedation. Not worth building a trip around.
 
@@ -91,7 +91,6 @@ Keep [the ASPCA Poison Control Center number](https://www.aspca.org/pet-care/ani
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Maria Sanchez](https://www.pexels.com/@mariisanz11)
 - in the *Journal of the American Veterinary Medical Association* found gabapentin
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

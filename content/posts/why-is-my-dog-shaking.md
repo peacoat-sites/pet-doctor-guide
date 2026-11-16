@@ -35,7 +35,7 @@ Let's start here because statistically this is where most cases live. Dogs shive
 
 Fear and anxiety-induced shaking is equally common, and it's one of the things owners most often misread. The dog starts trembling at the vet's office and people think "something's wrong with my dog." What's wrong is that your dog knows exactly where they are and wants to leave. Thunderstorm anxiety, fireworks, car rides, strangers in the house, all of these can produce full-body trembling that looks alarming but clears up the moment the stressor disappears.
 
-Excitement shaking is its own thing. I've watched hundreds of dogs vibrate like a phone on a counter because their owner just walked in the door. It's harmless. It burns off within a minute or two.
+Excitement shaking is its own thing. Dogs often vibrate intensely when their owner walks in the door. It's harmless and burns off within a minute or two.
 
 The tell for all three of these: the shaking stops when the trigger is removed. Dog warms up? Shaking stops. Storm passes? Shaking stops. Owner sits down and the dog calms? Done. If it doesn't resolve like that, keep reading.
 
@@ -47,7 +47,7 @@ Here's where I see owners get it wrong most often, and I made this mistake mysel
 
 Spinal pain (especially in breeds like Dachshunds, Corgis, or French Bulldogs) often presents as trembling without any obvious lameness. Abdominal pain, whether from bloat, pancreatitis, or a foreign body obstruction, can cause generalized shaking along with a hunched posture and reluctance to move. Ear infections can produce head tremors specifically when the vestibular system gets involved.
 
-A few clinical scenarios I've seen play out:
+Clinical scenarios that require attention:
 
 Scenario: A 4-year-old Dachshund brought in for "shaking episodes" that happened mainly in the morning. No vomiting, eating normally, no obvious neurological signs. Owner thought it was anxiety. Vet palpated the thoracolumbar spine, dog yelped. X-ray revealed early intervertebral disc disease. Treatment with rest, anti-inflammatories, and muscle relaxants resolved the shaking within 10 days.
 
@@ -61,7 +61,7 @@ I want to be direct here because this is where people wait too long.
 
 Generalized tremors that don't stop, that get progressively worse, or that are accompanied by other neurological signs (loss of coordination, changes in eye movement, altered consciousness, paddling limbs) are emergencies. Same goes for tremors that follow suspected ingestion of something toxic.
 
-The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) fields calls around the clock (their hotline is $95 per case as of 2026, but if your dog just ate something and is shaking, that $95 is well spent before you even drive to the ER). Common toxins that cause shaking in dogs include xylitol, certain mushrooms, sago palm, dark chocolate in significant quantities, metaldehyde (found in slug bait), and organophosphate insecticides. Tremorgenic mycotoxins from moldy food are genuinely underappreciated, I've seen a dog present tremoring severely because it got into the compost bin.
+The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) fields calls around the clock (their hotline is $95 per case as of 2026, but if your dog just ate something and is shaking, that $95 is well spent before you even drive to the ER). Common toxins that cause shaking in dogs include xylitol, certain mushrooms, sago palm, dark chocolate in significant quantities, metaldehyde (found in slug bait), and organophosphate insecticides. Tremorgenic mycotoxins from moldy food are often overlooked; dogs can develop severe tremors from eating moldy food found in compost bins or other sources.
 
 Idiopathic tremor syndrome (sometimes called "white shaker dog disease" in the literature, though it affects more than just white dogs) is a condition where a dog develops full-body tremors with no clear cause. It's responsive to prednisone but needs a diagnosis first. Without bloodwork and sometimes an MRI, you're guessing.
 

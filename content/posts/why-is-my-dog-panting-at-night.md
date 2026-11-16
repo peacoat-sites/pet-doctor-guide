@@ -25,7 +25,7 @@ faqs:
     a: "Once a dog passes 7-8 years, the list of potential medical causes gets longer fast. Cushing's, CDS, arthritis, and cardiac issues all become more common in the senior years. A panting senior dog deserves a vet workup sooner than you might think, ideally within a few days rather than waiting weeks to see if it resolves."
 ---
 
-Most dog owners assume nighttime panting is just a hot dog or a nervous one. I thought the same thing for years. Then I started noticing how often we were wrong.
+Most dog owners assume nighttime panting is just a hot dog or a nervous one, but there are several medical conditions that can cause it.
 
 Across 13 years in a small animal clinic, I'd estimate roughly 40% of the nighttime panting cases we saw had a medical explanation that owners had been dismissing as anxiety or temperature for months. That number isn't from a published study, I'll be honest, but it tracks with what the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has flagged repeatedly: panting is one of the most underreported symptoms in dogs because owners assume it's behavioral. A 2023 survey published in the *Journal of Veterinary Internal Medicine* found that owners delayed seeking care for panting by an average of 6.2 weeks, often because they couldn't identify a clear trigger. Six weeks is a long time if your dog's adrenal gland is failing.
 
@@ -70,17 +70,17 @@ The gum color check is one I drill into every owner who comes through our clinic
 
 Before you spiral, run through these.
 
-Check the temperature in the room where your dog sleeps. Dogs are comfortable in roughly 65-75°F. Sounds obvious, but I've had owners swear their dog's sleeping area "wasn't hot" only to find their furnace was set to 74°F and their Labrador was sleeping directly under a vent. A $15 room thermometer is worth having if this is a recurring question.
+Check the temperature in the room where your dog sleeps. Dogs are comfortable in roughly 65-75°F. A $15 room thermometer is worth having to rule out environmental heat, especially if a furnace vent blows directly over the sleeping area.
 
 Think about the day. Loud noises, visitors, a car ride, a trip to the groomer, a dog who was boarded recently and is still decompressing. Anxiety panting from a single stressful event almost always resolves within a night or two. If it's still happening by night three with no stressor, that's a data point.
 
 Check for signs your dog is actually hot versus anxious. A hot dog will want water, will seek cool surfaces, and often spreads out flat. An anxious dog paces, yawns, lip-licks, and may want to be closer to you. These look similar from across the room but they're different when you observe carefully.
 
-One scenario I think about often: a reader emailed me a few months back about her 10-year-old Golden Retriever who'd been panting at night for about three weeks. She'd attributed it to summer heat. When she finally brought him in, he had a significant splenic mass. Not a guaranteed crisis, but something that needed attention. Action taken: bloodwork plus abdominal ultrasound. Result: surgery, and the dog did well. The three-week delay wasn't catastrophic in that case, but it could have been.
+Nighttime panting lasting more than a few days warrants a vet visit. Some conditions like splenic masses or other abdominal issues can present with panting and restlessness; bloodwork and abdominal ultrasound may be needed to rule them out.
 
 ## The anxiety angle (it's real, but overdiagnosed)
 
-I'll be honest: anxiety gets blamed for nighttime panting way too often. Yes, generalized anxiety disorder exists in dogs. Yes, [separation anxiety](/separation-anxiety-dogs-treatment/) can manifest as nighttime restlessness if your dog isn't sleeping with you. But before accepting an anxiety diagnosis, a thorough physical exam and basic bloodwork should rule out the medical stuff. I've seen dogs put on behavioral medications for "anxiety" who actually had undiagnosed hypothyroidism or early Addison's disease.
+Anxiety is often blamed for nighttime panting, but generalized anxiety disorder and [separation anxiety](/separation-anxiety-dogs-treatment/) are less common causes than medical conditions. Before accepting an anxiety diagnosis, a thorough physical exam and basic bloodwork should rule out thyroid disease, Addison's disease, and other treatable conditions.
 
 If your vet is confident the cause is behavioral, there are genuinely helpful options. A [Snuggle Puppy with a heartbeat insert](https://www.amazon.com/s?k=snuggle+puppy+heartbeat+toy&tag=contentportfo-20) (around $45) can reduce anxiety in dogs who respond to warmth and sound, especially younger dogs or recently adopted ones. *(Note: this site may earn a commission from qualifying purchases.)* Adaptil diffusers (synthetic dog-appeasing pheromone) run about $25-35 and have decent evidence behind them for mild anxiety, though I'd describe the research as promising but not ironclad.
 

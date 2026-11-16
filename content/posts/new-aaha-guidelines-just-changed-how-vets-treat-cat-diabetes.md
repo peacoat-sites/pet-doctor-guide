@@ -24,15 +24,13 @@ That's a meaningful shift. If your cat was diagnosed even six months ago, their 
 
 SGLT2 stands for sodium-glucose cotransporter-2. These drugs work by blocking the kidneys from reabsorbing glucose back into the bloodstream, so excess sugar gets excreted in the urine instead of staying in circulation. Two drugs in this class are now approved for cats in the U.S.: bexagliflozin, sold as Bexacat, and velagliflozin, sold as Senvelgo. Both are oral medications, which means once-daily pill or liquid administration instead of twice-daily injections.
 
-I've seen firsthand how insulin injections become the biggest barrier to compliance for cat owners. The timing requirements, the storage, the stress of restraining a fractious cat twice a day ,  it adds up. An oral option that works at least as well for the right patients is genuinely good news. The 2026 AAHA guidelines, as reported by dvm360 in June 2026, position these drugs at the top of the treatment hierarchy for eligible newly diagnosed cats, which is a significant departure from the insulin-first approach that's been standard for decades.
+Insulin injections often become a significant barrier to compliance for cat owners. The timing requirements, storage needs, and stress of restraining a cat twice daily can make the regimen difficult to sustain. An oral option that works at least as well for the right patients is genuinely good news. The 2026 AAHA guidelines, as reported by dvm360 in June 2026, position these drugs at the top of the treatment hierarchy for eligible newly diagnosed cats, which is a significant departure from the insulin-first approach that's been standard for decades.
 
 What most people don't realize is how much the remission statistics factor into this decision. The guidelines report that roughly 25% of diabetic cats can achieve remission within the first 2-3 months of diagnosis, and over 50% within 6 months. That window matters enormously. Early, aggressive blood sugar control is what gives a cat the best shot at remission, and the AAHA guidelines reflect a growing consensus that SGLT2 inhibitors may support that goal effectively in appropriate candidates.
 
 ## The Catch: Not Every Cat Qualifies
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the part I really want you to read carefully, because the eligibility criteria are strict and the consequences of getting it wrong are serious.
 

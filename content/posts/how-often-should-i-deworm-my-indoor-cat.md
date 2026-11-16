@@ -33,11 +33,11 @@ The truth about indoor cats and parasites is messier and more interesting than t
 
 Here's what surprises most people: indoor cats can absolutely get intestinal parasites, just through different routes than outdoor cats. The most common culprits I see in truly indoor cats are tapeworms and roundworms, and both have sneaky transmission paths that have nothing to do with hunting outside.
 
-Tapeworms, specifically *Dipylidium caninum*, come from fleas. One infected flea ingested during grooming is all it takes. If your cat has ever had a single flea (and most do, at least once, because fleas hitchhike on clothing, shoes, and other pets), there's a real possibility of tapeworm exposure. I've seen cats with tapeworms in homes where the owner swore up and down they'd never seen a flea. Fleas are fast and small and easy to miss.
+Tapeworms, specifically *Dipylidium caninum*, come from fleas. One infected flea ingested during grooming is all it takes. If your cat has ever had a single flea (and most do, at least once, because fleas hitchhike on clothing, shoes, and other pets), there's a real possibility of tapeworm exposure. Tapeworm infections can occur in homes where fleas have never been noticed. Fleas are fast and small and easy to miss.
 
 Roundworms are different. *Toxocara cati* can be transmitted to kittens through an infected mother's milk, which is why virtually every kitten should be dewormed regardless of lifestyle. Adults can pick up roundworm larvae from contaminated soil tracked in on shoes, or from hunting and eating prey indoors (yes, even indoor cats sometimes catch a mouse or insect).
 
-What surprised me most when I started digging into the research was how often low-level parasite infections go completely undetected in cats. Cats are notoriously stoic, and mild worm burdens don't always cause dramatic symptoms. You won't always see worms in the stool. Fecal float tests catch a lot, but not everything, and timing matters.
+Low-level parasite infections often go completely undetected in cats. Cats are notoriously stoic, and mild worm burdens don't always cause dramatic symptoms. You won't always see worms in the stool. Fecal float tests catch a lot, but not everything, and timing matters.
 
 ## So how often should you actually deworm?
 
@@ -108,7 +108,6 @@ Here's where I land after all this: the "deworm your cat every month no matter w
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

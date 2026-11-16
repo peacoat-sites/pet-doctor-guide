@@ -20,9 +20,7 @@ That's not a contamination story. That's fraud. And it changes what you need to 
 
 On July 2, 2026, Mars Petcare US issued a voluntary recall of two lots of PEDIGREE Can [High Protein](/best-high-protein-dog-food-for-weight-loss/) Chopped Chicken & Duck Flavor 13.2 oz, lot codes 613C3KKCFC and 613C1KKCFC. According to the FDA recall announcement, these cans may contain sharp metal and plastic fragments that could cause choking, GI lacerations, or intestinal blockages. The part that makes this recall different from every other one this year: the product never should have been available to buy. Ever. Mars had already rejected it internally before it cleared the company's own quality standards. The food was supposed to be destroyed.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Two specific Pedigree lot codes (613C3KKCFC, 613C1KKCFC) were fraudulently diverted from destruction and sold commercially.</li><li style="margin:5px 0">The cans may contain sharp metal and plastic fragments invisible at point of sale.</li><li style="margin:5px 0">No distribution data exists because an unauthorized third party sold the product.</li><li style="margin:5px 0">Hawaii DOH issued a public alert July 7, 2026; no pet illnesses had been reported as of the recall.</li><li style="margin:5px 0">2026 has seen at least 10 pet food recall events spanning contamination, nutrient errors, and now physical fraud.</li></ul></div>
-
 
 ## Why This Recall Is Different From the Other Nine
 
@@ -36,8 +34,6 @@ What most people don't realize is that a condemned product re-entering the suppl
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the part Hawaii's Department of Health flagged specifically in their July 7, 2026 public alert: because this product was sold by an unauthorized third party, there is no distribution data. None. That means regulators cannot tell you which states received the cans, which stores stocked them, or even how many units made it out. With a normal recall, you get a retailer list. You can call your store. You can check whether your ZIP code was affected.
 
 With this one, you can't do that. The usual recall playbook doesn't apply.
@@ -48,7 +44,7 @@ That absence of distribution data is genuinely unusual. It's also the argument f
 
 The fraud aspect points pretty clearly toward third-party and discount marketplaces. Rejected product that bypasses a manufacturer's destruction process doesn't typically end up on the shelves of large national retailers with tight inventory controls. It ends up on Amazon third-party listings, discount liquidation stores, Facebook Marketplace, and smaller online pet supply shops where sourcing verification is minimal or nonexistent.
 
-I've seen this pattern before with human food products too, condemned or near-expiry stock getting offloaded through gray-market channels at prices that look like a deal. If you're buying [pet food](/raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/) from a third-party Amazon seller, a liquidation site, or any source that isn't an authorized retailer for that brand, the price discount is not necessarily the good news it appears to be.
+Condemned or near-expiry stock sometimes gets offloaded through gray-market channels at prices that look like a deal. If you're buying [pet food](/raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/) from a third-party Amazon seller, a liquidation site, or any source that isn't an authorized retailer for that brand, the price discount is not necessarily the good news it appears to be.
 
 The table below shows the key differences between a standard contamination recall and this type of supply-chain fraud recall, because they require different responses from owners.
 

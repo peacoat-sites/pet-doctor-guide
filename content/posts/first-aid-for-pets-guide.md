@@ -23,7 +23,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 lastmod: 2026-07-08
 ---
-You just watched your dog eat something off the ground during your walk, and now you're standing in your kitchen wondering if you should panic. Or maybe your cat is limping and you can't quite tell if it's serious. Or your rabbit took a tumble and you have no idea what a "normal" rabbit looks like after a fall. Wherever you are right now, here's something important to know before anything else: staying calm and having some basic knowledge is genuinely the most powerful thing you can do for your pet in a crisis. I've been in clinical practice for 13 years, and the clients who do the best in emergencies aren't necessarily the ones with the most medical knowledge. They're the ones who know what to watch for, what to do first, and when to stop trying to handle something at home.
+A dog eats something off the ground during a walk, and the owner is left wondering if they should panic. A cat starts limping and the severity is unclear. A rabbit takes a tumble and it's hard to know what normal looks like after a fall. Wherever you are right now, here's something important to know before anything else: staying calm and having some basic knowledge is genuinely the most powerful thing you can do for your pet in a crisis. Pet owners who do well in emergencies tend to have one thing in common: they know what to watch for, what to do first, and when to stop trying to handle something at home.
 
 ## Build Your Pet First Aid Kit Before You Need It
 
@@ -141,7 +141,6 @@ You can't prevent every accident. You can't be a vet with a first aid kit. But y
 - [quality dental chews](https://www.amazon.com/s?k=dental+chews+for+dogs)
 - [hospital accreditation standards](https://www.aaha.org/)
 - [joint supplements](https://www.amazon.com/s?k=joint+supplements+for+dogs)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -39,7 +39,7 @@ One thing I'll say upfront: ringworm is one of the most consistently mismanaged 
 
 The fungus infects the keratin in hair, nails, and the outer layers of skin. It spreads by direct contact with an infected animal, or by contact with spores that have shed into the environment on hair, dander, and skin cells. A single infected cat can deposit spores on every surface it touches. Grooming tools, bedding, furniture, carpet fibers, and HVAC filters can all harbor viable spores.
 
-What catches people off guard is that an animal can be a carrier without showing any obvious signs. Persians and other longhaired cats are notoriously good at carrying *M. canis* asymptomatically, which is why shelter intake environments often do fungal cultures on every longhaired cat regardless of visible symptoms. I've seen cats pass full visual inspection and still culture positive.
+What catches people off guard is that an animal can be a carrier without showing any obvious signs. Persians and other longhaired cats are notoriously good at carrying *M. canis* asymptomatically, which is why shelter intake environments often do fungal cultures on every longhaired cat regardless of visible symptoms.
 
 Dogs get ringworm too, but it's genuinely less common. When they do, the presentation is usually similar to cats: patchy hair loss, sometimes with a scaly or crusty border, most often on the face, ears, paws, or along the tail.
 
@@ -49,7 +49,7 @@ Dogs get ringworm too, but it's genuinely less common. When they do, the present
 
 Here's where most articles fail you: they describe the classic textbook lesion, a neat circular patch of hair loss with a slightly red, scaly ring. That does happen. It's also not always what you see.
 
-In cats, the lesions are often irregular rather than perfectly circular. You might notice small, broken hairs, a moth-eaten look to the coat, or dry, flaky skin patches that look more like dandruff or mild seborrhea than anything alarming. Kittens tend to show more dramatic lesions because their immune systems aren't fully developed. I've seen kittens under eight weeks old with involvement over most of their face and forelimbs.
+In cats, the lesions are often irregular rather than perfectly circular. You might notice small, broken hairs, a moth-eaten look to the coat, or dry, flaky skin patches that look more like dandruff or mild seborrhea than anything alarming. Kittens tend to show more dramatic lesions because their immune systems aren't fully developed.
 
 The most common locations in cats: the face, ears, and dorsal (top) surface of the paws. In dogs, similar distribution, with the muzzle and feet being frequent sites.
 
@@ -67,7 +67,7 @@ Fungal culture is the gold standard. Hair and scale samples are plated on dermat
 
 There's no shortcut here. Ringworm treatment is a commitment.
 
-The standard approach combines systemic antifungal medication with topical therapy and aggressive environmental decontamination. Doing only one or two of these three things is why most treatment failures happen. I've had this conversation with clients a hundred times.
+The standard approach combines systemic antifungal medication with topical therapy and aggressive environmental decontamination. Doing only one or two of these three things is why most treatment failures happen.
 
 **Systemic medication** for cats is most often itraconazole (Itrafungol, the FDA-approved oral solution for cats, currently costs roughly $80-150 per two-week supply depending on your pharmacy and the cat's weight) or terbinafine as an off-label option. For dogs, griseofulvin, itraconazole, or terbinafine are the main choices. Your vet will prescribe based on species, weight, liver function, and what else is going on with your pet. Treatment typically runs 6 to 12 weeks, and the decision to stop should be based on two consecutive negative fungal cultures, not just visual resolution. Lesions can look healed while the animal is still shedding spores.
 
@@ -95,7 +95,7 @@ If you have multiple pets, isolating the infected individual matters. Healthy ad
 
 ## The Zoonotic Reality
 
-You can get this from your cat. That's not fearmongering; it's a practical fact. Human ringworm (called tinea corporis when it's on the body, tinea capitis on the scalp) looks like the classic circular, itchy, scaling patch that gives the disease its name. It's treated with over-the-counter antifungal creams like clotrimazole (Lotrimate AF) in most cases, though scalp infections require oral antifungals and a physician visit.
+You can get this from your cat. Human ringworm (called tinea corporis when it's on the body, tinea capitis on the scalp) looks like the classic circular, itchy, scaling patch that gives the disease its name. It's treated with over-the-counter antifungal creams like clotrimazole (Lotrimate AF) in most cases, though scalp infections require oral antifungals and a physician visit.
 
 If anyone in your household develops a suspicious skin lesion during treatment of your pet, see a doctor. [PetMD's veterinary resource library](https://www.petmd.com/) has a solid overview of ringworm transmission dynamics if you want the full picture on risk factors for household spread.
 
@@ -105,9 +105,9 @@ Children, elderly adults, and immunocompromised people are at higher risk of con
 
 A scenario I see repeatedly: a single adult cat, adopted from a shelter, presents at 5 months old with two small circular lesions on the face and ear. Owner opts for itraconazole oral solution plus twice-weekly Malaseb baths and diligent daily bleach wipes of hard floors. First follow-up culture at week four is still positive. Second culture at week eight is negative. Third culture at week ten is negative. Treatment stopped. Total cost including diagnosis, medication, and shampoo: approximately $340 over ten weeks. No household members infected.
 
-Contrast that with a case from a reader who emailed me last spring: three cats in a household, discovered ringworm in one, treated only that cat, stopped treatment at week four when lesions resolved visually. Culture never done post-treatment. Six weeks later, all three cats were symptomatic, the owner had a lesion on her forearm, and the restarted treatment course cost her over $800 including the dermatology visit for herself.
+For example, when only one cat in a household is treated and therapy stops after visible lesions resolve without post-treatment culture, the infection can return and spread to other cats and household members, leading to more costly treatment.
 
-A third common scenario: a puppy in a litter of five tests positive on intake exam at a rescue. Entire litter treated prophylactically with lime sulfur dips twice weekly for eight weeks, adopters notified. Zero cases in adoptive homes. Rescue's protocol, which I've seen replicated at several well-run shelters, prevents the nightmare of calling thirty adopters to tell them their new puppy has a contagious skin fungus.
+When a puppy in a litter tests positive, prophylactic treatment of the entire litter with lime sulfur dips twice weekly for eight weeks can prevent transmission to adoptive homes.
 
 ## Sources
 

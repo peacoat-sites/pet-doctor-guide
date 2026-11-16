@@ -42,9 +42,7 @@ Breathing can shift too. Rapid, shallow breathing in a cat that's resting is a r
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's the one that catches people off guard: a painful cat often becomes suddenly affectionate, or suddenly antisocial. Either direction. I've had clients tell me their cat "got so cuddly all of a sudden" right before a diagnosis of significant illness. Seeking warmth and contact is a pain behavior. Withdrawing completely is a pain behavior. Both.
+A painful cat often becomes suddenly affectionate, or suddenly antisocial. Either direction can signal pain. Seeking warmth and contact is a pain behavior. Withdrawing completely is a pain behavior. Both warrant a vet visit.
 
 Aggression when you touch a specific area. This is so commonly dismissed as "she's just cranky." If your cat was fine with being petted along her back yesterday and today she twists around to bite your hand when you touch her lower spine, that's pain until proven otherwise.
 
@@ -88,7 +86,6 @@ PetMD's veterinary resource library has a solid breakdown of feline pain scoring
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
@@ -102,7 +99,6 @@ PetMD's veterinary resource library has a solid breakdown of feline pain scoring
 - [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
 - [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
 - [Mahmoud Yahyaoui](https://www.pexels.com/@mahmoud-yahyaoui)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

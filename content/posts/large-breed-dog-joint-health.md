@@ -14,11 +14,11 @@ slug: "large-breed-dog-joint-health"
 affiliate_disclosure: true
 lastmod: 2026-07-08
 ---
-Large breed dogs age faster than most people realize. A Great Dane is considered a senior at 6. A Rottweiler's hips can start showing arthritis changes on X-ray at 3 or 4, years before they limp visibly. If you've got a dog over 40 pounds and you're reading this, you're probably somewhere on the spectrum between "I want to be proactive" and "my dog is already struggling and I don't know what to do." Both of those places are completely reasonable, and this article is for both of you.
+Large breed dogs age faster than most people realize. A Great Dane is considered a senior at 6. A Rottweiler's hips can start showing arthritis changes on X-ray at 3 or 4, years before they limp visibly. Large breed owners often fall somewhere on a spectrum between wanting to be proactive and managing a dog that's already struggling with mobility. This article covers both situations.
 
 Let me start with something I got wrong for longer than I'd like to admit.
 
-For the first few years I worked in practice, I assumed joint problems in big dogs were mostly genetic fate. Some dogs got hip dysplasia, some didn't, and there wasn't a lot to do beyond managing symptoms when they appeared. I was wrong about that. Not completely, because genetics absolutely matters, but the degree to which environment, nutrition, and early intervention change outcomes is much more significant than I appreciated back then. I've watched dogs with terrible hip conformation stay comfortable into old age because their owners did the right things early. I've also watched dogs with decent structure fall apart at 5 because of how they were fed and exercised as puppies. That contrast changed how I talk to people.
+Genetics matter in joint health, but environment, nutrition, and early intervention shape outcomes significantly. Dogs with poor hip structure can stay comfortable with good management early on, while dogs with better structure can develop problems from improper feeding or exercise as puppies.
 
 ## Why Large Breeds Are a Different Animal (Literally)
 
@@ -39,9 +39,7 @@ The other piece that surprises a lot of owners is growth rate. Large breed puppi
 
 > **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-You've probably heard about glucosamine and chondroitin. You might be using them already. The research on these two compounds is genuinely mixed. There are decent studies supporting their use, and there are others that show minimal effect. My honest read after 13 years: they're not magic, but I don't think they're doing nothing, either. For dogs already showing joint changes, I've seen enough anecdotal improvement (in mobility, in stiffness after rest) that I still recommend them as part of a broader protocol. For young dogs in high-risk breeds, I think they're reasonable insurance.
+You've probably heard about glucosamine and chondroitin. You might be using them already. The research on these two compounds is genuinely mixed. There are decent studies supporting their use, and there are others that show minimal effect. The practical takeaway: they're not magic, but evidence suggests they're not inert either. For dogs already showing joint changes, glucosamine and chondroitin may help with mobility and morning stiffness when combined with other management strategies. For young dogs in high-risk breeds, I think they're reasonable insurance.
 
 Omega-3 fatty acids, specifically EPA and DHA from fish oil, have stronger evidence behind them. They're genuinely anti-inflammatory, and a 2018 review in *Journal of Veterinary Internal Medicine* found measurable improvements in dogs with osteoarthritis who were supplemented with omega-3s at therapeutic doses. The key word there is *therapeutic doses*, which are higher than what most people give. For a 90-pound dog, you're often looking at 2,000-3,000mg EPA+DHA per day, not a single fish oil capsule from your own medicine cabinet.
 
@@ -69,7 +67,7 @@ If your large breed dog is carrying extra weight, it is the single most impactfu
 
 Body condition scoring is something your vet can do at any visit, and it's worth asking specifically about if you're uncertain. The goal for most large breeds is a score of 4-5 out of 9, where you can feel ribs easily without pressing hard, and there's a visible waist tuck when you look from above.
 
-**Worked example:** A reader emailed me last fall about her 6-year-old German Shepherd who was reluctant to use stairs. Vet had already ruled out acute injury. The dog was about 12 pounds over ideal weight. Over four months, careful portion control with a high-protein, lower-calorie kibble brought him down to a better body condition. The owner wrote back to say the stair hesitation had basically resolved. No new supplements, no new diagnoses. Weight loss alone.
+**Example scenario:** A 6-year-old German Shepherd reluctant to use stairs, with acute injury ruled out, may improve significantly with weight management alone. Bringing an overweight dog to ideal body condition through careful portion control and appropriate kibble can resolve stair hesitation without additional supplements or new diagnoses.
 
 ## When to Actually Call Your Vet (Not "When in Doubt, Call")
 
@@ -99,7 +97,7 @@ As of June 2026, the [AAHA pain management guidelines](https://www.aaha.org/) in
 
 #### At what age should I start thinking about joint health in a large breed dog?
 
-Honestly, day one. Large breed puppy nutrition choices affect joint development, and the growth phase is when a lot of damage either does or doesn't get set in motion. For supplementation and active monitoring, most vets (myself included) would say start a conversation with your vet around age 2 for high-risk breeds like Bernese Mountain Dogs, Rottweilers, and Labs.
+Day one. Large breed puppy nutrition choices affect joint development, and the growth phase is when a lot of damage either does or doesn't get set in motion. For supplementation and active monitoring, most vets would say start a conversation with your vet around age 2 for high-risk breeds like Bernese Mountain Dogs, Rottweilers, and Labs.
 
 #### Is glucosamine actually worth giving?
 

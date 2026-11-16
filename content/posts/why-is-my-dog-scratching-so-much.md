@@ -35,7 +35,7 @@ I've triaged scratching dogs in clinic for over a decade. Let me tell you what a
 
 Fleas top the list, not because they're the most interesting culprit but because they're the most common one I see walk through the door. One flea bite on an allergic dog can trigger scratching that lasts days after the flea itself is gone. Flea allergy dermatitis (FAD) is exactly as miserable as it sounds, and owners frequently miss it because they can't find a flea on the dog. You won't always. Look for "flea dirt" instead: tiny black specks at the base of the tail that turn reddish-brown when you put them on a damp paper towel. That's digested blood. That's your answer.
 
-Environmental allergies (atopy) are a close second. Pollen, mold, dust mites, grass. Dogs with atopy tend to scratch their paws, face, armpits, and groin, not randomly distributed all over. There's a seasonality to it, at least at first. As of July 2026, atopic dermatitis in dogs is diagnosed more frequently than it was fifteen years ago, and while some of that is better diagnostic awareness, a real chunk of it tracks with changes in environmental allergen loads. The research here is genuinely still developing.
+Environmental allergies (atopy) are a close second. Pollen, mold, dust mites, grass. Dogs with atopy tend to scratch their paws, face, armpits, and groin, not randomly distributed all over. There's a seasonality to it, at least at first. Atopic dermatitis in dogs appears to be diagnosed more frequently than in past decades. Better diagnostic awareness accounts for some of this increase, but changes in environmental allergen loads likely play a real role as well. The research here is genuinely still developing.
 
 Food allergies cause chronic, year-round itching with no seasonal pattern. The face, ears, and paws are common hot spots. Here's where I used to get it wrong: I assumed food allergies meant the dog had eaten something new. Not the case. Dogs can develop an allergy to a protein they've eaten for years. Chicken and beef are the most common culprits in dogs, per dermatology literature, not exotic proteins like duck or venison.
 
@@ -44,8 +44,6 @@ Dry skin, contact irritants (new laundry detergent on your dog's bedding, for in
 ## How to Actually Assess the Scratching at Home
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Before you do anything else, look at the skin, not just the behavior. Part the fur and look at what's underneath.
 
@@ -111,7 +109,6 @@ These are real-world ranges, not guaranteed costs. Your geography and clinic pri
 - Gram D. "Diagnosis and treatment of canine demodicosis and sarcoptic mange." Veterinary Clinics of North America, 2019: The clearest breakdown I've found of mite differentiation and treatment response timelines.
 
 ---
-
 
 ---
 

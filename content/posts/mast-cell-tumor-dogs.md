@@ -37,7 +37,7 @@ What surprised me, when I went deeper into the literature a few years back, is h
 
 Mast cells are normal immune cells. They live in your dog's connective tissue, skin, and respiratory tract, and they carry granules loaded with histamine, heparin, and other inflammatory mediators. In a mast cell tumor, those cells proliferate abnormally and those granules become a problem, because MCTs can degranulate, releasing a flood of histamine and other chemicals into the body.
 
-This is why mast cell tumors aren't just a "skin thing." A large or aggressively degranulating tumor can cause systemic effects: gastric ulcers (histamine drives excess stomach acid production), vomiting, internal bleeding, hypotension during surgery. There's a reason surgical teams handling MCT removal often pre-medicate with diphenhydramine (Benadryl) and famotidine (Pepcid) before cutting near these tumors. I've seen dogs come in for what looked like a routine lump removal and crash on the table because nobody prepped the surgical site properly. That's not meant to scare you; it's meant to underscore why this specific tumor type requires a vet who knows what they're doing.
+This is why mast cell tumors aren't just a "skin thing." A large or aggressively degranulating tumor can cause systemic effects: gastric ulcers (histamine drives excess stomach acid production), vomiting, internal bleeding, hypotension during surgery. There's a reason surgical teams handling MCT removal often pre-medicate with diphenhydramine (Benadryl) and famotidine (Pepcid) before cutting near these tumors. Dogs can crash on the operating table if the surgical team doesn't pre-medicate and prepare properly for MCT removal. That's not meant to scare you; it's meant to underscore why this specific tumor type requires a vet who knows what they're doing.
 
 The degranulation risk also explains why you'll sometimes hear "don't manipulate the mass." Repeatedly squeezing or pressing on an MCT can trigger granule release and cause localized swelling, redness, and a condition called Darier's sign (a wheal-and-flare reaction). If you notice a lump suddenly doubling in size after your dog scratches at it or after you've been pressing on it, that's a characteristic MCT behavior, not a coincidence.
 
@@ -61,7 +61,7 @@ These are estimates drawn from published veterinary oncology literature, includi
 
 ## Diagnosing It: What Should Actually Happen at Your Vet
 
-Fine needle aspirate (FNA) first. Your vet inserts a small needle into the mass, pulls back cells, and smears them on a slide. It takes about 90 seconds. Mast cells are visually distinctive under the microscope: large cells with purple granules. In my experience, a good in-house microscope can get you a strong suspicion same day. Definitive grading requires surgical biopsy and histopathology at an external lab, usually a 3-5 business day turnaround.
+Fine needle aspirate (FNA) first. Your vet inserts a small needle into the mass, pulls back cells, and smears them on a slide. It takes about 90 seconds. Mast cells are visually distinctive under the microscope: large cells with purple granules. A good in-house microscope can often provide a strong suspicion of mast cell tumor the same day. Definitive grading requires surgical biopsy and histopathology at an external lab, usually a 3-5 business day turnaround.
 
 If your vet identifies an MCT (or suspects one), the next conversation should be about staging. Staging tells you whether the cancer has spread. At minimum, that means:
 
@@ -89,8 +89,6 @@ Prednisone is often used palliatively in cases where surgery and aggressive trea
 ## Breeds That Need Faster Action
 
 Boxers, Boston Terriers, Pugs, Bulldogs, and Labrador Retrievers have documented genetic predisposition to MCTs. If you own one of these dogs, any new lump gets an FNA. Not "watch it for a month." Not "it feels soft so it's probably fine." Same-day or next-appointment aspirate. Boxers in particular can develop multiple simultaneous MCTs, and some Boxer MCTs are histologically lower-grade despite appearing aggressive clinically.
-
-Golden Retrievers are another breed where I've seen MCTs pop up more than expected, though the genetic link is less firmly established than in Boxers.
 
 ## Signs That Mean "Go Today, Not Monday"
 

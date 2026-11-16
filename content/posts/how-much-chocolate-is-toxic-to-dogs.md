@@ -37,15 +37,11 @@ Baker's chocolate sits at the top of the danger scale, running roughly 390 mg of
 
 Cocoa powder is the one that surprises people. It runs between 400-737 mg per ounce, which means it can actually be more dangerous per ounce than baker's chocolate. A dog that got into a half-cup of cocoa powder while someone was baking is in a very different situation than one who stole a milk chocolate Easter egg off the table.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Theobromine content by chocolate type (mg per oz)</div><div class="sc-row"><span class="sc-label">Cocoa powder</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">570 mg/oz</span></div><div class="sc-row"><span class="sc-label">Baker's chocolate</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">390 mg/oz</span></div><div class="sc-row"><span class="sc-label">Dark chocolate (70%+)</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">155 mg/oz</span></div><div class="sc-row"><span class="sc-label">Milk chocolate</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">50 mg/oz</span></div><div class="sc-row"><span class="sc-label">White chocolate</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0.2 mg/oz</span></div><div class="sc-src">Source: Merck Veterinary Manual, theobromine toxicity reference data</div></div>
-
 
 ## The Numbers That Actually Matter
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Theobromine toxicity in dogs is measured in milligrams per kilogram of body weight. Here's where it gets specific:
 
@@ -59,8 +55,6 @@ Theobromine toxicity in dogs is measured in milligrams per kilogram of body weig
 So a 10-pound (4.5 kg) dog would need to ingest roughly 180 mg of theobromine to hit that mild-toxicity threshold. That's about 3.6 ounces of milk chocolate, or less than a quarter ounce of baker's chocolate. A 70-pound Labrador is a different story entirely.
 
 This is why "even a small amount can be dangerous" is simultaneously true and not useful. Small relative to what?
-
-Three scenarios I've seen play out, with real math:
 
 12-pound Shih Tzu eats one standard Hershey bar (1.55 oz, milk chocolate, roughly 70 mg theobromine total) → Dog is at about 15 mg/kg → Likely GI upset, maybe vomiting, no cardiac or neurological signs → Monitored at home, vomited once, recovered fine.
 
@@ -76,7 +70,7 @@ Step one: figure out the math. How much does your dog weigh? What type of chocol
 
 Step two: call someone who can help you run the numbers. The ASPCA Animal Poison Control Center (888-426-4435) charges a consultation fee currently around $95, but they'll walk you through exactly whether your specific dog and specific dose warrants a trip. Your vet's emergency line is free. Pet Poison Helpline is the other major option. Do not just Google a "chocolate toxicity calculator" and trust it without verifying against a real professional, because those tools vary in quality.
 
-Step three: if the exposure was within the last hour and the dose is potentially significant, your vet may direct you to induce vomiting at home with 3% hydrogen peroxide. The standard dose is 1 ml per pound of body weight, max 45 ml total, given orally. I want to be honest: I've seen this work well and I've seen it fail. It's not pleasant for the dog. It also shouldn't be done if the dog is already showing neurological symptoms or is having trouble breathing. Do not use salt, ipecac syrup, or any other home remedy someone on Facebook suggested.
+Step three: if the exposure was within the last hour and the dose is potentially significant, your vet may direct you to induce vomiting at home with 3% hydrogen peroxide. The standard dose is 1 ml per pound of body weight, max 45 ml total, given orally. Hydrogen peroxide induction doesn't always work. It's not pleasant for the dog. It also shouldn't be done if the dog is already showing neurological symptoms or is having trouble breathing. Do not use salt, ipecac syrup, or any other home remedy someone on Facebook suggested.
 
 If you don't reach anyone and you know the dose is in potentially dangerous territory, go to an emergency vet. Don't wait.
 
@@ -86,7 +80,7 @@ If the dose was borderline and you're monitoring at home, you're looking for vom
 
 Things that mean you stop monitoring and start driving: muscle tremors, a racing heart you can feel when you put your hand on their chest, unusual agitation that doesn't settle, seizures. The cardiac effects of theobromine are what make severe poisoning genuinely dangerous, and the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) notes that severe cases require supportive care including cardiac monitoring that simply can't be replicated at home.
 
-One thing I didn't fully appreciate early in my career: theobromine has a relatively long half-life in dogs, around 17-18 hours. That means symptoms can persist or worsen over a day even after the dog looks like they've stabilized. I've had owners call back the next morning confused because their dog seemed fine at bedtime and is now trembling. If there was a meaningful exposure, don't declare victory after four hours.
+Theobromine has a relatively long half-life in dogs, around 17-18 hours. That means symptoms can persist or worsen over a day even after the dog looks like they've stabilized. Owners may call back the next morning confused because a dog seemed fine at bedtime but is now trembling. If there was a meaningful exposure, don't declare victory after four hours.
 
 ## Breeds and Individual Factors
 
@@ -105,7 +99,6 @@ As of July 2026, the most reliable tool I'd point someone toward for a quick ini
 - [Pet Poison Helpline](https://www.petpoisonhelpline.com/): Clinical toxicology service for veterinary professionals and pet owners; includes dose-specific risk assessment.
 
 ---
-
 
 ---
 

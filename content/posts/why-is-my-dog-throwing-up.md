@@ -41,8 +41,6 @@ For straightforward vomiting, the timing matters too. Did it happen once after y
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the honest reality: the vast majority of dog vomiting is boring. Dietary indiscretion is probably the number one cause I see, which is a polite clinical way of saying your dog ate something they shouldn't have. Grass, garbage, table scraps, the cat's food, something dead in the yard. Dogs are opportunists.
 
 Other common causes that don't require panic:
@@ -69,7 +67,7 @@ Call an emergency vet immediately if you see any of the following:
 - **Frequent vomiting in a puppy under 16 weeks old**, especially combined with lethargy and loss of appetite (parvovirus can move fast)
 - Any vomiting in a **dog with diabetes, Addison's disease, or kidney disease**, since their baseline is already compromised
 
-Bloat gets its own mention because I've seen owners wait on it. A 7-year-old male Great Dane named Chester came into our clinic one evening; the owner had watched him try to vomit unproductively for about two hours and thought maybe he'd settle down. His stomach had already started to rotate. Emergency surgery, intensive overnight care, about $6,000 later, Chester made it. But the outcome can easily go the other way if you wait too long.
+Bloat gets its own mention because owners sometimes delay seeking care. Waiting even a couple of hours while a dog tries unproductively to vomit can allow the stomach to rotate, requiring emergency surgery and intensive care. The outcome can easily be fatal if you wait too long.
 
 ## The "Wait and Watch" Scenario: What to Actually Do at Home
 
@@ -96,7 +94,7 @@ Before you call or come in, try to know the answers to these questions:
 - Any changes in behavior, energy, urination, or bowel movements?
 - Any known health history (current medications, prior GI issues)?
 
-A client who calls us and says "my dog threw up twice since 6 p.m., both times it was yellow bile with some foam, he ate his normal dinner at 5, and he's still wagging his tail and wanting water" gets a much faster, more useful triage response than "my dog's sick, can I come in?"
+When you call your vet, include specifics: when the vomiting started, what the vomit looked like, what and when your dog ate, and whether he's alert and interested in water. This gives your vet enough information for a faster triage than a general report that your dog is sick.
 
 ## Vomiting by the Numbers: A Quick Reference
 
@@ -135,7 +133,6 @@ A quick note on the cost side: a basic vet visit for a vomiting dog runs roughly
 - Guilford, W.G. & Strombeck, D.R. *Strombeck's Small Animal Gastroenterology*, 3rd edition. W.B. Saunders: Foundational text on small animal GI pathophysiology
 
 ---
-
 
 ---
 

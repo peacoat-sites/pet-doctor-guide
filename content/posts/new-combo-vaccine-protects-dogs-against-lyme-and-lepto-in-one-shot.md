@@ -38,9 +38,7 @@ The efficacy numbers are strong. According to the Elanco press release, the vacc
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's something that genuinely surprised me when I first saw the data: according to Elanco, over 40% of at-risk dogs in Lyme-endemic states don't have a current Lyme vaccine, even though they've received their core vaccines on schedule. That's a significant gap, and it's not because owners don't care.
+According to Elanco, over 40% of at-risk dogs in Lyme-endemic states don't have a current Lyme vaccine, even though they've received their core vaccines on schedule. This gap typically isn't due to owner neglect.
 
 What tends to happen is that Lyme and lepto have historically required separate appointments, separate charges, and sometimes separate conversations with a vet who may or may not bring it up proactively. Lyme is often framed as a "lifestyle" vaccine, meaning it gets recommended based on individual risk assessment rather than universally. If your vet doesn't know you hike on wooded trails every weekend, or if your dog mostly stays in the backyard in a suburban area that borders conservation land, you might have slipped through without it.
 
@@ -50,7 +48,7 @@ The lepto piece has actually shifted significantly in recent years. The American
 
 Elanco expects the vaccine to begin shipping within 30 days of the June 15 approval, which means it should be moving through distribution channels and arriving at veterinary clinics by mid-July 2026. It won't be on every shelf by next week, but it's not a distant future product either.
 
-Here's what I tell people: don't wait to find out if your specific clinic has TruCan Ultra Lyme-L4 yet before having the underlying conversation with your vet. The vaccine approval is a good reason to call and ask three things: Is my dog current on Lyme? Is my dog current on lepto, including the L4 serogroup coverage? And should we wait for this new combination product or move forward with what's available now?
+Don't wait to find out if your specific clinic has TruCan Ultra Lyme-L4 yet before having the underlying conversation with your vet. The vaccine approval is a good reason to call and ask three things: Is my dog current on Lyme? Is my dog current on lepto, including the L4 serogroup coverage? And should we wait for this new combination product or move forward with what's available now?
 
 That last question has a real answer that depends on your dog's situation. If your dog is already past due on either vaccine and you're in a high-tick area, waiting a few extra weeks for a newer product isn't necessarily the right call. If your dog is current on lepto but has never had Lyme protection, that gap is worth closing soon regardless of which product gets used. Your vet can walk you through the timing, and as dvm360 reported in their June 15 coverage of the approval, the combination format is designed specifically to improve compliance and close exactly this kind of coverage gap.
 

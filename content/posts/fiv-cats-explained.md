@@ -27,13 +27,11 @@ faqs:
 
 Most of what you'll read about FIV cats online is either panic-inducing or suspiciously breezy. "Death sentence" on one end, "totally fine, no worries!" on the other. Neither is accurate, and both fail the cats.
 
-FIV stands for feline immunodeficiency virus. It's a lentivirus, the same class as HIV in humans, which is why people freak out when they first hear the name. That comparison is where the similarity ends. FIV doesn't kill cats quickly. Many FIV-positive cats live completely normal lifespans and die of something entirely unrelated. I've watched cats in our clinic come in as scrawny, beat-up strays who tested positive, get adopted, and still be going strong at 15. The virus matters, but it's not a countdown timer.
+FIV stands for feline immunodeficiency virus. It's a lentivirus, the same class as HIV in humans, which understandably causes concern when people first learn about it. That comparison is where the similarity ends. FIV doesn't kill cats quickly. Many FIV-positive cats live completely normal lifespans and die of something entirely unrelated. The virus matters, but it's not a countdown timer.
 
 What it does do is gradually compromise the immune system over years, making the cat more vulnerable to secondary infections that a healthy cat would shrug off. How fast that progresses varies enormously between individuals.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">FIV-positive cats often live normal lifespans; the virus itself rarely causes direct death.</li><li style="margin:5px 0">FIV transmits almost exclusively through deep bite wounds, not casual contact like shared food bowls.</li><li style="margin:5px 0">FIV cats and FIV-negative cats can coexist safely in the same household if there's no fighting.</li><li style="margin:5px 0">Annual vet visits (twice yearly is better) catch secondary infections before they spiral.</li><li style="margin:5px 0">There is no cure, but consistent care keeps most FIV cats stable for years.</li></ul></div>
-
 
 ## How FIV Actually Spreads
 
@@ -49,11 +47,9 @@ The ASPCA and the UC Davis Koret Shelter Medicine Program have both stated that 
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Diagnosis is messier than most people realize, and this is something the standard pet-adoption pamphlet glosses straight over.
 
-The snap test your vet runs in-clinic detects antibodies, not the virus itself. In adult cats, a positive result is meaningful. In kittens under six months old, it can be a false positive because the kitten may be carrying maternal antibodies from an FIV-positive mother but not actually be infected. Those kittens need to be retested after six months. I've seen kittens get euthanized or refused adoption based on snap test positives that would have cleared up on retest. It's one of the more preventable tragedies I've come across.
+The snap test your vet runs in-clinic detects antibodies, not the virus itself. In adult cats, a positive result is meaningful. In kittens under six months old, it can be a false positive because the kitten may be carrying maternal antibodies from an FIV-positive mother but not actually be infected. Those kittens need to be retested after six months. Kittens can be euthanized or refused adoption based on snap test positives that would have cleared up on retest.
 
 A positive snap test in an adult cat warrants a confirmatory Western blot or PCR test if there's any doubt. These cost somewhere between $60 and $150 depending on your lab and location (as of August 2026). Worth running before making any major decisions about a cat's future.
 
@@ -61,7 +57,7 @@ One more wrinkle: cats that received the old FIV vaccine (Fel-O-Vax FIV, discont
 
 ## What an FIV Cat Actually Needs
 
-Honestly, the management isn't dramatically different from any other cat. The gap shows up in the details.
+The management isn't dramatically different from any other cat. The gap shows up in the details.
 
 **Indoor living.** This is non-negotiable. Not because FIV cats will infect every cat in the neighborhood (see above), but because outdoor life means exposure to pathogens they're less equipped to fight. An upper respiratory infection that a healthy outdoor cat might shake in a week can turn into a two-week course of Clavamox and a $400 vet bill in an FIV cat with reduced immune function.
 
@@ -101,7 +97,6 @@ One more: a 7-year-old FIV cat came in last spring with a third bout of [upper r
 - Yamamoto JK et al. (1988): Original characterization of FIV, establishing it as a distinct lentivirus from HIV
 
 ---
-
 
 ---
 

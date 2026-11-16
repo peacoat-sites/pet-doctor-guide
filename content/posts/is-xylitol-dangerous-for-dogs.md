@@ -29,11 +29,9 @@ faqs:
 
 If you're reading this because you just caught your dog eating something that had xylitol in it, skip down to the section on what to do [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/). I'll be here when you get back. For everyone else: this is one of those pet toxins where I genuinely believe most owners are underprepared, not because they don't love their dogs, but because xylitol has quietly spread into dozens of products most people would never think to check.
 
-I've worked in small animal clinics for 13 years. I've seen xylitol toxicity cases come through the door, and what strikes me every time is how fast it moves and how surprised the owners are. Here's what I tell people when they ask me about it.
-
+Xylitol toxicity in dogs moves quickly and often catches owners by surprise. Understanding how it works and what to watch for can make the difference in an emergency.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">As few as 0.1 g/kg of xylitol can trigger dangerous hypoglycemia in dogs; 0.5 g/kg can cause liver failure.</li><li style="margin:5px 0">Symptoms of poisoning can start within 30 minutes of ingestion, do not wait and watch.</li><li style="margin:5px 0">Xylitol is now found in peanut butter, vitamins, baked goods, and dozens of other non-gum products.</li><li style="margin:5px 0">If your dog ate xylitol, call ASPCA Poison Control (888-426-4435) immediately, don't induce vomiting at home without guidance.</li><li style="margin:5px 0">Cats appear far less sensitive; this toxicity is a dog-specific concern based on current data.</li></ul></div>
-
 
 ## Why Xylitol Is So Dangerous (And It's Not the Reason You Think)
 
@@ -46,8 +44,6 @@ Why are dogs uniquely sensitive? Humans, cats, and most other mammals don't rele
 ## What Actually Contains Xylitol (The List That Surprises People)
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where I want to slow down, because the public conversation about xylitol is still largely stuck on "sugar-free gum," and that framing is dangerously outdated.
 
@@ -78,9 +74,7 @@ This table is worth bookmarking. The numbers come from peer-reviewed veterinary 
 
 One thing that gets confusing: the gum or product label won't tell you the xylitol dose per piece in milligrams most of the time. You'll need to check total xylitol in the package and divide by piece count, or call ASPCA Poison Control and let them do the math. That's genuinely what they're there for.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Xylitol dose required to harm dogs by weight (grams)</div><div class="sc-row"><span class="sc-label">10 lb dog (4.5 kg)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">0.5 g</span></div><div class="sc-row"><span class="sc-label">20 lb dog (9 kg)</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">0.9 g</span></div><div class="sc-row"><span class="sc-label">40 lb dog (18 kg)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">1.8 g</span></div><div class="sc-row"><span class="sc-label">60 lb dog (27 kg)</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">2.7 g</span></div><div class="sc-row"><span class="sc-label">80 lb dog (36 kg)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">3.6 g</span></div><div class="sc-src">Source: ASPCA APCC toxicology guidelines</div></div>
-
 
 What this chart shows: even a large 80-pound dog can be hospitalized from a dose that fits easily in a single stick of gum. Scale matters, but no dog is truly "safe" by size.
 
@@ -94,7 +88,7 @@ While you're on the phone, have the product packaging in front of you. They'll a
 
 If your dog is already showing symptoms: wobbly walking, weakness, vomiting, tremors, or loss of consciousness, skip the phone call and get to an emergency vet right now. Those symptoms mean absorption has already happened.
 
-Here's a real scenario I've seen play out:
+For example, consider this scenario:
 
 **45-pound Labrador mix ate 8 pieces of Trident sugar-free gum** (approximately 2.4 grams of xylitol total, or roughly 0.23 g/kg) → Owner called ASPCA Poison Control within 20 minutes, drove to emergency vet → Dog received IV dextrose for 18 hours, blood glucose monitoring every two hours, was discharged in stable condition after 24 hours. Total vet bill: approximately $1,400. Dog was fine.
 
@@ -104,7 +98,7 @@ I'm not sharing that second one to scare you. I'm sharing it because the waiting
 
 ## Keeping Your House Safe
 
-Honestly, the best approach is treating xylitol the same way you'd treat your prescription medications: locked or stored high, and never assumed to be out of reach. Dogs are remarkably good at getting into things on coffee tables, low shelves, bags left on the floor, and purses.
+The best approach is treating xylitol the same way you'd treat your prescription medications: locked or stored high, and never assumed to be out of reach. Dogs are remarkably good at getting into things on coffee tables, low shelves, bags left on the floor, and purses.
 
 A few habits that help: read ingredient labels on anything you use as a dog treat or pill pocket, especially nut butters. Keep your sugar-free gum in a zipped bag inside a closed bag. If you take gummy vitamins, keep them in a cabinet, not on the counter.
 
@@ -119,7 +113,6 @@ The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has 
 - Murphy LA, et al. (2013): "Xylitol toxicosis in dogs." *Veterinary Clinics of North America: Small Animal Practice*. Comprehensive review of mechanism, clinical presentation, and treatment.
 
 ---
-
 
 *Photo: [Andres  Ayrton](https://www.pexels.com/@andres-ayrton) via Pexels*
 

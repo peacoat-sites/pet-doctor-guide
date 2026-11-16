@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Your dog woke up with one eye crusted shut and now you're standing in the bathroom at 7 a.m. trying to decide if this is a "rush to the emergency vet" situation or a "wait until Monday" situation. I've had that exact call made to me dozens of times. The answer depends on a few specific things, and I'll walk you through all of them.
+Your dog woke up with one eye crusted shut and now you're standing in the bathroom at 7 a.m. trying to decide if this is a "rush to the emergency vet" situation or a "wait until Monday" situation. The answer depends on a few specific things, and I'll walk you through all of them.
 
 First, the honest version of what you're dealing with: dog eye infections range from genuinely minor (a little conjunctivitis that clears up with a week of antibiotic drops) to vision-threatening emergencies (a corneal ulcer or glaucoma that needs treatment within hours). Most pet owners can't tell the difference at a glance. That's not a failing. Even I'll look at a photo and want to examine the eye before committing to an opinion.
 
@@ -54,15 +54,13 @@ Foreign bodies, allergies, and blocked tear ducts can all mimic infections too. 
 
 > **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll give you the real answer instead of the liability-hedged one: there are a few things you can safely do at home while you're waiting for a vet appointment, and one big thing you shouldn't do.
 
 You can flush the eye gently with sterile saline. Plain preservative-free saline solution, the same kind sold for contact lens users, works fine. Hold your dog's head steady, and let a stream of it run from the inner corner outward. This removes debris and discharge and provides some relief. Do this two or three times a day while you wait. A proper [pet eye wash like Vetericyn Plus](https://www.amazon.com/s?k=vetericyn+plus+eye+wash+for+dogs&tag=contentportfo-20) (affiliate link, and yes, the site earns a small commission if you use it) is even better because it's pH-balanced for eyes and gentle enough to use regularly.
 
 You can use a warm, damp cloth to soften and wipe away crusty discharge. Don't scrub. Just let the warmth do the work and then wipe gently outward.
 
-What you should not do: don't reach into your medicine cabinet for leftover human eye drops or antibiotic ointments. Neomycin-containing ointments meant for skin can damage the cornea. And please don't use any drop containing steroids unless your vet has specifically told you to. Steroids on a corneal ulcer can cause catastrophic, irreversible damage within days. I've seen it. It's heartbreaking.
+What you should not do: don't reach into your medicine cabinet for leftover human eye drops or antibiotic ointments. Neomycin-containing ointments meant for skin can damage the cornea. And please don't use any drop containing steroids unless your vet has specifically told you to. Steroids on a corneal ulcer can cause catastrophic, irreversible damage within days. Steroid use on a corneal ulcer can cause permanent damage within days.
 
 ---
 
@@ -86,7 +84,6 @@ Large, floppy-eared dogs and those with lots of facial skin folds (Basset Hounds
 
 ---
 
-
 ---
 
 The good news is that most dog eye infections, caught at a reasonable stage and treated properly, resolve completely and quickly. The key is knowing what warrants urgency, what to do while you wait, and how to actually get those drops in correctly once you have them. You've got all three now.
@@ -104,7 +101,6 @@ The good news is that most dog eye infections, caught at a reasonable stage and 
 - [pet eye wash like Vetericyn Plus](https://www.amazon.com/s?k=vetericyn+plus+eye+wash+for+dogs&tag=contentportfo-20)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

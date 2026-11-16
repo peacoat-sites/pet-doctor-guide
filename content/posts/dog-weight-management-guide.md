@@ -31,7 +31,7 @@ Your dog's ribs should be easy to feel but not easy to see. Run your fingers alo
 
 Excess weight isn't just a cosmetic issue. In dogs, carrying extra body fat directly links to a shorter lifespan, earlier arthritis, increased diabetes risk, breathing difficulties, heart disease, and certain cancers. A landmark Purina study that followed Labrador Retrievers for their entire lives found that dogs kept lean lived a median of 1.8 years longer than their heavier littermates. For a breed that already has a relatively short lifespan, that's enormous.
 
-I've seen it in the clinic many times. A 9-year-old Beagle comes in struggling to walk because her joints are already badly arthritic, and the owner can't quite connect the dots between the extra treats given over years and what's happening now. The weight didn't cause the arthritis on its own, but it almost certainly accelerated it. Every pound of excess weight on a dog puts roughly four to five pounds of additional pressure on joints. A 10-pound Dachshund who's actually supposed to weigh 8 pounds is, mechanically speaking, working much harder than you'd think.
+A common scenario: a dog with badly arthritic joints, where excess weight over the years has worsened the condition. The weight didn't cause the arthritis on its own, but it almost certainly accelerated it. Every pound of excess weight on a dog puts roughly four to five pounds of additional pressure on joints. A 10-pound Dachshund who's actually supposed to weigh 8 pounds is, mechanically speaking, working much harder than you'd think.
 
 Overweight dogs are also at higher anesthetic risk during surgeries and dental cleanings, which matters when you think about how many procedures a dog might need over a lifetime. If you've ever wondered why your vet keeps mentioning your dog's weight, this is why. It's not a judgment call. It's a clinical one.
 
@@ -106,7 +106,7 @@ When switching foods, do it gradually over 7 to 10 days to avoid digestive upset
 
 You might also consider a quality joint supplement if your overweight dog is already showing stiffness, since weight loss alone takes time and joints need support in the meantime. Always check with your vet before starting any supplement.
 
-Weight management is one of the few things you can do for your dog that has a measurable, meaningful impact on both how long they live and how good those years feel. It's not glamorous. It involves saying no to the begging face and actually measuring food every single day. But I've watched dogs go from barely being able to get up off the floor to trotting around a yard again after losing 15% of their body weight. The change is real and it's worth the effort. Your dog can't make these choices for himself. You're the one who can.
+Weight management is one of the few things you can do for your dog that has a measurable, meaningful impact on both how long they live and how good those years feel. It's not glamorous. It involves saying no to the begging face and actually measuring food every single day. The change is real and it's worth the effort. Your dog can't make these choices for himself. You're the one who can.
 
 ## Sources
 
@@ -114,7 +114,6 @@ Weight management is one of the few things you can do for your dog that has a me
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Son Tuyen Dinh](https://www.pexels.com/@son-tuyen-dinh-1298468817)
 - that followed Labrador Retrievers for their entire lives found that dogs kept le
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -117,7 +117,7 @@ This table is a guide, not a replacement for professional advice. When in doubt,
 
 ## Prevention: The Part People Actually Skip
 
-I'll be honest: most of the toxic ingestion cases I've seen were completely preventable. Not through negligence, but through not knowing the full scope of what's dangerous.
+Most toxic ingestion cases are completely preventable. Not through negligence, but through not knowing the full scope of what's dangerous.
 
 A few things that actually work in a real household:
 
@@ -146,7 +146,6 @@ The honest takeaway from going deep on this topic is that the stakes are genuine
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Sharon Snider](https://www.pexels.com/@sharon-snider-2339082)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

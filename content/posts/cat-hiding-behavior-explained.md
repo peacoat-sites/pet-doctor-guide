@@ -46,7 +46,7 @@ Cat hiding behavior is one of the most common concerns I hear from clients, and 
 
 Cats are what behaviorists call "solitary hunters with prey and predator status." That's a fancy way of saying they're wired to be eaten by something bigger while simultaneously hunting something smaller. In the wild, a sick or injured cat sitting out in the open is a dead cat. Hiding is survival code that runs deep in their DNA, and your completely pampered indoor cat who's never seen a coyote in her life still runs that same program.
 
-Hiding serves several functions. Stress relief. Processing sensory overload. Pain management. Sometimes it's just a preference. My own cat, Frank, disappears under the bed every single time I have more than three people in the house. He reappears when the guests leave, eats his dinner, and acts like nothing happened.
+Hiding serves several functions. Stress relief. Processing sensory overload. Pain management. Sometimes it's just a preference. For example, a cat might hide under the bed when guests arrive and reappear once they leave, then eat dinner as if nothing happened.
 
 The real question isn't "why do cats hide?" It's "why is *this* cat hiding *right now*, and does it match her baseline?" That's what we're actually solving for.
 
@@ -157,7 +157,6 @@ If something feels off to you, trust that instinct and make the call. You know y
 - [this type of puzzle feeder](https://www.amazon.com/s?k=cat+puzzle+feeder)
 - [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
 - [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

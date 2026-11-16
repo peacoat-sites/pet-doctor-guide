@@ -25,7 +25,7 @@ faqs:
     a: "For a quick freshen-up between scheduled baths, a fragrance-free waterless foam or wipe is generally fine. Burt's Bees Hypoallergenic Waterless Shampoo is a reasonable option. That said, if you're reaching for dry shampoo constantly because the dog smells between baths, that's a sign to look at diet, anal glands, or an underlying skin condition rather than just masking it."
 ---
 
-Sensitive skin dogs come into our clinic more often than you'd think, and the number-one mistake I see owners making isn't about the wrong shampoo. It's bathing too frequently because the dog smells or looks dirty, and then accidentally stripping the skin barrier they're trying to protect. I've had that exact conversation at the front desk probably three hundred times.
+A common mistake with sensitive skin dogs isn't choosing the wrong shampoo. It's bathing too frequently because the dog smells or looks dirty, which can strip the skin barrier.
 
 So let's get into the actual answer, because "every four to six weeks" is the kind of advice that sounds helpful but ignores about half the variables that matter.
 
@@ -41,9 +41,7 @@ The honest answer is: your dog's specific condition determines the schedule more
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Since I know you want numbers, here's a realistic reference table. These are ranges I've seen recommended in clinical practice and in the [AAHA hospital accreditation standards](https://www.aaha.org/) dermatology guidelines, not pulled from a generic pet website.
+Here's a reference table. These ranges come from the [AAHA hospital accreditation standards](https://www.aaha.org/) dermatology guidelines.
 
 | Skin Condition | Typical Bath Frequency | Shampoo Type | Notes |
 |---|---|---|---|
@@ -58,13 +56,13 @@ I want to be clear: if your dog has an active skin condition being treated by a 
 
 ## The Bathing Technique Nobody Talks About Enough
 
-Frequency is only part of this. I thought for years that "rinse thoroughly" was obvious advice. Then I started paying attention to how owners actually bathed their dogs and realized residual shampoo left on the skin is one of the top reasons sensitive dogs react badly to baths that should have been fine.
+Frequency is only part of this. Residual shampoo left on the skin is a common reason sensitive dogs react badly to baths.
 
 Here's what a good sensitive-skin bath actually looks like in practice:
 
 Water temperature should be lukewarm, not warm. I know warm feels more comfortable to us, but it dilates blood vessels in the skin and can intensify itching in dogs that are already reactive. Think tepid, almost surprising when you test it on your wrist.
 
-Apply shampoo diluted. Most veterinary dermatologists recommend diluting shampoo 1:1 or even 1:3 with water before it ever touches the dog's skin. You'll use less, it distributes more evenly, and the rinse is actually achievable. I've been diluting shampoos this way for years and it makes a noticeable difference in how much residue stays behind.
+Apply shampoo diluted. Most veterinary dermatologists recommend diluting shampoo 1:1 or even 1:3 with water before it ever touches the dog's skin. You'll use less, it distributes more evenly, and the rinse is actually achievable. Diluting shampoos this way reduces residue left behind.
 
 Leave it on. Most medicated and therapeutic shampoos need 5 to 10 minutes of contact time to do anything. That's real time, not "I counted to thirty while my dog tried to escape." Set a phone timer. Give them a Kong stuffed with peanut butter or a [lick mat like the LickiMat Splash](https://www.amazon.com/s?k=LickiMat+Splash+dog&tag=contentportfo-20) (note: the site may earn a small commission on qualifying purchases) to keep them occupied. This is the step most people skip entirely.
 
@@ -88,9 +86,7 @@ Redness, hair loss in patches, skin that smells yeasty or infected, oozing, crus
 
 As of July 2026, veterinary dermatology wait times have stretched considerably in most metro areas, sometimes six to twelve weeks out for specialists. If your regular vet isn't getting traction on a chronic skin issue, ask specifically for a referral to a board-certified veterinary dermatologist (DACVD credential) rather than waiting for the next appointment to circle back around.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Recommended bath frequency by condition (days between baths)</div><div class="sc-row"><span class="sc-label">Oily seborrhea</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">8 days</span></div><div class="sc-row"><span class="sc-label">Atopic dermatitis (flare)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">10 days</span></div><div class="sc-row"><span class="sc-label">Atopic dermatitis (maintenance)</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">25 days</span></div><div class="sc-row"><span class="sc-label">Dry seborrhea</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">18 days</span></div><div class="sc-row"><span class="sc-label">General sensitivity</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">28 days</span></div><div class="sc-row"><span class="sc-label">Contact allergy</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">30 days</span></div><div class="sc-src">Source: Clinical practice ranges, AAHA dermatology guidelines</div></div>
-
 
 ## Sources
 
@@ -101,7 +97,6 @@ As of July 2026, veterinary dermatology wait times have stretched considerably i
 - [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control): Environmental irritant and allergen exposure guidance relevant to skin barrier management
 
 ---
-
 
 ---
 

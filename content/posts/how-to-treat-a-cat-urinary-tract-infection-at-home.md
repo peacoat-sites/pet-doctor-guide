@@ -57,7 +57,7 @@ Even in that second category, call your vet within 24 hours. Not a week from now
 
 If your cat has been examined, a urinary problem has been confirmed, and you're managing a diagnosed condition with vet guidance, then there are genuinely useful things happening at home that support recovery. This isn't instead of veterinary care. It's alongside it.
 
-**Water intake is probably the single most impactful thing.** Cats evolved as desert animals and have a naturally low thirst drive. A cat eating dry food exclusively is in a state of mild chronic dehydration that makes the urinary tract a rough place. Switching to wet food, or adding water or low-sodium chicken broth to dry kibble, significantly increases urine volume and dilutes the bladder environment. I've seen cats with recurrent urinary issues get dramatically better just from this change.
+**Water intake is probably the single most impactful thing.** Cats evolved as desert animals and have a naturally low thirst drive. A cat eating dry food exclusively is in a state of mild chronic dehydration that makes the urinary tract a rough place. Switching to wet food, or adding water or low-sodium chicken broth to dry kibble, significantly increases urine volume and dilutes the bladder environment. Increasing water intake can help prevent recurrent urinary issues by keeping urine dilute.
 
 A circulating water fountain works for some cats, not all. [The Pioneer Pet Raindrop fountain](https://www.amazon.com/s?k=Pioneer+Pet+Raindrop+cat+water+fountain&tag=contentportfo-20) is one I've recommended for years because some cats are oddly fixated on running water and will drink substantially more from a fountain than a bowl. Worth trying. *(This site may earn a commission on purchases made through links.)*
 
@@ -69,7 +69,7 @@ What I'd skip: cranberry supplements for cats. The mechanism that makes cranberr
 
 ## Communicating with Your Vet (So You Get Real Answers)
 
-One thing I've seen owners do that genuinely hurts them: they describe symptoms vaguely and then wonder why they got a vague answer. When you call or message your vet, be specific.
+A common mistake is describing symptoms vaguely and then expecting detailed guidance in return. When you call or message your vet, be specific.
 
 Tell them how many times you've seen your cat attempt to urinate in the last 12 hours, whether you saw any output each time, the color of any urine you observed, whether your cat is eating and drinking normally, and whether this has happened before. That level of detail changes the triage conversation completely.
 
@@ -82,7 +82,6 @@ If cost is a concern (and it often is, this is real not shameful), say so direct
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [SaL your PaL](https://www.pexels.com/@sal-your-pal-17123104)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

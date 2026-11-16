@@ -50,8 +50,6 @@ Bright red blood is the one that sends me straight into "call your vet right now
 
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's something I genuinely believe most people get wrong: hairballs are not a normal, expected part of cat life that you just shrug off. I spent years watching clients say "oh, he just does that" when their cat was vomiting hairballs two or three times a week, and what some of those cats actually had was inflammatory bowel disease or early lymphoma that we caught way later than we should have.
 
 Occasional hairballs, meaning a few times a year, in a longhaired cat who grooms a lot? Fine. That's real. More than once a month is too frequent, and it warrants a conversation with your vet. The American Veterinary Medical Association reinforces that frequent hairballs can indicate underlying GI inflammation rather than just normal grooming behavior, which is worth knowing.
@@ -66,7 +64,7 @@ Chronic vomiting in cats, defined loosely as throwing up more than once or twice
 
 **Inflammatory bowel disease (IBD).** This is hugely common in cats and dramatically underdiagnosed in general practice, not because vets miss it, but because confirming it requires biopsies. Many cats live for years on a "we think it's IBD" presumptive diagnosis managed with a hydrolyzed protein diet and sometimes steroids.
 
-**Hyperthyroidism.** If your cat is over 8 years old, vomiting, losing weight despite eating like a champ, and acting like they've had four espressos, please get a thyroid panel. This is so treatable if caught early. I've seen cats go from skeletal and miserable to back to normal within 6 weeks of starting methimazole.
+**Hyperthyroidism.** If your cat is over 8 years old, vomiting, losing weight despite eating like a champ, and acting like they've had four espressos, please get a thyroid panel. This is so treatable if caught early.
 
 **Kidney disease.** [Chronic kidney disease](/cat-kidney-disease-diet/) causes nausea and vomiting, particularly in the morning on an empty stomach. Cats are incredibly good at hiding how sick they feel until they can't anymore. Any senior cat vomiting regularly needs bloodwork. Full stop.
 
@@ -88,9 +86,9 @@ Go to an emergency vet immediately if your cat:
 - Ingested something toxic: lilies (this one is deadly for cats, even in tiny amounts), certain medications, antifreeze, or xylitol
 - Is also not urinating, especially if male (urinary blockage is a separate emergency but can accompany other illness signs)
 
-The string/linear foreign body situation deserves its own paragraph because I've watched people make the mistake of pulling string they can see hanging out of a cat's mouth or backside. Don't. If the string has looped around the base of the tongue or is anchored somewhere internally, pulling it can cause the intestine to bunch up and lacerate. Get to a vet. Let them scope it or remove it safely.
+A common mistake is pulling string visible hanging from a cat's mouth or backside. Don't. If the string has looped around the base of the tongue or is anchored somewhere internally, pulling it can cause the intestine to bunch up and lacerate. Get to a vet. Let them scope it or remove it safely.
 
-Scenario: A reader named Carla emailed me last spring about her 4-year-old domestic shorthair who had been vomiting 4-5 times a day for two days, increasingly lethargic. She'd assumed it was hairballs. Her vet found a hair tie lodged at the pylorus (the exit of the stomach). Surgical removal, 4-day hospitalization. Total cost was around $3,200. She'd noticed him playing with hair ties for months. This is genuinely one of those "I wish I'd known sooner" situations.
+For example, a cat vomiting 4-5 times a day for two days and growing lethargic might have a foreign object lodged at the pylorus (the exit of the stomach) rather than hairballs. A hair tie in this location requires surgical removal and hospitalization, costing around $3,200. Cats that play with hair ties, string, or rubber bands are at risk for this emergency.
 
 Scenario: Senior cat, 11 years old, vomiting every morning, losing weight slowly over 6 months. Owner thought it was just old age. Bloodwork showed a TSH of essentially zero and a T4 of 8.2 (normal is under 4.7). Classic hyperthyroidism. Started on methimazole 2.5mg twice daily. Within 8 weeks, vomiting stopped, weight stabilized, cat became social again. The owner told me she felt terrible she'd waited, but honestly, it's one of the most satisfying cases to treat because the turnaround is so fast.
 
@@ -115,7 +113,6 @@ As of July 2026, more telehealth vet services exist than ever before, and honest
 - ASPCA Animal Poison Control Center (APCC): Reference database for toxic substances in cats, including lilies, xylitol, and salicylates
 
 ---
-
 
 ---
 

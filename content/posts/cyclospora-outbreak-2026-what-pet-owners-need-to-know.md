@@ -14,13 +14,11 @@ slug: "cyclospora-outbreak-2026-what-pet-owners-need-to-know"
 affiliate_disclosure: true
 ---
 
-The 2026 Cyclospora outbreak has most [pet owners](/new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/) asking the wrong question. They're Googling "can my dog get Cyclospora" when the more useful question is "how does this outbreak actually threaten my household, and where do my pets fit in that picture." Here's the real answer, grounded in what the CDC and veterinary experts are saying right now.
+The 2026 Cyclospora outbreak has most [pet owners](/new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/) asking the wrong question. They're Googling "can my dog get Cyclospora" when the more useful question is "how does this outbreak actually threaten my household, and where do my pets fit in that picture." The actual risk depends on how the outbreak spreads and where your pets factor in.
 
 As of July 14, 2026, the CDC has reported 141 hospitalizations tied to domestically acquired cyclosporiasis across multiple U.S. states, a surge significant enough to trigger a formal Health Alert Network notice (HAN00531). July sits squarely inside the CDC's designated cyclosporiasis season, May 1 through August 31, which means we're at peak risk [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/). Your dog napping on the couch is not the problem. The cilantro on your taco might be.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cyclospora cayetanensis does not naturally infect dogs or cats; pets are not reservoirs or carriers.</li><li style="margin:5px 0">141 human hospitalizations were reported by CDC as of July 14, 2026, all from domestically acquired cases.</li><li style="margin:5px 0">Contaminated fresh produce (lettuce, cilantro, basil, raspberries) is the realistic exposure route, not pets.</li><li style="margin:5px 0">Pets do not need treatment or testing simply because a household member is infected with Cyclospora.</li><li style="margin:5px 0">July 2026 is peak season; wash all fresh produce thoroughly and watch humans in the house, not the animals.</li></ul></div>
-
 
 ## Your Pet Is Not the Vector. Full Stop.
 
@@ -33,8 +31,6 @@ What this means practically: you don't need to keep your dog away from family me
 ## Where the Real Risk Lives in Your Home
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Previous U.S. outbreaks of cyclosporiasis, and likely this one, trace back to contaminated fresh produce: lettuce, cilantro, basil, and raspberries have all been linked to past surges. Shared household food is the exposure route that actually matters.
 

@@ -78,7 +78,7 @@ Probiotics get lumped in with "alternative" remedies, but there's real veterinar
 
 The key word is "good." Your dog needs species-appropriate strains, not a spoonful of your Greek yogurt. Plain yogurt with live active cultures can help in a pinch if your dog isn't lactose intolerant, but purpose-formulated dog probiotics contain strains like *Lactobacillus acidophilus*, *Bifidobacterium animalis*, and *Enterococcus faecium* that match the canine gut better.
 
-FortiFlora, made by Purina, is widely used and recommended by vets. It comes in single-serve packets you sprinkle over food, which also encourages picky or nauseous dogs to eat. I've seen real success with these, especially after antibiotics, which are a common cause of diarrhea.
+FortiFlora, made by Purina, is widely used and recommended by vets. It comes in single-serve packets you sprinkle over food, which also encourages picky or nauseous dogs to eat. Many owners report success with FortiFlora after antibiotics, which are a common cause of diarrhea.
 
 Having a quality pet probiotic sitting in your pantry alongside a [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) makes sense for situations like this. (Disclosure: this site may earn a commission from qualifying purchases.)
 
@@ -131,7 +131,6 @@ Mild diarrhea is one of those things every dog owner deals with eventually, usua
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

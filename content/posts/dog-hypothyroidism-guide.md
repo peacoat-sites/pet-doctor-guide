@@ -29,11 +29,7 @@ About 1 in 200 dogs will be diagnosed with hypothyroidism at some point in their
 
 What surprised me most was how often hypothyroidism gets both over-diagnosed and under-diagnosed at the same time, depending on which lab test your vet runs first. The thyroid gland in dogs is genuinely finicky to evaluate, and a single screening test can mislead you in either direction. I've seen this play out in the clinic more times than I can count: a dog comes in lethargic and gaining weight, the total T4 comes back borderline low, and suddenly we're treating for hypothyroidism when the real culprit is something else entirely. The condition mimics so many other things that getting it right takes more than one data point.
 
-This guide is the article I wish I'd had when I first started seeing these cases. Real numbers, real timelines, honest talk about where the testing gets complicated, and what "well-managed" actually looks like day-to-day.
-
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Hypothyroidism affects roughly 0.2% of dogs; Golden Retrievers, Dobermans, and Boxers are overrepresented.</li><li style="margin:5px 0">A single T4 test is not enough for diagnosis, at minimum, request a free T4 (fT4) by equilibrium dialysis.</li><li style="margin:5px 0">Treatment is a twice-daily synthetic hormone pill (levothyroxine); most dogs improve noticeably within 4-8 weeks.</li><li style="margin:5px 0">Lifetime medication costs typically run $30-$80/month depending on dog size and brand.</li><li style="margin:5px 0">Recheck bloodwork every 6 months once stable, skipping this is the most common management mistake owners make.</li></ul></div>
-
 
 ## What Actually Goes Wrong in the Thyroid
 
@@ -47,13 +43,11 @@ Mid-to-large breeds between 4 and 10 years old are most commonly affected. Spaye
 
 > **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Here's where I used to get tripped up early in my career: hypothyroidism is a metabolic slowdown, so almost everything it causes is a slow, vague change rather than an acute problem. Owners don't come in saying "my dog suddenly got sick." They come in saying "he just seems... off. For like six months."
+Hypothyroidism is a metabolic slowdown, so the signs are typically slow, vague changes rather than acute problems. Owners don't come in saying "my dog suddenly got sick." They come in saying "he just seems... off. For like six months."
 
 The classic cluster is weight gain without a diet change, lethargy and exercise intolerance, and coat or skin changes. That last one is more specific than people think. The coat becomes dull and brittle, hair starts falling out symmetrically (both sides of the body, which is a real clue), and the skin can become thickened or develop a condition called "tragic expression" where the facial muscles become slightly puffy and the dog looks genuinely sad. Cold intolerance is real and underreported, these dogs actively seek warm spots and hate cold weather.
 
-What surprised me when I dug into the neuromuscular side of this: a 2023 review in the *Veterinary Journal* found that roughly 30% of hypothyroid dogs show some degree of peripheral neuropathy or neuromuscular signs, including facial nerve paralysis, megaesophagus, or generalized weakness. Those cases often get worked up for neurological disease first, and the thyroid is an afterthought. I've seen that exact scenario with a 7-year-old Boxer who presented for a head tilt before anyone checked her thyroid panel.
+A 2023 review in the *Veterinary Journal* found that roughly 30% of hypothyroid dogs show some degree of peripheral neuropathy or neuromuscular signs, including facial nerve paralysis, megaesophagus, or generalized weakness. Those cases often get worked up for neurological disease first, and the thyroid is an afterthought.
 
 What hypothyroidism does NOT typically cause: vomiting, diarrhea, or acute pain. If those are the main complaints, look elsewhere first.
 
@@ -71,7 +65,7 @@ Worked example: A 6-year-old Golden Retriever, weight gain of 8 lbs over 8 month
 
 Levothyroxine (synthetic T4) is the treatment. Full stop. It's given twice daily by mouth, ideally on an empty stomach about 30 minutes before a meal for best absorption, that specific timing detail is one vets sometimes forget to mention and it genuinely matters. The brand name most commonly used in veterinary practice is Soloxine; generic formulations are available and work well, but there's some evidence in the veterinary literature that bioavailability can vary between generic batches, so if you switch brands, recheck bloodwork in 6-8 weeks rather than waiting the standard 6 months.
 
-Dosing is weight-based, typically starting around 0.01-0.02 mg/kg twice daily. A 30-kg dog (about 66 lbs) might start on 0.5 mg twice daily. The post-pill T4 check (blood drawn 4-6 hours after the morning dose) is what guides dose adjustments, not a random T4. This timing is something I've had to remind owners about repeatedly, because a lot of labs will just note "T4" on the paperwork without specifying when relative to the dose.
+Dosing is weight-based, typically starting around 0.01-0.02 mg/kg twice daily. A 30-kg dog (about 66 lbs) might start on 0.5 mg twice daily. The post-pill T4 check (blood drawn 4-6 hours after the morning dose) is what guides dose adjustments, not a random T4. Labs sometimes note only "T4" on paperwork without specifying timing relative to the dose.
 
 Most dogs show clear improvement in energy and coat quality within 4-8 weeks. Weight normalizes more slowly, often 3-6 months. Neurological signs, when present, can take 3-6 months to improve and sometimes don't fully resolve.
 
@@ -90,9 +84,7 @@ Costs vary by region, dog size, and whether you're using a specialist or general
 | Recheck bloodwork (every 6 months) | $80 - $160 | Includes T4 post-pill draw and basic metabolic screen |
 | Annual total (stable, managed dog) | $350 - $700 | Rough estimate; not a guarantee |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly levothyroxine cost by dog weight (brand name)</div><div class="sc-row"><span class="sc-label">10 kg (22 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">$22</span></div><div class="sc-row"><span class="sc-label">20 kg (44 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">$35</span></div><div class="sc-row"><span class="sc-label">30 kg (66 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$48</span></div><div class="sc-row"><span class="sc-label">40 kg (88 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$60</span></div><div class="sc-row"><span class="sc-label">50 kg (110 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$75</span></div><div class="sc-src">Source: Clinical pricing survey, July 2026</div></div>
-
 
 The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) notes that levothyroxine overdose in dogs is actually a real concern, not from the dog's own prescription, but from accidental ingestion of a human family member's thyroid medication. A human dose (often 0.1-0.3 mg) taken by a small dog can cause tachycardia, tremors, and hyperthermia. Keep human medications completely separate and stored out of reach.
 
@@ -111,7 +103,6 @@ Worked example 3: A 5-year-old Cocker Spaniel, diagnosed early (classic symmetri
 - Scott-Moncrieff JC (2023): Neuromuscular manifestations of hypothyroidism, *The Veterinary Journal*. Source for the 30% neuropathy prevalence figure cited above.
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

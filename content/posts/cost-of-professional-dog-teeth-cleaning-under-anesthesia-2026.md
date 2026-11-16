@@ -31,7 +31,6 @@ Professional dog dental cleanings under anesthesia are expensive. In 2026, you'r
 
 What most people don't realize is how little of that bill is actually "the cleaning" itself.
 
-
 <div class="value-module">
  <div class="vm-head">Cost Breakdown by Dog Size</div>
  <div class="vm-body">
@@ -67,7 +66,7 @@ Look at that $850 estimate differently. Mentally break it into those pieces. You
 
 Anesthesia-free dental cleanings are cosmetic. Not medical. I'm saying that plainly because it matters.
 
-I've seen dogs who came to us after years of anesthesia-free cleanings with teeth that looked immaculate and had serious bone loss underneath. Both the [AVMA](https://www.avma.org/) and the American Veterinary Dental College state explicitly that anesthesia-free dentals don't allow for subgingival cleaning (that's below the gumline, where disease actually lives), diagnostic X-rays, or proper assessment of pocket depths. They also stress the animal through restraint in ways that cause real psychological damage.
+Dogs that have undergone years of anesthesia-free cleanings can appear to have clean teeth while suffering serious bone loss underneath. Both the [AVMA](https://www.avma.org/) and the American Veterinary Dental College state explicitly that anesthesia-free dentals don't allow for subgingival cleaning (that's below the gumline, where disease actually lives), diagnostic X-rays, or proper assessment of pocket depths. They also stress the animal through restraint.
 
 Anesthesia-free runs $200 to $400. I understand the appeal. But you're paying for the appearance of clean teeth, not [actual oral health](/dog-dental-health-guide/). Save that money for the procedure that actually works.
 
@@ -83,7 +82,7 @@ Corporate chains like Banfield, BluePearl, and VCA often run dental promotions o
 
 ## How to Actually Afford This
 
-Don't wait until your dog has Stage 3 or 4 periodontal disease to book a cleaning. That's not finger-wagging, that's math. An early cleaning on a two or three-year-old with mild tartar is way cheaper than the same procedure four years later when extractions are involved and the whole thing takes twice as long.
+Don't wait until your dog has Stage 3 or 4 periodontal disease to book a cleaning. An early cleaning on a two or three-year-old with mild tartar is way cheaper than the same procedure four years later when extractions are involved and the whole thing takes twice as long.
 
 Ask for an itemized estimate before the appointment. Any reputable clinic will give you one. Ask what's included, what's NOT (extractions are usually listed separately), and what the per-tooth extraction fee is. That way, the call during the procedure isn't a total shock.
 
@@ -110,7 +109,6 @@ That beagle owner? She went ahead with the cleaning. The radiographs showed two 
 - [AVMA](https://www.avma.org/)
 - [Greenies](https://www.amazon.com/s?k=Greenies+dental+chews+for+dogs&tag=contentportfo-20)
 - [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

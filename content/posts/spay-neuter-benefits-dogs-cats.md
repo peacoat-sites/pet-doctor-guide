@@ -43,7 +43,7 @@ Some benefits are near-certain. Others are real but probabilistic. Here's how th
 
 **Essentially guaranteed benefits:**
 
-Spayed females have zero risk of pyometra, a life-threatening uterine infection that affects roughly 25% of intact females by age 10. I've seen clients lose dogs to this because they didn't recognize the signs until it was too late, and surgery on a septic, crashing animal is nothing like an elective spay. Spayed females also have zero risk of ovarian or uterine cancer, which doesn't require further explanation.
+Spayed females have zero risk of pyometra, a life-threatening uterine infection that affects roughly 25% of intact females by age 10. Surgery on a septic, crashing animal is far more dangerous than an elective spay. Spayed females also have zero risk of ovarian or uterine cancer, which doesn't require further explanation.
 
 Neutered males have zero risk of testicular cancer. That sounds obvious, but testicular cancer is actually one of the more common cancers in intact older male dogs, so eliminating it entirely is meaningful.
 
@@ -95,7 +95,7 @@ Most articles wave at "keep them calm for a few days" and move on. That's not us
 
 Cats typically bounce back fast. Most are eating normally within 24 hours and annoyed about their cone by day two. Restrict jumping for 7-10 days. The incision site is small, and complications are uncommon in otherwise healthy cats.
 
-Female dogs have a more significant abdominal surgery and need real restriction for 10-14 days. No running, no jumping, no rough play, no stairs if you can avoid it. The internal sutures take time to heal even when the skin looks fine on the outside. I've seen owners let their dog race around the yard on day five because "she seems totally fine," then end up back at the vet with a complication. Don't do that.
+Female dogs have a more significant abdominal surgery and need real restriction for 10-14 days. No running, no jumping, no rough play, no stairs if you can avoid it. The internal sutures take time to heal even when the skin looks fine on the outside. Even if your dog seems fine, allowing her to race around the yard or engage in vigorous activity during the recovery window risks complications that may require another vet visit.
 
 Male dogs recover faster than females, usually 5-7 days of restricted activity.
 
@@ -126,7 +126,6 @@ The decision to spay or neuter your pet is almost always the right one, but the 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [JacLou- DL](https://www.pexels.com/@jaclou-dl)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -36,9 +36,7 @@ The vaccine uses Elanco's PureFil Technology, which is designed to reduce unwant
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I've seen a lot of vaccine launches over 13 years, and the efficacy data on this one stands out. According to Elanco's announcement via PR Newswire, TruCan Ultra Lyme vaccines showed 92.2% efficacy against natural infection in highly endemic areas. That's real-world performance, not a controlled lab bubble. And in laboratory challenge studies, efficacy was 100%.
+The efficacy data on this vaccine stands out among recent launches. According to Elanco's announcement via PR Newswire, TruCan Ultra Lyme vaccines showed 92.2% efficacy against natural infection in highly endemic areas. That's real-world performance, not a controlled lab bubble. And in laboratory challenge studies, efficacy was 100%.
 
 What most people don't realize is that those two numbers together actually tell a meaningful story. The lab challenge number shows the vaccine works under ideal conditions. The 92.2% natural infection figure shows it holds up when dogs are actually out in the world, in environments where tick pressure is heavy and exposure is consistent. For dogs in the Northeast, upper Midwest, or anywhere that Lyme has become genuinely endemic, that field efficacy number is the one that matters most for day-to-day life.
 
@@ -46,7 +44,7 @@ Leptospirosis coverage is equally relevant and often underappreciated. Lepto isn
 
 ## Why the Timing Matters More Than Usual
 
-Both Lyme disease and leptospirosis are described by Elanco and the USDA as "increasingly prevalent threats to canine health," and that's not marketing language for once. Tick ranges have been shifting northward and into higher elevations for years as winters have become milder. I've had clients in areas that were considered low-risk a decade ago now coming in with tick-exposed dogs every summer. The geographic reality of where these diseases occur has genuinely changed.
+Both Lyme disease and leptospirosis are described by Elanco and the USDA as "increasingly prevalent threats to canine health," and that's not marketing language for once. Tick ranges have been shifting northward and into higher elevations for years as winters have become milder. Areas once considered low-risk for tick exposure now see regular cases during summer months.
 
 Elanco expects to begin shipping TruCan Ultra Lyme-L4 to veterinary clinics within 30 days of the June 15 approval, according to the press release. That puts initial availability somewhere around mid-July 2026. If your dog's annual wellness visit is scheduled in the next month or so, your clinic may not have it yet. But if you're booking for late July or August, it's absolutely worth calling ahead and asking whether they're carrying it. Not every clinic will stock every new product immediately, and knowing to ask puts you in a better position to have that conversation proactively rather than finding out on the day.
 

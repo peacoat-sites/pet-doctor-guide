@@ -25,10 +25,9 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 lastmod: 2026-07-08
 ---
-Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it was the way she hesitated before jumping onto the couch she's claimed for the last nine years. You're Googling at 11pm, reading ingredient labels you don't fully understand, wondering if you're doing enough. I know this place. I've watched hundreds of owners arrive at it, and I want to give you something actually useful.
+Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it was the way she hesitated before jumping onto the couch she's claimed for the last nine years. You're Googling at 11pm, reading ingredient labels you don't fully understand, wondering if you're doing enough. Many owners find themselves in this situation, searching for ways to support their aging dog. The guidance below focuses on what's actually useful.
 
 Let's talk about what works, what's overhyped, and how to think about supplementing a [senior dog with arthritis](/senior-dog-care-guide/) without throwing $80 a month at products that amount to expensive urine.
-
 
 <div class="value-module">
  <div class="vm-head">Dosing Thresholds by Dog Weight</div>
@@ -83,7 +82,7 @@ Zesty Paws makes a palatable chew version. [Check it on Amazon](https://www.amaz
 
 ## Building a Supplement Stack Without Losing Your Mind (or Your Wallet)
 
-Here's how I'd actually think about this if it were my dog.
+Here's how to think about this.
 
 Start with two things: a properly dosed glucosamine/chondroitin product and therapeutic-dose fish oil. Run both for eight weeks. Track your dog's mobility concretely, not just a vague sense of "maybe better?" Write down specifics. Can she make it up the stairs without stopping? How long before she stiffens up after lying down? How far does she walk before she starts lagging? Numbers beat impressions.
 
@@ -118,7 +117,6 @@ Your dog can't tell you where it hurts or whether the supplements are helping. T
 - [Check it on Amazon](https://www.amazon.com/s?k=green+lipped+mussel+dog+supplement&tag=contentportfo-20)
 - [ASPCA's Animal Poison Control resources](https://www.aspca.org/pet-care/animal-poison-control)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

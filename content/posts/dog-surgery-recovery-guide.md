@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your dog just came home from surgery. You're holding a cone in one hand and a three-page discharge sheet in the other. Your dog is staring at nothing with those glazed, bewildered eyes. You have no idea what the next 72 hours are supposed to look like.
 
-I've been in that exact position with my own dog. I've watched hundreds of clients go through it at the clinic, too. The paperwork tells you what to do. It doesn't tell you what to expect, what to worry about, or what to let go. That's what this guide is for.
+The paperwork tells you what to do. It doesn't tell you what to expect, what to worry about, or what to let go. That's what this guide is for.
 
 ## What the First 24 Hours Actually Look Like
 
@@ -102,7 +102,6 @@ The recovery period is genuinely hard, mostly because you're managing uncertaint
 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

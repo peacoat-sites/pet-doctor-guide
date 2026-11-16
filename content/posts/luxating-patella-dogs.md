@@ -38,15 +38,13 @@ The patella is the kneecap. "Luxating" means it slips out of the groove it's sup
 
 The condition is graded on a scale from I to IV. Grade I means the patella can be manually displaced but pops right back. Grade IV means it's permanently out of the groove and can't be reduced at all. Grades II and III are where most clinical decisions get complicated, because the dog may or may not be in significant pain, and surgery may or may not be necessary.
 
-Here's what I'd want owners to understand: the grade doesn't automatically determine the treatment. I've seen Grade II dogs live comfortably for years with management alone. I've seen Grade III dogs who were clearly in chronic pain that owners had normalized because the dog "seemed fine." Behavior is as informative as any grading scale.
+The grade doesn't automatically determine the treatment. Grade II dogs can live comfortably for years with management alone, while Grade III dogs may be in chronic pain that owners inadvertently normalize if the dog "seems fine." Behavior is as informative as any grading scale.
 
 ---
 
 ## How It's Diagnosed (And What You Can Advocate For)
 
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A hands-on orthopedic exam is the starting point. Your vet will feel for the patella slipping during manipulation of the stifle joint. It takes maybe 90 seconds and doesn't require sedation. What it does require is a vet who's actually paying attention, not just glancing at the leg.
 
@@ -71,7 +69,7 @@ Grade II: Genuinely case-by-case. A young, active dog whose patella luxates freq
 
 Grades III and IV: Surgery is typically the recommendation, and in most cases, it's the right one. Untreated high-grade luxation causes abnormal loading, accelerates cartilage wear, and increases the risk of [cranial cruciate ligament (CCL) tears](/torn-acl-in-dogs-treatment/). That's a much bigger, more expensive surgery.
 
-One pattern I've seen repeatedly: owners delay Grade III surgery for months, the CCL tears in the meantime, and what would have been a $2,500 patella repair becomes a $5,500 TPLO. That's not a hypothetical. It's a scenario I watched unfold with a 4-year-old Miniature Pinscher named Marco whose owner thought he was "managing well" on Galliprant for eight months.
+Delaying Grade III surgery for months risks a secondary CCL tear, which can turn a $2,500 patella repair into a $5,500 TPLO. Dogs on medications like Galliprant may appear to manage well while progressive damage occurs.
 
 Marco → Owner delayed patella surgery, opted for pain management at Grade III → Partial CCL tear at month seven, [full TPLO required](/torn-acl-in-dogs-treatment/), total cost approximately $5,800 versus the original $2,200 patella surgery quote.
 
@@ -85,7 +83,7 @@ Recovery is 8 to 12 weeks of restricted activity. That means leash walks only, n
 
 Success rates are high. Recurrence happens in roughly 10-20% of cases, more often when the underlying bony deformity wasn't fully addressed. A board-certified veterinary surgeon has lower recurrence rates than a general practitioner doing occasional orthopedic cases. That's not a knock on general practitioners. It's just volume and specialization, same as in human medicine.
 
-One more thing: if your dog is diagnosed bilaterally (both knees affected, which is common), most surgeons prefer to stage the procedures 6-8 weeks apart rather than doing both at once. Your dog needs at least one functional leg to recover with. Sounds obvious, but I've had owners push for "do both at the same time" to save on anesthesia costs, and the recovery from that is genuinely brutal.
+If your dog is diagnosed bilaterally (both knees affected, which is common), most surgeons prefer to stage the procedures 6-8 weeks apart rather than doing both at once. Your dog needs at least one functional leg to recover with. Simultaneous surgery to save on anesthesia costs results in a much harder recovery.
 
 ---
 
@@ -95,7 +93,7 @@ For dogs that aren't surgical candidates (too old, concurrent health issues, Gra
 
 Joint supplements with glucosamine and chondroitin have mixed research behind them, I'll be honest. The evidence for fish oil (omega-3 fatty acids, specifically EPA and DHA) reducing joint inflammation is considerably stronger. Aim for a product with verified EPA+DHA content, not just "fish oil" on the label. [Nordic Naturals Omega-3 Pet](https://www.amazon.com/s?k=nordic+naturals+omega+3+pet&tag=contentportfo-20) is one I've recommended consistently. (Disclosure: this site may earn a commission on purchases.)
 
-Weight is non-negotiable. Every extra pound on a 10-pound dog is proportionally enormous joint stress. I've seen Grade II dogs become essentially asymptomatic after losing 1.5 pounds. That's not an exaggeration.
+Weight is non-negotiable. Every extra pound on a 10-pound dog is proportionally enormous joint stress. Grade II dogs often improve noticeably after modest weight loss.
 
 Avoid high-impact activities but don't restrict exercise entirely. Controlled leash walks maintain muscle mass around the joint, which provides stability. Muscle atrophy makes luxation worse, not better.
 
@@ -124,7 +122,6 @@ I'll say directly: buying from a pet store or a breeder who doesn't health-test 
 - Remedios AM, Clayton HM, Skuba E: "Medial patellar luxation in 16 large dogs": Clinical Orthopaedics and Related Research, foundational data on large-breed presentation and surgical outcomes
 
 ---
-
 
 ---
 

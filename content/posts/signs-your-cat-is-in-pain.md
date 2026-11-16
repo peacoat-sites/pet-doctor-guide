@@ -31,9 +31,7 @@ That sounds harsh, but it's genuinely the most important thing I can tell you be
 
 I don't say that to scare you. I say it because recognizing the subtle stuff early is genuinely the difference between a $300 [vet visit](/cat-annual-vet-visit-what-to-expect/) and a $2,000 emergency hospitalization. So let's get into what to actually look for.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cats instinctively hide pain; subtle behavioral changes often appear days before obvious symptoms.</li><li style="margin:5px 0">Facial tension (squinted eyes, flattened whiskers, ears rotated back) is one of the earliest and most reliable pain indicators in cats.</li><li style="margin:5px 0">Reduced grooming, appetite changes, and hiding are more significant pain signals than vocalization in most cats.</li><li style="margin:5px 0">A cat who stops jumping or changes how it moves warrants a vet call within 24-48 hours, not a "wait and see" approach.</li><li style="margin:5px 0">Sudden aggression in a previously calm cat is a pain response until proven otherwise.</li></ul></div>
-
 
 ## The Face Tells You More Than You Think
 
@@ -46,8 +44,6 @@ Companion this with the head position. A cat holding its head slightly lower tha
 ## Behavioral Changes That People Dismiss
 
 > **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where most owners lose time, because the signs are so easy to rationalize.
 
@@ -63,7 +59,7 @@ Appetite is trickier. Some cats in pain stop eating entirely. Others eat normall
 
 A pain-free cat moves fluidly. They land jumps without hesitation, they stretch fully when they wake up, they walk with their tail up and their weight distributed evenly. Pain interrupts all of that in ways that are easy to miss if you're not watching for them.
 
-A cat with arthritis (much more common in cats over 10 than most people realize) will often stop jumping to high surfaces first, then start landing awkwardly, then begin hesitating before any jump. I've had owners tell me "she just got lazy as she aged." In most of those cases, the cat was in pain, sometimes for a year or more before anyone put it together.
+A cat with arthritis (much more common in cats over 10 than most people realize) will often stop jumping to high surfaces first, then start landing awkwardly, then begin hesitating before any jump. A common mistake is attributing behavior changes to normal aging. Cats that seem lazy may actually be in pain, sometimes for a year or more before the cause becomes clear.
 
 Watch for: a hunched posture when sitting (spine curved upward rather than neutral), one paw lifted or held differently, a stiff or stilted gait, reluctance to be picked up, or crying out when being lifted. A cat who used to flop over for belly rubs and now tenses up when you reach for them isn't being moody. Something hurts.
 
@@ -71,7 +67,7 @@ Watch for: a hunched posture when sitting (spine curved upward rather than neutr
 
 ## Vocalization: Less Reliable Than You Think
 
-Everyone expects a cat in pain to yowl. Some do. But plenty of the most painful cats I've handled in the clinic were completely silent. I've had cats with fractured teeth, severe bladder inflammation, and post-surgical pain who made zero noise.
+Everyone expects a cat in pain to yowl. Some do. But many painful cats are completely silent, even with fractured teeth, severe bladder inflammation, or post-surgical pain.
 
 Vocalization matters when it's out of character. A quiet cat who suddenly starts yowling, especially at night, warrants attention. A previously vocal cat who goes completely silent is equally worrying. Crying out when touched, when using the litter box, or when moving is significant.
 
@@ -97,7 +93,7 @@ One thing I always tell clients: when you call the vet, describe the specific be
 
 Cats over 10 are a special case. Chronic pain, particularly from arthritis, dental disease, or kidney disease (which can cause nausea that reads as discomfort), is so common in this age group that I'd argue any behavioral change in a senior cat should be taken seriously until proven otherwise. The [American Animal Hospital Association (AAHA)](https://www.aaha.org/) recommends twice-yearly wellness exams for senior cats partly for this reason: by the time annual changes are obvious, they've often been building for six months.
 
-I've seen owners spend significantly less over the life of their senior cat by catching pain early versus managing a crisis. Early arthritis caught at a twice-yearly exam and managed with joint supplements like Cosequin for Cats *(affiliate disclosure: the site may earn a commission on purchases made through product links)* or a prescription NSAID is a very different financial and quality-of-life outcome than advanced arthritis with muscle wasting. Not a guarantee, but the pattern holds up in my experience.
+Catching pain early tends to cost less over a senior cat's life than managing a crisis later. Early arthritis caught at a twice-yearly exam and managed with joint supplements like Cosequin for Cats *(affiliate disclosure: the site may earn a commission on purchases made through product links)* or a prescription NSAID is a very different financial and quality-of-life outcome than advanced arthritis with muscle wasting.
 
 **Scenario 2:** Owner noticed 12-year-old cat Percy was sleeping in different spots than usual and had stopped "making biscuits" (kneading). She almost didn't mention it at the annual exam because it seemed minor. The vet found significant dental disease with two abscessed teeth. Post-extraction, Percy started kneading again within a week. Owner's words: "I didn't realize how long he'd been uncomfortable."
 
@@ -110,7 +106,6 @@ I've seen owners spend significantly less over the life of their senior cat by c
 - Merola, I. & Mills, D.S. (2016). "Systematic review of the behavioural and physiological indicators of pain in domestic cats." *PLOS ONE*: One of the most cited academic reviews of feline pain indicators.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

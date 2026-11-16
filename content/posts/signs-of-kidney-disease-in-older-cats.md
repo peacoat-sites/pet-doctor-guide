@@ -25,19 +25,17 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 lastmod: 2026-07-08
 ---
-Your 14-year-old cat has been drinking water like she's training for a marathon. You noticed it a few weeks ago but chalked it up to the heat, or maybe a preference shift. Then you realized her litter box is suddenly full every single day, she's dropped weight without any diet change, and her coat looks a little dull. You Google "older cat drinking a lot of water" and three words keep coming up: chronic kidney disease. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. That number shocked me when I first encountered it in clinical literature. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.
+Increased thirst and urination are among the first signs of kidney disease in older cats. Weight loss without a diet change and a duller coat may accompany these changes. If you notice this pattern, chronic kidney disease is worth investigating with your vet. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.
 
 ## Why Cats Are So Vulnerable to Kidney Failure (And Why We Miss It So Long)
 
 Cat kidneys are remarkable and fragile at the same time. Unlike dogs, cats evolved as desert hunters who concentrated their urine intensely and drank very little free water. That evolutionary trait means their kidneys work harder throughout their entire lives. By the time a cat reaches 12 or 13, a significant portion of kidney function has often quietly declined.
 
-What surprises most owners, and honestly surprised me too when I started seeing patterns across my years in practice, is that clinical signs don't appear until roughly 66 to 75 percent of kidney function is already gone. That's not a typo. A cat can lose two-thirds of kidney function before you notice a single symptom. The kidneys compensate that well for that long.
+Clinical signs don't appear until roughly 66 to 75 percent of kidney function is already gone. That's not a typo. A cat can lose two-thirds of kidney function before you notice a single symptom. The kidneys compensate that well for that long.
 
 This is why vets push for bloodwork starting at age 7. Catching early-stage [chronic kidney disease (CKD)](/cat-kidney-disease-diet/) on labwork, before symptoms appear, gives you and your cat the longest runway for management. The International Renal Interest Society (IRIS) stages CKD from 1 to 4 based on creatinine and SDMA values. Many cats at Stage 1 feel completely fine. By Stage 3 or 4, things get much harder to manage.
 
 ## The Symptoms You'll Actually See: A Real List
-
-I've watched owners scan symptom lists and feel overwhelmed, so let me break this down into what you'll likely notice first versus what shows up later.
 
 **Early and middle stage signs (Stages 1-2, sometimes Stage 3):**
 
@@ -55,7 +53,7 @@ I've watched owners scan symptom lists and feel overwhelmed, so let me break thi
 - Weakness in the hind legs. This can be related to low potassium, which kidneys struggle to regulate.
 - Hiding, profound lethargy, and disorientation in end-stage disease.
 
-The tricky part is that many of these signs, weight loss, drinking more, lower energy, look exactly like normal aging to an untrained eye. I've had clients tell me "she's just slowing down, she's old." Sometimes that's true. But it's worth ruling out a treatable cause before you accept that explanation.
+The tricky part is that many of these signs, weight loss, drinking more, lower energy, look exactly like normal aging to an untrained eye. It's easy to attribute weight loss, reduced energy, and increased drinking to normal aging. But it's worth ruling out a treatable cause before you accept that explanation.
 
 ## The Tests That Actually Tell You What's Going On
 
@@ -114,7 +112,7 @@ This is the part that doesn't always make it into articles like this, and it sho
 
 Chronic kidney disease in cats is manageable but not curable. Many cats live 2 to 4 years or longer after a Stage 2 diagnosis with good management. Some cats decline faster. What you're aiming for isn't perfect bloodwork. It's a cat who's eating, engaging with you, grooming herself, and having more good days than hard ones.
 
-In my experience, the owners who do best are the ones who decide early what their threshold is. When will intervention no longer be about helping her live well, but about postponing something inevitable? That's a conversation worth having with your vet before you're in crisis, not during it. Ask directly: what does end-stage kidney disease look like in cats? What would tell you we've done everything reasonable? A good vet will talk you through it without making you feel like you're giving up.
+Deciding early what your threshold is for intervention can help guide difficult conversations later. When will intervention no longer be about helping her live well, but about postponing something inevitable? That's a conversation worth having with your vet before you're in crisis, not during it. Ask directly: what does end-stage kidney disease look like in cats? What would tell you we've done everything reasonable? A good vet will talk you through it without making you feel like you're giving up.
 
 The best thing you can do right now, if any of this felt uncomfortably familiar while you were reading, is make the appointment. Not next month. This week. Early detection genuinely changes outcomes with kidney disease, and an older cat who's drinking too much water deserves a real answer, not a wait-and-see. You've clearly got the instincts to notice something was off. That matters more than most people realize.
 
@@ -134,7 +132,6 @@ The best thing you can do right now, if any of this felt uncomfortably familiar 
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

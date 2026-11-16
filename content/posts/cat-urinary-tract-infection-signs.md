@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your cat has been in and out of the litter box five times in the last hour. Each time, she squats, strains, and produces almost nothing. Maybe she cried out once. Maybe you noticed a tiny pink tinge in the box. Your gut is telling you something is wrong, and you should trust that instinct, because what you're describing is a classic picture of feline lower urinary tract disease (FLUTD), and in some cases it genuinely cannot wait.
 
-Urinary problems are one of the most common reasons cats end up in emergency clinics, and one of the most misunderstood by owners. A lot of people assume it's a simple infection, like the UTIs humans get, treat it as a minor inconvenience, and wait too long. The reality is messier and, depending on the situation, potentially life-threatening. Let me break down what you actually need to know.
+Urinary problems are one of the most common reasons cats end up in emergency clinics, and one of the most misunderstood by owners. A lot of people assume it's a simple infection, like the UTIs humans get, treat it as a minor inconvenience, and wait too long. Depending on the situation, urinary problems can be potentially life-threatening, and the details matter.
 
 ---
 
@@ -80,7 +80,7 @@ This is where people get it wrong most often, and I'll be blunt.
 - Is lethargic, hiding, or acting abnormal
 - Has a visibly distended or painful belly
 
-A male cat with a complete blockage can go from distressed to dying within 24-48 hours as potassium levels spike and the heart fails. I've watched owners wait a full day thinking their cat was "just constipated." Don't be that person.
+A male cat with a complete blockage can go from distressed to dying within 24-48 hours as potassium levels spike and the heart fails. If your cat is straining to urinate or not urinating at all, this is an emergency.
 
 **Call your regular vet first thing in the morning if your cat:**
 - Made it to the box and produced some urine, even small amounts
@@ -148,7 +148,6 @@ Urinary problems in cats sit in that frustrating space where some cases can legi
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Felix Maltz](https://www.pexels.com/@ektra)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

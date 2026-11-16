@@ -46,7 +46,7 @@ The mechanical act of brushing does something that's hard to replicate any other
 
 I'll be honest: the number of times a groomer or an owner doing home brushing has caught something we then confirmed as a real problem is genuinely high. Lumps, sebaceous cysts, early hotspots, tick attachment sites, skin infections hiding under mats. One dog I'm thinking of specifically, a Bernese Mountain Dog named Clifford (yes, really), came in after his owner noticed a small, firm lump while brushing his back leg. That lump was a mast cell tumor, caught at a stage where it was entirely operable. His owner brushed him twice a week without fail. That habit probably extended his life.
 
-Matted fur is its own category of problem, and it's more serious than it looks. Severe mats can trap moisture against the skin, which creates the warm, dark, damp environment that bacteria and yeast absolutely thrive in. I've seen dogs come in with mats so tight they were causing pressure sores underneath. [PetMD's veterinary resource library](https://www.petmd.com/) has good visual breakdowns of what mat-related skin damage looks like if you're trying to assess your own dog's situation.
+Matted fur is its own category of problem, and it's more serious than it looks. Severe mats can trap moisture against the skin, which creates the warm, dark, damp environment that bacteria and yeast absolutely thrive in. [PetMD's veterinary resource library](https://www.petmd.com/) has good visual breakdowns of what mat-related skin damage looks like if you're trying to assess your own dog's situation.
 
 Different coats need different schedules. A Labrador? You can get away with weekly brushing. A standard Poodle or an Old English Sheepdog? You're looking at every other day minimum, or professional grooming every six to eight weeks.
 
@@ -54,9 +54,7 @@ Different coats need different schedules. A Labrador? You can get away with week
 
 > **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Nail trims are the grooming task I see neglected most consistently, and the consequences are genuinely orthopedic. When nails grow long enough to contact the ground, the dog compensates by shifting weight backward and off the toes. Over time this changes their gait and posture in ways that contribute to joint stress, particularly in the hips and lower back. I've seen this most dramatically in older dogs who'd gone years without consistent trims.
+Nail trims are often neglected, and the consequences are orthopedic. When nails grow long enough to contact the ground, the dog compensates by shifting weight backward and off the toes. Over time this changes their gait and posture in ways that contribute to joint stress, particularly in the hips and lower back.
 
 The scenario plays out like this: owner notices dog is "walking funny" or reluctant to use stairs. → Vet exam reveals gait abnormality. → Nails are trimmed, physical therapy considered. → Several months of work to get back toward normal mobility. Not every case, but common enough to be a real pattern.
 
@@ -70,7 +68,7 @@ Oral health is technically grooming, and I will defend that classification. The 
 
 Home brushing is the gold standard and I'll be honest, most owners I talk to don't do it. If that's you, I'm not judging. But there are intermediate options. Dental chews with the Veterinary Oral Health Council (VOHC) seal actually have evidence behind them. [This VOHC-approved dental chew option on Amazon](https://www.amazon.com/s?k=VOHC+approved+dental+chews+for+dogs) is worth looking at (the site may earn a commission). Enzymatic water additives have mixed evidence but aren't useless.
 
-A dog that gets even two to three tooth brushings per week shows meaningfully better dental scores than a dog that gets none. That's not me speculating; that's what the comparative studies show.
+A dog that gets even two to three tooth brushings per week shows meaningfully better dental scores than a dog that gets none.
 
 ## What Grooming Does for Your Ability to Catch Problems Early
 
@@ -95,7 +93,6 @@ The investment in a solid pet first aid kit that includes grooming basics (nail 
 - Gorrel, C. (Veterinary Dentistry for the General Practitioner, 2nd ed.): Reference standard on canine periodontal disease progression and prevention.
 
 ---
-
 
 ---
 

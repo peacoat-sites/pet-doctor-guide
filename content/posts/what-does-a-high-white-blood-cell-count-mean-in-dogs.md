@@ -35,7 +35,7 @@ White blood cells, or leukocytes, are your dog's immune army. They're not one th
 
 When a vet talks about a "high white blood cell count," they're almost always looking at the total WBC number first, but the breakdown by cell type, called the differential, is where the real story lives. A count of 18,000 cells per microliter (normal adult dog range is roughly 6,000 to 17,000) with a neutrophil spike tells a very different story than the same number with elevated eosinophils.
 
-I can't count the number of times I've seen owners panic over a mildly elevated total count that turned out to be stress response, a reaction to the car ride, or early-stage inflammation that resolved completely on its own. Context is everything.
+Mildly elevated white blood cell counts often turn out to be stress responses, reactions to the car ride, or early-stage inflammation that resolves on its own. Context is everything.
 
 ## What actually causes leukocytosis in dogs
 
@@ -47,7 +47,7 @@ The causes fall into a few broad buckets:
 
 **Infection** is the most common culprit people jump to, and yes, bacterial infections, whether from a wound, a urinary tract infection, pneumonia, or a tooth root abscess, will typically drive neutrophil counts up, sometimes dramatically. A dog with a severe pyometra (a life-threatening uterine infection) can have counts well above 30,000. That's an emergency.
 
-**Stress and excitement** cause what's called a physiological leukocytosis. Epinephrine (adrenaline) causes a rapid release of white blood cells from the spleen and bone marrow. I've seen perfectly healthy dogs come in for their wellness exam, scared and panting, and have a WBC of 18,500, just barely outside the reference range, that meant nothing. This is more common in anxious dogs and certain breeds. Anyone who's done blood draws on a reactive German Shepherd knows what I'm talking about.
+**Stress and excitement** cause what's called a physiological leukocytosis. Epinephrine (adrenaline) causes a rapid release of white blood cells from the spleen and bone marrow. A healthy dog that's anxious during a visit may show a WBC of 18,500, just barely outside the reference range, with no clinical significance. This is more common in anxious dogs and certain breeds.
 
 **Steroid use** is a big one that catches owners off guard. Both prescription corticosteroids (like prednisone) and the body's own cortisol produced during illness or pain can push WBC numbers up. Dogs on long-term steroid therapy often run elevated counts that are expected and not a cause for alarm, but you need your vet to interpret those numbers in that context.
 
@@ -72,7 +72,7 @@ A "left shift" -- when you see band neutrophils (immature cells) alongside eleva
 
 ## Real cases: what the outcomes actually looked like
 
-To make this concrete, here are three patterns I've seen play out in clinical practice:
+Three common patterns emerge:
 
 **Mildly elevated count (18,200), neutrophil-dominant, no other abnormalities, otherwise healthy dog** → Vet recommended recheck in 2 weeks + urinalysis to rule out UTI → Urinalysis was clean, recheck WBC was 14,800 (within normal), no treatment needed. This is probably the most common outcome for borderline elevations.
 

@@ -49,7 +49,7 @@ One thing I always ask clients: does your puppy seem less excited to exercise th
 
 Puppies are typically screened and symptoms become most noticeable between 4 and 12 months of age, though some dogs don't show clear signs until they're 1-2 years old. The tricky part is that juvenile dogs often go through a "silent" phase where the joint is genuinely loose but not yet causing enough inflammation for the dog to show obvious discomfort. This is why the gait observations above matter so much. You're catching something before it becomes painful.
 
-I've seen puppies diagnosed at 5 months who were completely sound on clinical exam but had obvious radiographic changes. The X-ray told a story the dog wasn't yet telling us. This is actually the ideal time to know, because interventions available before the growth plates close (typically around 12-18 months in large breeds) are meaningfully different from what's available after.
+Puppies can be diagnosed at 5 months with obvious radiographic changes despite moving normally on physical exam. Radiographs can reveal changes before they become apparent in movement. Early detection matters because interventions available before the growth plates close (typically around 12-18 months in large breeds) differ meaningfully from options after closure.
 
 If your vet finds hip laxity early, surgical options like juvenile pubic symphysiodesis (JPS) or triple pelvic osteotomy (TPO) may still be on the table. After skeletal maturity, you're generally looking at either a [total hip replacement](/torn-acl-in-dogs-treatment/) or long-term pain management. Earlier information genuinely changes outcomes.
 
@@ -80,7 +80,6 @@ For a puppy who's going to manage this long-term, an orthopedic dog bed makes a 
 - [Josef Holub](https://www.pexels.com/@josef-holub-2160999439)
 - early as 16 weeks and is considered by many specialists to be more accurate for predicting future arthritis risk than standard OFA (Orthopedic
 - behind them
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

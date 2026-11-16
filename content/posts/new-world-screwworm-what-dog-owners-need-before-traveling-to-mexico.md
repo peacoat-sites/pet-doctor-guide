@@ -20,9 +20,7 @@ Here's what happened. On June 3, 2026, USDA confirmed New [World screwworm](/new
 
 If you're traveling with a cat, take a breath. Pet cats are fully exempt from this new requirement. But if you have a dog, or you're traveling with a pet bird, this affects you directly starting right now, in peak late-summer travel season.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Effective August 3, 2026, Mexico requires a NEW screwworm inspection certificate for all dogs entering from the U.S.</li><li style="margin:5px 0">The certificate must be issued by a USDA-accredited vet within 5 days of your Mexico entry date.</li><li style="margin:5px 0">Coming home: dogs also need a screwworm-freedom certificate from a Mexican vet, valid within 5 days of return.</li><li style="margin:5px 0">Pet cats are fully exempt. Pet birds need a screwworm addendum added to their existing APHIS health certificate.</li><li style="margin:5px 0">Standard USDA health certificates do NOT satisfy this new requirement on their own.</li></ul></div>
-
 
 ## What the New Certificate Actually Requires
 
@@ -35,8 +33,6 @@ This is not the time to squeeze in a quick telemedicine check. The [physical exa
 ## The Return Trip Is a Separate Problem
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 What most people don't realize is that this isn't just a one-way paperwork issue. Dogs returning to the U.S. from Mexico need a screwworm-freedom certification completed by an authorized veterinarian in Mexico, also within five days of your return travel date. So you need to identify a vet in Mexico who can complete this before you head home, according to both AVMA and Dogster's July 2026 reporting on the requirement.
 
@@ -64,7 +60,7 @@ Five days sounds like a reasonable window until you factor in weekend travel and
 
 If your regular vet isn't USDA-accredited, the USDA APHIS website has an accredited vet search tool. You don't have to use your usual clinic, you just need someone on that list.
 
-The screwworm situation is genuinely serious. Fifteen confirmed cases across Texas and New Mexico in under two weeks is not a minor blip, and the fly's ability to infest living tissue in apparently healthy animals is why both countries are treating this as an urgent biosecurity issue. I've seen what myiasis does to an animal, and it's not something you want your dog to come home with, certificate or no certificate. The paperwork requirement exists for a real reason. Get the appointment on the calendar today, double-check your return-trip vet situation before you leave, and have a great trip.
+The screwworm situation is genuinely serious. Fifteen confirmed cases across Texas and New Mexico in under two weeks is not a minor blip, and the fly's ability to infest living tissue in apparently healthy animals is why both countries are treating this as an urgent biosecurity issue. Myiasis can cause severe tissue damage in animals, making it a condition worth taking precautions to prevent. The paperwork requirement exists for a real reason. Get the appointment on the calendar today, double-check your return-trip vet situation before you leave, and have a great trip.
 
 ## Sources
 

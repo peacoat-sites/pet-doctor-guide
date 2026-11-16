@@ -27,7 +27,7 @@ faqs:
 
 Your dog just got diagnosed with a torn CCL, and you're probably staring at an estimate that made your stomach drop. Maybe you're sitting in the parking lot of the vet clinic [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/), or you got the news on the phone and immediately started Googling. Either way, you're wondering how much this is really going to cost, whether there are cheaper options, and whether your dog is going to be okay. All of those are fair questions. Let me try to answer them honestly.
 
-The cruciate ligament (technically the cranial cruciate ligament, or CCL, in dogs) is the rough equivalent of the ACL in humans. When it tears, it usually means surgery. I've seen thousands of post-op dogs come through our clinic doors over the years, and the financial piece is genuinely one of the hardest parts for families. The cost range is wide and can feel random if no one explains why. It's not random, though. There are real reasons some surgeries cost $3,500 and others cost $7,000+, and I want to walk you through all of it.
+The cruciate ligament (technically the cranial cruciate ligament, or CCL, in dogs) is the rough equivalent of the ACL in humans. When it tears, it usually means surgery. The financial piece is genuinely one of the hardest parts for families managing cruciate ligament repair. The cost range is wide. There are real reasons some surgeries cost $3,500 and others cost $7,000+.
 
 One thing I want to say upfront: don't let price alone drive the decision. I know that sounds easy for me to say. But the surgery type, the surgeon's experience, and your dog's recovery environment all matter more than whether you went to the cheapest practice in your area. More on that in a moment.
 
@@ -39,7 +39,7 @@ The bill you receive isn't just a surgery fee. By the time you factor in everyth
 
 The surgery itself is the lion's share. There are three procedures you'll most likely hear about: the TPLO (tibial plateau leveling osteotomy), the TTA (tibial tuberosity advancement), and the extracapsular repair (sometimes called the lateral suture or fishing line technique). Each has a different price point and a different body of evidence behind it.
 
-I'll be direct here: for most medium to large breed dogs, the TPLO has the strongest long-term outcome data, and it's what I'd choose for my own dog. That's not a fringe opinion. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) recognizes it as a leading approach, and the orthopedic surgery literature has pretty consistently shown return-to-function rates above 90% for appropriately selected patients. The extracapsular repair is often cheaper and can work well for small dogs (under 20-25 lbs), but in larger dogs the synthetic suture can stretch or fail over time. I've seen that happen. It's not catastrophic when it does, but it often means a second surgery.
+For most medium to large breed dogs, the TPLO has the strongest long-term outcome data. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) recognizes it as a leading approach, and the orthopedic surgery literature has shown return-to-function rates above 90% for appropriately selected patients. The extracapsular repair is often cheaper and can work well for small dogs (under 20-25 lbs), but in larger dogs the synthetic suture can stretch or fail over time. When this occurs, it often means a second surgery.
 
 ## The Numbers, Side by Side
 
@@ -64,7 +64,7 @@ A board-certified veterinary surgeon (diplomate of the American College of Veter
 
 That said, some general practitioners do excellent orthopedic work, particularly if they've done high volume and have good outcomes data to show you. It's completely fair to ask a GP vet how many TPLOs they do per year and whether they track complication rates. [AAHA hospital accreditation standards](https://www.aaha.org/) include quality metrics that can help you gauge a practice's rigor.
 
-My real-world example: a reader named Priya emailed me in spring 2026 after her 55-lb Labrador mix had a TPLO done at a general practice for $3,200 (notably below average). The dog developed a postoperative infection requiring a second procedure and IV antibiotics. Her total ended up over $6,000. That's not an indictment of every general practice surgeon, but it illustrates why the cheapest bid sometimes isn't.
+A lower initial price doesn't always mean lower total cost. Postoperative complications like infection can require a second procedure and additional care, raising the final bill substantially. This illustrates why the cheapest bid sometimes isn't the best value.
 
 University teaching hospitals are often the best-kept secret in this conversation. Procedures are performed by surgical residents under direct attending supervision. Costs are typically 20-30% lower than private referral centers, and the oversight is usually excellent. If there's a veterinary school within two to three hours of you, it's worth calling.
 
@@ -82,7 +82,7 @@ If you're uninsured right now and facing the cost, CareCredit is widely accepted
 
 Surgery is not the end of the spending. Rehabilitation therapy (underwater treadmill, range-of-motion exercises, laser therapy) runs roughly $60-$120 per session, and a standard post-TPLO rehab protocol is usually 8-12 sessions over 10-12 weeks. That's another $700-$1,400 on top of surgery. It's genuinely worth it. Dogs who complete formal rehab return to full function faster and have lower rates of the muscle atrophy that leads to long-term lameness.
 
-You'll also need: a baby gate or x-pen to restrict activity ($40-$80), an orthopedic recovery crate if you don't have one, a non-slip mat for every hard floor in your house (trust me on this one, I learned the hard way after a post-op patient slipped in my own home on tile), and typically 4-6 weeks of pain and anti-inflammatory medications around $30-$60/month.
+You'll also need: a baby gate or x-pen to restrict activity ($40-$80), an orthopedic recovery crate if you don't have one, non-slip mats for hard floors (slipping during recovery can set back healing), and typically 4-6 weeks of pain and anti-inflammatory medications around $30-$60/month.
 
 The eight-week strict rest period is the hardest part for most owners. Not because of money, but because your dog won't understand why they can't run. That part's free, but it costs something.
 

@@ -25,7 +25,7 @@ faqs:
     a: "Most IBD cats do best on a single-protein novel protein diet (like rabbit, venison, or duck if those aren't proteins they've had before) or a hydrolyzed protein prescription diet. PetMD's veterinary resources have solid overviews of elimination diet protocols. The key is consistency. Your vet or a veterinary internist can help you identify what's actually novel for your specific cat based on their diet history."
 ---
 
-Most [cat owners](/new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/) don't realize that IBD is the single most common cause of chronic vomiting and diarrhea in cats, affecting somewhere between 1 in 3 and 1 in 2 cats who show up at specialty practices with long-term GI symptoms. I'll be honest: when I first started seeing IBD cases early in my career, I thought it was basically a fancy word for "upset stomach we can't figure out." Thirteen years and a lot of intestinal biopsies later, I know it's a lot more complicated, and more manageable, than that first impression suggested.
+Most [cat owners](/new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/) don't realize that IBD is the single most common cause of chronic vomiting and diarrhea in cats, affecting somewhere between 1 in 3 and 1 in 2 cats who show up at specialty practices with long-term GI symptoms. IBD is more complicated and more manageable than it might initially seem.
 
 IBD ([inflammatory bowel disease](/inflammatory-bowel-disease-dogs/)) isn't a single disease. It's a category of conditions where immune cells infiltrate the walls of the GI tract, causing chronic inflammation that disrupts normal digestion. The most common forms are lymphocytic-plasmacytic enteritis, eosinophilic gastroenteritis, and neutrophilic IBD. What surprised me, even after years of working with these cases, is how dramatically different two IBD cats can look. One patient might vomit grass and bile twice a week and otherwise seem fine. Another loses 30% of her body weight over six months with barely any vomiting at all.
 
@@ -33,7 +33,7 @@ IBD ([inflammatory bowel disease](/inflammatory-bowel-disease-dogs/)) isn't a si
 
 ## What IBD Actually Looks Like
 
-Here's where most owners (and honestly, a few vets I've worked with in urgent care settings) get tripped up: IBD symptoms are maddeningly nonspecific. Chronic vomiting. Weight loss. Intermittent diarrhea. Decreased appetite. Occasionally a cat who eats ravenously but can't gain weight no matter what. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) lists chronic vomiting as the most common presenting complaint in feline IBD, but "chronic" means different things to different owners. I've had clients who normalized their cat vomiting four times a week for two years because "cats just do that."
+IBD symptoms are maddeningly nonspecific. Chronic vomiting. Weight loss. Intermittent diarrhea. Decreased appetite. Occasionally a cat who eats ravenously but can't gain weight no matter what. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) lists chronic vomiting as the most common presenting complaint in feline IBD, but "chronic" means different things to different owners. Some owners normalize frequent vomiting, assuming it's typical cat behavior.
 
 They don't. Not like that.
 
@@ -44,8 +44,6 @@ The tricky part is that hyperthyroidism, chronic kidney disease, pancreatitis, a
 ## The Diagnosis Problem (And Why Bloodwork Alone Won't Cut It)
 
 > **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-This is the part I feel most strongly about getting right, because I've seen owners put their cats through years of symptom management without a real diagnosis.
 
 Bloodwork and urinalysis are where you start, and they matter, but a normal blood panel doesn't rule out IBD. Cobalamin (B12) and folate levels are worth checking because IBD frequently causes malabsorption of both; a low cobalamin in a chronically symptomatic cat is a real red flag. Abdominal ultrasound is the next step, and a skilled ultrasonographer (ideally a boarded internist or radiologist) can spot changes in intestinal wall layering that strongly suggest IBD or lymphoma. But here's the thing: you cannot definitively diagnose IBD, and you cannot reliably distinguish IBD from low-grade intestinal lymphoma, without a biopsy.
 

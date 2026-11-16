@@ -31,23 +31,19 @@ What I eventually learned, after a lot of humbling trial and error, is that reac
 
 The good news: dog reactivity is one of the most trainable behavioral issues out there. It takes time and consistency, not magic. If you're in the thick of it [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/), that's worth holding onto.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Reactivity is almost always fear or frustration, not aggression, the distinction changes everything about how you train.</li><li style="margin:5px 0">"Threshold" is the key concept: keep your dog under threshold and learning becomes possible.</li><li style="margin:5px 0">Desensitization + counter-conditioning (DS/CC) is the evidence-backed foundation; punishment-based methods make reactivity worse.</li><li style="margin:5px 0">Most owners see meaningful improvement within 8-12 weeks of consistent daily practice.</li><li style="margin:5px 0">A certified behavior consultant (CBCC-KA or IAABC) is worth the cost if you're stuck; board-and-train programs for reactivity rarely work long-term.</li></ul></div>
-
 
 ## What "Reactive" Actually Means (and What It Doesn't)
 
 A reactive dog overreacts to stimuli in the environment. Overreact meaning: the response is bigger, louder, or longer than the situation calls for. Barking at another dog from across the street and taking 10 minutes to settle down is reactivity. A quick alert bark and then moving on isn't.
 
-The triggers vary wildly by dog. Other dogs are the most common. But I've worked with dogs reactive to men in hats, bicycles, children, skateboards, black dogs specifically (the color contrast thing is real), and in one memorable case, a dog who lost his mind at the sound of the ice maker. Triggers can be one very specific thing or a whole laundry list.
+The triggers vary wildly by dog. Other dogs are the most common. Dogs can be reactive to almost anything: men in hats, bicycles, children, skateboards, black dogs specifically (the color contrast can matter), or unusual sounds like an ice maker. Triggers can be one very specific thing or a whole laundry list.
 
 Here's what reactivity is not, and I want to be clear about this: it's not the same as aggression. Reactive dogs are typically not trying to get to the trigger and bite it. They're trying to increase distance, communicate distress, or discharge a flood of adrenaline. Some reactive dogs, if they actually got loose and reached the other dog, would do nothing. Some would sniff and move on. A genuinely aggressive dog is something different, and if your dog has a bite history, please get a certified veterinary behaviorist or board-certified veterinary behaviorist (DACVB) involved, not just a trainer.
 
 ## The One Concept That Changes Everything: Threshold
 
 > **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I wish someone had explained threshold to me in year one. It would have saved Truck and me about six months of spinning our wheels.
 
@@ -75,7 +71,7 @@ The sequence looks like this, in practice:
 
 What you're looking for over weeks of this: your dog starts to orient toward you when they see the trigger instead of fixating on it. That's the conditioned emotional response shifting. It's genuinely one of the most satisfying things to watch.
 
-A few things I'd add from experience: the food needs to be high-value enough to compete with the emotional arousal. I've seen owners use their dog's regular training treats and wonder why it's not working. At threshold, you need the good stuff. I keep a small [silicone bento-style treat bag](https://www.amazon.com/s?k=silicone+treat+pouch+dog+training&tag=contentportfo-20) loaded before every walk. (Disclosure: the site may earn a commission on that link.) Also, your timing matters more than most people realize. The treat needs to come within a second of the dog noticing the trigger, not after you've both had a five-second staring contest with it.
+The food needs to be high-value enough to compete with the emotional arousal. A common mistake is using the dog's regular training treats; at threshold, you need the good stuff. A [silicone bento-style treat bag](https://www.amazon.com/s?k=silicone+treat+pouch+dog+training&tag=contentportfo-20) loaded before every walk is a useful option. (Disclosure: the site may earn a commission on that link.) Timing matters significantly. The treat needs to come within a second of the dog noticing the trigger, not after you've both had a five-second staring contest with it.
 
 ## What to Expect: A Realistic Timeline
 
@@ -95,17 +91,17 @@ A 3-year-old Aussie mix, reactive to bikes, threshold at about 40 feet. Owner di
 
 A 5-year-old rescue mutt, reactive to all dogs, threshold so large it was hard to practice in a suburban neighborhood. Owner found a dead-end industrial street with no foot traffic for early sessions. Combined DS/CC with a 2mg/kg melatonin supplement (vet-approved for mild anxiety reduction) before walks. Threshold compressed from roughly 80 feet to 45 feet over 14 weeks.
 
-A 2-year-old German Shepherd, reactive to strangers. Owner had been using a slip collar and corrections for 4 months with zero improvement (actually slight worsening, which is predictable with aversive methods on fear-based reactivity). Switched to a front-clip harness, dropped corrections entirely, started DS/CC. Six weeks in, measurable improvement. This one I'd seen play out identically with several clinic clients, punishment doesn't teach the dog what you want them to do instead, and for fear-based reactivity, it can actually increase arousal and make the association with strangers worse.
+Punishment doesn't teach the dog what you want them to do instead. For fear-based reactivity, aversive methods can actually increase arousal and worsen the association with the trigger. Switching to management tools like a front-clip harness combined with desensitization and counterconditioning removes the source of increased arousal and addresses the fear-based association directly.
 
 ## Tools That Help (and One That Doesn't)
 
-A front-clip harness or head halter gives you management without pain. I like the Ruffwear Front Range for everyday use and the Gentle Leader for dogs who are very strong. Neither of these is a training tool on its own, but they give you physical control while you're doing the actual work.
+A front-clip harness or head halter gives you management without pain. The Ruffwear Front Range works well for everyday use, and the Gentle Leader suits very strong dogs. Neither of these is a training tool on its own, but they give you physical control while you're doing the actual work.
 
 High-value treats in a pouch you can access in under two seconds. I cannot stress the speed thing enough. A treat bag that requires you to dig around costs you the timing.
 
 A standard 6-foot leash. That's it. Not a retractable. Retractable leashes and reactive dogs are a genuinely bad combination because the constant tension trains the dog to pull and limits your control during critical moments.
 
-The AAHA hospital accreditation standards include behavioral wellness guidance that recommends against aversive tools (prong collars, e-collars) for fear-based reactivity, and I agree with that recommendation completely. I've seen prong collars used by skilled trainers in very specific contexts, but for the average owner managing a reactive dog, they introduce too much risk of making the emotional association with the trigger worse.
+The AAHA hospital accreditation standards include behavioral wellness guidance that recommends against aversive tools (prong collars, e-collars) for fear-based reactivity, and I agree with that recommendation completely. For the average owner managing a reactive dog, prong collars introduce too much risk of worsening the emotional association with the trigger.
 
 ## When to Get Professional Help
 
@@ -124,7 +120,6 @@ One more thing: board-and-train programs for reactivity. I get asked about these
 - IAABC (International Association of Animal Behavior Consultants): [iaabc.org](https://iaabc.org/) -- credentialing body for CBCC-KA certified behavior consultants.
 
 ---
-
 
 *Photo: [Maksim Goncharenok](https://www.pexels.com/@maksgelatin) via Pexels*
 

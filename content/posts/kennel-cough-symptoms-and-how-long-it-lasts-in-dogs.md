@@ -25,7 +25,7 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 lastmod: 2026-07-08
 ---
-Three days into what looked like allergies, the dog is honking like a goose and the owner is convinced she's dying. I've had that phone call more times than I can count. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary at 11pm when you're Googling worst-case scenarios, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. Knowing the difference between "this is normal kennel cough" and "this dog needs to be seen today" is the whole game.
+A dog might start honking like a goose a few days into what looks like allergies, and the owner may become convinced it's serious. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary at 11pm when you're Googling worst-case scenarios, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. The key is knowing the difference between normal kennel cough and a case that needs a vet visit today.
 
 ## What Kennel Cough Actually Sounds Like (and Doesn't)
 
@@ -100,7 +100,6 @@ Most boarding facilities require it anyway, which is the most common reason dogs
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
 - [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)
 - [Alexander Nadrilyanski](https://www.pexels.com/@aleksandar069)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

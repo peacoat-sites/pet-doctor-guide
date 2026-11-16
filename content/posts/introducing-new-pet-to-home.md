@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most "introducing a new pet" articles spend three paragraphs telling you to be patient and then wish you luck. That's not useful. What you actually need is a clear sequence, specific timing benchmarks, and honest guidance on what to do when things go sideways, because something usually does.
 
-I've helped coordinate dozens of multi-pet household introductions through the clinic, and I've seen the same mistakes wreck the process over and over: moving too fast, misreading body language, and underestimating how seriously a resident animal takes territorial space. Here's what actually works, as of June 2026.
+Common mistakes in multi-pet introductions include moving too fast, misreading body language, and underestimating how seriously a resident animal takes territorial space. These missteps happen frequently enough to derail an otherwise smooth process.
 
 ## Before the New Pet Walks Through the Door
 
@@ -38,7 +38,7 @@ Designate a "base room" for the newcomer. A spare bedroom or bathroom works well
 
 For a [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit&tag=contentportfo-20) to keep on hand during the transition period: worth having. Stress sometimes manifests as scratches, minor scuffles, or animals hiding and injuring themselves in tight spaces. (Disclosure: this site may earn a small commission from qualifying Amazon purchases.)
 
-One thing most guides skip: swap bedding between the resident pet and the newcomer before they meet face-to-face. Put the new cat's blanket near your dog's bed. Tuck a piece of your resident cat's bedding into the newcomer's base room. You're letting them process each other's scent on their own terms, without the pressure of a body attached to it. I've watched this single step dramatically reduce the spike of aggression on first visual contact.
+One thing most guides skip: swap bedding between the resident pet and the newcomer before they meet face-to-face. Put the new cat's blanket near your dog's bed. Tuck a piece of your resident cat's bedding into the newcomer's base room. You're letting them process each other's scent on their own terms, without the pressure of a body attached to it. Swapping bedding before face-to-face contact helps reduce the spike of aggression at first visual contact.
 
 ## The Introduction Sequence (With Actual Timelines)
 
@@ -50,8 +50,6 @@ One thing most guides skip: swap bedding between the resident pet and the newcom
 | Week 3+ | Supervised shared space, gradual unsupervised time | Continued calm coexistence, no stress-related elimination or overgrooming |
 
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 There's no universal timeline, but there are reasonable defaults. Compress them and you'll pay for it.
 
@@ -73,7 +71,7 @@ Cats in genuine distress will stop grooming, stop eating, or start eliminating o
 
 Dogs are often easier to read but more immediately dangerous if things escalate. A dog who's been friendly with other dogs at the park can still resource-guard aggressively over food or sleeping spots in the home. Keep feeding stations separated. Don't assume prior good behavior in neutral spaces guarantees good behavior in their own territory.
 
-One scenario that catches people off guard: the resident animal who seems unbothered but then starts showing stress symptoms two or three weeks in. You think you're past the hard part and suddenly your cat is overgrooming or your dog is having accidents. The initial adrenaline wears off, and the reality of a permanent change in their space sets in. It's not a failure; it's a normal delayed stress response. Slow down, increase one-on-one time with the resident pet, and give it another week.
+Watch for delayed stress responses two or three weeks after introduction. A resident pet may seem fine at first, then start overgrooming or having accidents as the initial adrenaline fades and the permanence of the change sets in. This is normal and not a sign of failure. Slow down, increase one-on-one time with the resident pet, and give it another week.
 
 ## When to Actually Call the Vet
 
@@ -93,7 +91,7 @@ The cat needs an exit route at all times. This sounds obvious, and yet. Make sur
 
 Keep the dog leashed during early face-to-face introductions. Even a friendly, excited dog bounding toward a cat is terrifying from the cat's perspective, and one bad early experience can set the relationship back weeks. Calm, controlled, brief. Reward the dog for ignoring the cat.
 
-Worked example: a reader emailed me last spring about her Lab mix who had chased her resident cat into hiding for two weeks after a single uncontrolled greeting. We backed up to leashed introductions with the cat up on a cat tree, five-minute sessions twice a day, heavy treat reinforcement for the dog when he looked away from the cat. Six weeks later, they were sleeping in the same room without incident.
+For example, if a dog chases a cat into hiding after an uncontrolled greeting, backing up to leashed introductions works well: place the cat on a cat tree, do five-minute sessions twice a day, and heavily reward the dog for looking away from the cat. This structured approach can take six weeks but often resolves the problem.
 
 ---
 
@@ -106,7 +104,6 @@ Worked example: a reader emailed me last spring about her Lab mix who had chased
 - ASPCA Virtual Behaviorist Resources: Practical, vet-backed protocols for dog-to-dog and dog-to-cat introductions
 
 ---
-
 
 ---
 

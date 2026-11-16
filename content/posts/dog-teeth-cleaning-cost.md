@@ -29,7 +29,7 @@ Your dog's breath smells like something died under the couch, your vet just ment
 
 ## What You're Actually Paying For (And Why It Costs More Than Your Own Cleaning)
 
-Here's the thing most people don't realize until they're already at the front desk: your dog's dental cleaning is a surgical procedure. Not metaphorically. Your dog goes under general anesthesia, has vitals monitored the entire time, and gets a cleaning that includes probing each tooth individually, scaling above and below the gumline, polishing, and a full oral exam with charting. That's not what happens in the chair at your dentist's office.
+Your dog's dental cleaning is a surgical procedure. Not metaphorically. Your dog goes under general anesthesia, has vitals monitored the entire time, and gets a cleaning that includes probing each tooth individually, scaling above and below the gumline, polishing, and a full oral exam with charting. That's not what happens in the chair at your dentist's office.
 
 General anesthesia alone drives the cost significantly. A licensed veterinary technician (often the person monitoring anesthesia) is present the entire time, watching oxygen levels, heart rate, blood pressure, and respiratory rate. Pre-anesthetic bloodwork, which most practices strongly recommend or require for adult and senior dogs, checks kidney and liver function to confirm the animal can safely metabolize anesthetic drugs. That bloodwork isn't a upsell. It's how we catch problems before they become tragedies on the table.
 
@@ -43,7 +43,7 @@ A "routine cleaning" estimate is genuinely just the starting point. What happens
 
 Dental radiographs (x-rays) are the single most important diagnostic tool in veterinary dentistry. According to [PetMD's veterinary resource library](https://www.petmd.com/), studies suggest that without dental x-rays, vets miss a significant percentage of pathology that's invisible to the naked eye. Root fractures, tooth resorption, bone loss, and abscesses hide below the gumline. Many practices include full-mouth radiographs in their base estimate now, which is actually a sign of a thorough practice. If a quote seems unusually low, ask specifically whether radiographs are included.
 
-Extractions are the other major variable. A simple extraction of a loose, single-rooted tooth is very different from a surgical extraction of a fractured carnassial tooth, which has three roots and requires sectioning, bone removal, and suturing. Extraction fees are typically per tooth, and they vary based on complexity. A dog coming in with advanced periodontal disease in multiple teeth can have the estimate climb substantially from the cleaning base price alone. I've seen clients genuinely blindsided by this. The honest answer is that your vet often can't give you a final number until they're actually in there with full visualization and x-rays.
+Extractions are the other major variable. A simple extraction of a loose, single-rooted tooth is very different from a surgical extraction of a fractured carnassial tooth, which has three roots and requires sectioning, bone removal, and suturing. Extraction fees are typically per tooth, and they vary based on complexity. A dog coming in with advanced periodontal disease in multiple teeth can have the estimate climb substantially from the cleaning base price alone. Your vet often can't give you a final number until they're actually in there with full visualization and x-rays.
 
 Ask your vet to walk you through the estimate in tiers: what's included in the base, what's likely to be added based on their exam findings, and what's possible but less certain. A good practice will do this without you having to ask twice.
 
@@ -120,7 +120,6 @@ Dental disease is the most common condition I see go unaddressed until it become
 - [VOHC-accepted dental chews](https://www.amazon.com/s?k=VOHC+accepted+dental+chews+for+dogs&tag=contentportfo-20)
 - [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)
 - [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

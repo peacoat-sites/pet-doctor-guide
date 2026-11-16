@@ -25,15 +25,11 @@ faqs:
     a: "Late-stage lymphoma typically involves profound lethargy, significant weight loss, appetite loss, and sometimes difficulty breathing if the chest or abdomen is affected. Most oncologists and palliative care vets will help you identify when the quality of life threshold has been crossed. That conversation is hard, but having it early means you're not making decisions in crisis."
 ---
 
-Canine lymphoma is one of the most common cancers we see in dogs, accounting for roughly 7-14% of all canine cancers diagnosed each year. I've watched a lot of owners hear that word in a consult room and immediately go blank, then go home and fall into a Google spiral that leaves them more confused than when they started. Most of what's out there is either too vague to act on or so dense with oncology jargon that it doesn't help you figure out what to actually *do* next week.
-
-So let me give you the version I'd want if it were my dog.
+Canine lymphoma is one of the most common cancers we see in dogs, accounting for roughly 7-14% of all canine cancers diagnosed each year. Many owners report feeling overwhelmed after a lymphoma diagnosis and spending hours online without finding clear guidance. Most of what's out there is either too vague to act on or so dense with oncology jargon that it doesn't help you figure out what to actually *do* next week.
 
 Lymphoma isn't one disease. It's a category, and which type your dog has matters enormously for [treatment options](/dog-anxiety-treatment-options/), expected response, and realistic timelines. The most common form, multicentric lymphoma, involves the lymph nodes throughout the body. But alimentary (GI tract), mediastinal (chest cavity), and cutaneous (skin) forms exist, each behaving differently and requiring different conversations with your vet.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Multicentric lymphoma is the most common type; 80-85% of dogs with it respond to CHOP chemotherapy.</li><li style="margin:5px 0">Median survival with CHOP protocol is 12-14 months; without treatment, most dogs decline within 4-8 weeks.</li><li style="margin:5px 0">Golden Retrievers, Boxers, Bulldogs, and Rottweilers are at notably higher statistical risk.</li><li style="margin:5px 0">Lymphoma staging (I-V) directly affects prognosis and guides whether treatment is worth pursuing.</li><li style="margin:5px 0">Prednisone alone extends life a few weeks to a couple months but is not a cure and can complicate future chemo.</li></ul></div>
-
 
 ## What's Actually Happening in the Body
 
@@ -46,8 +42,6 @@ B-cell vs. T-cell designation is the other thing you need to understand early. B
 ## Signs and When to Call Your Vet
 
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Swollen lymph nodes that you can feel externally are the most reliable early sign for multicentric disease. Run your fingers along both sides of your dog's jaw, in front of their shoulder, and behind their knees every few months. You're looking for anything larger than a marble that wasn't there before.
 
@@ -121,7 +115,6 @@ That last question is the one nobody wants to ask, and it's the most important.
 - Zandvliet M. "Canine lymphoma: a review." *Veterinary Quarterly* (2016): Summary of immunophenotype influence on prognosis, response rates, and survival data
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

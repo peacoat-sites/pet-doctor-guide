@@ -25,15 +25,13 @@ faqs:
     a: "Early signs include redness, squinting, and slight corneal cloudiness. As it progresses, the eye may appear visibly larger than the other eye (buphthalmos), the cornea may turn blue-gray, and the pupil may be dilated and unresponsive to light."
 ---
 
-Most dog owners have no idea their dog has glaucoma until vision is already gone in one eye. That's not an exaggeration. I've watched it happen more times than I'd like in 13 years of clinical work, and every single time, the owner says some version of the same thing: "I thought he was just squinting because of allergies."
+Most dog owners have no idea their dog has glaucoma until vision is already gone in one eye. A common reason for missed early signs is assuming squinting or redness is related to allergies.
 
 I'll be honest, I thought the same thing myself the first time I saw a glaucoma case come through the door early in my career. A 7-year-old Cocker Spaniel named Biscuit, classic presentation, one eye slightly enlarged and cloudy, owner convinced it was a scratch. The ophthalmology consult came back with an intraocular pressure of 48 mmHg. Normal is 10 to 25. Biscuit lost vision in that eye within two weeks.
 
 That case changed how I talk to owners about eye symptoms. Glaucoma in dogs is more common than most people assume, it progresses faster than almost any other eye condition, and the window to save vision is genuinely narrow. Here's what I wish every dog owner knew before they needed to know it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Intraocular pressure above 30 mmHg is an emergency; vision loss can occur within hours.</li><li style="margin:5px 0">Cocker Spaniels, Basset Hounds, and Shiba Inus face the highest inherited glaucoma risk.</li><li style="margin:5px 0">The earliest signs are subtle: squinting, a slightly enlarged eye, or redness that doesn't resolve in 24 hours.</li><li style="margin:5px 0">Primary glaucoma is genetic; secondary glaucoma follows another disease like uveitis or lens luxation.</li><li style="margin:5px 0">Surgery or long-term medication can preserve quality of life, but neither reverses vision already lost.</li></ul></div>
-
 
 ## What Actually Happens Inside a Glaucomatous Eye
 
@@ -47,11 +45,9 @@ Secondary glaucoma gets underappreciated because it hides behind other diagnoses
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Primary glaucoma is a heritable condition, and certain breeds are carrying gene variants that make the iridocorneal angle structurally narrow or closed from birth. The American College of Veterinary Ophthalmologists has been tracking this for decades, and as of 2026, some of the highest-risk breeds include American and English Cocker Spaniels, Basset Hounds, Shiba Inus, Chow Chows, Shar-Peis, and Norwegian Elkhounds.
 
-Cocker Spaniels, in my experience, are the ones I worry most about. Anyone who's worked with them regularly knows they already have a reputation for chronic ear and skin issues that pulls owner attention elsewhere. The eye stuff gets overlooked. I've had Cocker owners tell me they assumed the red eye was related to allergies because the dog had so many other allergy symptoms. It's a reasonable assumption. It's also wrong often enough to matter.
+Cocker Spaniels are at higher risk. Because they're prone to chronic ear and skin issues, eye symptoms can be easy to miss or attribute to allergies. Red eyes in a Cocker with multiple allergy symptoms may seem like just another allergy sign, but it's worth checking with a vet.
 
 If you have one of these breeds, ask your vet to check baseline intraocular pressure at your next wellness visit. It takes about 30 seconds with a tonometer, it costs nothing extra most of the time, and it gives you a number to compare against if something ever looks off.
 
@@ -86,19 +82,17 @@ Medical management alone, I'll be direct about this, is rarely enough for primar
 
 ## Is the Unaffected Eye at Risk?
 
-Yes. Almost certainly. In dogs with primary glaucoma, studies suggest the fellow eye develops glaucoma in 50% or more of cases within 8 months if left untreated. This is the part that catches owners off guard: you came in for one sick eye, and the doctor is now talking about treating the eye that looks fine.
+Yes. Almost certainly. In dogs with primary glaucoma, the fellow eye develops glaucoma in 50% or more of cases within 8 months if left untreated. This means your vet may recommend treating the eye that looks fine to prevent vision loss in it.
 
 Prophylactic treatment of the fellow eye, typically with a topical prostaglandin analog like latanoprost, is standard of care in veterinary ophthalmology right now. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) is probably not the first resource you'd consult for this, but for owners wondering about medication interactions in dogs already on other treatments, it's a useful call center (their number is (888) 426-4435, and yes, there's a consultation fee).
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Fellow Eye Glaucoma Risk by Month (Untreated)</div><div class="sc-row"><span class="sc-label">Month 1</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">8%</span></div><div class="sc-row"><span class="sc-label">Month 3</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Month 6</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">38%</span></div><div class="sc-row"><span class="sc-label">Month 8</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">52%</span></div><div class="sc-row"><span class="sc-label">Month 12</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">65%</span></div><div class="sc-src">Source: Veterinary ophthalmology studies, compiled 2026</div></div>
-
 
 ## Living With a Dog Who Has Glaucoma
 
 A dog that's lost vision in one eye adjusts remarkably well. What I tell owners: keep furniture in the same place, don't approach the blind side without speaking first, and watch for signs of pain (excessive blinking, pawing at the face, changes in appetite or behavior) that might indicate rising pressure in the treated or fellow eye.
 
-For dogs on long-term topical medications, a small detail that matters: refrigerate dorzolamide/timolol combination drops. Room temperature storage reduces efficacy over time, and I've seen pressure spikes in dogs whose owners didn't know this. It's not on every label prominently. Ask your vet or pharmacist explicitly.
+For dogs on long-term topical medications, refrigerate dorzolamide/timolol combination drops. Room temperature storage reduces efficacy over time. This detail isn't always prominent on labels, so ask your vet or pharmacist to confirm storage requirements.
 
 Dogs with controlled glaucoma need pressure checks every 4 to 6 weeks, minimum. That's non-negotiable. Pressure can shift without any visible symptoms, and catching a spike at 32 mmHg is a very different situation than catching it at 58.
 
@@ -113,7 +107,6 @@ If you're managing costs, a [pet first aid kit](https://www.amazon.com/s?k=pet+f
 - [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control): Drug interaction guidance for pets on multiple medications
 
 ---
-
 
 *Photo: [William Prado](https://www.pexels.com/@william-prado-1302103031) via Pexels*
 

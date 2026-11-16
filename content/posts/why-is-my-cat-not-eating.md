@@ -27,7 +27,7 @@ faqs:
 
 Nearly 60% of cats who stop eating for more than 48 hours will develop some degree of hepatic lipidosis ,  fatty liver disease ,  according to data compiled by the American Animal Hospital Association. That number stopped me cold the first time I read it during a CE seminar years ago, because I'd been in the habit, along with a lot of pet owners I'd talked to, of treating a picky cat like a minor inconvenience rather than a potential medical emergency. A cat refusing food is not your cat being dramatic. It is your cat's body sending a signal, and the clock starts ticking faster than most people realize.
 
-Let me back up and give you the full picture, because "my cat won't eat" is one of the broadest complaints we see in practice, and the causes range from "she doesn't like that new food you switched to" all the way to "we need to run bloodwork today."
+"My cat won't eat" covers a broad range of causes, from disliking a new food to serious conditions requiring bloodwork.
 
 ## The Numbers Behind the Symptom
 
@@ -35,17 +35,13 @@ Here's what the data actually shows. A survey published in the *Journal of Felin
 
 The hepatic lipidosis risk I mentioned isn't evenly distributed. Overweight cats hit that threshold faster. A 2022 study in *Veterinary Internal Medicine* found that obese cats can begin showing liver enzyme elevation within 72 hours of significant caloric restriction. Lean cats have a bit more runway, but not by much. The working clinical guideline I was taught, and still follow, is this: if a cat has eaten less than half of its normal daily intake for more than 48 hours, you call the vet. Not next week. Not Monday if today is Friday.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common causes of feline inappetence by frequency (clinical estimates)</div><div class="sc-row"><span class="sc-label">Dental/oral pain</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">GI upset/nausea</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Respiratory illness</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Stress or environment change</span><span class="sc-track"><span class="sc-bar" style="width:46%"></span></span><span class="sc-val">13%</span></div><div class="sc-row"><span class="sc-label">Systemic illness (kidney, liver, etc.)</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">Food aversion/preference</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">11%</span></div><div class="sc-src">Source: Journal of Feline Medicine and Surgery, 2022 survey data</div></div>
 
-
-That chart reflects roughly what I've seen hold true across 13 years. Dental pain is the most chronically underestimated cause. I've had clients tell me "he still eats sometimes, just not much," and on exam, we find a fractured carnassial tooth that's been causing pain for months. Cats are stoic. They will try to eat through significant oral pain because hunger eventually wins, but they drop weight the whole time.
+Dental pain is a commonly underestimated cause of poor appetite. A cat may eat small amounts despite a fractured tooth or other oral pain because hunger eventually overrides discomfort, but weight loss continues over time.
 
 ## What's Actually Causing This
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let me walk through the main categories, because they require very different responses from you.
 
@@ -89,7 +85,7 @@ Warming wet food to about 98-102°F works. You can microwave it for about 10 sec
 
 Strong-smelling foods as a topper: a small amount of low-sodium tuna in water, plain cooked chicken, or a product like [Churu squeeze treats](https://www.amazon.com/s?tag=contentportfo-20&k=churu+cat+treats) (affiliate link, site may earn a commission) can sometimes break through mild nausea or food aversion. These aren't nutritionally complete, so they're strictly a short-term lure, not a meal plan.
 
-A small amount of nutritional yeast or parmesan sprinkled on top occasionally works for texture and smell reasons I don't fully understand, but I've had it work on stubborn cats in my own household.
+A small amount of nutritional yeast or parmesan sprinkled on top can sometimes help, likely because of texture and smell appeal.
 
 What doesn't work: forcing food. Syringe-feeding liquid calories into a nauseated cat at home without vet guidance causes aspiration risk and more stress. Don't do it unless a vet specifically tells you to and shows you how.
 
@@ -123,7 +119,6 @@ I know that adds up fast. If cost is genuinely a constraint, tell the vet. A goo
 - [Cornell Feline Health Center](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center): Clinical resources on feline hepatic lipidosis and upper respiratory illness
 
 ---
-
 
 ---
 

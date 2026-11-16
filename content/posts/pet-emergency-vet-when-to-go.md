@@ -47,7 +47,7 @@ Other go-now emergencies: trauma from a car accident or fall (even if your pet s
 
 Not every alarming symptom means a 10 PM sprint to the emergency clinic. Some situations are urgent, but a quick phone call to the emergency vet can help you decide whether to come in or watch carefully at home.
 
-**Single episode vomiting or diarrhea** in an otherwise bright, alert pet who's drinking water and hasn't eaten anything unusual is often not an emergency. I've seen clients come in at midnight with a dog who vomited once after eating grass, when the real emergency in the next room was a cat in respiratory distress. Triage matters.
+**Single episode vomiting or diarrhea** in an otherwise bright, alert pet who's drinking water and hasn't eaten anything unusual is often not an emergency. A pet who vomited once after eating grass may be lower priority than a cat in respiratory distress. Triage matters.
 
 **Limping without obvious injury** in a pet who's still bearing some weight and not in severe pain can typically wait until morning unless it's worsening quickly. If your dog is completely non-weight-bearing, crying constantly, or if the limb looks deformed or swollen, that changes everything.
 
@@ -83,7 +83,7 @@ Emergency vet visits work on triage, just like human ERs. A pet who looks stable
 
 When you walk in or call ahead, lead with the chief complaint in plain terms. "My cat hasn't urinated in 12 hours and is straining" is more useful than "something's wrong with my cat." Give the age, sex (and whether they're spayed or neutered), breed, and approximate weight upfront.
 
-Bring any medications your pet takes. If they ate something, bring the packaging. Seriously. I've watched toxicology consultations that took 20 minutes get resolved in 2 minutes because an owner walked in with the bottle of what the dog chewed through.
+Bring any medications your pet takes. If they ate something, bring the packaging. Seriously. Bringing the packaging or bottle of what your pet ate can reduce a toxicology consultation from 20 minutes to 2 minutes.
 
 If your pet was in an accident, describe the mechanism clearly. "He fell from a second-story deck" tells the vet to look for certain injury patterns. "He got hit by a slow-moving car" is different from a highway impact.
 
@@ -108,7 +108,6 @@ Nobody wants to be the person Googling "emergency vet near me" at midnight. But 
 - [PetMD](https://www.petmd.com/)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -29,11 +29,9 @@ Roughly 300,000 dogs in the United States test positive for [Lyme disease](/lyme
 
 Most articles on this topic spend too much time listing tick species and not enough time telling you what to actually do when your dog has been exposed, when to panic, and when to wait. Let's fix that.
 
-The hard truth is that tick-[borne diseases](/tick-borne-diseases-are-spreading-into-new-us-regions-in-2026/) in dogs are underdiagnosed, often because the signs are vague and easy to chalk up to "he's just having an off day." I've seen dogs come in after two weeks of intermittent limping and mild lethargy, owners convinced it was a sprain, and the 4Dx panel comes back positive for Lyme and Anaplasmosis both. That's not rare. It's routine.
-
+The hard truth is that tick-[borne diseases](/tick-borne-diseases-are-spreading-into-new-us-regions-in-2026/) in dogs are underdiagnosed, often because the signs are vague and easy to chalk up to "he's just having an off day." Dogs often present with two weeks of intermittent limping and mild lethargy that owners mistake for a sprain, only to test positive for both Lyme and Anaplasmosis on a 4Dx panel. This misdiagnosis is common.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Lyme disease affects roughly 300,000 dogs annually in the U.S., per CAPC surveillance data.</li><li style="margin:5px 0">Most tick-borne diseases are treatable with doxycycline when caught early; delayed treatment raises complication risk significantly.</li><li style="margin:5px 0">A dog can have 2+ tick-borne co-infections simultaneously, the 4Dx Plus test screens for four at once.</li><li style="margin:5px 0">Symptoms typically appear 1-3 weeks post-exposure; some dogs stay asymptomatic for months.</li><li style="margin:5px 0">Year-round tick prevention is now recommended in most U.S. regions, not just spring through fall.</li></ul></div>
-
 
 ## The Diseases You Actually Need to Know
 
@@ -41,7 +39,7 @@ There are over a dozen tick-borne pathogens capable of infecting dogs, but four 
 
 **Lyme disease** (Borrelia burgdorferi) is the most discussed, transmitted by the black-legged tick (Ixodes scapularis in the East, Ixodes pacificus in the West). It causes joint pain, shifting-leg lameness, fever, and fatigue. The classic "bull's-eye rash" you hear about with human Lyme? Dogs don't get it. What they get is a dog who suddenly won't put weight on one leg, then fine two days later, then limping on a different leg a week after that. That shifting lameness is the tell.
 
-**Anaplasmosis** (Anaplasma phagocytophilum) overlaps heavily with Lyme geographically because it shares the same tick vector. Symptoms: fever, joint pain, reduced appetite, sometimes spontaneous bruising or nosebleeds due to low platelet counts. It moves fast. I've watched dogs go from mildly lethargic on a Monday to hospitalized for low platelets by Thursday.
+**Anaplasmosis** (Anaplasma phagocytophilum) overlaps heavily with Lyme geographically because it shares the same tick vector. Symptoms: fever, joint pain, reduced appetite, sometimes spontaneous bruising or nosebleeds due to low platelet counts. It moves fast. The disease can progress quickly, with dogs developing severe thrombocytopenia that requires hospitalization.
 
 **Ehrlichiosis** (Ehrlichia canis, primarily via the brown dog tick) is more common in the South and Southwest. It has three stages. Acute ehrlichiosis looks like a bad flu. Subclinical ehrlichiosis is the terrifying phase: the dog appears fine while the organism quietly destroys bone marrow. Chronic ehrlichiosis is serious and harder to treat.
 
@@ -50,8 +48,6 @@ There are over a dozen tick-borne pathogens capable of infecting dogs, but four 
 ## What the Numbers Actually Show
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The geographic spread of tick-borne disease has shifted. The [CAPC](https://capcvet.org/) tracks infection rates by county, and as of 2026, Lyme-positive test results appear in all 48 contiguous states, not just the Northeast. Ehrlichia and Anaplasma have also expanded their ranges measurably over the past decade, following tick population expansion tied to milder winters.
 
@@ -67,9 +63,7 @@ Here's where things get clinically useful:
 
 Babesiosis deserves mention because it doesn't respond to doxycycline, which is where the "treat empirically with doxy while we wait for test results" approach breaks down. It's less common, but greyhound owners and people in certain Gulf Coast counties should know the name.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Dogs testing Lyme-positive per 1,000 tested (2026, selected states)</div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">84 dogs</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">71 dogs</span></div><div class="sc-row"><span class="sc-label">Pennsylvania</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">68 dogs</span></div><div class="sc-row"><span class="sc-label">Wisconsin</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">52 dogs</span></div><div class="sc-row"><span class="sc-label">Virginia</span><span class="sc-track"><span class="sc-bar" style="width:46%"></span></span><span class="sc-val">39 dogs</span></div><div class="sc-src">Source: CAPC Parasite Prevalence Maps 2026</div></div>
-
 
 Massachusetts clocking 84 positive Lyme tests per 1,000 dogs tested isn't abstract. That's roughly 1 in 12 dogs tested in that state. If you live in the Northeast and skip year-round prevention, you're playing genuinely bad odds.
 
@@ -108,7 +102,6 @@ I made the mistake early in my career of thinking the Lyme vaccine meant we coul
 - Waner T, Harrus S (2000, updated citations ongoing): Canine monocytic ehrlichiosis, foundational research on subclinical phase duration and bone marrow effects.
 
 ---
-
 
 *Photo: [Erik Karits](https://www.pexels.com/@erik-karits-2093459) via Pexels*
 

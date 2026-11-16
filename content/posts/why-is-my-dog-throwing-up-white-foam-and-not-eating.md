@@ -92,7 +92,7 @@ What you cannot fix at home: dehydration that's progressed more than mildly, an 
 
 ## Kennel Cough: The Sneaky One
 
-One thing that doesn't always make the top of the "reasons dogs vomit white foam" lists is kennel cough (Bordetella bronchiseptica and associated pathogens). What surprised me when I started researching this more carefully is that dogs with kennel cough can produce so much mucus from coughing that they'll retch and bring up white foamy material. It's not coming from the stomach, it's coming from the airway, but it looks identical.
+One thing that doesn't always make the top of the "reasons dogs vomit white foam" lists is kennel cough (Bordetella bronchiseptica and associated pathogens). Dogs with kennel cough can produce so much mucus from coughing that they'll retch and bring up white foamy material. The foam comes from the airway rather than the stomach, though it looks identical to stomach-sourced vomit.
 
 If your dog has been in a boarding facility, dog park, groomer, or any high-dog-contact situation in the past 5 to 10 days and is now vomiting-looking foam along with a honking cough, kennel cough is high on the list. Most healthy adult dogs get through it without antibiotics. But it still warrants a call to your vet, because severe cases or secondary pneumonia need treatment.
 
@@ -107,7 +107,6 @@ Most of the time, this symptom resolves on its own or with simple management. Bu
 - [PetMD's veterinary resource library](https://www.petmd.com/)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

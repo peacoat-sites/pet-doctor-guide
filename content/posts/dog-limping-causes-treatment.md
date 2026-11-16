@@ -105,7 +105,7 @@ Vets work with what you tell them. The better your history, the more efficient t
 - The dog's age, breed, and weight
 - Any supplements or medications already being given
 
-That last one matters more than people realize. In my experience, a fair number of owners are already giving their dogs something, whether it's fish oil, a joint chew, or even leftover pain meds from a previous prescription, and that's important information for dosing and safety decisions.
+That last one matters more than people realize. Many owners are already giving their dogs something, whether it's fish oil, a joint chew, or even leftover pain meds from a previous prescription, and that's important information for dosing and safety decisions.
 
 ---
 
@@ -118,7 +118,6 @@ Watching your dog struggle to walk is genuinely hard. The good news is that most
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
 - [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [Mathias Reding](https://www.pexels.com/@matreding)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

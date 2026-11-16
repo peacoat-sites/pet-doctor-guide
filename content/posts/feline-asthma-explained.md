@@ -68,7 +68,7 @@ Corticosteroids are the cornerstone of feline asthma management. They reduce the
 
 The inhaled route has become significantly more popular over the past decade, and for good reason. Inhaled steroids like fluticasone (think: the feline equivalent of an asthma inhaler) deliver medication directly to the airways with far less systemic absorption than oral steroids. That matters a lot for long-term use, where oral steroids carry real risks: diabetes, weight gain, adrenal suppression.
 
-The catch is you need a spacer device designed for cats. The AeroKat spacer (around $50-60) is the most widely used product and has a flow indicator that confirms your cat's actually inhaling the medication. Most cats adapt to it within a week or two if you go slowly with training. I've seen owners panic about this, but honestly, cat compliance is usually better than people expect once the cat associates it with positive reinforcement.
+The catch is you need a spacer device designed for cats. The AeroKat spacer (around $50-60) is the most widely used product and has a flow indicator that confirms your cat's actually inhaling the medication. Most cats adapt to it within a week or two if you go slowly with training. Many owners worry about cat compliance, but cats often adapt well once they associate the spacer with positive reinforcement.
 
 [PetMD's veterinary resource library](https://www.petmd.com/) has a solid breakdown of inhaler technique for cats if you want a visual reference alongside your vet's instructions.
 
@@ -95,7 +95,6 @@ Have a rescue plan. Talk to your vet about what to do if your cat has a severe e
 - [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
 - [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

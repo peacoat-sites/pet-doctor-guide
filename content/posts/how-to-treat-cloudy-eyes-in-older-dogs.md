@@ -34,7 +34,7 @@ So let's fix that upfront.
 
 ## Nuclear Sclerosis vs. Cataracts: The Distinction That Actually Matters
 
-Here's the thing most general pet health articles skip over: the most common cause of cloudy eyes in dogs over seven years old isn't cataracts. It's nuclear sclerosis, also called lenticular sclerosis. The lens fibers in the eye compress as a dog ages, and that compression creates a bluish-gray haze. It looks alarming. It's actually pretty harmless.
+The most common cause of cloudy eyes in dogs over seven years old isn't cataracts. It's nuclear sclerosis, also called lenticular sclerosis. The lens fibers in the eye compress as a dog ages, and that compression creates a bluish-gray haze. It looks alarming. It's actually pretty harmless.
 
 Nuclear sclerosis does not significantly impair vision. Your vet can confirm it in about thirty seconds with an ophthalmoscope: if light still reflects normally through the lens and the dog can track a treat moving across the room, you're almost certainly looking at sclerosis. No treatment needed. No urgency.
 
@@ -56,8 +56,6 @@ I tell owners: if your 9-year-old Lab has symmetric, soft bluish haze in both ey
 | Glaucoma | Cloudy, bulging/enlarged eye | Rapid deterioration | Emergency (hours matter) | Immediate pressure reduction |
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Beyond the two big ones, a few other things can cause cloudy appearance in a dog's eye:
 
@@ -99,7 +97,7 @@ Maggie, a 10-year-old Golden Retriever with bilateral diabetic cataracts, came i
 
 A 12-year-old Cocker Spaniel with a single cloudy eye that the owner assumed was "just age." → Exam revealed mature cataract with secondary glaucoma already developing in that eye. Intraocular pressure was elevated. → Treated medically to manage pressure; surgery not pursued due to age and systemic health. Vision in that eye was lost but the other eye remained healthy with monitoring. Early detection would have opened more options.
 
-That second one sits with me. I've seen it more than once. Owners assume cloudiness in a senior dog is inevitable and benign. Sometimes it is. Sometimes you've got a six-week window before the options narrow dramatically.
+Cloudiness in a senior dog can be either harmless or serious. Sometimes it signals a condition where a six-week window exists before the options narrow dramatically.
 
 ---
 
@@ -124,7 +122,6 @@ Annual senior wellness exams should include eye pressure checks in dogs with any
 - Gelatt KN, *Veterinary Ophthalmology* (5th ed., Wiley-Blackwell): Standard clinical reference for canine ocular anatomy, disease, and treatment
 
 ---
-
 
 ---
 

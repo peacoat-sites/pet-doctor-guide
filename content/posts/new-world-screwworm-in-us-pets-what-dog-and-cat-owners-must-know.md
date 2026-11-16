@@ -16,13 +16,11 @@ affiliate_disclosure: true
 
 Most pet owners living in the South have never thought about screwworms. Why would they? The US eradicated New [World screwworm](/new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/) (NWS) in 1966, and for sixty years it stayed gone. That changes now. On June 3, 2026, USDA APHIS confirmed the first US detection in a calf in Zavala County, Texas, and by early July, two confirmed cases had shown up in dogs, part of more than 30 total confirmed instances across Texas and New Mexico. This is not a theoretical threat anymore. It's here, it's in pets, and if you own a dog or cat anywhere in the region, you need to know what you're actually dealing with.
 
-I'll be honest: when I started digging into this, I assumed screwworm was basically a livestock problem that occasionally touched pets at the margins. What surprised me was how quickly veterinary and agricultural experts shifted their language to explicitly name dogs as vulnerable, and how the risk factors map onto exactly the kinds of dogs many people in Texas and New Mexico keep or rescue. Agriculture Secretary Brooke Rollins stated the outbreak may continue for at least a few more months, with officials deploying sterile fly releases to suppress the population, so this isn't going away by the time you read this.
+Screwworm was traditionally considered a livestock problem, but veterinary and agricultural experts have increasingly identified dogs as vulnerable, particularly the kinds of dogs commonly kept or rescued in Texas and New Mexico. The outbreak is expected to continue for at least several more months, with officials deploying sterile fly releases to suppress the population.
 
 According to reporting from PBS NewsHour on July 9, 2026, NWS larvae (Cochliomyia hominivorax) eat live flesh and fluids, not dead tissue, which is what makes this fly so dangerous and so different from the blowflies most of us have seen around a wound. A wound that looks minor can become a deeply infested mass within 24 hours if a female fly lays eggs in it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">NWS confirmed in US dogs by July 8, 2026; 30+ total cases across Texas and New Mexico</li><li style="margin:5px 0">Larvae eat live tissue and can kill a pet within days if untreated</li><li style="margin:5px 0">Free-roaming, stray, and recently rescued dogs face the highest risk</li><li style="margin:5px 0">Starting August 3, 2026, dogs and birds traveling to Mexico need USDA inspection certificates</li><li style="margin:5px 0">Any open wound in a high-risk area warrants same-day veterinary evaluation, not watchful waiting</li></ul></div>
-
 
 ## Why This Parasite Is Genuinely Different From What You Know
 
@@ -33,8 +31,6 @@ That timeline matters enormously for how you respond. This is not a "watch it ov
 ## Who's Actually at Risk Right Now
 
 > **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The AKC Canine Health Foundation, in a June 11, 2026 article, identified free-roaming dogs, strays, transported animals, and recently rescued dogs as carrying the highest risk, because they're more likely to have undetected wounds and less likely to have received routine preventatives. If you foster, rescue, or work with a rescue organization in Texas or New Mexico [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/), this is the group you need to be most worried about.
 

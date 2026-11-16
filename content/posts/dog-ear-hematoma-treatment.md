@@ -27,13 +27,11 @@ faqs:
 
 Your dog came in from the yard shaking his head [like something](/why-is-my-dog-coughing-and-gagging-like-something-is-stuck/)'s living in it, and now one ear flap looks like a water balloon. You touched it gently, he flinched, and now you're on your phone at 9pm trying to figure out if this is a "go to the ER tonight" situation or a "call the regular vet Monday morning" situation.
 
-I've seen this exact scenario play out hundreds of times over the years, and I want to give you a straight answer, not a generic "this could be serious, consult your vet immediately" brushoff.
+The surgical approach is the most reliable option, even though it's the most expensive.
 
 A [dog ear](/home-remedies-for-dog-ear-yeast-infection/) hematoma, technically an *aural hematoma*, is a pocket of blood that collects between the skin and the cartilage of the ear flap. It happens when a small blood vessel ruptures, usually from repeated head shaking or scratching at the ear. The ear flap swells up, feels squishy and warm, and looks alarming. It is not life-threatening. But it does need treatment, and the longer you wait, the harder and more expensive that treatment tends to become.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ear hematomas are not emergencies, but treatment within a few days prevents painful scarring and deformity.</li><li style="margin:5px 0">The underlying cause (usually ear infection or allergies) must be treated or the hematoma will return.</li><li style="margin:5px 0">Surgical drainage is the most reliable treatment; home "wait and see" approaches often lead to permanent cauliflower ear.</li><li style="margin:5px 0">As of 2026, treatment costs typically range from $300 to $900 depending on method and your region.</li><li style="margin:5px 0">The ear feels like a fluid-filled pillow on the inner flap; if it's hard or the dog has a fever, call your vet today.</li></ul></div>
-
 
 ## What's Actually Happening Inside That Ear
 
@@ -46,8 +44,6 @@ I made this assumption myself early in my career, actually. I had a client with 
 ## When to Go to the Emergency Vet vs. Wait for Monday
 
 > **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is what you actually want to know.
 
@@ -69,7 +65,7 @@ Here's where I want to be honest with you about the range of options, because th
 | Intralesional steroids | Corticosteroid injected, reduces inflammation | Mixed results | $150–$350 | Variable |
 | Watch and wait (no treatment) | Body slowly reabsorbs blood | High scarring rate | $0 | 6–8 weeks, with significant deformity |
 
-The surgical approach is still the gold standard. I know it's the most expensive line in that table, and I've had plenty of people push back on it when they see the quote. But in my experience, needle aspiration alone almost always leads to re-accumulation. You'll pay for the aspiration, the blood comes back, you pay again, or you end up doing surgery anyway after the tissue has scarred and become harder to work with.
+The surgical approach is still the gold standard. Needle aspiration alone often leads to re-accumulation of fluid, which means repeat procedures or eventual surgery after tissue has scarred and becomes harder to work with.
 
 The teat cannula method has gained real traction at a lot of practices over the last several years. The vet makes a small incision, places a small drainage tube, and the ear is bandaged. It's less invasive than full surgery and the results have been good in the literature, especially for smaller hematomas. Your vet may or may not offer it; it's worth asking.
 
@@ -98,7 +94,6 @@ Whether that tradeoff makes sense depends on your dog's age, your financial situ
 - Romatowski J (1994): Teat cannula drainage method outcomes published in *JAVMA*, supporting less-invasive drainage as viable alternative to full surgery
 
 ---
-
 
 *Photo: [Peter Jochim](https://www.pexels.com/@peterjochim-fotografie) via Pexels*
 

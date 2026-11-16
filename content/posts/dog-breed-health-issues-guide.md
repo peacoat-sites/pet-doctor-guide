@@ -42,11 +42,9 @@ This doesn't mean those breeds can't live good lives. It means you need to go in
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The standard advice is "ask the breeder about health testing." That's fine but incomplete. Here's how I'd actually do it.
 
-Start with the breed's national parent club. Every recognized breed has one, and the health committee pages are where the real data lives. The Orthopedic Foundation for Animals (OFA) maintains a public database of health clearances for individual dogs. If a breeder tells you their dogs are "health tested," you can look up those specific dogs at ofa.org and verify it yourself. I've had clients do this and find out the parents had no clearances on record at all.
+Start with the breed's national parent club. Every recognized breed has one, and the health committee pages are where the real data lives. The Orthopedic Foundation for Animals (OFA) maintains a public database of health clearances for individual dogs. If a breeder tells you their dogs are "health tested," you can look up those specific dogs at ofa.org and verify it yourself. It's worth verifying because some breeders claim health testing without actual OFA records to back it up.
 
 Know which tests actually matter for your breed. For Golden Retrievers: cardiac clearance, OFA hips and elbows, and an eye exam from a board-certified ophthalmologist. For Dobermans: cardiac (Holter monitor, not just a stethoscope listen) and a DNA test for dilated cardiomyopathy. For Dachshunds: IVDD is so prevalent that some breeders are now testing for CDPA gene variants. The tests vary because the diseases vary. A blanket "health tested" claim tells you almost nothing.
 
@@ -68,7 +66,7 @@ Rather than going breed by breed (there are hundreds; that article would be inte
 
 **Large and giant breeds** (Great Danes, Saint Bernards, Irish Wolfhounds, Rottweilers) share two major concerns: orthopedic disease and bloat. Gastric dilatation-volvulus (GDV, or bloat) is the one that kills dogs with almost no warning. The stomach fills with gas and twists. Your dog goes from fine to dead in hours without emergency surgery. If you own a [large, deep-chested dog](/large-breed-dog-joint-health/), you need to know what bloat looks like: unproductive retching, a distended abdomen, sudden restlessness or distress. It is always an emergency. Thirty minutes of "wait and see" can make the difference between a dog that survives and one that doesn't.
 
-**[Chondrodystrophic breeds](/small-breed-dental-health-dogs/)** are the ones with abnormally short limbs: Dachshunds, Basset Hounds, Corgis. Intervertebral disc disease (IVDD) is the primary concern, and it can cause sudden paralysis. I've watched owners carry their Dachshund in thinking it was a muscle strain, only to have a neurologist tell them they needed spinal surgery that day. Prevention matters here: keep these dogs lean, use a harness instead of a collar, and take sudden hind-end weakness seriously.
+**[Chondrodystrophic breeds](/small-breed-dental-health-dogs/)** are the ones with abnormally short limbs: Dachshunds, Basset Hounds, Corgis. Intervertebral disc disease (IVDD) is the primary concern, and it can cause sudden paralysis. Sudden hind-end weakness can indicate IVDD requiring immediate surgery, so it shouldn't be dismissed as a muscle strain. Prevention matters here: keep these dogs lean, use a harness instead of a collar, and take sudden hind-end weakness seriously.
 
 **Herding and sporting breeds** (Border Collies, Australian Shepherds, German Shepherds, Labrador Retrievers) tend to be healthier overall but carry their own baggage. MDR1 gene mutations in many herding breeds mean certain common drugs, including some antiparasitics, can be fatal. This is a DNA test that costs around $80 through Washington State University's Veterinary Clinical Pharmacology Lab. Every herding breed owner should know their dog's MDR1 status before any medication is prescribed.
 
@@ -78,7 +76,7 @@ Hypothyroidism. Dental disease. Early joint disease. Chronic ear infections that
 
 Allergies in particular are criminally underdiagnosed by owners. People attribute the chronic ear infections, the paw licking, the belly rashes to "she's just itchy" or blame it on season. Meanwhile the dog has been uncomfortable for two years. Environmental allergies and food allergies present differently in dogs than they do in humans. Gastrointestinal signs, recurrent skin infections, and ear infections are often allergy. Sneezing rarely is.
 
-Annual wellness exams exist partly for this reason. A vet who knows your dog well will catch the subtle weight gain, the mild muscle loss over the hindquarters, the slight cloudiness in the lens. You won't. And that's not a knock on owners; it's just harder to see slow changes in an animal you live with every day.
+Annual wellness exams exist partly for this reason. A vet who knows your dog well will catch the subtle weight gain, the mild muscle loss over the hindquarters, the slight cloudiness in the lens. These changes are genuinely hard to notice in an animal you live with every day.
 
 If you're at a practice accredited by the [AAHA hospital accreditation standards](https://www.aaha.org/), you'll typically get a more thorough wellness protocol than at a non-accredited clinic. Worth knowing when you're choosing where to go.
 
@@ -91,7 +89,6 @@ For orthopedic breeds: keep them lean. I cannot overstate how much obesity accel
 For giant breeds: consider a prophylactic gastropexy at the time of spay or neuter. Many surgeons offer this at no additional charge if they're already opening the abdomen. It anchors the stomach and eliminates GDV risk almost entirely.
 
 ---
-
 
 ---
 
@@ -106,7 +103,6 @@ For giant breeds: consider a prophylactic gastropexy at the time of spay or neut
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
 - [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

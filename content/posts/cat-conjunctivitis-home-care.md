@@ -31,9 +31,7 @@ Cat conjunctivitis is inflammation of the conjunctiva, which is the thin membran
 
 I'll be honest: I spent years in practice watching owners bring in cats who'd been treated at home for weeks with diluted chamomile tea rinses and colloidal silver (please don't). Here's what actually works, what's a waste of money, and when you genuinely need to call the vet before Monday.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">FHV-1 causes ~70% of feline conjunctivitis cases; antibiotics alone won't clear a viral case.</li><li style="margin:5px 0">Clear, watery discharge can often be managed at home for 3-5 days before needing a vet visit.</li><li style="margin:5px 0">Yellow-green thick discharge, a closed eye, or a visible third eyelid raised = same-day vet call.</li><li style="margin:5px 0">Saline rinse (0.9% sterile, preservative-free) is the only safe OTC eye-cleaning option for cats.</li><li style="margin:5px 0">L-lysine supplementation is no longer supported as effective for FHV-1 by current veterinary evidence.</li></ul></div>
-
 
 ## What You're Actually Looking At
 
@@ -50,8 +48,6 @@ One-eye versus two-eye matters too. Unilateral (one eye) conjunctivitis leans to
 ## Safe Home Care: The Actual Steps
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the practical part, and I want to be specific because "warm compress" advice without detail is how people end up burning their cat's eye with water that's too hot.
 
@@ -90,9 +86,7 @@ For FHV-1: topical antiviral, specifically trifluridine (Viroptic) or cidofovir,
 
 For Chlamydophila felis: oral doxycycline for a minimum of 4 weeks. This one matters because it's zoonotic (can rarely transfer to humans), especially relevant for immunocompromised owners.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common causes of feline conjunctivitis</div><div class="sc-row"><span class="sc-label">FHV-1</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">70 % of cas</span></div><div class="sc-row"><span class="sc-label">Chlamydophila felis</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">15 % of cas</span></div><div class="sc-row"><span class="sc-label">Mycoplasma spp.</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">10 % of cas</span></div><div class="sc-row"><span class="sc-label">Other/Unknown</span><span class="sc-track"><span class="sc-bar" style="width:7%"></span></span><span class="sc-val">5 % of cas</span></div><div class="sc-src">Source: Maggs et al., Slatter's Fundamentals of Veterinary Ophthalmology (2013)</div></div>
-
 
 ## Worked Examples from the Clinic
 
@@ -100,7 +94,7 @@ For Chlamydophila felis: oral doxycycline for a minimum of 4 weeks. This one mat
 
 **Scenario 2:** Eight-month-old cat with bilateral yellow-green discharge noticed Thursday evening. Owner tries home saline cleaning through the weekend. By Monday one eye is partially sealed and the cat is hiding. Vet diagnoses secondary bacterial conjunctivitis on top of an FHV-1 flare, prescribes tobramycin drops plus oral famciclovir. Resolution in 10 days. → The delay cost an extra $180 in treatment compared to what a Friday call might have required, and the cat spent four extra days uncomfortable. Worth noting: the [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) fields calls about well-intentioned home treatments gone wrong regularly. Don't be that call.
 
-**Scenario 3:** Foster kitten, 5 weeks old, right eye swollen and won't open. Fosterer calls vet same day. Ophthalmoscopic exam reveals early symblepharon (the conjunctiva adhering to the cornea), a known FHV-1 complication in kittens. Early intervention with antiviral drops preserved functional vision. Waiting 48 more hours likely meant permanent damage. → Early call, preserved vision, a cat that got adopted six weeks later.
+**Scenario 3:** A kitten with FHV-1 can develop symblepharon (the conjunctiva adhering to the cornea), which causes eye swelling and closure. Early antiviral drops can preserve functional vision, but waiting 48 or more hours risks permanent damage. Any kitten with a swollen eye that won't open needs same-day veterinary attention.
 
 ## Sources
 
@@ -111,7 +105,6 @@ For Chlamydophila felis: oral doxycycline for a minimum of 4 weeks. This one mat
 - Sykes JE. "Chlamydiosis." *Greene's Infectious Diseases of the Dog and Cat*, 4th ed. (2012): Zoonotic risk, treatment duration requirements, and household transmission data.
 
 ---
-
 
 *Photo: [Ricardo Almagro](https://www.pexels.com/@vivirmedia) via Pexels*
 

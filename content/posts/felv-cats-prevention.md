@@ -34,15 +34,13 @@ That conversation happens more often than it should. Feline leukemia virus (FeLV
 
 FeLV is a retrovirus, which means it inserts its genetic material into the host's cells. It spreads through prolonged, direct contact: shared food and water bowls, mutual grooming, bite wounds, and from a mother cat to her kittens. It does NOT spread through casual proximity or brief contact. You can't get it. Your dog can't get it.
 
-Here's the thing most people don't realize: a FeLV diagnosis in 2026 is not what it was in 1995. Many cats live for years after a positive test with good quality of life, especially if they're kept strictly indoors, fed well, and seen regularly by a vet. The virus causes immunosuppression, anemia, and raises cancer risk, so cats do need attentive care. But "FeLV-positive" no longer automatically means "six months to live."
+A FeLV diagnosis in 2026 differs significantly from what it meant in 1995. Many cats live for years after a positive test with good quality of life, especially if they're kept strictly indoors, fed well, and seen regularly by a vet. The virus causes immunosuppression, anemia, and raises cancer risk, so cats do need attentive care. But "FeLV-positive" no longer automatically means "six months to live."
 
 That said, prevention is still the move. A preventable disease you didn't prevent is a regret you carry for a long time.
 
 ## The Vaccine: Good, But Not the Whole Story
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 There's a FeLV vaccine, and it works reasonably well. It's not perfect. The AAHA vaccine guidelines classify it as a "non-core" vaccine, meaning it's recommended based on lifestyle risk rather than universally for all cats. But I'd argue that designation leads some owners to skip it when they shouldn't.
 
@@ -58,7 +56,7 @@ Before you introduce any new cat into your home, test them. Before you vaccinate
 
 FeLV testing is cheap. A basic combo test at most clinics runs somewhere between $40 and $80 depending on your area, and it also checks for FIV at the same time. Rescues and shelters should be testing before adoption, but as Marty's owner learned, not everyone does. Ask for documentation. If they can't show you a test result, get your own done.
 
-There's also a complication with FeLV testing that most people don't know about, and it matters. A cat can test positive for FeLV early after exposure but then clear the virus on their own. This is called "regressive infection," and it's actually more common than previously thought. AAHA currently recommends confirming any positive test with a second test (ideally a different type, like an IFA or PCR) done several weeks later, especially if the cat seems otherwise healthy. Don't euthanize a cat based on one positive snap test result. I've seen owners make that heartbreaking choice only to find out from their vet afterward that confirmatory testing would've been the right next step.
+There's also a complication with FeLV testing that most people don't know about, and it matters. A cat can test positive for FeLV early after exposure but then clear the virus on their own. This is called "regressive infection," and it's actually more common than previously thought. AAHA currently recommends confirming any positive test with a second test (ideally a different type, like an IFA or PCR) done several weeks later, especially if the cat seems otherwise healthy. Don't euthanize a cat based on one positive snap test result.
 
 ## Managing a Multi-Cat Household
 
@@ -82,7 +80,6 @@ If you're considering a [pet first aid kit](https://www.amazon.com/s?k=pet+first
 
 ---
 
-
 ---
 
 Marty, for the record, tested negative. His owner vaccinated him immediately and kept him inside from that point on. The new cat, who was FeLV-positive, went to a rescue that specializes in FeLV cats and reportedly is doing well. It worked out, but it so easily could have gone differently. A test and a vaccine before that second cat came home would have saved a lot of fear. That's the whole point.
@@ -100,7 +97,6 @@ Marty, for the record, tested negative. His owner vaccinated him immediately and
 - [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+cats&tag=contentportfo-20)
 - [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
 - [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

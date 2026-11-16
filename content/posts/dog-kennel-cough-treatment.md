@@ -25,15 +25,13 @@ faqs:
     a: "Your dog can't give kennel cough to you, so there's no human health reason to exile them. The main consideration is your other dogs, if you have them. Keep infected and non-infected dogs separated as much as possible, and wash your hands after handling a sick dog before petting a healthy one, since you can mechanically transfer the bacteria on your hands and clothing."
 ---
 
-Most dogs who get [kennel cough](/kennel-cough-symptoms-and-how-long-it-lasts-in-dogs/) sound absolutely terrifying for an illness that usually resolves on its own. That honking, goose-like cough comes out of nowhere, often the day after your dog was at boarding or the dog park, and your first instinct is to panic. I get it. I've been on the other end of those 10pm calls at the clinic. But here's what the sanitized pet health websites don't often say plainly: the majority of kennel cough cases in otherwise healthy adult dogs don't require antibiotics, don't require a vet visit within the first 48 hours, and resolve completely within 1 to 3 weeks with supportive care at home.
+Most dogs who get [kennel cough](/kennel-cough-symptoms-and-how-long-it-lasts-in-dogs/) sound absolutely terrifying for an illness that usually resolves on its own. That honking, goose-like cough comes out of nowhere, often the day after your dog was at boarding or the dog park, and your first instinct is to panic. What many pet health resources don't say plainly: the majority of kennel cough cases in otherwise healthy adult dogs don't require antibiotics, don't require a vet visit within the first 48 hours, and resolve completely within 1 to 3 weeks with supportive care at home.
 
 That doesn't mean you ignore it. It means you triage it like an adult.
 
 I'll be honest: I used to reflexively tell every owner to come in immediately. Then I spent a few years really tracking outcomes in our practice, and what surprised me was how many of the mild-to-moderate cases we treated with antibiotics "just in case" recovered on exactly the same timeline as dogs that got rest and honey water. The research here is genuinely mixed on routine antibiotic use for uncomplicated kennel cough, and the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has acknowledged that antimicrobial stewardship matters, even in veterinary practice.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most healthy adult dogs recover from kennel cough in 1-3 weeks with supportive home care.</li><li style="margin:5px 0">Antibiotics are not always necessary; reserve them for severe cases, puppies, seniors, or immunocompromised dogs.</li><li style="margin:5px 0">A productive-sounding cough with clear discharge is generally less alarming than lethargy, fever, or yellow/green nasal discharge.</li><li style="margin:5px 0">Honey (1/2 teaspoon for small dogs, 1 tablespoon for large dogs) can help soothe irritated airways.</li><li style="margin:5px 0">Call your vet immediately if your dog stops eating, runs a fever above 103°F, or the cough worsens after day 5.</li></ul></div>
-
 
 ## What You're Actually Dealing With
 
@@ -47,17 +45,15 @@ The real red flags: fever over 103°F, labored breathing, yellow or green nasal 
 
 > **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the real-world protocol I've walked hundreds of owners through, current as of August 2026.
 
 **Rest and isolation first.** Kennel cough is highly contagious to other dogs for roughly 2 weeks from symptom onset, even after the cough improves. Keep your dog away from other dogs. No dog parks, no daycare, no shared water bowls.
 
 **Honey.** I know it sounds like folk medicine. Stick with me. A small amount of raw honey (local or manuka) coats the irritated throat and has mild antimicrobial properties. For dogs under 20 lbs, about half a teaspoon two or three times daily. For larger dogs, up to a tablespoon. Stir it into warm water or let them lick it off a spoon. Don't use it in diabetic dogs or puppies under 1 year.
 
-**Humidity.** Run a humidifier near where your dog sleeps, or let them hang out in the bathroom during a hot shower. The moist air loosens the junk in their airways and reduces cough frequency. I've seen this make a noticeable difference within 24 to 48 hours, and it costs nothing if you already have a humidifier.
+**Humidity.** Run a humidifier near where your dog sleeps, or let them hang out in the bathroom during a hot shower. The moist air loosens the junk in their airways and reduces cough frequency. This can make a noticeable difference within 24 to 48 hours, and it costs nothing if you already have a humidifier.
 
-**Collar to harness.** Pressure on the trachea from a collar makes that cough worse. Switch your dog to a harness for walks until they're fully recovered. Every single time I mention this, owners say "oh, I never thought of that," and then they email me two days later saying it helped.
+**Collar to harness.** Pressure on the trachea from a collar makes that cough worse. Switch your dog to a harness for walks until they're fully recovered.
 
 **Cough suppressants.** This is where I want you to call your vet before acting. Robitussin DM (dextromethorphan only, NOT with guaifenesin or acetaminophen) is sometimes recommended in dogs at approximately 0.5 to 1 mg per pound every 8 hours, but I would not give this without at least a phone consult first. Some vets are fine with it; others aren't. Do not guess on this one.
 
@@ -101,7 +97,7 @@ The gap between "mild case managed at home" and "severe case with complications"
 
 The Bordetella vaccine is required by most boarding facilities, and it does reduce severity and transmission, but it's not a perfect shield. Oral and intranasal forms of the vaccine tend to produce faster local immunity than the injectable version, which is why many vets prefer the intranasal route for dogs with regular boarding exposure. Intranasal can cause mild sneezing for a day or two post-administration, which is normal and not a reaction.
 
-Vaccinated dogs can still get kennel cough. I've seen it plenty of times. The vaccine just tends to mean a shorter, milder course. Don't skip it, but don't assume it means your dog is untouchable either.
+Vaccinated dogs can still get kennel cough. The vaccine just tends to mean a shorter, milder course. Don't skip it, but don't assume it means your dog is untouchable either.
 
 ## Sources
 
@@ -112,7 +108,6 @@ Vaccinated dogs can still get kennel cough. I've seen it plenty of times. The va
 - Mochizuki, M. et al. (2008). "Etiologic Examination for Viruses from Dogs with Respiratory Illness." *Journal of Veterinary Medical Science*: Foundational study on mixed viral/bacterial etiology
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

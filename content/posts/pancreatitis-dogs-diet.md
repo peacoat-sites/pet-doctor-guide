@@ -37,7 +37,7 @@ What I can tell you is what's actually worked in the exam room, what the current
 
 Here's where I see pet owners go wrong most often: they buy a food labeled "light" or "[weight management](/dog-weight-management-guide/)" and assume it's appropriate for a pancreatitis dog. Sometimes it is. Sometimes the fat content is still 14% on a dry matter basis, which for a dog who's had a severe acute episode, is genuinely too high.
 
-The number I work with, and that most internal medicine specialists I've spoken with target, is fat below 10% on a dry matter basis for dogs with a documented history. For dogs who've had one mild episode with no recurrence, something in the 10-12% range may be fine. But for chronic cases or Miniature Schnauzers (a breed with a well-known predisposition and, in my experience, an almost supernatural talent for finding fatty food), you want to be at or under 8-10%.
+Fat content should be below 10% on a dry matter basis for dogs with a documented history of pancreatitis. For dogs who've had one mild episode with no recurrence, something in the 10-12% range may be fine. But for chronic cases or Miniature Schnauzers (a breed with a well-known predisposition), aim for 8-10% fat or lower.
 
 To find dry matter fat, take the guaranteed analysis on the bag, subtract the moisture percentage from 100, then divide the stated fat percentage by that number and multiply by 100. It's tedious. But it's the actual number that matters, not the marketing language on the front of the bag.
 
@@ -51,7 +51,7 @@ Smaller, more frequent meals reduce the spike in pancreatic enzyme output that f
 
 In practice, I recommend starting with four small meals daily during recovery from an acute episode, then moving to three meals per day for long-term maintenance. The research on exact frequency is somewhat mixed, honestly, but the physiological rationale is solid: the pancreas gets a smaller, steadier stimulus rather than a large bolus demand.
 
-One owner I worked with, whose Labrador Mixer had his third pancreatitis episode in 18 months, switched from twice-daily large meals to four tiny ones using a portion-control auto-feeder (the PetSafe 5-Meal Auto Pet Feeder, which runs about $45 on Amazon, is one I've seen work well for this, though any consistent method works). He went over two years without another episode after that change combined with a diet switch. One case isn't a study, but it's illustrative.
+Switching from twice-daily large meals to four smaller meals can help reduce pancreatitis flares. A portion-control auto-feeder (such as the PetSafe 5-Meal Auto Pet Feeder, around $45) can make this easier, though any consistent method works. This feeding change should be paired with a low-fat diet.
 
 ## What to Feed During a Flare vs. Long-Term
 
@@ -78,7 +78,7 @@ Prices are estimates current as of July 2026 and will vary by region and bag siz
 
 ## The Things Nobody Warns You About
 
-Table scraps are the obvious hazard, but I've seen pancreatitis flares triggered by things owners didn't see as "fatty": a dental chew with 20% fat, a commercial training treat given in large quantities, a lick of butter from a dropped piece of toast. Read every label. If fat content isn't listed on a treat bag, skip it or contact the manufacturer.
+Table scraps are the obvious hazard, but pancreatitis flares can be triggered by items owners don't recognize as fatty: a dental chew with 20% fat, a commercial training treat given in large quantities, or butter from a dropped piece of toast. Read every label. If fat content isn't listed on a treat bag, skip it or contact the manufacturer.
 
 What surprised me digging into this area more deeply was the data on hypertriglyceridemia, elevated blood triglycerides, as both a risk factor for pancreatitis and a consequence of it. Miniature Schnauzers are particularly prone to this genetic condition. If your dog has recurrent pancreatitis and your vet hasn't checked a fasting triglyceride level, ask for one. In some dogs, managing the underlying triglyceride issue with a combination of diet and medication (sometimes gemfibrozil or omega-3 fatty acids) is more important than any specific food brand.
 

@@ -33,18 +33,15 @@ Dog anxiety is one of the most common behavioral complaints I hear from pet owne
 
 **Grain-Free Diets Don't Reduce Anxiety (And May Harm Your Dog)**: Most pet owners assume grain-free food is healthier and calmer for anxious dogs. But the FDA's 2018-2019 investigation found no scientific link between grain-free diets and anxiety reduction. More concerning: grain-free foods were associated with dilated cardiomyopathy (DCM), a serious heart condition, in over 500 reported cases. The American Veterinary Medical Association recommends AAFCO-certified foods with grains as a safer option. If your anxious dog needs dietary support, work with a vet, not marketing claims, to address actual nutritional deficiencies that *might* influence behavior.
 
-
 **"Grain-free diets prevent anxiety in dogs"**: Most pet owners assume grain-free kibble is healthier and can even help with behavioral issues like anxiety. But research tells a different story. A 2019 FDA investigation found no scientific evidence linking grains to anxiety or behavioral problems in dogs. More concerning, the American Veterinary Medical Association has linked grain-free diets to dilated cardiomyopathy (heart disease) in certain breeds. If your dog has genuine anxiety, the solution isn't diet, it's behavioral training, medication, or professional intervention. Save the grain-free trend for dogs with actual grain allergies (less than 1% of the population), and focus your anxiety treatment dollars on evidence-based therapies instead.
 
-
 **"Grain-free diets are better for anxious dogs"**: Many pet owners assume grain-free kibble reduces anxiety and improves behavior. However, the FDA found no scientific link between grain-free diets and anxiety reduction in dogs. More importantly, grain-free foods have been associated with dilated cardiomyopathy (DCM), a serious heart condition, in multiple studies, potentially *increasing* stress on your dog's system. The American Animal Hospital Association recommends grain-inclusive diets with AAFCO certification. If your anxious dog needs dietary support, work with a veterinary nutritionist rather than chasing trendy grain-free labels.
-
 
 Before you can treat anxiety, you need to recognize which type you're dealing with. There are three main categories: [separation anxiety](/separation-anxiety-dogs-treatment/), noise or situational anxiety, and generalized anxiety disorder.
 
 Separation anxiety is probably the most talked-about. Dogs with true separation anxiety aren't being destructive out of spite. They're experiencing genuine panic when left alone, often showing signs within the first 30 minutes of your departure. Barking, howling, destructive chewing, house soiling, and excessive drooling are all classic signs. Some dogs even injure themselves trying to escape.
 
-Noise anxiety is extremely common, especially around thunderstorms and fireworks. The trigger is obvious, but the response can be severe. I've had clients whose dogs would begin pacing and panting hours before a storm arrived, apparently responding to changes in barometric pressure.
+Noise anxiety is extremely common, especially around thunderstorms and fireworks. The trigger is obvious, but the response can be severe. Some dogs begin pacing and panting hours before a storm arrives, apparently responding to changes in barometric pressure.
 
 Generalized anxiety looks different. These dogs are just wound tight all the time. They startle easily, can't settle, scan every room when they enter it, and often have poor appetite or digestive upset. If your dog falls into this category, [understanding why your dog may be constantly hiding or withdrawing](/cat-hiding-behavior-explained/) can offer useful behavioral context, even if your concern is canine rather than feline.
 
@@ -73,7 +70,7 @@ While you're working on behavior modification, smart environmental management ca
 Some practical changes that actually make a difference:
 
 - **Exercise before alone time.** A dog who's had a 45-minute walk before you leave is physiologically calmer than one who hasn't. Exercise burns cortisol, the stress hormone.
-- **Puzzle feeders and food toys.** Mental stimulation exhausts anxious brains in the best way. A snuffle mat or Licki Mat can occupy your dog for 20 to 30 minutes. [Amazon carries a wide range of puzzle feeders](https://www.amazon.com/s?k=dog+puzzle+feeder) that many of my clients have found genuinely helpful. (Disclosure: this site may earn a small commission from purchases.)
+- **Puzzle feeders and food toys.** Mental stimulation exhausts anxious brains in the best way. A snuffle mat or Licki Mat can occupy your dog for 20 to 30 minutes. [Puzzle feeders are widely available](https://www.amazon.com/s?k=dog+puzzle+feeder) and can help keep anxious dogs occupied. (Disclosure: this site may earn a small commission from purchases.)
 - **Predictable routines.** Anxious dogs do better when they can anticipate what's coming. Feed, walk, and leave at roughly the same time every day.
 - **Safe spaces.** Create a den area: a crate covered with a blanket, or a quiet back room with your dog's bed and something worn that smells like you. Don't force your dog in. Let them choose it.
 - **White noise or calming music.** There's actual research behind this. Through a Dog's Ear is a clinically tested audio series developed to reduce canine anxiety, and it works for some dogs better than others.
@@ -147,7 +144,6 @@ Anxiety is one of the more treatable behavioral issues in dogs when you approach
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [AAHA-accredited hospitals](https://www.aaha.org/)
 - [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

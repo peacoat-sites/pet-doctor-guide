@@ -46,9 +46,7 @@ No bull's-eye rash in dogs, by the way. Ever. Dogs have fur and melanin distribu
 
 > **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-The classic presentation is what vets sometimes call the "shifting-leg lameness." A dog will limp on the front right leg one day, seem fine the next, then start favoring the back left. It's episodic, it's confusing, and owners often assume their dog just tweaked something on a run. I've seen this go undiagnosed for three months in a four-year-old Labrador whose owner assumed he kept reinjuring himself on the agility course. By the time the dog came in, he was visibly stiff every morning and reluctant to go upstairs.
+The classic presentation is what vets sometimes call the "shifting-leg lameness." A dog will limp on the front right leg one day, seem fine the next, then start favoring the back left. It's episodic, it's confusing, and owners often assume their dog just tweaked something on a run. This pattern can go undiagnosed for weeks or months if owners attribute each episode to a new minor injury. By the time a dog receives a diagnosis, stiffness may be noticeable each morning, and climbing stairs may become difficult.
 
 Scenario: Lab with intermittent three-legged lameness, no known tick exposure, owner in suburban Connecticut → ran a 4Dx SNAP test at the annual exam → positive for *Borrelia* antibodies → started 30-day doxycycline course → lameness resolved within two weeks, retest at 6 months showed declining antibody levels.
 
@@ -70,7 +68,7 @@ This is the part most general pet health articles skip over, and I think that's 
 
 A subset of dogs, and certain breeds appear to be genetically predisposed (Labrador Retrievers, Golden Retrievers, Bernese Mountain Dogs, and Shetland Sheepdogs show up disproportionately in the case literature), can develop Lyme nephritis. This is an immune-mediated kidney disease triggered by the infection, and it is genuinely life-threatening. The immune complexes from the bacterial infection get deposited in the glomeruli of the kidneys, causing progressive damage.
 
-What surprised me when I first started seeing these cases regularly was how the kidney signs can appear without prominent joint signs. A dog comes in for increased thirst, vomiting, weight loss. Owner reports no lameness ever. Full bloodwork shows elevated BUN and creatinine. Urinalysis shows significant protein loss. Tick serology comes back positive for *Borrelia*.
+Kidney signs can appear without prominent joint signs. A dog comes in for increased thirst, vomiting, weight loss. Owner reports no lameness ever. Full bloodwork shows elevated BUN and creatinine. Urinalysis shows significant protein loss. Tick serology comes back positive for *Borrelia*.
 
 Scenario: 6-year-old Bernese Mountain Dog, picked up annually on *Borrelia* antibody testing but owner declined treatment because dog seemed healthy → presented in 2025 with acute protein-losing nephropathy → hospitalized for IV fluids, started on doxycycline plus immunosuppressants → partial recovery, but persistent protein in urine requiring long-term management → outcome would likely have been different with earlier intervention.
 
@@ -129,7 +127,6 @@ If you're ever unsure whether something your dog ingested or was exposed to is d
 - [Cornell University College of Veterinary Medicine: Tick Research Lab](https://www.vet.cornell.edu/): Ongoing tick distribution and disease prevalence surveillance
 
 ---
-
 
 ---
 
