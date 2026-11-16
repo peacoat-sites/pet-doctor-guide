@@ -29,9 +29,7 @@ Most [cat owners](/new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-k
 
 IBD ([inflammatory bowel disease](/inflammatory-bowel-disease-dogs/)) isn't a single disease. It's a category of conditions where immune cells infiltrate the walls of the GI tract, causing chronic inflammation that disrupts normal digestion. The most common forms are lymphocytic-plasmacytic enteritis, eosinophilic gastroenteritis, and neutrophilic IBD. What surprised me, even after years of working with these cases, is how dramatically different two IBD cats can look. One patient might vomit grass and bile twice a week and otherwise seem fine. Another loses 30% of her body weight over six months with barely any vomiting at all.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">IBD is the most common cause of chronic GI symptoms in cats and is often misdiagnosed as "just hairballs."</li><li style="margin:5px 0">Diagnosis requires biopsy (endoscopic or surgical); blood panels and ultrasound alone cannot confirm IBD.</li><li style="margin:5px 0">Most cats respond to a combination of diet change and prednisolone; some need additional immunosuppressants.</li><li style="margin:5px 0">IBD and intestinal lymphoma look identical on ultrasound and often require immunohistochemistry to distinguish.</li><li style="margin:5px 0">With consistent management, many IBD cats live comfortably for years post-diagnosis.</li></ul></div>
-
 
 ## What IBD Actually Looks Like
 
@@ -46,8 +44,6 @@ The tricky part is that hyperthyroidism, chronic kidney disease, pancreatitis, a
 ## The Diagnosis Problem (And Why Bloodwork Alone Won't Cut It)
 
 > **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the part I feel most strongly about getting right, because I've seen owners put their cats through years of symptom management without a real diagnosis.
 
@@ -68,10 +64,6 @@ Prednisolone (not prednisone, cats convert prednisone poorly) is the standard fi
 For cats who don't respond to steroids alone, or who have concurrent small cell lymphoma, chlorambucil is added. It's a low-dose oral chemotherapy, and despite what that sounds like, most cats tolerate it well. The chlorambucil-prednisolone combination is actually the standard of care for small cell lymphoma with response rates that have impressed me consistently over the years.
 
 Cobalamin supplementation is one of those things that gets skipped and shouldn't. If your cat's B12 is low, cyanocobalamin injections (or the newer oral high-dose supplementation protocol) need to happen alongside the other treatment. Cats with persistent B12 deficiency simply don't respond as well, and it's an easy thing to fix.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">IBD treatment response rates by protocol</div><div class="sc-row"><span class="sc-label">Diet alone (mild IBD)</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">35%</span></div><div class="sc-row"><span class="sc-label">Prednisolone + diet</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">68%</span></div><div class="sc-row"><span class="sc-label">Pred + chlorambucil (mod-severe)</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">75%</span></div><div class="sc-row"><span class="sc-label">Pred + chlorambucil (small cell lymphoma)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">82%</span></div><div class="sc-src">Source: Veterinary Internal Medicine consensus data, compiled through 2025</div></div>
-
 
 ## Comparing Treatment Options at a Glance
 
@@ -105,7 +97,6 @@ That last one frustrates me a little, to be honest. Eighteen months. That cat wa
 - Ruaux CG et al., *Journal of Veterinary Internal Medicine* (2005): Cobalamin deficiency in cats with GI disease and its effect on treatment response
 
 ---
-
 
 ---
 

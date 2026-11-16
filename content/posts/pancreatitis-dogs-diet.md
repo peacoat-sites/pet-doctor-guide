@@ -31,9 +31,7 @@ Pancreatitis in dogs is inflammation of the pancreas, triggered when digestive e
 
 What I can tell you is what's actually worked in the exam room, what the current evidence supports, and where the standard advice falls short.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Fat content should be below 10% on a dry matter basis for most pancreatitis-prone dogs</li><li style="margin:5px 0">Frequent small meals (3-4 daily) reduce pancreatic stimulation better than one or two large feedings</li><li style="margin:5px 0">"Low-fat" commercial dog food labels can be misleading, always check dry matter fat percentage, not the label claim</li><li style="margin:5px 0">Dogs with chronic pancreatitis need ongoing dietary management, not just a temporary fix post-flare</li><li style="margin:5px 0">High-protein, low-fat home-cooked diets can work well but require a board-certified veterinary nutritionist to balance</li></ul></div>
-
 
 ## The Fat Threshold That Actually Matters
 
@@ -48,12 +46,6 @@ A few commercial foods that consistently come up in low-fat feeding: Royal Canin
 ## Frequency and Portions: The Underrated Variable
 
 > **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Pancreatic enzyme stimulation by meal frequency (relative units)</div><div class="sc-row"><span class="sc-label">1 meal/day</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">95 units</span></div><div class="sc-row"><span class="sc-label">2 meals/day</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">72 units</span></div><div class="sc-row"><span class="sc-label">3 meals/day</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">54 units</span></div><div class="sc-row"><span class="sc-label">4 meals/day</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">41 units</span></div><div class="sc-src">Source: Comparative gastroenterology research, estimated from clinical literature</div></div>
-
 
 Smaller, more frequent meals reduce the spike in pancreatic enzyme output that follows eating. This isn't controversial in veterinary gastroenterology circles, even if it's rarely communicated clearly to owners.
 
@@ -101,7 +93,6 @@ Speaking of omega-3s: fish oil is often recommended for its anti-inflammatory pr
 - Pápa, K. et al. (2011): "Occurrence, clinical features and outcome of canine pancreatitis," *Acta Veterinaria Hungarica* -- epidemiological data on breed predispositions and dietary triggers
 
 ---
-
 
 *Photo: [Tanya Gorelova](https://www.pexels.com/@tanya-gorelova-2199357) via Pexels*
 

@@ -2,16 +2,16 @@
 title: "Dog & Cat Vaccination Schedule: What Shots Your Pet Needs and When"
 date: 2026-06-10
 slug: "dog-cat-vaccine-schedule"
-description: "Complete dog and cat vaccination schedules based on AAHA 2022 and AAFP 2020 guidelines. See exactly which vaccines your pet needs, at what age, and how often — with cost estimates."
+description: "Complete dog and cat vaccination schedules based on AAHA 2022 and AAFP 2020 guidelines. See exactly which vaccines your pet needs, at what age, and how often, with cost estimates."
 categories: ["Pet Health"]
 tags: ["dog vaccines", "cat vaccines", "pet vaccination", "puppy shots", "kitten shots"]
 author: "Becca Hamlin"
 image: ""
 ---
 
-Vaccination is one of the most effective and cost-efficient things you can do for your pet's long-term health. Core vaccines protect against diseases that are highly contagious, often fatal, and — in the case of rabies — transmissible to humans. Staying current is not just good medicine; it is required by law for rabies in most U.S. states.
+Vaccination is one of the most effective and cost-efficient things you can do for your pet's long-term health. Core vaccines protect against diseases that are highly contagious, often fatal, and, in the case of rabies, transmissible to humans. Staying current is not just good medicine; it is required by law for rabies in most U.S. states.
 
-The schedules below are based on the **American Animal Hospital Association (AAHA) 2022 Canine Vaccination Guidelines** and the **American Association of Feline Practitioners (AAFP) 2020 Feline Vaccination Guidelines** — the two authoritative sources U.S. veterinarians follow. These are updated periodically as new research emerges on vaccine duration of immunity and disease risk.
+The schedules below are based on the **American Animal Hospital Association (AAHA) 2022 Canine Vaccination Guidelines** and the **American Association of Feline Practitioners (AAFP) 2020 Feline Vaccination Guidelines**, the two authoritative sources U.S. veterinarians follow. These are updated periodically as new research emerges on vaccine duration of immunity and disease risk.
 
 Your vet may adjust timing, frequency, or which non-core vaccines to recommend based on your region, your pet's lifestyle, and their individual health history. Use this schedule as your planning baseline, not a substitute for that conversation.
 
@@ -25,7 +25,7 @@ Your vet may adjust timing, frequency, or which non-core vaccines to recommend b
 
 ## Understanding the Puppy and Kitten Series
 
-The reason puppies and kittens receive multiple doses of the same vaccine 3–4 weeks apart is not redundancy — it is immunology. Young animals receive maternal antibodies through colostrum (first milk) that protect them in early life but also interfere with vaccine response. The maternal antibodies wane at different rates in different animals, so a series of doses ensures that at least one or two fall in the window when the immune system can respond fully.
+The reason puppies and kittens receive multiple doses of the same vaccine 3–4 weeks apart is not redundancy, it is immunology. Young animals receive maternal antibodies through colostrum (first milk) that protect them in early life but also interfere with vaccine response. The maternal antibodies wane at different rates in different animals, so a series of doses ensures that at least one or two fall in the window when the immune system can respond fully.
 
 Skipping doses or spacing them too far apart undermines this protection. A puppy that receives only 2 of 3 DA2PP doses may not be fully protected against parvovirus, which can kill an unvaccinated dog in 48–72 hours.
 

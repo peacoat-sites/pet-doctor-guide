@@ -31,9 +31,7 @@ Across 13 years in a small animal clinic, I'd estimate roughly 40% of the nightt
 
 What surprised me most when I really started paying attention wasn't the serious cases. It was how many dogs were panting at night for completely fixable reasons that nobody had thought to address.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Nighttime panting lasting more than 2 weeks warrants a vet visit, not more waiting.</li><li style="margin:5px 0">Cushing's disease, pain, and heart conditions cause panting that owners often misread as anxiety.</li><li style="margin:5px 0">A dog panting only at night (not during the day) is a more specific symptom worth tracking carefully.</li><li style="margin:5px 0">Breed matters: brachycephalic dogs (Bulldogs, Pugs) pant more at baseline and can mask serious symptoms.</li><li style="margin:5px 0">A single night of panting after a stressful day is almost never an emergency.</li></ul></div>
-
 
 ## The reasons that actually matter
 
@@ -52,8 +50,6 @@ Let me break down what's really going on, because the list is longer than "it's 
 ## When to go tonight vs. wait until Monday
 
 > **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I get asked this constantly, and I'll give you the honest answer rather than the liability-safe "always call your vet immediately" answer that's technically correct but useless at 2 a.m.
 
@@ -88,10 +84,6 @@ I'll be honest: anxiety gets blamed for nighttime panting way too often. Yes, ge
 
 If your vet is confident the cause is behavioral, there are genuinely helpful options. A [Snuggle Puppy with a heartbeat insert](https://www.amazon.com/s?k=snuggle+puppy+heartbeat+toy&tag=contentportfo-20) (around $45) can reduce anxiety in dogs who respond to warmth and sound, especially younger dogs or recently adopted ones. *(Note: this site may earn a commission from qualifying purchases.)* Adaptil diffusers (synthetic dog-appeasing pheromone) run about $25-35 and have decent evidence behind them for mild anxiety, though I'd describe the research as promising but not ironclad.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Common causes of nighttime panting by frequency seen in clinical practice</div><div class="sc-row"><span class="sc-label">Pain/arthritis</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">28 % of cas</span></div><div class="sc-row"><span class="sc-label">Anxiety/stress</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">24 % of cas</span></div><div class="sc-row"><span class="sc-label">Temperature/environment</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">19 % of cas</span></div><div class="sc-row"><span class="sc-label">Cushing's disease</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">11 % of cas</span></div><div class="sc-row"><span class="sc-label">Cardiac/respiratory</span><span class="sc-track"><span class="sc-bar" style="width:32%"></span></span><span class="sc-val">9 % of cas</span></div><div class="sc-row"><span class="sc-label">Medication side effect</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">6 % of cas</span></div><div class="sc-row"><span class="sc-label">Cognitive dysfunction</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">3 % of cas</span></div><div class="sc-src">Source: Clinical observation, 13 years small animal practice</div></div>
-
-
 ## Sources
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/): General veterinary guidance on canine respiratory symptoms and owner reporting patterns.
@@ -101,7 +93,6 @@ If your vet is confident the cause is behavioral, there are genuinely helpful op
 - ASPCA Animal Poison Control Center: 888-426-4435, available 24/7 for toxin exposure questions (consultation fee applies).
 
 ---
-
 
 *Photo: [Kevin Bruhn](https://www.pexels.com/@kevin-bruhn-2160372194) via Pexels*
 

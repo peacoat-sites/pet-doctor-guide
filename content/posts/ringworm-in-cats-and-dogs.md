@@ -31,9 +31,7 @@ Good. It should. Not because ringworm is deadly (it's not), but because the casu
 
 One thing I'll say upfront: ringworm is one of the most consistently mismanaged conditions I see come through the door. Owners stop treatment too early, skip the environmental decontamination entirely, and then wonder why their cat is still losing patches of fur two months later.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ringworm is caused by a fungus (usually Trichophyton or Microsporum), not a worm.</li><li style="margin:5px 0">Cats are far more commonly infected than dogs; longhaired breeds and kittens under 1 year are highest risk.</li><li style="margin:5px 0">Treatment typically runs 6-12 weeks; stopping early is the single most common reason it comes back.</li><li style="margin:5px 0">Environmental decontamination is non-negotiable, the fungus survives on surfaces for up to 18 months.</li><li style="margin:5px 0">It's a zoonotic infection: you, your kids, and other pets in the home can all contract it.</li></ul></div>
-
 
 ## What You're Actually Dealing With
 
@@ -48,8 +46,6 @@ Dogs get ringworm too, but it's genuinely less common. When they do, the present
 ## Spotting It: What Ringworm Actually Looks Like (and What It Doesn't)
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where most articles fail you: they describe the classic textbook lesion, a neat circular patch of hair loss with a slightly red, scaly ring. That does happen. It's also not always what you see.
 
@@ -113,10 +109,6 @@ Contrast that with a case from a reader who emailed me last spring: three cats i
 
 A third common scenario: a puppy in a litter of five tests positive on intake exam at a rescue. Entire litter treated prophylactically with lime sulfur dips twice weekly for eight weeks, adopters notified. Zero cases in adoptive homes. Rescue's protocol, which I've seen replicated at several well-run shelters, prevents the nightmare of calling thirty adopters to tell them their new puppy has a contagious skin fungus.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated ringworm treatment cost by scenario</div><div class="sc-row"><span class="sc-label">Single pet, caught early</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">$280</span></div><div class="sc-row"><span class="sc-label">Single pet, delayed diagnosis</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">$480</span></div><div class="sc-row"><span class="sc-label">Multi-pet household, all treated</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$720</span></div><div class="sc-row"><span class="sc-label">Multi-pet + human infection</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$950</span></div><div class="sc-src">Source: Clinical experience, typical small animal practice pricing, 2026</div></div>
-
-
 ## Sources
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/): Dermatophytosis guidelines and zoonotic disease fact sheets
@@ -126,7 +118,6 @@ A third common scenario: a puppy in a litter of five tests positive on intake ex
 - [Cornell Feline Health Center](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center): Practical feline ringworm resources with shelter-specific protocols
 
 ---
-
 
 *Photo: [Mahmoud Yahyaoui](https://www.pexels.com/@mahmoud-yahyaoui) via Pexels*
 

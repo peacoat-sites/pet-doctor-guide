@@ -41,8 +41,6 @@ I can't count the number of times I've seen owners panic over a mildly elevated 
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll push back on something you might read elsewhere: not all high WBC counts are emergencies, and treating every elevation the same way leads to unnecessary stress and sometimes unnecessary testing.
 
 The causes fall into a few broad buckets:
@@ -56,10 +54,6 @@ The causes fall into a few broad buckets:
 **Inflammation** from non-infectious causes, immune-mediated disease, trauma, certain cancers, can also cause elevations. This is where the differential really matters.
 
 **Bone marrow disorders and leukemia**, while serious, are less common. They tend to show extreme elevations (sometimes 50,000 or higher) and unusual cell types on the differential, which a veterinary lab tech would flag.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Approximate WBC ranges by cause in dogs (cells/µL)</div><div class="sc-row"><span class="sc-label">Normal range</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">11,500 cells/µL</span></div><div class="sc-row"><span class="sc-label">Stress response</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">19,000 cells/µL</span></div><div class="sc-row"><span class="sc-label">Mild infection</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">24,000 cells/µL</span></div><div class="sc-row"><span class="sc-label">Moderate infection</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">35,000 cells/µL</span></div><div class="sc-row"><span class="sc-label">Severe infection/pyometra</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">55,000 cells/µL</span></div><div class="sc-row"><span class="sc-label">Leukemia (estimate)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">80,000 cells/µL</span></div><div class="sc-src">Source: Merck Veterinary Manual, clinical range estimates</div></div>
-
 
 ## Reading the differential: where the real answers are
 
@@ -107,7 +101,6 @@ If there's any question about toxin exposure alongside abnormal bloodwork, [the 
 - Cornell University College of Veterinary Medicine, Animal Health Diagnostic Center: Canine CBC reference ranges and interpretive guidelines
 
 ---
-
 
 ---
 

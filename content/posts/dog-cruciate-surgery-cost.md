@@ -31,9 +31,7 @@ The cruciate ligament (technically the cranial cruciate ligament, or CCL, in dog
 
 One thing I want to say upfront: don't let price alone drive the decision. I know that sounds easy for me to say. But the surgery type, the surgeon's experience, and your dog's recovery environment all matter more than whether you went to the cheapest practice in your area. More on that in a moment.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Total CCL surgery cost in the US currently ranges from roughly $3,500 to $7,500+ depending on procedure type, location, and your dog's size.</li><li style="margin:5px 0">TPLO is the most common surgery and generally runs $4,500-$6,500 including pre-op workup and basic follow-up.</li><li style="margin:5px 0">A board-certified veterinary surgeon typically charges 30-50% more than a general practice vet, but complication rates differ.</li><li style="margin:5px 0">Pet insurance can cover 70-90% of surgery costs if the injury isn't pre-existing, enroll your dog before problems start.</li><li style="margin:5px 0">"Wait and see" rarely works for complete CCL tears in dogs over 30 lbs; delaying surgery usually means worse joint damage.</li></ul></div>
-
 
 ## What You're Actually Paying For
 
@@ -47,8 +45,6 @@ I'll be direct here: for most medium to large breed dogs, the TPLO has the stron
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, here's what you can generally expect to pay across procedure types and practice settings. These are ranges drawn from current referral center pricing, general practice orthopedic quotes, and regional variation I've seen firsthand:
 
 | Procedure | Small Dog (<25 lbs) | Medium Dog (25-60 lbs) | Large Dog (60+ lbs) | Typical Setting |
@@ -59,10 +55,6 @@ As of July 2026, here's what you can generally expect to pay across procedure ty
 | TPLO at university teaching hospital | $2,800-$4,200 | $3,500-$5,000 | $4,500-$6,200 | Resident-performed, attending oversight |
 
 These figures include the full episode of care (pre-op imaging through standard follow-up), not just the surgery table fee. They don't include physical rehabilitation, which is a separate expense worth budgeting for.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average TPLO surgery cost by dog size (2026)</div><div class="sc-row"><span class="sc-label">Small (&lt;25 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:66%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">Medium (25-60 lbs)</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">$5,200</span></div><div class="sc-row"><span class="sc-label">Large (60+ lbs)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$6,400</span></div><div class="sc-src">Source: Compiled from current referral center estimates and AAHA member practice data</div></div>
-
 
 ## Board-Certified Surgeon vs. Your Regular Vet
 
@@ -103,7 +95,6 @@ The eight-week strict rest period is the hardest part for most owners. Not becau
 - Wucherer KL, et al. "Short-term and long-term outcomes for overweight dogs with cranial cruciate ligament rupture treated surgically or nonsurgically." *JAVMA*, 2013.
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

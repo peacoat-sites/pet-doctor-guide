@@ -43,8 +43,6 @@ The tell for all three of these: the shaking stops when the trigger is removed. 
 
 > **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I see owners get it wrong most often, and I made this mistake myself early on. A dog shaking quietly in the corner, not crying, not limping, not refusing food, owners often assume that dog is fine because it's "not acting sick." But dogs hide pain remarkably well, and shaking is frequently the only outward sign.
 
 Spinal pain (especially in breeds like Dachshunds, Corgis, or French Bulldogs) often presents as trembling without any obvious lameness. Abdominal pain, whether from bloat, pancreatitis, or a foreign body obstruction, can cause generalized shaking along with a hunched posture and reluctance to move. Ear infections can produce head tremors specifically when the vestibular system gets involved.
@@ -81,10 +79,6 @@ One thing only someone who's done this a lot would know: video it. I cannot stre
 
 This is the question I get most from readers, and I'll give you an actual framework rather than the useless "when in doubt, call your vet" non-answer.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Dog Shaking: Urgency by Symptom Combination</div><div class="sc-row"><span class="sc-label">Shaking only, no other signs</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">24 hours to</span></div><div class="sc-row"><span class="sc-label">Shaking + lethargy or vomiting</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">4 hours to</span></div><div class="sc-row"><span class="sc-label">Shaking + suspected toxin</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">1 hours to</span></div><div class="sc-row"><span class="sc-label">Shaking + loss of consciousness</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 hours to</span></div><div class="sc-row"><span class="sc-label">Shaking + difficulty breathing</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">0 hours to</span></div><div class="sc-src">Source: Clinical triage guidelines, veterinary practice experience</div></div>
-
-
 | Symptom combination | What it likely means | Action |
 |---|---|---|
 | Shaking + cold exposure, resolves in 5 min | Normal thermoregulation | Warm the dog, monitor |
@@ -107,7 +101,6 @@ Senior dogs warrant a separate mention. Older dogs shaking can signal kidney or 
 - Platt, S.R. & Olby, N.J. *BSAVA Manual of Canine and Feline Neurology*, 4th edition: Standard clinical reference for differentiating seizure vs. tremor presentations
 
 ---
-
 
 ---
 

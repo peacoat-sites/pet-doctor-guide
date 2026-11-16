@@ -31,9 +31,7 @@ If you're here, you've probably noticed something's off. Maybe the pot belly tha
 
 Hyperadrenocorticism (which is what Cushing's disease actually is) happens when your dog's body produces too much cortisol over time. Cortisol is a stress hormone that, in normal amounts, helps regulate all kinds of body functions. Too much of it for too long, though, and things start to break down in ways that look a lot like normal aging. That's exactly why Cushing's gets missed for so long in so many dogs.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cushing's disease affects an estimated 100,000 dogs in the U.S. annually, mostly those over 6 years old.</li><li style="margin:5px 0">The three most reported early symptoms are increased thirst, increased urination, and a pot-bellied appearance.</li><li style="margin:5px 0">Pituitary-dependent Cushing's accounts for roughly 80-85% of all cases; the adrenal form is rarer.</li><li style="margin:5px 0">Diagnosis typically requires at least two to three different blood and urine tests, not just a single panel.</li><li style="margin:5px 0">Cushing's is manageable, not curable, most dogs do well on medication but need monitoring every 3-6 months.</li></ul></div>
-
 
 ## What Cushing's Is Actually Doing to Your Dog
 
@@ -48,8 +46,6 @@ There's also iatrogenic Cushing's, which is caused by long-term steroid use (pre
 ## The Symptoms, in Order of How Often I See Them
 
 > **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Not every dog presents the same way. But after 13 years of seeing Cushing's cases come through the clinic, there's a pretty reliable pattern to how things show up.
 
@@ -93,10 +89,6 @@ This is something I genuinely wish more owners understood before their vet conve
 
 That last row matters a lot. If your vet suspects adrenal-dependent Cushing's, they'll want abdominal imaging, partly to look at tumor size and partly to check for vascular invasion, which can change the surgical picture significantly.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Most common Cushing's symptoms reported by owners (% of cases)</div><div class="sc-row"><span class="sc-label">Increased thirst/urination</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">87%</span></div><div class="sc-row"><span class="sc-label">Pot belly</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">79%</span></div><div class="sc-row"><span class="sc-label">Hair loss/skin changes</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">72%</span></div><div class="sc-row"><span class="sc-label">Lethargy</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">65%</span></div><div class="sc-row"><span class="sc-label">Excessive panting</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">58%</span></div><div class="sc-row"><span class="sc-label">Recurrent infections</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">41%</span></div><div class="sc-src">Source: Journal of Veterinary Internal Medicine, 2023 retrospective</div></div>
-
-
 ## What to Expect at the Vet
 
 I'm going to be direct here because a lot of the advice online makes this sound simpler than it is: diagnosing Cushing's takes more than one test. Your vet will probably run a urinalysis and a basic blood panel first (these show changes consistent with Cushing's but aren't diagnostic on their own), then move to one of two specific tests.
@@ -126,7 +118,6 @@ If an undiagnosed dog suddenly shows neurological signs alongside other Cushing'
 - Behrend, E.N. et al., "Diagnosis of Spontaneous Canine Hyperadrenocorticism," *Journal of the American Animal Hospital Association* (2013): Diagnostic test sensitivity and specificity data used in clinical practice.
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

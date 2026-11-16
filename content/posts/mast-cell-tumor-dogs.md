@@ -31,9 +31,7 @@ Mast cell tumors (MCTs) are the most common malignant skin tumor in dogs, accoun
 
 What surprised me, when I went deeper into the literature a few years back, is how dramatically outcomes vary depending on grade, location, and treatment timing. This isn't a death sentence. For many dogs, it's a manageable, even curable, disease. But you need to understand the landscape of this diagnosis to make good decisions for your dog.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Mast cell tumors are the most common malignant skin tumor in dogs; any new lump needs a fine needle aspirate, not a wait-and-see approach.</li><li style="margin:5px 0">Grade I and II tumors have good to excellent prognoses with complete surgical removal; Grade III tumors require aggressive multimodal treatment.</li><li style="margin:5px 0">Boxers, Boston Terriers, Bulldogs, and Pugs are genetically predisposed; any lump on these breeds warrants faster action.</li><li style="margin:5px 0">Systemic signs like vomiting, stomach ulcers, or facial swelling alongside a lump are red flags for high-grade or metastatic disease.</li><li style="margin:5px 0">Toceranib phosphate (Palladia) changed the treatment options for inoperable MCTs starting around 2009 and remains a standard tool today.</li></ul></div>
-
 
 ## What Is Actually Happening Inside That Tumor
 
@@ -46,8 +44,6 @@ The degranulation risk also explains why you'll sometimes hear "don't manipulate
 ## Grading: The Number That Changes Everything
 
 > **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 For a long time, the veterinary pathology world used a three-tier Patnaik grading system (Grade I, II, III). As of the past decade, a two-tier system proposed by Kiupel has become more common at academic centers and specialty practices. The two-tier system classifies MCTs as either low-grade or high-grade, and research has shown it's actually more predictive of outcome than the older three-tier approach.
 
@@ -104,10 +100,6 @@ For any dog already diagnosed with MCT who develops facial swelling or difficult
 
 ## Practical Costs in 2026
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated MCT treatment costs by approach</div><div class="sc-row"><span class="sc-label">Surgery (clean margins)</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-row"><span class="sc-label">Surgery + Radiation</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$9,500</span></div><div class="sc-row"><span class="sc-label">Palladia (annual)</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">$4,800</span></div><div class="sc-row"><span class="sc-label">Full staging workup</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$1,600</span></div><div class="sc-row"><span class="sc-label">Chemotherapy (Vinblastine)</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$3,200</span></div><div class="sc-src">Source: Clinical estimates, July 2026</div></div>
-
-
 These are midpoint estimates. Geographic variation is real: a surgical excision in rural Montana is priced differently than the same procedure at a specialty center in Boston. These numbers are drawn from my own experience ordering procedures and talking to owners about invoices over 13 years. ([AAHA-accredited hospitals](https://www.aaha.org/) may charge slightly more for MCT staging and surgery, but accreditation also correlates with better surgical and anesthetic protocols, which matters for this specific tumor type.)
 
 A scenario I see regularly: Owner with a Grade II MCT diagnosis, $1,800 for surgery, margins came back "narrow but complete." Oncologist recommends radiation as a precaution: $9,000 they don't have. Decision: close monitoring with recheck every 8-12 weeks, and a plan to discuss Palladia if there's any evidence of local recurrence. That's a reasonable, informed choice. Not giving up; being strategic with real-world constraints.
@@ -119,7 +111,6 @@ A scenario I see regularly: Owner with a Grade II MCT diagnosis, $1,800 for surg
 - [Veterinary Cancer Society](https://vetcancersociety.org/): Resources on staging, treatment protocols, and specialist referral guidance.
 - London CA, et al. (2009): Clinical trial data for toceranib phosphate (Palladia) in canine MCT. Clinical Cancer Research.
 - Welle MM, et al. (2008): "Canine mast cell tumours: a review of the pathogenesis, clinical features, pathology and treatment." Veterinary Dermatology.
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

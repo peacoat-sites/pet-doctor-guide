@@ -31,9 +31,7 @@ So let's cut through it.
 
 If your dog has had recurring vomiting, chronic diarrhea, [weight loss](/glp-1-weight-loss-drugs-are-coming-for-overweight-pets/), or a persistently poor coat for more than a few weeks, IBD is on the table. Not the only possibility, but definitely on the table. And what most people don't realize is that IBD isn't a single disease. It's a category. An umbrella term for a group of chronic inflammatory conditions affecting the GI tract, each with different characteristics and, critically, different treatment approaches.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">IBD in dogs is diagnosed via intestinal biopsy, not bloodwork alone, imaging and labs support but can't confirm it.</li><li style="margin:5px 0">The most common form, lymphocytic-plasmacytic enteritis, often responds well to dietary change before steroids are tried.</li><li style="margin:5px 0">Protein-losing enteropathy, a severe IBD complication, carries a guarded prognosis; early diagnosis dramatically improves outcomes.</li><li style="margin:5px 0">Treatment costs typically run $800–$3,000+ for initial workup; ongoing management averages $50–$200/month depending on medications.</li><li style="margin:5px 0">German Shepherds, Basenjis, Shar-Peis, and Soft-Coated Wheaten Terriers are statistically overrepresented in IBD diagnoses.</li></ul></div>
-
 
 ## What IBD Actually Is (and Isn't)
 
@@ -46,8 +44,6 @@ What IBD is NOT: it's not the same as irritable bowel syndrome (IBS, which is a 
 ## Getting to a Diagnosis
 
 > **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where most owners get frustrated, and I don't blame them. IBD requires ruling out a long list of other causes first: intestinal parasites, bacterial infections like Clostridium or Salmonella, dietary intolerance, exocrine pancreatic insufficiency, hypoadrenocorticism, and others. The workup is sequential and can feel slow.
 
@@ -67,10 +63,6 @@ Here's a practical comparison of the diagnostic path and what to expect:
 | PARR testing (add-on to biopsy) | Differentiates IBD from small-cell lymphoma | $200–$400 additional | 2–3 weeks |
 
 Current as of July 2026; costs vary significantly by region and whether you're at a GP or specialty/internal medicine practice.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical diagnostic cost by step (USD)</div><div class="sc-row"><span class="sc-label">Fecal PCR panel</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$115</span></div><div class="sc-row"><span class="sc-label">Bloodwork panel</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$225</span></div><div class="sc-row"><span class="sc-label">Abdominal ultrasound</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">$450</span></div><div class="sc-row"><span class="sc-label">Endoscopy + biopsy</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">$1,300</span></div><div class="sc-row"><span class="sc-label">Surgical biopsy</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,500</span></div><div class="sc-src">Source: Veterinary internal medicine practice data, 2026</div></div>
-
 
 ## Treatment: Diet First, Then Drugs
 
@@ -117,7 +109,6 @@ Joint supplements like fish oil may have mild anti-inflammatory benefits for GI 
 - [Marks SL, et al. "Enteropathogenic Bacteria in Dogs and Cats." JVIM 2011]: Reference on ruling out infectious causes before IBD workup, relevant to the diagnostic sequencing discussed above.
 
 ---
-
 
 *Photo: [Andres  Ayrton](https://www.pexels.com/@andres-ayrton) via Pexels*
 

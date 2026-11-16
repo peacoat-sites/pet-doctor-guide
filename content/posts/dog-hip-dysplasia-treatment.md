@@ -31,9 +31,7 @@ You're probably reading this because your dog just got a diagnosis, or your vet 
 
 Here's what I tell people who are freshly diagnosed and overwhelmed: take a breath, because you have real options, and we're going to go through all of them.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Hip dysplasia affects roughly 1 in 5 dogs; large breeds like Labradors face rates above 50% in some lines.</li><li style="margin:5px 0">Most dogs, especially older ones, are managed conservatively (weight, exercise, meds, supplements) without surgery.</li><li style="margin:5px 0">Surgery is most effective when performed before age 18 months; triple pelvic osteotomy (TPO) is curative in young dogs.</li><li style="margin:5px 0">NSAIDs like Galliprant or Carprofen reduce pain significantly; gabapentin is often added for nerve-related discomfort.</li><li style="margin:5px 0">Weight is the single most impactful variable you control at home; even 10–15% weight loss measurably reduces lameness.</li></ul></div>
-
 
 ## What's Actually Happening in the Joint
 
@@ -44,8 +42,6 @@ What you see on the outside, the reluctance to jump, the swaying gait, the stiff
 ## The Conservative Route (Most Dogs End Up Here)
 
 > **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Honestly, the majority of dogs with hip dysplasia are managed without surgery, and many of them do really well. The catch is that "conservative management" sounds passive, like you're just waiting. It's not. It's an active, multi-pronged program that requires consistency.
 
@@ -84,10 +80,6 @@ The main surgical options:
 
 **Femoral Head and Neck Ostectomy (FHO):** The femoral head is removed entirely, and the dog's body forms a "false joint" from scar tissue. This is the lowest-cost surgical option and appropriate for smaller dogs (generally under 50 lbs) or dogs where THR isn't financially feasible. Outcomes in large dogs are more variable; pain relief is usually good but function isn't always what you'd get with THR.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Approximate surgical cost comparison (per hip, USD)</div><div class="sc-row"><span class="sc-label">JPS (puppy)</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$1,100</span></div><div class="sc-row"><span class="sc-label">TPO</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">$3,200</span></div><div class="sc-row"><span class="sc-label">FHO</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-row"><span class="sc-label">Total Hip Replacement</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,800</span></div><div class="sc-src">Source: Veterinary referral center fee estimates, 2026</div></div>
-
-
 A few worked examples that reflect what I've actually seen play out:
 
 **Young German Shepherd, diagnosed at 7 months with moderate hip laxity → TPO performed at 9 months → returned to full agility training by 14 months; no NSAID use 3 years later.**
@@ -122,7 +114,6 @@ The first time I saw acute muscle atrophy happen fast, I almost missed it. It wa
 - Enomoto M et al. (2022): "Bedinvetmab, a canine monoclonal antibody targeting nerve growth factor, in dogs with osteoarthritis," Veterinary Anaesthesia and Analgesia; Phase 3 clinical data supporting Librela use
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

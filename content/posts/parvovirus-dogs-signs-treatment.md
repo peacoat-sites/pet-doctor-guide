@@ -39,8 +39,6 @@ The result is a dog who can't absorb fluids, can't fight infection, and is losin
 
 > **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The incubation period after exposure is typically 3 to 7 days, and then symptoms appear fast. Here's what the progression usually looks like:
 
 **Early signs (first 24 hours):**
@@ -98,10 +96,6 @@ Worked examples from cases I've been part of:
 
 **8-month-old unvaccinated rescue, presented collapsed** → Despite immediate aggressive treatment, died on day 3. White cell count never recovered. This one stays with me.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Parvo survival rate by treatment timing</div><div class="sc-row"><span class="sc-label">No treatment</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">10%</span></div><div class="sc-row"><span class="sc-label">Home care only</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Vet care, 48+ hr delay</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">58%</span></div><div class="sc-row"><span class="sc-label">Vet care, within 24 hrs</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">85%</span></div><div class="sc-row"><span class="sc-label">Vet care, within 12 hrs</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">91%</span></div><div class="sc-src">Source: AVMA/clinical estimates, 2026</div></div>
-
-
 ## Prevention Is Where This Story Should End
 
 The parvovirus vaccine is one of the most effective vaccines in veterinary medicine. A 2023 study in the *Journal of Veterinary Internal Medicine* found that properly vaccinated dogs have greater than 98% protection against clinical disease. The core puppy series is typically given at 6 to 8 weeks, 10 to 12 weeks, and 14 to 16 weeks, with a booster at one year and then every one to three years after that (your vet will advise based on lifestyle risk). Until that series is complete, puppies are vulnerable.
@@ -119,7 +113,6 @@ If you're taking home a rescue puppy, ask for vaccination records. If records do
 - UC Davis School of Veterinary Medicine: Parvo treatment protocols and isolation standards used in teaching hospital settings
 
 ---
-
 
 ---
 

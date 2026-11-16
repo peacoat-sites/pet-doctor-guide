@@ -31,9 +31,7 @@ It's not always fine.
 
 Polydipsia (the clinical term for excessive drinking) paired with polyuria (excessive urination) is one of the most consistent early signals your cat's body sends when something systemic is going wrong. The reasons range from "totally manageable with medication" to "we need bloodwork today." Knowing the difference matters.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cats should drink roughly 3.5–4.5 oz (100–130 mL) of water per 10 lbs of body weight per day; more than that warrants a vet call.</li><li style="margin:5px 0">The three most common causes in cats are chronic kidney disease, diabetes mellitus, and hyperthyroidism ,  all diagnosable with a basic blood panel.</li><li style="margin:5px 0">A cat eating wet food normally drinks less; switching to dry food alone can double water intake without any underlying disease.</li><li style="margin:5px 0">PU/PD (polyuria/polydipsia) lasting more than 48 hours, especially with weight loss or lethargy, is a same-week vet visit ,  not a "wait and see."</li><li style="margin:5px 0">A morning urine sample in a clean, rinsed litter box can give your vet critical data before the appointment even starts.</li></ul></div>
-
 
 ## How Much Is Actually "Too Much"
 
@@ -48,8 +46,6 @@ I'll admit I got this wrong early in my career. A client brought in her 8-year-o
 ## The Most Likely Culprits, Ranked
 
 > **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Not all causes are equally common. In middle-aged to [older cats](/signs-of-kidney-disease-in-older-cats/) (7+), the probability landscape looks like this:
 
@@ -84,10 +80,6 @@ Third: bring any supplements, medications, or food changes from the last three m
 A cat who just switched from wet to dry food will drink more water. Full stop. This is not disease. The moisture content of canned food runs about 75–80%; dry kibble is roughly 10%. If your cat was eating one 5.5-oz can of wet food daily (contributing about 4 oz of water) and you switched to all-dry, they need to compensate by drinking more from the bowl. The math is just math.
 
 Where this gets tricky: sometimes a cat doesn't compensate enough, which contributes to concentrated urine and crystal formation. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has consistently supported wet food as the better default hydration strategy for cats, especially those with any history of urinary issues. I'd agree. Dry food isn't poison, but cats evolved as desert hunters who got most of their moisture from prey, and their thirst drive is genuinely weak compared to dogs.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg daily water intake by diet type (10-lb cat)</div><div class="sc-row"><span class="sc-label">All wet food</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">1.5 oz</span></div><div class="sc-row"><span class="sc-label">Mixed wet + dry</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">4.2 oz</span></div><div class="sc-row"><span class="sc-label">All dry food</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">8.1 oz</span></div><div class="sc-row"><span class="sc-label">All dry + CKD</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">13.4 oz</span></div><div class="sc-src">Source: Cornell Feline Health Center / clinical estimates</div></div>
-
 
 The CKD bar is the one that should catch your eye. A cat with [kidney disease](/cat-kidney-disease-diet/) on an all-dry diet may be drinking nearly nine times what a healthy cat on wet food drinks. The body is desperately trying to flush toxins the kidneys can't concentrate properly.
 
@@ -127,7 +119,6 @@ This is current as of July 2026. Treatment options for CKD and feline diabetes h
 - Reusch CE, "Feline Diabetes Mellitus," in *Feldman and Nelson's Canine and Feline Endocrinology* (4th ed.): Clinical presentation, diagnostic criteria, and steroid-induced diabetes in cats
 
 ---
-
 
 *Photo: [FOX ^.ᆽ.^= ∫](https://www.pexels.com/@fox-58267) via Pexels*
 
