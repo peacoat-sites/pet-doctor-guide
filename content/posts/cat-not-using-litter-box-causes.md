@@ -52,8 +52,6 @@ If your cat's litter box habits changed suddenly, call your vet. A urinalysis an
 
 ## The Litter Box Itself Might Be the Problem
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once medical causes are cleared, scrutinize the box setup. Cats are picky in ways that seem ridiculous until you understand their instincts.
 
 **Size matters more than people realize.** A litter box should be 1.5 times your cat's length from nose to tail base. Most commercial boxes are too small for an average adult cat. A large domestic shorthair or Maine Coon trying to turn around in a standard box is like you using a bathroom the size of a closet. Some cats give up and go elsewhere.

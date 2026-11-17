@@ -32,10 +32,6 @@ The fly has been absent from the U.S. since the 1960s, when a massive sterile-fl
 
 ## How to Recognize a Problem Before It's Too Late
 
-> **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The clinical signs most owners miss: a wound that doesn't look infected but smells wrong. A foul, distinctive odor is one of the earliest signs. The wound may appear to have movement inside it. You might actually see small, cream-colored larvae if you look closely. The animal will often be agitated, licking or scratching at the site compulsively.
 
 Other red flags:

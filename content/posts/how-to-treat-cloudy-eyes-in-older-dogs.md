@@ -55,8 +55,6 @@ I tell owners: if your 9-year-old Lab has symmetric, soft bluish haze in both ey
 | Anterior Uveitis | Cloudiness, red eye, irregular pupil | Variable | Emergency | Treats underlying systemic cause |
 | Glaucoma | Cloudy, bulging/enlarged eye | Rapid deterioration | Emergency (hours matter) | Immediate pressure reduction |
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Beyond the two big ones, a few other things can cause cloudy appearance in a dog's eye:
 
 **Corneal dystrophy or degeneration.** This is cloudiness in the cornea itself, not the lens. It can look like a white or gray film on the surface of the eye. Some breeds are predisposed (Siberian Huskies, Cavalier King Charles Spaniels), and it tends to be inherited. Often it doesn't affect vision much. But corneal degeneration, the acquired version in older dogs, can progress and sometimes involves calcium deposits that need treatment.

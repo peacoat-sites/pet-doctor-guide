@@ -40,8 +40,6 @@ Not every flat-faced dog has severe BOAS. I want to be clear about that. Some Fr
 
 ## The Symptoms Worth Watching, and the Ones Worth Worrying About
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Snoring and snuffling in a brachycephalic dog isn't automatically a crisis. It often isn't. But there's a difference between "he's loud when he sleeps" and "she turns blue after running to the back door."
 
 Signs that are worth monitoring but not necessarily urgent:

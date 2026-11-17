@@ -40,8 +40,6 @@ This doesn't mean those breeds can't live good lives. It means you need to go in
 
 ## How to Actually Research Before You Commit
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The standard advice is "ask the breeder about health testing." That's fine but incomplete. Here's how I'd actually do it.
 
 Start with the breed's national parent club. Every recognized breed has one, and the health committee pages are where the real data lives. The Orthopedic Foundation for Animals (OFA) maintains a public database of health clearances for individual dogs. If a breeder tells you their dogs are "health tested," you can look up those specific dogs at ofa.org and verify it yourself. It's worth verifying because some breeders claim health testing without actual OFA records to back it up.

@@ -50,8 +50,6 @@ Cosequin DS (Double Strength) is the product I recommend most consistently. It's
 
 ## Omega-3 Fatty Acids: The One I'd Fight You Over
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If I could get every arthritic senior dog owner to add exactly one supplement, it would be omega-3 fatty acids from fish oil. Not flaxseed oil. Fish oil. Dogs don't efficiently convert ALA (the omega-3 in flaxseed) into the EPA and DHA their bodies actually use. You want EPA and DHA directly.
 
 The anti-inflammatory effect of EPA is well-supported in veterinary research. A 2016 study published in the *Journal of the American Veterinary Medical Association* found that dogs with osteoarthritis who received fish oil showed measurable improvement in weight-bearing and overall mobility. We're not talking placebo.

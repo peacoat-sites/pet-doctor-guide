@@ -43,8 +43,6 @@ For most medium to large breed dogs, the TPLO has the strongest long-term outcom
 
 ## The Numbers, Side by Side
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, here's what you can generally expect to pay across procedure types and practice settings. These are ranges drawn from current referral center pricing, general practice orthopedic quotes, and regional variation I've seen firsthand:
 
 | Procedure | Small Dog (<25 lbs) | Medium Dog (25-60 lbs) | Large Dog (60+ lbs) | Typical Setting |

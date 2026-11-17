@@ -46,8 +46,6 @@ Obesity, chronic pancreatitis, and [long-term steroid use](/dog-allergies-sympto
 
 ## The Four Pillars of Daily Management
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Getting diabetes under control requires four things locked in: insulin, diet, exercise, and monitoring. Slack on one and everything gets harder.
 
 **Insulin.** Most vets start with Vetsulin (porcine insulin zinc suspension) or human NPH insulin, depending on how your dog responds. Your vet picks a starting dose based on weight, then adjusts it over the first few weeks. This adjustment period is completely normal. Don't panic if the first dose isn't perfect.

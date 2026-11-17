@@ -43,8 +43,6 @@ That's not a miracle. That's just a cat getting what it needed.
 
 ## What Actually Works (and What Doesn't)
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest: a lot of what's marketed as cat enrichment is mostly enriching for the person buying it. Your cat doesn't need a $200 electronic feather robot if you're not also putting in the time for real interactive play.
 
 Different types of enrichment have varying levels of impact:

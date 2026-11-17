@@ -41,8 +41,6 @@ Cocoa powder is the one that surprises people. It runs between 400-737 mg per ou
 
 ## The Numbers That Actually Matter
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Theobromine toxicity in dogs is measured in milligrams per kilogram of body weight. Here's where it gets specific:
 
 | Dose (mg/kg body weight) | Expected Effects |

@@ -49,8 +49,6 @@ Some things are straightforward emergencies. Not "probably fine but maybe check 
 
 ## The middle zone (where it actually gets complicated)
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest: this is where the guidance gets harder, and where I think a lot of general pet health articles fail you by being too vague.
 
 There's a real category of "concerning but maybe not a right-now emergency" situations. The problem is that these can tip either way depending on context, and the stakes of misreading them are high enough that I want to walk through them carefully.

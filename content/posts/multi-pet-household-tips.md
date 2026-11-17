@@ -49,8 +49,6 @@ Water is underrated. Dogs are messy drinkers. A dog that splashes water all over
 | Kennel cough | No | Yes | No | Separate sick animal; research mixed on cat transmission |
 | Permethrin toxicity (flea treatment) | N/A | Safe | N/A | Use species-safe products or separate 24-48 hours post-application |
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Multi-species households bring a set of health complications that single-species homes don't deal with. Some are obvious, like the fact that dogs and cats have completely different vaccination schedules and parasite prevention needs. Some are less obvious.
 
 Flea prevention is the one I see mismanaged most dangerously. Permethrin, which is in many dog flea treatments and spot-ons, is acutely toxic to cats. Not "could cause some issues" toxic. Potentially fatal within hours toxic. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) lists permethrin as one of their most frequent cat toxicity calls. If you have a cat and a dog in the same house, you need flea products that are safe for both species to be in contact with, or you need to keep animals separated for the full drying time, typically 24-48 hours. Read the label. Every time.

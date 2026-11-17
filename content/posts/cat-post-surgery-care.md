@@ -48,8 +48,6 @@ What you're watching for in these first hours is straightforward: labored or ver
 
 ## The Incision: What's Normal, What's Not
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The incision is the thing that stresses owners out most, and also the thing they're most likely to misread in both directions.
 
 Normal looks like: mild redness or pinkness directly around the wound edges, slight swelling or a firm lump under the incision (especially with spays, this is often just normal tissue healing), and some bruising in the surrounding skin. A small amount of clear or slightly pink discharge in the first 24 to 48 hours is acceptable.

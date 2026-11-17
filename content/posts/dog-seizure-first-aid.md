@@ -43,8 +43,6 @@ There are different types of seizures. Generalized tonic-clonic (what most peopl
 
 ## What To Do During the Seizure
 
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Keep your hands away from the mouth. Move furniture, sharp objects, or stairs out of the immediate area if you safely can. If the dog is near a staircase, try to block access, but don't restrain the dog's movements forcibly, because that can cause injury. If the dog is small enough and actively moving toward danger, you can gently guide them away with a blanket or towel between you and them.
 
 Start timing immediately. I mean the second you realize what's happening. If you can get your phone in your hand to run a stopwatch, do it. Your vet is going to ask "how long did it last?" and "I'm not sure, maybe a couple minutes?" is genuinely less useful than "1 minute 42 seconds." That specificity changes the clinical picture.

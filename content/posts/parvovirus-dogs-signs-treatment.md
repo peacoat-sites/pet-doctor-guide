@@ -37,8 +37,6 @@ The result is a dog who can't absorb fluids, can't fight infection, and is losin
 
 ## Signs of Parvo: What to Watch For
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The incubation period after exposure is typically 3 to 7 days, and then symptoms appear fast. Here's what the progression usually looks like:
 
 **Early signs (first 24 hours):**

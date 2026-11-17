@@ -56,8 +56,6 @@ Call your vet first thing Monday if your dog had one or two loose stools but is 
 
 ## The Bland Diet: What It Actually Means and How to Do It Right
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The bland diet is the cornerstone of home management for mild dog diarrhea, and I'm convinced most people get it wrong. You want a 2:1 ratio of plain cooked white rice to plain boiled chicken breast. No seasoning, no skin, no bones. Some sources suggest 3:1 or even 4:1 rice to protein, and honestly, more rice is safer because the starch helps firm up stools.
 
 Here's the step-by-step:

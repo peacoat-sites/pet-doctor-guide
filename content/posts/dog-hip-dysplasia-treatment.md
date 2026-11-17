@@ -41,8 +41,6 @@ What you see on the outside, the reluctance to jump, the swaying gait, the stiff
 
 ## The Conservative Route (Most Dogs End Up Here)
 
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The majority of dogs with hip dysplasia are managed without surgery, and many of them do really well. The catch is that "conservative management" sounds passive, like you're just waiting. It's not. It's an active, multi-pronged program that requires consistency.
 
 **Weight management** is the single most powerful tool you have. A landmark study published in the Journal of the American Veterinary Medical Association followed 48 pairs of Labrador littermates over 14 years, with one dog in each pair fed 25% less than its sibling. The calorie-restricted dogs showed significantly lower rates of hip dysplasia and developed osteoarthritis more than two years later on average. Two years. At home, that means keeping your dog lean enough that you can easily feel (not see) the ribs, and that when you look down at them from above, there's a visible waist. Most of the dysplastic dogs I see in clinic are overweight. That's not me judging the owners; kibble bags routinely overestimate portion sizes by 20-30%, and those treats add up fast.

@@ -45,10 +45,6 @@ If your cat is showing any of the first four signs, this is a same-day [vet visi
 
 ## What the FDA's March Advisory Actually Means for You
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The March 13 advisory from the FDA deserves a closer read, because the headline ("company issued a recall") undersells what the agency actually said. The FDA recommended recall of 8 lots. Go Raw recalled 3. The agency stated explicitly that Go Raw had not provided evidence showing the remaining lots were off the market. That's not a technicality. That means product the FDA flagged as dangerously deficient in thiamine may have still been in pet supply stores, in online fulfillment warehouses, or in people's pantries weeks after the initial recall.
 
 The dvm360 coverage from March 2026 noted the agency's concern that cat owners with affected food might not know to return it, precisely because the recall hadn't covered all the lots the FDA tested. If you bought Quest food anytime in late 2025 or early 2026 and still have it, check the lot code. Don't assume that because you didn't get a direct recall notification, your bag is fine.

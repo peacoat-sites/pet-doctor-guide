@@ -36,10 +36,6 @@ And then Albright's Raw Pet Food out of Fort Wayne, Indiana voluntarily recalled
 
 ## The Thiamine Problem Is Its Own Category
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I want to spend more time on the Go Raw recall because it's categorically different from a bacterial contamination issue, and I think it's getting less attention than it deserves.
 
 Thiamine, or Vitamin B1, is essential for neurological function in cats. Cats can't synthesize it and have relatively high requirements for it compared to dogs. When thiamine is severely deficient, the progression isn't subtle. It starts with vomiting and appetite loss, but it can move to neurological signs, seizures, and death. The FDA does note that thiamine deficiency is typically reversible if caught and treated promptly, which is genuinely reassuring. But "promptly" is doing a lot of work in that sentence. A cat who's been off a thiamine-deficient food for two weeks and is showing vague GI signs might not immediately trigger alarm bells for an owner.

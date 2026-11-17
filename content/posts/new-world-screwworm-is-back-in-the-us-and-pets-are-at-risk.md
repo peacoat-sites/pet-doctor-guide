@@ -31,8 +31,6 @@ Dogs are at higher risk than cats simply because of lifestyle. Dogs who roam, hu
 
 The first companion animal case in a dog in New Mexico, confirmed just five days after the initial Texas cattle detection, tells us the fly isn't limiting itself to livestock. If you're in or near affected areas, treat this as a real concern for your pets, not just a farming story that doesn't involve you.
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## How to Actually Protect Your Pet Right Now
 
 Talk to your veterinarian this week if you're in Texas or New Mexico. Vets in affected areas are already recommending isoxazoline-based combination parasite prevention products as frontline protection. NexGard specifically is among the products that received FDA Emergency Use Authorization for screwworm myiasis treatment. According to the FDA's guidance on animal drugs for New World screwworm, the agency has issued multiple EUAs since late 2025, including one on February 18, 2026 covering NexGard and NexGard COMBO, and authorization for generic nitenpyram tablets, notably the first generic animal drug ever authorized under an FDA EUA. These aren't just theoretical options. They're actively authorized and available right now.

@@ -49,8 +49,6 @@ Let me break down what's really going on, because the list is longer than "it's 
 
 ## When to go tonight vs. wait until Monday
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I get asked this constantly, and I'll give you the honest answer rather than the liability-safe "always call your vet immediately" answer that's technically correct but useless at 2 a.m.
 
 | Situation | Action | Timeframe |

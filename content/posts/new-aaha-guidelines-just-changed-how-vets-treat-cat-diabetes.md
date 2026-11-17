@@ -30,8 +30,6 @@ What most people don't realize is how much the remission statistics factor into 
 
 ## The Catch: Not Every Cat Qualifies
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part I really want you to read carefully, because the eligibility criteria are strict and the consequences of getting it wrong are serious.
 
 SGLT2 inhibitors are only for newly diagnosed cats who have never received insulin and who are otherwise stable. The 2026 AAHA guidelines are explicit that cats with any of the following should NOT receive these drugs and should go straight to insulin instead:

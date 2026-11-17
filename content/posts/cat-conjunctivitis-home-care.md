@@ -47,8 +47,6 @@ One-eye versus two-eye matters too. Unilateral (one eye) conjunctivitis leans to
 
 ## Safe Home Care: The Actual Steps
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the practical part, and I want to be specific because "warm compress" advice without detail is how people end up burning their cat's eye with water that's too hot.
 
 **Cleaning discharge:** Use sterile saline solution, the kind marketed for contact lens rinsing works fine as long as it's preservative-free. (Boston Simplus and Biotrue contain preservatives; plain sodium chloride 0.9% wound wash like Blairex or McKesson sterile saline aerosol are better choices.) Soak a separate cotton ball for each eye. Wipe from the inner corner outward. Do not wipe inward. One pass per cotton ball, then discard. If the discharge has crusted the lids shut, hold a warm (not hot, test it on your inner wrist first) damp cloth against the eye for 30 to 60 seconds to soften it before wiping.

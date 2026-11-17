@@ -45,8 +45,6 @@ The ASPCA and the UC Davis Koret Shelter Medicine Program have both stated that 
 
 ## The Testing Rabbit Hole
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Diagnosis is messier than most people realize, and this is something the standard pet-adoption pamphlet glosses straight over.
 
 The snap test your vet runs in-clinic detects antibodies, not the virus itself. In adult cats, a positive result is meaningful. In kittens under six months old, it can be a false positive because the kitten may be carrying maternal antibodies from an FIV-positive mother but not actually be infected. Those kittens need to be retested after six months. Kittens can be euthanized or refused adoption based on snap test positives that would have cleared up on retest.

@@ -45,8 +45,6 @@ There's also iatrogenic Cushing's, which is caused by long-term steroid use (pre
 
 ## The Symptoms, in Order of How Often I See Them
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every dog presents the same way. But after 13 years of seeing Cushing's cases come through the clinic, there's a pretty reliable pattern to how things show up.
 
 **Increased thirst and urination** almost always come first. Most owners notice this before anything else. We're talking about a dog who suddenly needs water constantly and may be having accidents indoors after years of being reliable. The clinical term is polydipsia (increased drinking) and polyuria (increased urination), and it's so common in Cushing's that [PetMD's veterinary resource library](https://www.petmd.com/) lists it as the number-one presenting complaint in affected dogs.

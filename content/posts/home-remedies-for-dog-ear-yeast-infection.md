@@ -43,8 +43,6 @@ Hypothyroidism can also cause recurrent yeast infections. So can a dog who swims
 
 ## The Cleaning Step Comes First, and It Matters More Than the Remedy
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A common mistake is applying an antifungal product to the ear without cleaning it first. That's backwards. A canal packed with dark, waxy debris is basically a yeast buffet. You have to remove the buildup before any topical treatment can reach the tissue.
 
 For a mild infection with visible debris in the outer ear, here's what I'd do:

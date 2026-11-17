@@ -29,10 +29,6 @@ The AVMA's coverage of the survey, published April 27, 2026, made it clear that 
 
 ## Why Is This Happening Now?
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 A few forces are working together, and none of them are reversing anytime soon.
 
 The mosquito species responsible for transmitting heartworm, primarily *Culex* mosquitoes historically, are being joined by expanding populations of *Aedes albopictus* and *Aedes aegypti*. These species are aggressive, adaptable, and they're establishing themselves in geographic ranges that would have been inhospitable to them even fifteen years ago. Warmer winters and longer warm seasons mean mosquitoes are active for more months in more places.

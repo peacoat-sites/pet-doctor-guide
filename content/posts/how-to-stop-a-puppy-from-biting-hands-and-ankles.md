@@ -41,8 +41,6 @@ This distinction matters for how you respond. If your 9-week-old bites your ankl
 
 ## The Actual Training Sequence
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most owners go straight to "no" or to yelping, skip the middle, and then wonder why it's not working six weeks later. Here's the sequence that actually holds up.
 
 **Phase 1: Teach inhibition (weeks 1-2 of ownership)**

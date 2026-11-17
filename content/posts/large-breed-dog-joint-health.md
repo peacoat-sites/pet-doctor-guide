@@ -37,8 +37,6 @@ The other piece that surprises a lot of owners is growth rate. Large breed puppi
 | Joint supplement blends (12+ ingredients) | Typically insufficient | Below therapeutic doses | Not recommended |
 | Cosequin DS | Well-studied | Per product label | Established option with consistent results |
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You've probably heard about glucosamine and chondroitin. You might be using them already. The research on these two compounds is genuinely mixed. There are decent studies supporting their use, and there are others that show minimal effect. The practical takeaway: they're not magic, but evidence suggests they're not inert either. For dogs already showing joint changes, glucosamine and chondroitin may help with mobility and morning stiffness when combined with other management strategies. For young dogs in high-risk breeds, I think they're reasonable insurance.
 
 Omega-3 fatty acids, specifically EPA and DHA from fish oil, have stronger evidence behind them. They're genuinely anti-inflammatory, and a 2018 review in *Journal of Veterinary Internal Medicine* found measurable improvements in dogs with osteoarthritis who were supplemented with omega-3s at therapeutic doses. The key word there is *therapeutic doses*, which are higher than what most people give. For a 90-pound dog, you're often looking at 2,000-3,000mg EPA+DHA per day, not a single fish oil capsule from your own medicine cabinet.

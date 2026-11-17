@@ -43,8 +43,6 @@ Here's what reactivity is not, and I want to be clear about this: it's not the s
 
 ## The One Concept That Changes Everything: Threshold
 
-> **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I wish someone had explained threshold to me in year one. It would have saved Truck and me about six months of spinning our wheels.
 
 Your dog has a threshold, an invisible line. On one side of that line, your dog can see the trigger, feel some stress, but still think. Still respond to cues. Still take food. On the other side of that line, your dog is flooded. Brain offline. No amount of treat-waving or "watch me!" is going to reach them because the emotional brain has completely taken over.

@@ -45,8 +45,6 @@ A few commercial foods that consistently come up in low-fat feeding: Royal Canin
 
 ## Frequency and Portions: The Underrated Variable
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Smaller, more frequent meals reduce the spike in pancreatic enzyme output that follows eating. This isn't controversial in veterinary gastroenterology circles, even if it's rarely communicated clearly to owners.
 
 In practice, I recommend starting with four small meals daily during recovery from an acute episode, then moving to three meals per day for long-term maintenance. The research on exact frequency is somewhat mixed, honestly, but the physiological rationale is solid: the pancreas gets a smaller, steadier stimulus rather than a large bolus demand.

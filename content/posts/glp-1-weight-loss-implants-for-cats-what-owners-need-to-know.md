@@ -27,10 +27,6 @@ The implant approach is genuinely clever. Steady-state drug release avoids the p
 
 ## Why Feline Obesity Is a Bigger Problem Than Most Owners Admit
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 More than half of U.S. cats are classified as overweight or obese, according to the Association for Pet Obesity Prevention. That's not a "chunky cat" aesthetic situation. Excess weight in cats is directly linked to type 2 diabetes, hepatic lipidosis, osteoarthritis, and a shortened lifespan. The number of overweight cats has been climbing for years, and the standard veterinary prescription of "feed less, play more" has a poor track record in practice.
 
 The problem isn't owner laziness. Cats are extraordinarily good at demanding food, and the relationship between a cat and its owner often runs through the food bowl. Cats also have specific metabolic quirks: they're obligate carnivores with different insulin dynamics than dogs or humans, which is part of why veterinary researchers have been cautious about extrapolating human GLP-1 data directly to feline patients. GLP-1 receptors exist in cats, but their distribution and behavior aren't identical to humans, and appetite regulation in cats involves additional pathways that aren't fully mapped. The MEOW-1 trial is generating the species-specific data that has simply never existed before.

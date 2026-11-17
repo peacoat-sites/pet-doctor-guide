@@ -48,8 +48,6 @@ Neurological signs include muscle twitching (especially in the jaw and leg muscl
 | First Booster | 1 year | Once | At 12 months |
 | Maintenance | After 1 year | Every 1-3 years | Based on product and risk factors |
 
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I don't say this about everything. There are plenty of vaccines where the risk-benefit calculation is more nuanced, where geography and lifestyle matter more, where we in the veterinary community genuinely debate frequency and necessity. Distemper is not one of those.
 
 The distemper vaccine is part of the core combination vaccine typically called DHPP or DA2PP (covering distemper, adenovirus/hepatitis, parvovirus, and parainfluenza). The American Veterinary Medical Association lists it as one of the core vaccines every dog should receive, regardless of lifestyle. Current vaccination guidelines as of July 2026 recommend a puppy series starting at 6-8 weeks, given every 3-4 weeks until 16 weeks of age, with a booster at one year and then every 1-3 years depending on the product used and your dog's individual risk factors.

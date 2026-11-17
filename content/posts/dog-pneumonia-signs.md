@@ -43,10 +43,6 @@ Fungal pneumonia exists too (Blastomyces, Histoplasma, and others depending on y
 
 ## Signs That Mean Go Now vs. Signs That Mean Call Today
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Not every symptom carries the same urgency. The table below is based on standard triage logic used in veterinary emergency medicine:
 
 | Sign | Urgency | Why |

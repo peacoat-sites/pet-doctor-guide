@@ -49,8 +49,6 @@ Some dogs have more than one type, which complicates treatment. The point is, an
 
 ## Behavior Modification: The Non-Negotiable Core
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the hard truth most people don't want to hear: medication and supplements can reduce anxiety, but they don't teach your dog how to feel safe. Behavior modification does. It's slower, it requires consistency, and it absolutely works.
 
 The two primary techniques are desensitization and counter-conditioning, and they're almost always used together.

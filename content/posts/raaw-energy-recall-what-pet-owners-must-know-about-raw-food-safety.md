@@ -37,8 +37,6 @@ According to the FDA's May 22, 2026 advisory on the Raaw Energy recall, the cont
 
 ## The Bigger Picture: Why Raw Food Keeps Showing Up in Recalls
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This isn't Raaw Energy's first problem, and it's not the only raw food brand dealing with contamination this year. Early 2026 saw recalls of raw and freeze-dried products for Salmonella, and there have been multiple reports of vitamin D toxicity in raw products. According to VetStreet's compilation of 2026 recalls, raw and freeze-dried pet foods have been disproportionately represented, which tells you something important: the regulatory framework for raw pet food is different from traditional kibble, and the risk profile is genuinely higher.
 
 Raw food manufacturers aren't required to use heat treatment or other pathogen-killing processes the way traditional pet food companies are. They're relying on sourcing practices, sanitation protocols, and testing to keep products safe. When those systems fail, and they're failing more often now, contamination spreads quickly through what's supposed to be a complete diet. A contaminated kibble batch might affect one product line. A contaminated raw product, especially one marketed as a complete meal replacement, affects multiple SKUs and reaches customers before symptoms appear.

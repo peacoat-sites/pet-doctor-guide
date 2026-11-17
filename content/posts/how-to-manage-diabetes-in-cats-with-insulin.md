@@ -41,10 +41,6 @@ Most diabetic cats have Type 2 diabetes, which is different from how many people
 | Glargine | Lantus, Basaglar | U-100 | Gold standard | Supports tight glucose control and remission in newly diagnosed cats |
 | PZI | ProZinc | U-40 | Common alternative | Different metabolism; do not substitute without veterinary guidance |
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Not all insulins are the same, and the type your vet prescribes matters more than most owners realize. The two most commonly used in cats right now are glargine (Lantus or Basaglar) and PZI (ProZinc). As of July 2026, glargine is still the gold standard at most feline specialty practices, largely because research supports its ability to achieve tighter glucose control and even remission in newly diagnosed cats.
 
 Here's what I wish someone had told me to tell owners earlier in my career: **do not substitute insulin types without talking to your vet.** I made the mistake once of not emphasizing this strongly enough, and an owner switched from ProZinc to an over-the-counter human NPH insulin because it was cheaper. Her cat crashed. NPH metabolizes differently in cats and the dosing doesn't translate directly. [PetMD's veterinary resource library](https://www.petmd.com/) has a good breakdown of insulin types if you want to read more on the pharmacology.

@@ -30,10 +30,6 @@ The AVMA has been tracking confirmed feline cases across 18 U.S. states, and the
 
 ## Raw Pet Food Is a Real and Active Exposure Route
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is the part that isn't getting nearly enough attention. Raw and freeze-dried [raw pet](/raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/) foods, particularly those containing poultry, represent a confirmed transmission pathway from infected flocks to household cats. The FDA issued a safety notice in September 2025 about RAWR raw cat food. Go Raw / Quest Cat Food had recalls in 2026 tied to both low thiamine and H5N1 contamination concerns. These aren't theoretical risks; they're documented events with real product names and dates.
 
 Vethelpdirect.com put it plainly in a June 29, 2026 article: stopping raw poultry and raw dairy is the single most effective household risk-reduction step an owner can take. That's not a vague suggestion. It's a ranked recommendation, and I agree with it. If you're currently feeding a raw or freeze-dried raw diet, check the brand against current FDA recall notices and seriously consider switching to a commercially prepared cooked diet until the situation stabilizes.
@@ -77,10 +73,10 @@ The cat-to-human transmission signal in that May 2026 CDC report is a line being
 ## Sources
 
 - [CDC MMWR: Serologic Evidence of H5N1 Infection in Vet Professional Exposed to Infected Cat](https://www.cdc.gov/mmwr/volumes/75/wr/mm7517a1.htm) (May 7, 2026)
-- [dvm360: 2026 AVMA Convention Sessions ,  H5N1 in Cats Panel](https://www.dvm360.com/view/dvm360-guide-to-2026-avma-convention-sessions-worth-your-time-in-anaheim) (July 13, 2026)
+- [dvm360: 2026 AVMA Convention Sessions, H5N1 in Cats Panel](https://www.dvm360.com/view/dvm360-guide-to-2026-avma-convention-sessions-worth-your-time-in-anaheim) (July 13, 2026)
 - [AVMA: Avian Influenza A (H5N1) in Cats](https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza/avian-influenza-h5n1-cats) (Updated 2026)
 - [Vet Help Direct: How Much of a Risk Are Cats in Spreading Bird Flu?](https://vethelpdirect.com/vetblog/2026/06/29/how-much-of-a-risk-are-cats-in-spreading-bird-flu/) (June 29, 2026)
-- [ASPCA: Bird Flu and Cats ,  What You Need to Know](https://www.aspca.org/news/bird-flu-and-cats-what-you-need-know) (2026)
+- [ASPCA: Bird Flu and Cats, What You Need to Know](https://www.aspca.org/news/bird-flu-and-cats-what-you-need-know) (2026)
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
 

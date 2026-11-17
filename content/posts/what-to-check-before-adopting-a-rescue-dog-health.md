@@ -41,8 +41,6 @@ Also ask how long the dog has been there. Dogs housed in shelters for more than 
 
 ## Do Your Own Physical Assessment
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You don't need a veterinary degree to notice the obvious. Run through this before you fall in love with a set of ears or a wagging tail.
 
 **Eyes:** Clear, symmetric, no discharge. Cloudiness in a young dog warrants follow-up. Some discharge in the corner of the eye is normal. Green or yellow goop is not.

@@ -30,8 +30,6 @@ Dogs with boredom-based destructive behavior usually eat while you're gone. They
 
 ## The Treatment Framework: You Need More Than One Tool
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people who come in convinced they just need the right training video or the right supplement: separation anxiety at the moderate-to-severe level requires a multi-pronged approach. Behavior modification is the foundation. Medication is often the bridge that makes behavior modification possible. Environmental management keeps everyone sane while you work through it.
 
 **Behavior modification** means systematic desensitization and counter-conditioning. You teach the dog that your departure predicts something good, and you do it in tiny, slow increments. The gold standard protocol was developed by applied animal behaviorist Malena DeMartini, and her book *Treating Separation Anxiety in Dogs* is the most practical resource I've ever recommended to a client. Not because I get anything for saying so, but because it's actually structured around what works. Her approach involves staying below the dog's anxiety threshold the entire time, which means departures of two seconds before working up to five. It is slow. It feels impossibly slow. It works.

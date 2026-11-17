@@ -32,8 +32,6 @@ This is not the time to squeeze in a quick telemedicine check. The [physical exa
 
 ## The Return Trip Is a Separate Problem
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What most people don't realize is that this isn't just a one-way paperwork issue. Dogs returning to the U.S. from Mexico need a screwworm-freedom certification completed by an authorized veterinarian in Mexico, also within five days of your return travel date. So you need to identify a vet in Mexico who can complete this before you head home, according to both AVMA and Dogster's July 2026 reporting on the requirement.
 
 If you're visiting a resort town or a major city, this is probably manageable. If you're doing a remote camping trip in Baja or the Yucatán backcountry, "find a local vet in the last few days of your trip" is a real logistical challenge. I'd strongly recommend calling ahead to veterinary clinics near your destination before you leave the U.S. and confirming they're familiar with the new requirement and can issue the certificate. Don't assume every clinic will know exactly what document Mexico and USDA are looking for right now.

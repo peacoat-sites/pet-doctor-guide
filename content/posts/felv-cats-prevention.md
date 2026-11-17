@@ -40,8 +40,6 @@ That said, prevention is still the move. A preventable disease you didn't preven
 
 ## The Vaccine: Good, But Not the Whole Story
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's a FeLV vaccine, and it works reasonably well. It's not perfect. The AAHA vaccine guidelines classify it as a "non-core" vaccine, meaning it's recommended based on lifestyle risk rather than universally for all cats. But I'd argue that designation leads some owners to skip it when they shouldn't.
 
 My honest take: if your cat goes outside at all, even occasionally, or if you have a multi-cat household where one cat has outdoor access, your cat should be vaccinated. Period. "He mostly stays inside" is not the same as "he never goes outside," and one escape or one new cat introduction can change everything.

@@ -39,8 +39,6 @@ Here's one more: "complete and balanced" is a meaningful claim. A food can only 
 
 ## The Good Stuff: Ingredients Worth Seeing on That List
 
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all ingredients require suspicion. Many are genuinely beneficial, and knowing them helps you filter signal from noise.
 
 **Named meat proteins** are the gold standard. Chicken, salmon, beef, turkey, lamb. When you see a specific animal listed rather than something vague like "meat," that's a point in the food's favor. Deboned chicken and chicken meal are both fine options. Chicken meal is actually more protein-dense than deboned chicken because the water has already been removed. A food with chicken meal in the top three ingredients often has more actual protein than one where deboned chicken appears first.

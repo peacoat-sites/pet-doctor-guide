@@ -45,10 +45,6 @@ A common misconception worth correcting: many people assume that switching insur
 
 ## The options that actually exist
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The honest answer is that the market is thin. No insurer in the U.S. currently offers a standard policy that covers chronic, incurable pre-existing conditions. What does exist falls into a few real categories.
 
 **Curable condition coverage after a symptom-free period.** Embrace Pet Insurance and ASPCA Pet Health Insurance are among the insurers that explicitly offer this pathway. Under Embrace's policy structure, curable conditions may become eligible for coverage after your pet has gone 12 months without symptoms, treatment, or medication for that condition. ASPCA Pet Health Insurance has a similar approach. The exact terms matter, so read the sample policy documents before you buy, not the marketing summary page.

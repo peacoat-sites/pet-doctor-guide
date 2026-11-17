@@ -39,8 +39,6 @@ The honest answer is: your dog's specific condition determines the schedule more
 
 ## How Often, by Condition
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's a reference table. These ranges come from the [AAHA hospital accreditation standards](https://www.aaha.org/) dermatology guidelines.
 
 | Skin Condition | Typical Bath Frequency | Shampoo Type | Notes |

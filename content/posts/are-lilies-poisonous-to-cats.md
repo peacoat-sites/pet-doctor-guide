@@ -56,8 +56,6 @@ And then there are plants with "lily" in the name that aren't true lilies at all
 
 ## What Kidney Failure Actually Looks Like
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The progression is deceptive, and that's what makes lily toxicity so dangerous.
 
 In the first hour or two after ingestion, you might see vomiting, drooling, and lethargy. Then, for a few hours, a lot of cats seem to recover. They perk back up. They want to eat. Owners relax. This is the window where I've seen people lose their cats, because they assumed the crisis had passed.

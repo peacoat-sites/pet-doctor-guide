@@ -27,8 +27,6 @@ Dr. Kathryn Reif, lead author at Auburn University's College of Veterinary Medic
 
 ## The Lone Star Tick Problem Nobody Is Talking About Enough
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest, when most people picture dangerous ticks, they think deer ticks and Lyme. The lone star tick doesn't get the same press coverage, but it probably should. This tick, historically concentrated in the South and Mid-Atlantic, is aggressive. It will actively pursue a host rather than simply waiting on a blade of grass. And it's now showing up in states where veterinary clinics aren't used to flagging ehrlichiosis as a likely diagnosis.
 
 Ehrlichiosis in dogs can look like a lot of things. Lethargy, fever, poor appetite, sometimes bleeding problems in more advanced cases. The insidious part is that it often gets missed early because the clinical signs are vague and a vet in, say, Wisconsin or Vermont might not immediately think to run a tick panel when they're seeing a dog with a mild fever in July. That diagnostic lag is exactly where disease spreads and animals suffer longer than they need to.

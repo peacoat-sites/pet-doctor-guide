@@ -72,8 +72,6 @@ The feeding guides on bags are calibrated for active adult dogs at maintenance, 
 
 The practical tools: a kitchen scale (not a measuring cup, which is notoriously imprecise), a feeding log for the first few weeks, and a storage container with a measured scoop. Get a basic digital kitchen scale like an OXO Good Grips, around $15. It'll do more for your dog's weight loss than almost anything else you could buy.
 
-> **Helpful resource:** [OXO Good Grips Digital Scale](https://www.amazon.com/dp/B079LVTY7G?tag=contentportfo-20) *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Treats count. A dog eating correctly portioned high-protein kibble can still gain weight on a few Milk-Bones and chicken scraps from dinner every day. Use a portion of the day's kibble ration as training treats, or switch to low-calorie options like plain cooked green beans or baby carrots.
 
 ## When to Loop in Your Vet (and What to Ask Them)

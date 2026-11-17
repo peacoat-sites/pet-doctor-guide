@@ -43,8 +43,6 @@ Dry skin, contact irritants (new laundry detergent on your dog's bedding, for in
 
 ## How to Actually Assess the Scratching at Home
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before you do anything else, look at the skin, not just the behavior. Part the fur and look at what's underneath.
 
 Normal skin under a scratching dog should be pink and intact. What you don't want to see: redness, thickening, greasiness, hair loss, scabs, or a smell. A yeasty, corn-chip smell points toward Malassezia (yeast infection). A foul, pustule-heavy presentation points toward bacterial pyoderma. Both of these are secondary infections, meaning something else caused the scratching and the infection moved in afterward. They need prescription treatment.

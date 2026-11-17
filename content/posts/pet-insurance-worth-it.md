@@ -108,8 +108,6 @@ A few practical steps when shopping:
 4. Ask whether premiums increase with age and by how much. Some plans increase steeply once a dog hits 7 or 8 years old.
 5. Check whether wellness care (vaccines, annual exams, flea prevention) is included or available as an add-on. These "wellness plans" are often not true insurance but prepaid care packages, and their value varies.
 
-> **Helpful resource:** [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) is worth having at home regardless of your insurance decision. Handling minor wounds, monitoring vitals, and knowing when something needs emergency care can genuinely make a difference. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Wellness Plans vs. Insurance: Don't Confuse Them
 
 This matters and I see it confused constantly.

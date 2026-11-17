@@ -30,8 +30,6 @@ That timeline matters enormously for how you respond. This is not a "watch it ov
 
 ## Who's Actually at Risk Right Now
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The AKC Canine Health Foundation, in a June 11, 2026 article, identified free-roaming dogs, strays, transported animals, and recently rescued dogs as carrying the highest risk, because they're more likely to have undetected wounds and less likely to have received routine preventatives. If you foster, rescue, or work with a rescue organization in Texas or New Mexico [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/), this is the group you need to be most worried about.
 
 That said, any dog with an open wound, including a surgical incision, a tick-bite lesion, a small cut, a hot spot, or a skin fold infection, is potentially vulnerable if flies have access to them. Outdoor dogs are more exposed than indoor dogs, but the AKC guidance doesn't let indoor dogs fully off the hook if they spend time outside.

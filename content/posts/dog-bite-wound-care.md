@@ -39,8 +39,6 @@ Here's the counterintuitive bit: scratches and lacerations are actually less wor
 
 ## Assessing the Wound Before You Do Anything Else
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Stop and look before you grab the hydrogen peroxide (which, by the way, you shouldn't use on wounds).
 
 Four questions to ask yourself:

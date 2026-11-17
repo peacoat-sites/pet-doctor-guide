@@ -34,8 +34,6 @@ The vaccine uses Elanco's PureFil Technology, which is designed to reduce unwant
 
 *Source: Elanco TruCan Ultra Lyme-L4 approval announcement, June 2026*
 
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The efficacy data on this vaccine stands out among recent launches. According to Elanco's announcement via PR Newswire, TruCan Ultra Lyme vaccines showed 92.2% efficacy against natural infection in highly endemic areas. That's real-world performance, not a controlled lab bubble. And in laboratory challenge studies, efficacy was 100%.
 
 What most people don't realize is that those two numbers together actually tell a meaningful story. The lab challenge number shows the vaccine works under ideal conditions. The 92.2% natural infection figure shows it holds up when dogs are actually out in the world, in environments where tick pressure is heavy and exposure is consistent. For dogs in the Northeast, upper Midwest, or anywhere that Lyme has become genuinely endemic, that field efficacy number is the one that matters most for day-to-day life.

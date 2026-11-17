@@ -41,8 +41,6 @@ B-cell vs. T-cell designation is the other thing you need to understand early. B
 
 ## Signs and When to Call Your Vet
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Swollen lymph nodes that you can feel externally are the most reliable early sign for multicentric disease. Run your fingers along both sides of your dog's jaw, in front of their shoulder, and behind their knees every few months. You're looking for anything larger than a marble that wasn't there before.
 
 Other signs that warrant a call (not an ER visit, but a call Monday morning at the latest):

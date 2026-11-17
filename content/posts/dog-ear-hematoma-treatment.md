@@ -43,8 +43,6 @@ I made this assumption myself early in my career, actually. I had a client with 
 
 ## When to Go to the Emergency Vet vs. Wait for Monday
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is what you actually want to know.
 
 Go to an emergency clinic tonight if your dog has a fever (normal is 99.5 to 102.5°F), if the ear feels hard rather than squishy, if there's any visible wound or bleeding from the ear, or if your dog is so distressed that he won't stop crying or scratching. Any of those shift the calculus.

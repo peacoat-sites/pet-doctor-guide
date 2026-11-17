@@ -21,7 +21,7 @@ Here's how it unfolded. On February 17, 2026, Go Raw LLC recalled one lot of Que
 This matters because thiamine deficiency in cats doesn't look like obvious poisoning. It can look like clumsiness. Or a tilted head. Or a cat who just seems "off" before things get serious fast.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Go Raw LLC recalled Quest Cat Food lots starting February 17, 2026, for failing minimum thiamine requirements.</li><li style="margin:5px 0">The recall expanded June 8, 2026, to Steve's Real Food lot C26022 (best-by Jan. 22, 2028), in 21 states.</li><li style="margin:5px 0">Early signs of thiamine deficiency include vomiting, appetite loss, and neck drooping ,  not just neurological collapse.</li><li style="margin:5px 0">Cats need more dietary thiamine than dogs, making them uniquely vulnerable to raw food thiamine shortfalls.</li><li style="margin:5px 0">When caught early, thiamine deficiency is generally reversible with veterinary treatment.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Go Raw LLC recalled Quest Cat Food lots starting February 17, 2026, for failing minimum thiamine requirements.</li><li style="margin:5px 0">The recall expanded June 8, 2026, to Steve's Real Food lot C26022 (best-by Jan. 22, 2028), in 21 states.</li><li style="margin:5px 0">Early signs of thiamine deficiency include vomiting, appetite loss, and neck drooping, not just neurological collapse.</li><li style="margin:5px 0">Cats need more dietary thiamine than dogs, making them uniquely vulnerable to raw food thiamine shortfalls.</li><li style="margin:5px 0">When caught early, thiamine deficiency is generally reversible with veterinary treatment.</li></ul></div>
 
 
 ## Why Cats Are Especially Vulnerable to This
@@ -31,10 +31,6 @@ Cats have a higher dietary thiamine requirement than dogs, and they can't store 
 The other piece is that thiamine deficiency hits the nervous system. We're talking about ventroflexion, which is that characteristic downward drooping of the neck that vets recognize immediately. We're talking about wobbly, uncoordinated walking. Circling. Seizures. Without treatment, it can be fatal. What makes this especially painful for cat owners is that the [early signs](/early-signs-of-heart-disease-in-small-breed-dogs/), vomiting, appetite loss, that subtle head tilt or neck droop, can look like a dozen other things. Hairball. Upset stomach. "Just an off day." A cat can look unwell for days before anyone connects it to the food.
 
 ## How to Check If Your Food Is Affected
-
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Pull out whatever raw or freeze-dried cat food you have and check the brand name, product name, and lot code against the FDA recall notices directly. Don't rely on a retailer's website being current. The FDA recall page for the June 8 expansion specifically names Steve's Real Food Freeze-Dried Chicken Recipe, lot code C26022, best-by January 22, 2028. For the Quest products, the February 26 FDA notice lists the specific lots involved.
 
@@ -66,11 +62,11 @@ The 2026 recalls aren't a reason to panic. They are a reason to check your lot c
 
 ## Sources
 
-- [FDA ,  Go Raw LLC Expands Voluntary Recall to Include One Lot of Steve's Real Food Freeze-Dried Chicken Recipe Due to Low Thiamine](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/go-raw-llc-expands-voluntary-recall-include-one-lot-steves-real-food-freeze-dried-chicken-recipe-due) (June 8, 2026)
-- [FDA ,  Go Raw LLC Expands Voluntary Recall of Quest Diet Cat Food Products Due to Low Thiamine Levels](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/go-raw-llc-expands-voluntary-recall-quest-diet-cat-food-products-due-low-thiamine-levels-and-enacts) (February 26, 2026)
-- [Pet Food Industry ,  Go Raw Expands Recall to Steve's Real Food Due to Low Thiamine Levels](https://www.petfoodindustry.com/safety-quality/pet-food-recalls/news/15827170/go-raw-expands-recall-to-steves-real-food-due-to-low-thiamine-levels) (June 9, 2026)
-- [Yahoo Life ,  Popular Cat Food Brand Recalled Nationwide Over Serious Health Risk](https://www.yahoo.com/lifestyle/articles/popular-cat-food-brand-recalled-045000203.html) (February 2026)
-- [The Cooldown ,  US Pet Food Recalls Hit 10 in 2026](https://www.thecooldown.com/sustainable-food/pet-food-recalls-2026-simple-step/) (July 27, 2026)
+- [FDA, Go Raw LLC Expands Voluntary Recall to Include One Lot of Steve's Real Food Freeze-Dried Chicken Recipe Due to Low Thiamine](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/go-raw-llc-expands-voluntary-recall-include-one-lot-steves-real-food-freeze-dried-chicken-recipe-due) (June 8, 2026)
+- [FDA, Go Raw LLC Expands Voluntary Recall of Quest Diet Cat Food Products Due to Low Thiamine Levels](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/go-raw-llc-expands-voluntary-recall-quest-diet-cat-food-products-due-low-thiamine-levels-and-enacts) (February 26, 2026)
+- [Pet Food Industry, Go Raw Expands Recall to Steve's Real Food Due to Low Thiamine Levels](https://www.petfoodindustry.com/safety-quality/pet-food-recalls/news/15827170/go-raw-expands-recall-to-steves-real-food-due-to-low-thiamine-levels) (June 9, 2026)
+- [Yahoo Life, Popular Cat Food Brand Recalled Nationwide Over Serious Health Risk](https://www.yahoo.com/lifestyle/articles/popular-cat-food-brand-recalled-045000203.html) (February 2026)
+- [The Cooldown, US Pet Food Recalls Hit 10 in 2026](https://www.thecooldown.com/sustainable-food/pet-food-recalls-2026-simple-step/) (July 27, 2026)
 
 *Photo: [Doğan Alpaslan  Demir](https://www.pexels.com/@izafi) via Pexels*
 

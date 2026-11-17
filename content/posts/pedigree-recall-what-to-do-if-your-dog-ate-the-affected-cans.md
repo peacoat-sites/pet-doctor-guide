@@ -30,10 +30,6 @@ Call Pedigree's consumer line at **1-800-525-5273** to report the can and reques
 
 ## What the Risks Actually Mean for Your Dog
 
-> **Helpful resource:** [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The FDA's warning specifically names three concerns: choking, gastrointestinal lacerations, and intestinal blockages. Here's what that looks like in plain terms.
 
 Sharp fragments don't always cause immediate, dramatic symptoms. A small shard can scrape the esophagus or stomach lining and cause bleeding that shows up slowly, as dark or tarry stool, or not at all at first. A piece that makes it into the small intestine can lodge there and create a partial or complete blockage over hours or days.

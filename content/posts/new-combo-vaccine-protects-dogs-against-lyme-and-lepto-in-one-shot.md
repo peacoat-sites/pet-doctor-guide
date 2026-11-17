@@ -36,8 +36,6 @@ The efficacy numbers are strong. According to the Elanco press release, the vacc
 
 ## The Gap This Is Filling Is Bigger Than You'd Think
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 According to Elanco, over 40% of at-risk dogs in Lyme-endemic states don't have a current Lyme vaccine, even though they've received their core vaccines on schedule. This gap typically isn't due to owner neglect.
 
 What tends to happen is that Lyme and lepto have historically required separate appointments, separate charges, and sometimes separate conversations with a vet who may or may not bring it up proactively. Lyme is often framed as a "lifestyle" vaccine, meaning it gets recommended based on individual risk assessment rather than universally. If your vet doesn't know you hike on wooded trails every weekend, or if your dog mostly stays in the backyard in a suburban area that borders conservation land, you might have slipped through without it.

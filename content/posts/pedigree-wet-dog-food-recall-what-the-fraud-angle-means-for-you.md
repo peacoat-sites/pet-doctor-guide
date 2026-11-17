@@ -28,10 +28,6 @@ Mars has not publicly disclosed which specific retailers or regions received the
 
 ## What You're Actually Looking For
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Check the bottom of the can. The lot codes are 613C3KKCFC and 613C1KKCFC. The product is the 13.2 oz can of High Protein Chopped Chicken & Duck Flavor specifically. Not all Pedigree canned food is involved. Other sizes and flavors are not part of this recall.
 
 If you have these cans: don't open them, don't feed them, don't try to pick through for fragments. Metal and plastic contamination in canned food is not something you can spot by looking. Return them to the retailer for a refund or contact Mars directly.
@@ -72,11 +68,11 @@ The two lot codes in this recall are narrow. The accountability gap they exposed
 
 ## Sources
 
-- [FDA ,  Voluntary Recall of Two Lots of PEDIGREE Can High Protein Chopped Chicken & Duck Flavor Wet Dog Food](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due) (July 2, 2026)
-- [Medical Daily ,  Pedigree Dog Food Recall Issued After Metal and Plastic Fragments Were Found in Canned Products](https://www.medicaldaily.com/pedigree-dog-food-recall-metal-plastic-mars-petcare-july-2026-476009) (July 9, 2026)
-- [Fox Business ,  Pedigree dog food recalled over metal and plastic contamination risk](https://www.foxbusiness.com/economy/popular-pet-food-recalled-over-possible-sharp-metal-plastic-contamination) (July 7, 2026)
-- [KPLC TV ,  Pedigree dog food recalled for possible metal and plastic contamination](https://www.kplctv.com/2026/07/03/pedigree-dog-food-recalled-possible-metal-plastic-contamination/) (July 3, 2026)
-- [AVMA ,  Recalls/Safety Alerts Search](https://www.avma.org/news/recalls-alerts) (Ongoing / updated July 2026)
+- [FDA, Voluntary Recall of Two Lots of PEDIGREE Can High Protein Chopped Chicken & Duck Flavor Wet Dog Food](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due) (July 2, 2026)
+- [Medical Daily, Pedigree Dog Food Recall Issued After Metal and Plastic Fragments Were Found in Canned Products](https://www.medicaldaily.com/pedigree-dog-food-recall-metal-plastic-mars-petcare-july-2026-476009) (July 9, 2026)
+- [Fox Business, Pedigree dog food recalled over metal and plastic contamination risk](https://www.foxbusiness.com/economy/popular-pet-food-recalled-over-possible-sharp-metal-plastic-contamination) (July 7, 2026)
+- [KPLC TV, Pedigree dog food recalled for possible metal and plastic contamination](https://www.kplctv.com/2026/07/03/pedigree-dog-food-recalled-possible-metal-plastic-contamination/) (July 3, 2026)
+- [AVMA, Recalls/Safety Alerts Search](https://www.avma.org/news/recalls-alerts) (Ongoing / updated July 2026)
 
 ---
 

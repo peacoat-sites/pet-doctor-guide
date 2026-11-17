@@ -46,8 +46,6 @@ The drug is primarily cleared by the kidneys, which matters if your dog has any 
 
 ## What Vets Actually Use It For
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where it gets interesting, because the list is longer than most owners realize.
 
 **Chronic pain**, especially neuropathic pain, is probably the most common use. Dogs with degenerative joint disease, intervertebral disc disease (IVDD), or spinal cord injuries often have a nerve pain component that [NSAIDs like Carprofen or Galliprant](/dog-nsaid-risks/) don't fully address. Gabapentin fills that gap. It can make a meaningful difference in dogs on adequate NSAID dosing who still seem uncomfortable.

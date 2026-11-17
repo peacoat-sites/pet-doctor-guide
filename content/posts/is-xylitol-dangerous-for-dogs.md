@@ -43,8 +43,6 @@ Why are dogs uniquely sensitive? Humans, cats, and most other mammals don't rele
 
 ## What Actually Contains Xylitol (The List That Surprises People)
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I want to slow down, because the public conversation about xylitol is still largely stuck on "sugar-free gum," and that framing is dangerously outdated.
 
 The shift happened gradually over the last several years as xylitol became a popular sugar substitute marketed as beneficial for [dental health](/small-breed-dental-health-dogs/). As of 2026, you'll find it in:

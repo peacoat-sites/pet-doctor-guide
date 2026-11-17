@@ -48,8 +48,6 @@ Bright red blood is the one that sends me straight into "call your vet right now
 
 ## Hairballs: Way Overhyped as a Diagnosis
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's something I genuinely believe most people get wrong: hairballs are not a normal, expected part of cat life that you just shrug off. I spent years watching clients say "oh, he just does that" when their cat was vomiting hairballs two or three times a week, and what some of those cats actually had was inflammatory bowel disease or early lymphoma that we caught way later than we should have.
 
 Occasional hairballs, meaning a few times a year, in a longhaired cat who grooms a lot? Fine. That's real. More than once a month is too frequent, and it warrants a conversation with your vet. The American Veterinary Medical Association reinforces that frequent hairballs can indicate underlying GI inflammation rather than just normal grooming behavior, which is worth knowing.

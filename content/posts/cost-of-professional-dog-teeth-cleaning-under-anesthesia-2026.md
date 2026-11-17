@@ -62,8 +62,6 @@ Look at that $850 estimate differently. Mentally break it into those pieces. You
 
 ## Why "Anesthesia-Free" Is Not the Answer
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Anesthesia-free dental cleanings are cosmetic. Not medical. I'm saying that plainly because it matters.
 
 Dogs that have undergone years of anesthesia-free cleanings can appear to have clean teeth while suffering serious bone loss underneath. Both the [AVMA](https://www.avma.org/) and the American Veterinary Dental College state explicitly that anesthesia-free dentals don't allow for subgingival cleaning (that's below the gumline, where disease actually lives), diagnostic X-rays, or proper assessment of pocket depths. They also stress the animal through restraint.

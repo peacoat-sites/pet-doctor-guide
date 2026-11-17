@@ -30,8 +30,6 @@ The delivery method for OKV-119 is worth noting. It's a subcutaneous implant, no
 
 ## What These Drugs Are Not (Yet)
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Pump the brakes before you call your vet asking for a GLP-1 prescription. These drugs are not FDA-approved. They are not commercially available. Every cat currently receiving them is enrolled in a controlled clinical trial, and that's the only legal avenue right now. There is no compounded version of AKS-562c your vet can order. OKV-119 is not at your local veterinary pharmacy.
 
 The reason I'm spelling this out: human GLP-1 drugs are already being requested for pets by owners who've read half an article. Semaglutide and tirzepatide are dosed by body weight for humans who weigh 150 to 300 pounds. The math does not translate cleanly to a 15-pound cat, and the safety profile in cats is entirely unknown. Do not try this. Seriously. The fact that something works in one species at one dose tells you almost nothing about what it does in a different species at a scaled dose.

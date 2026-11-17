@@ -60,8 +60,6 @@ Understanding the trigger is half the solution. Cats are territorial, routine-de
 
 **Outdoor stressors** the owner can't always see include neighborhood cats visible through windows, wildlife, construction noise nearby, or a barking dog next door. The cat is reacting to something, even if you're not sure what.
 
-> **Helpful resource:** [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20) (~$32) is a solid option for emergencies. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Stress and Urinary Problems: The Connection You Need to Know
 
 This link matters enough to deserve its own section. Feline idiopathic cystitis (FIC), often called stress cystitis, is a condition where stress directly causes inflammation in the bladder without any infection present. The cat strains to urinate, may have blood in the urine, and often stops using the litter box entirely. You can read more about the signs in our piece on [cat urinary tract infection signs](/cat-urinary-tract-infection-signs/), but be aware that stress-triggered cystitis isn't technically an infection and won't respond to antibiotics.

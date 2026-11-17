@@ -40,8 +40,6 @@ Breathing can shift too. Rapid, shallow breathing in a cat that's resting is a r
 
 ## The Behavioral Shifts That Most Owners Miss
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A painful cat often becomes suddenly affectionate, or suddenly antisocial. Either direction can signal pain. Seeking warmth and contact is a pain behavior. Withdrawing completely is a pain behavior. Both warrant a vet visit.
 
 Aggression when you touch a specific area. This is so commonly dismissed as "she's just cranky." If your cat was fine with being petted along her back yesterday and today she twists around to bite your hand when you touch her lower spine, that's pain until proven otherwise.

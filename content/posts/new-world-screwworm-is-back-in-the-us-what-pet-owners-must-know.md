@@ -25,8 +25,6 @@ According to the AVMA's current resource hub, this condition can escalate quickl
 
 ## Where Is the Outbreak Right Now and Who's at Risk
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of mid-June 2026, confirmed cases are concentrated in southern Texas and New Mexico. Texas A&M's Veterinary Emergency Team deployed 12 members on June 13, 2026, to support Texas Animal Health Commission field operations, which tells you something about how seriously state authorities are treating this. This isn't a quiet monitoring situation. There are boots on the ground.
 
 The honest answer on geographic spread is that we don't fully know where this is heading. The screwworm fly can travel. The original eradication effort in the 1960s worked by releasing sterile male flies to suppress reproduction, and USDA is already talking about reinstating that strategy. But that takes time, and right now the outbreak is active and growing.

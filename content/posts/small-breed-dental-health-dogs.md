@@ -54,8 +54,6 @@ There's also a diet factor most people don't think about. Small breed dogs are o
 
 ## What Home Care Actually Looks Like
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's my genuinely unpopular opinion: daily toothbrushing is the only home care method that makes a meaningful clinical difference, and everything else is supplemental at best. I know that's not what people want to hear. Dental chews are more fun to buy. Water additives feel effortless. But the research backs up brushing, and nothing else comes close.
 
 That said, many small-breed owners struggle with resistance to tooth brushing. Dogs often resist the toothbrush at first, but conditioning over a few weeks can help them accept it.

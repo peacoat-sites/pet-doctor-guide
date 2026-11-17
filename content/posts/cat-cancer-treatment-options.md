@@ -44,8 +44,6 @@ Let me walk you through what the actual options look like.
 
 ## What Palliative Care Actually Means
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the part of the conversation that gets avoided too often: sometimes the goal isn't treatment. It's comfort.
 
 Palliative care means managing pain, maintaining appetite, preserving quality of life for as long as possible, without trying to shrink or eliminate the cancer. This is not giving up. For a 17-year-old cat with a stage IV tumor and concurrent [kidney disease](/cat-kidney-disease-diet/), aggressive chemo might cause more suffering than the cancer itself over the same timeframe. Palliative care is a legitimate, thoughtful choice. Buprenorphine, meloxicam (used carefully given kidney function), appetite stimulants like mirtazapine, anti-nausea medications like ondansetron. These tools matter.

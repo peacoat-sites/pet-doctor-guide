@@ -43,10 +43,6 @@ Bacterial infections, most commonly *Bordetella bronchiseptica* or *Mycoplasma* 
 
 ## Household Irritants: The Overlooked Cause
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Cats have a far more sensitive sense of smell than humans, and products that smell mild to us can be genuinely noxious to them. Products that smell mild to us can be genuinely noxious to them. Plug-in air fresheners, scented candles, aerosol cleaning sprays, cigarette smoke, and even some essential oil diffusers can trigger sneezing that looks exactly like an infection.
 
 The diagnostic test here is free and takes about a week: remove the suspected irritant from the room where your cat spends most of its time and watch what happens. If sneezing stops or significantly improves within a few days, you have your answer. No [vet visit](/cat-annual-vet-visit-what-to-expect/) needed.

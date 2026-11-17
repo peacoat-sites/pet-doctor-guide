@@ -28,10 +28,6 @@ The peer-reviewed literature backs this up. A 2018 review published in the Journ
 
 ## What Thiamine Deficiency Actually Looks Like in a Cat
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is the part I want owners to know cold, because the signs can look like other things, and time genuinely matters here.
 
 Early signs tend to be subtle: reduced appetite, some lethargy, maybe a slight wobble you chalk up to a clumsy moment. Then things escalate. Advanced thiamine deficiency in cats causes a very specific neurological picture.

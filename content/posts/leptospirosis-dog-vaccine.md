@@ -42,8 +42,6 @@ That said, the risk isn't zero. Small breed dogs under 10 pounds, particularly D
 
 ## Who Actually Needs This Vaccine?
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The [AAHA canine vaccination guidelines](https://www.aaha.org/) categorize leptospirosis as a "non-core" vaccine, meaning it's recommended based on risk rather than universally. The "non-core" label can mislead owners into assuming their dog doesn't need it, but that classification depends on individual risk factors.
 
 Risk factors that genuinely push a dog into "vaccinate this one" territory:

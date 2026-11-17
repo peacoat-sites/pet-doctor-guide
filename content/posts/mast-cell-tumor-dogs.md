@@ -43,8 +43,6 @@ The degranulation risk also explains why you'll sometimes hear "don't manipulate
 
 ## Grading: The Number That Changes Everything
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 For a long time, the veterinary pathology world used a three-tier Patnaik grading system (Grade I, II, III). As of the past decade, a two-tier system proposed by Kiupel has become more common at academic centers and specialty practices. The two-tier system classifies MCTs as either low-grade or high-grade, and research has shown it's actually more predictive of outcome than the older three-tier approach.
 
 Here's how prognosis breaks down in practical terms:

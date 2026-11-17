@@ -45,8 +45,6 @@ Dogs get ringworm too, but it's genuinely less common. When they do, the present
 
 ## Spotting It: What Ringworm Actually Looks Like (and What It Doesn't)
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where most articles fail you: they describe the classic textbook lesion, a neat circular patch of hair loss with a slightly red, scaly ring. That does happen. It's also not always what you see.
 
 In cats, the lesions are often irregular rather than perfectly circular. You might notice small, broken hairs, a moth-eaten look to the coat, or dry, flaky skin patches that look more like dandruff or mild seborrhea than anything alarming. Kittens tend to show more dramatic lesions because their immune systems aren't fully developed.

@@ -41,8 +41,6 @@ The tell for all three of these: the shaking stops when the trigger is removed. 
 
 ## Pain Is a Bigger Cause Than Most People Realize
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I see owners get it wrong most often, and I made this mistake myself early on. A dog shaking quietly in the corner, not crying, not limping, not refusing food, owners often assume that dog is fine because it's "not acting sick." But dogs hide pain remarkably well, and shaking is frequently the only outward sign.
 
 Spinal pain (especially in breeds like Dachshunds, Corgis, or French Bulldogs) often presents as trembling without any obvious lameness. Abdominal pain, whether from bloat, pancreatitis, or a foreign body obstruction, can cause generalized shaking along with a hunched posture and reluctance to move. Ear infections can produce head tremors specifically when the vestibular system gets involved.

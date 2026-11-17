@@ -53,8 +53,6 @@ A quick note on Tramadol in dogs: I used to recommend it more confidently, and a
 
 ## The NSAID Conversation Nobody Has Completely
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 NSAIDs are the workhorses. Carprofen, Meloxicam, Deracoxib, Grapiprant (Galliprant) -- these are usually the first pharmaceuticals a vet reaches for with orthopedic pain or post-surgical recovery, and they work well. Galliprant is worth singling out because it works through a different mechanism than traditional NSAIDs, causing less GI irritation in some dogs. It runs about $80-$110/month depending on dog size, so there's a real cost difference. Whether that's worth it depends on your dog's history with GI sensitivity.
 
 The bloodwork requirement is real, not just liability padding. Chronic NSAID use can quietly damage kidney and liver function before any outward symptoms appear. In my clinic years, we caught early-stage kidney changes in otherwise healthy-seeming dogs on long-term Carprofen at their 6-month recheck. Caught early, we adjusted the protocol and the dog was fine. Missed? That's a different story.

@@ -43,8 +43,6 @@ Companion this with the head position. A cat holding its head slightly lower tha
 
 ## Behavioral Changes That People Dismiss
 
-> **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most owners lose time, because the signs are so easy to rationalize.
 
 A cat that suddenly starts hiding under the bed when it normally greets you at the door. A cat who used to sleep on the couch next to you and now prefers the closet floor. A cat who has stopped jumping onto the kitchen counter (you might actually be relieved by this one, which is exactly the problem). A cat who flinches when you touch an area you've touched a thousand times before.

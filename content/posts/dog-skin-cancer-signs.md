@@ -51,8 +51,6 @@ Forget the generic "unusual lump or bump" description you've read everywhere. Le
 
 ## The Exam You Should Be Doing at Home
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once a month, run your hands over your dog's entire body. Not a quick scratch session, an actual deliberate pass from nose to tail. Include the space between toes (a spot that's easy to miss and where SCC and melanoma both like to appear), under the collar, inside the ear flaps, and along the belly and groin.
 
 When you find something, write down four things: the date, the location, the approximate size (a pea, a grape, a dime), and the texture (soft and movable, or firm and fixed to underlying tissue). Fixed-to-tissue is the detail that accelerates my concern more than size alone. A marble-sized lump that slides freely under skin is less worrying than a pencil-eraser-sized lump you can't move at all.

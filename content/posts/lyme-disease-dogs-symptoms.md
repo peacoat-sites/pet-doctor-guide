@@ -44,8 +44,6 @@ No bull's-eye rash in dogs, by the way. Ever. Dogs have fur and melanin distribu
 
 ## The Symptoms Most Owners Actually See
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The classic presentation is what vets sometimes call the "shifting-leg lameness." A dog will limp on the front right leg one day, seem fine the next, then start favoring the back left. It's episodic, it's confusing, and owners often assume their dog just tweaked something on a run. This pattern can go undiagnosed for weeks or months if owners attribute each episode to a new minor injury. By the time a dog receives a diagnosis, stiffness may be noticeable each morning, and climbing stairs may become difficult.
 
 Scenario: Lab with intermittent three-legged lameness, no known tick exposure, owner in suburban Connecticut → ran a 4Dx SNAP test at the annual exam → positive for *Borrelia* antibodies → started 30-day doxycycline course → lameness resolved within two weeks, retest at 6 months showed declining antibody levels.

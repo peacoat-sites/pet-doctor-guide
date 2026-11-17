@@ -48,8 +48,6 @@ Don't wait six weeks. The meniscus, a cartilage cushion inside the joint, often 
 | Extracapsular Repair | $1,500-2,500 | Dogs under 30 lbs; older or lower-activity dogs | 12-16 weeks |
 | Conservative Management | Minimal (rest + medication) | Dogs under 15-20 lbs; lower-activity dogs | Ongoing |
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most information online either oversimplifies or scares you into a decision. The actual situation is messier than that.
 
 **For dogs over 20-25 pounds, surgery is usually the right call.** The joint won't stabilize on its own, and the arthritis that follows untreated instability is genuinely debilitating. Research backs this up consistently: the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) and board-certified veterinary surgeons recommend surgical intervention for medium and large dogs.

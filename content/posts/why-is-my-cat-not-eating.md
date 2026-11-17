@@ -25,7 +25,7 @@ faqs:
     a: "Stage 1 plain meat baby foods (chicken, turkey, beef) in small amounts are a commonly used appetite lure and generally safe. The important caveat: check the ingredients list. Many baby foods contain onion or garlic powder, which are toxic to cats. Beech-Nut Stage 1 plain chicken has been a reliable option in my experience, but always read the label before offering it."
 ---
 
-Nearly 60% of cats who stop eating for more than 48 hours will develop some degree of hepatic lipidosis ,  fatty liver disease ,  according to data compiled by the American Animal Hospital Association. That number stopped me cold the first time I read it during a CE seminar years ago, because I'd been in the habit, along with a lot of pet owners I'd talked to, of treating a picky cat like a minor inconvenience rather than a potential medical emergency. A cat refusing food is not your cat being dramatic. It is your cat's body sending a signal, and the clock starts ticking faster than most people realize.
+Nearly 60% of cats who stop eating for more than 48 hours will develop some degree of hepatic lipidosis, fatty liver disease, according to data compiled by the American Animal Hospital Association. That number stopped me cold the first time I read it during a CE seminar years ago, because I'd been in the habit, along with a lot of pet owners I'd talked to, of treating a picky cat like a minor inconvenience rather than a potential medical emergency. A cat refusing food is not your cat being dramatic. It is your cat's body sending a signal, and the clock starts ticking faster than most people realize.
 
 "My cat won't eat" covers a broad range of causes, from disliking a new food to serious conditions requiring bloodwork.
 
@@ -41,8 +41,6 @@ Dental pain is a commonly underestimated cause of poor appetite. A cat may eat s
 
 ## What's Actually Causing This
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me walk through the main categories, because they require very different responses from you.
 
 **Dental and oral pain** is the single most common cause I see in cats over five years old. Signs include dropping food, chewing on one side, pawing at the mouth, or eating wet food eagerly but ignoring dry. If your cat is doing any of these, that's not pickiness. Get them seen.
@@ -53,7 +51,7 @@ Let me walk through the main categories, because they require very different res
 
 **Stress and environmental changes** are real, and I want to be honest that they're often overused as an explanation when something medical is actually happening. That said, cats who've recently moved, lost a housemate (animal or human), or had a significant routine disruption can genuinely refuse food for a few days. If your cat is otherwise alert, playful, drinking, using the litter box normally, and has no other symptoms, and there's a clear recent stressor, a 24-48 hour watch with some appetite encouragement is reasonable. Past 48 hours, you're back to calling the vet.
 
-**Systemic disease** ,  kidney disease, hyperthyroidism (a bit counterintuitively, since hyperthyroid cats are often ravenous early on but nauseous later), diabetes, cancer, liver disease ,  all commonly cause appetite loss. These are overwhelmingly more common in cats over eight years old. If your senior cat stops eating, please don't chalk it up to being old and picky. That's the age at which bloodwork pays for itself.
+**Systemic disease**, kidney disease, hyperthyroidism (a bit counterintuitively, since hyperthyroid cats are often ravenous early on but nauseous later), diabetes, cancer, liver disease, all commonly cause appetite loss. These are overwhelmingly more common in cats over eight years old. If your senior cat stops eating, please don't chalk it up to being old and picky. That's the age at which bloodwork pays for itself.
 
 **Medication side effects and recent vaccinations** can cause 24-48 hours of appetite suppression. If your cat just had vaccines or started a new medication, that context matters. Still monitor carefully.
 

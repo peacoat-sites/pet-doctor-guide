@@ -30,8 +30,6 @@ What this means practically: you don't need to keep your dog away from family me
 
 ## Where the Real Risk Lives in Your Home
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Previous U.S. outbreaks of cyclosporiasis, and likely this one, trace back to contaminated fresh produce: lettuce, cilantro, basil, and raspberries have all been linked to past surges. Shared household food is the exposure route that actually matters.
 
 Here's where pets enter the picture indirectly. If you or someone in your home is eating contaminated produce and then handling your pet before washing hands, or if scraps from a contaminated meal end up in the dog's bowl, you have a shared exposure scenario, not a pet-to-human transmission scenario. The distinction matters. You and your dog both got exposed to the same bad salad. Your dog didn't give it to you.
@@ -64,9 +62,9 @@ The 2026 Cyclospora surge is a real public health event that warrants attention,
 ## Sources
 
 - [CDC Health Alert Network: Domestically Acquired Cyclosporiasis Cases, 2026](https://www.cdc.gov/han/php/notices/han00531.html) (July 2026)
-- [dvm360: Cyclospora and Pets ,  Reservoir, Bystander, or Red Herring?](https://www.dvm360.com/view/cyclospora-and-pets-reservoir-bystander-or-red-herring-) (July 2026)
+- [dvm360: Cyclospora and Pets, Reservoir, Bystander, or Red Herring?](https://www.dvm360.com/view/cyclospora-and-pets-reservoir-bystander-or-red-herring-) (July 2026)
 - [Animal Medical Center NYC: Should I Be Concerned About Cyclosporiasis in My Pets?](https://www.amcny.org/blog/2026/07/15/should-i-be-concerned-about-legionnaires-disease-and-cyclosporiasis-in-my-pets/) (July 15, 2026)
-- [Auburn University College of Veterinary Medicine: Cyclosporiasis ,  Unpacking the Explosive Parasitic Outbreak](https://www.vetmed.auburn.edu/blog/cvm-news/cyclosporiasis-unpacking-the-explosive-parasitic-outbreak/) (July 2026)
+- [Auburn University College of Veterinary Medicine: Cyclosporiasis, Unpacking the Explosive Parasitic Outbreak](https://www.vetmed.auburn.edu/blog/cvm-news/cyclosporiasis-unpacking-the-explosive-parasitic-outbreak/) (July 2026)
 - [Portage Animal Protective League: Cyclospora and Your Pets](https://portageapl.org/blog/2026/07/10/cyclospora-and-your-pets/) (July 10, 2026)
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

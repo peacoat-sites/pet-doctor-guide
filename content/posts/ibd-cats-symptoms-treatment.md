@@ -43,8 +43,6 @@ The tricky part is that hyperthyroidism, chronic kidney disease, pancreatitis, a
 
 ## The Diagnosis Problem (And Why Bloodwork Alone Won't Cut It)
 
-> **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Bloodwork and urinalysis are where you start, and they matter, but a normal blood panel doesn't rule out IBD. Cobalamin (B12) and folate levels are worth checking because IBD frequently causes malabsorption of both; a low cobalamin in a chronically symptomatic cat is a real red flag. Abdominal ultrasound is the next step, and a skilled ultrasonographer (ideally a boarded internist or radiologist) can spot changes in intestinal wall layering that strongly suggest IBD or lymphoma. But here's the thing: you cannot definitively diagnose IBD, and you cannot reliably distinguish IBD from low-grade intestinal lymphoma, without a biopsy.
 
 I know biopsies feel like a big ask. But I'd rather have that conversation once, upfront, than manage a cat for "presumed IBD" for a year and find out later it was lymphoma that responded better to a different protocol.

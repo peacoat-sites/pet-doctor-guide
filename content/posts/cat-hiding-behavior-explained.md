@@ -54,8 +54,6 @@ The real question isn't "why do cats hide?" It's "why is *this* cat hiding *righ
 
 ## Normal Hiding vs. Concerning Hiding: How to Tell the Difference
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most pet owners get tripped up here. Hiding alone isn't a red flag. The context around it is everything.
 
 **Normal hiding usually looks like this:**

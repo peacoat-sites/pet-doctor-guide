@@ -44,8 +44,6 @@ The grade doesn't automatically determine the treatment. Grade II dogs can live 
 
 ## How It's Diagnosed (And What You Can Advocate For)
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A hands-on orthopedic exam is the starting point. Your vet will feel for the patella slipping during manipulation of the stifle joint. It takes maybe 90 seconds and doesn't require sedation. What it does require is a vet who's actually paying attention, not just glancing at the leg.
 
 X-rays matter more than a lot of owners realize. They won't show the luxation directly, but they reveal bone deformity: femoral bow, shallow trochlear groove, tibial crest displacement. That information changes the surgical approach if you get to that point. A clinic that wants to discuss surgery without X-rays is a clinic I'd push back on.

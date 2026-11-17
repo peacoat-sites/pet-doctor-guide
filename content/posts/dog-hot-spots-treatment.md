@@ -28,8 +28,6 @@ If your dog gets recurring hot spots, the trigger is the real problem. Treating 
 
 ## What You Can Do At Home Right Now
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the honest breakdown of what's appropriate for home care versus what needs veterinary attention.
 
 A small, early-stage hot spot on a dog who is generally comfortable? You can start treatment at home. A large lesion, one on the face or near the eye, one that's been present more than 24 to 48 hours without improvement, or a dog who's miserable and won't stop traumatizing the area? That needs a vet visit, likely today.

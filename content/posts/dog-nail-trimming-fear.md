@@ -39,8 +39,6 @@ There's also a subset of dogs with what I'd call sensory sensitivity around thei
 
 ## Desensitization Is the Only Shortcut (Even Though It Doesn't Feel Like One)
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I know what you want. You want a technique that works this Saturday. I'm going to be honest with you: if your dog has a genuine fear response, meaning they're shaking, snapping, or completely shutting down, there is no one-session fix. What actually works is desensitization, and it takes days to weeks, not hours.
 
 The general process looks like this:

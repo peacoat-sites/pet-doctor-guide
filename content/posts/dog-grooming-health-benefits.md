@@ -52,8 +52,6 @@ Different coats need different schedules. A Labrador? You can get away with week
 
 ## Ears, Eyes, Nails: The Parts People Skip
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Nail trims are often neglected, and the consequences are orthopedic. When nails grow long enough to contact the ground, the dog compensates by shifting weight backward and off the toes. Over time this changes their gait and posture in ways that contribute to joint stress, particularly in the hips and lower back.
 
 The scenario plays out like this: owner notices dog is "walking funny" or reluctant to use stairs. → Vet exam reveals gait abnormality. → Nails are trimmed, physical therapy considered. → Several months of work to get back toward normal mobility. Not every case, but common enough to be a real pattern.

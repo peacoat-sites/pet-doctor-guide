@@ -34,10 +34,6 @@ The drug itself, fluralaner, works the same way it does in existing Bravecto pro
 
 ## Who This Is and Isn't For
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Bravecto Quantum is approved for dogs and puppies 6 months of age and older. It has to be given by a licensed veterinarian via subcutaneous injection. You can't order it online and administer it yourself, and that's actually worth understanding rather than resenting. The vet visit builds in a checkup, a weight check for proper dosing, and a conversation about your dog's health history.
 
 That health history piece matters. Fluralaner should be used with caution in dogs with a history of seizures or neurological disorders, and that's true of all isoxazoline-class drugs. If your dog has any neurological history, this is a real conversation to have with your vet before agreeing to anything. It's not an automatic disqualifier, but it's not something to skip past either.

@@ -39,8 +39,6 @@ For straightforward vomiting, the timing matters too. Did it happen once after y
 
 ## The Most Common Reasons Dogs Vomit
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the honest reality: the vast majority of dog vomiting is boring. Dietary indiscretion is probably the number one cause I see, which is a polite clinical way of saying your dog ate something they shouldn't have. Grass, garbage, table scraps, the cat's food, something dead in the yard. Dogs are opportunists.
 
 Other common causes that don't require panic:

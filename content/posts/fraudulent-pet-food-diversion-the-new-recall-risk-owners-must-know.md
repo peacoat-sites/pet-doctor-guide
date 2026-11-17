@@ -32,8 +32,6 @@ What most people don't realize is that a condemned product re-entering the suppl
 
 ## The Distribution Gap That Should Worry You
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the part Hawaii's Department of Health flagged specifically in their July 7, 2026 public alert: because this product was sold by an unauthorized third party, there is no distribution data. None. That means regulators cannot tell you which states received the cans, which stores stocked them, or even how many units made it out. With a normal recall, you get a retailer list. You can call your store. You can check whether your ZIP code was affected.
 
 With this one, you can't do that. The usual recall playbook doesn't apply.
@@ -70,12 +68,12 @@ The Mars recall is being handled through law enforcement now, which is the right
 
 ## Sources
 
-- [FDA ,  Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet Dog Food](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due) (July 2, 2026)
-- [iHeartDogs ,  Pedigree Recalls Dog Food Due to Hazardous Contaminants](https://iheartdogs.com/pedigree-voluntarily-recalls-two-lots-of-high-protein-wet-dog-food/) (July 6, 2026)
-- [Medical Daily ,  Pedigree Dog Food Recall Issued After Metal and Plastic Fragments Were Found in Canned Products](https://www.medicaldaily.com/pedigree-dog-food-recall-metal-plastic-mars-petcare-july-2026-476009) (July 2026)
-- [Hawaii DOH ,  Alert: Recall of Pedigree High Protein Wet Dog Food Due to Potential Presence of Foreign Materials](https://governor.hawaii.gov/newsroom/news-release-doh-alerts-public-about-recall-of-pedigree-high-protein-wet-dog-food-due-to-potential-presence-of-foreign-materials/) (July 7, 2026)
-- [The Cooldown ,  US pet food recalls hit 10 in 2026, and vets say one simple step can help owners react fast](https://www.thecooldown.com/sustainable-food/pet-food-recalls-2026-simple-step/) (July 28, 2026)
-- [AVMA ,  Recalls/Safety Alerts Search](https://www.avma.org/news/recalls-alerts) (Ongoing, updated July 2026)
+- [FDA, Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet Dog Food](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due) (July 2, 2026)
+- [iHeartDogs, Pedigree Recalls Dog Food Due to Hazardous Contaminants](https://iheartdogs.com/pedigree-voluntarily-recalls-two-lots-of-high-protein-wet-dog-food/) (July 6, 2026)
+- [Medical Daily, Pedigree Dog Food Recall Issued After Metal and Plastic Fragments Were Found in Canned Products](https://www.medicaldaily.com/pedigree-dog-food-recall-metal-plastic-mars-petcare-july-2026-476009) (July 2026)
+- [Hawaii DOH, Alert: Recall of Pedigree High Protein Wet Dog Food Due to Potential Presence of Foreign Materials](https://governor.hawaii.gov/newsroom/news-release-doh-alerts-public-about-recall-of-pedigree-high-protein-wet-dog-food-due-to-potential-presence-of-foreign-materials/) (July 7, 2026)
+- [The Cooldown, US pet food recalls hit 10 in 2026, and vets say one simple step can help owners react fast](https://www.thecooldown.com/sustainable-food/pet-food-recalls-2026-simple-step/) (July 28, 2026)
+- [AVMA, Recalls/Safety Alerts Search](https://www.avma.org/news/recalls-alerts) (Ongoing, updated July 2026)
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
 

@@ -46,8 +46,6 @@ Dental disease isn't just a mouth problem. The bacteria involved can enter the b
 
 ## How to Check Your Dog's Mouth at Home
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You don't need a dental degree to check your dog's mouth. A good light source, a willing (or patient) dog, and a minute or two is all it takes. Make this a weekly habit and you'll know immediately when something looks off.
 
 Get your dog comfortable. Lift the upper lips on both sides to expose the back teeth and look at the gumline. Healthy gums are pink and firm, not red, swollen, or bleeding. Teeth should be white to off-white. Brown or yellow buildup near the gumline is tartar. Check the front teeth and, if your dog allows it, the inside surfaces. A mild odor is normal. A truly foul smell, often rotten or fishy, is a red flag.

@@ -45,8 +45,6 @@ The most important thing to understand is that many of these changes are managea
 
 ## Vet Care: Why Twice a Year Is the Right Call
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I can't tell you how many clients have pushed back on this. "He seems totally fine, do we really need to come in every six months?" Yes. You really do.
 
 Senior dogs age roughly four to seven times faster than humans, depending on size. A once-a-year checkup is the human equivalent of seeing your own doctor once every five to seven years. A lot can happen in that window. The [AAHA hospital accreditation standards](https://www.aaha.org/) specifically recommend biannual wellness visits for senior and geriatric dogs, and that guidance exists because the data supports it.

@@ -32,10 +32,6 @@ If you're unsure how to find the lot number, it's typically a sequence of number
 
 ## What the Recall Means for Your Dog's Treatment
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This part is where things get genuinely complicated, and I want to be honest with you about it. Adequan Canine is the only FDA-approved disease-modifying osteoarthritis drug for dogs. It's not just a pain reliever. It works at the joint level to slow cartilage breakdown, and for many dogs with degenerative joint disease, it's doing real work that no other injectable product is currently approved to replicate. There's no direct drop-in substitute, as dvm360 noted in their coverage of the recall.
 
 Missing a few doses isn't going to undo everything Adequan has done for your dog. But if your dog has been on a maintenance protocol and you're suddenly without medication, here's what I tell people: call your vet clinic Monday morning (or today if they have weekend hours) and explain the situation. They may have unaffected lot numbers in stock, or they can help you prioritize what to do next based on where your dog is in their treatment plan. Some dogs on maintenance schedules have more flexibility than others. Your vet knows your dog's case and can give you guidance that's specific to them.

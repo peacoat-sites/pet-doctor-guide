@@ -49,8 +49,6 @@ The honest answer? Visit frequency isn't one-size-fits-all. It depends on age, b
 
 ## Why Annual Isn't Always Enough (And When It Is)
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Annual visits work fine for healthy adult dogs with no chronic conditions. Your 4-year-old mixed breed eating well, maintaining weight, exercising normally, and not on medications? Yearly visits are genuinely appropriate.
 
 But it changes fast. Dogs with diabetes, Cushing's disease, chronic allergies, epilepsy, or joint problems often need visits every 3 to 6 months, sometimes more depending on how controlled their condition is. It's not about the vet wanting more appointments. It's about safety. A dog on phenobarbital for seizures needs regular liver enzyme monitoring because the drug damages the liver at higher doses. Miss that window and you're looking at serious organ damage.

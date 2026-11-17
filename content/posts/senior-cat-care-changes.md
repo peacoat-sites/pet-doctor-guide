@@ -41,8 +41,6 @@ Muscle mass also decreases with age. This is called sarcopenia, and it's one rea
 
 ## The Vet Visit Schedule That Actually Makes Sense
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll be direct: once your cat hits 11, annual vet visits aren't enough. The American Animal Hospital Association (AAHA), whose hospital accreditation standards set the bar for quality veterinary care in North America, recommends that senior and geriatric cats be seen every six months. Not because vets want to see you more often. Because six months in a cat's life is equivalent to roughly two human years. A lot can change.
 
 Those biannual visits should include bloodwork and a urinalysis every single time. The combination tells your vet things that a physical exam simply can't, like early kidney disease, elevated thyroid hormone, early diabetes, or liver changes. Catching hyperthyroidism when a cat's T4 level is mildly elevated is a very different treatment situation than catching it after the cat has lost three pounds and developed a heart murmur from uncontrolled disease.

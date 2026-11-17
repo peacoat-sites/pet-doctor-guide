@@ -43,8 +43,6 @@ Demodectic mange, caused by *Demodex canis*, is a different situation entirely. 
 
 ## Sarcoptic Mange: The One That Spreads
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the type that makes vets act quickly. *Sarcoptes* mites can survive off a host for 36 to 48 hours in typical household conditions, according to PetMD's veterinary resource library, which means furniture, bedding, and leashes are all potential transmission routes. Dogs that frequent dog parks, groomers, boarding facilities, or shelters are at higher exposure risk.
 
 The clinical sign that clinches my suspicion every time? The "pedal-pinna reflex." Scratch the edge of the ear flap (the pinnae), and if the dog reflexively starts scratching with its hind leg, that's a strongly positive indicator for sarcoptic mange. It's not 100% diagnostic, but honestly, I've never seen it fail when the whole clinical picture fits.

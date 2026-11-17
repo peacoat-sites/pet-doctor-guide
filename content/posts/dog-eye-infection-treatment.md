@@ -52,8 +52,6 @@ Foreign bodies, allergies, and blocked tear ducts can all mimic infections too. 
 
 ## What You Can Do at Home Before the Vet Visit
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll give you the real answer instead of the liability-hedged one: there are a few things you can safely do at home while you're waiting for a vet appointment, and one big thing you shouldn't do.
 
 You can flush the eye gently with sterile saline. Plain preservative-free saline solution, the same kind sold for contact lens users, works fine. Hold your dog's head steady, and let a stream of it run from the inner corner outward. This removes debris and discharge and provides some relief. Do this two or three times a day while you wait. A proper [pet eye wash like Vetericyn Plus](https://www.amazon.com/s?k=vetericyn+plus+eye+wash+for+dogs&tag=contentportfo-20) (affiliate link, and yes, the site earns a small commission if you use it) is even better because it's pH-balanced for eyes and gentle enough to use regularly.

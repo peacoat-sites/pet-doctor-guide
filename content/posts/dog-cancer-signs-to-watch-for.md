@@ -49,8 +49,6 @@ Let me cut straight to the physical stuff, because this is where people get conf
 
 ## The Signs People Almost Always Dismiss
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Lethargy is the big one. Dogs slow down as they age, and everyone knows it, which makes "she's just tired" the single most dangerous phrase in pet ownership. There's a difference between a dog who sleeps more at twelve than she did at three, and a dog who stopped being interested in her walk, her food, or her people. That second kind of lethargy is a symptom.
 
 Behavioral changes, too. Behavioral changes like sudden clinginess or withdrawal can precede a cancer diagnosis. Dogs hide pain well. If your normally enthusiastic dog has gone quiet, mention it to your vet rather than attributing it to mood.

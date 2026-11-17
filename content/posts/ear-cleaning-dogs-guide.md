@@ -51,8 +51,6 @@ The key insight here is that cleaning is a treatment for an existing problem, no
 | Frequency (typical case) | Every 6 weeks (if needed) | 1-2 times weekly (as directed by vet) |
 | Purpose | Treatment of existing infections; deep cleaning | Maintenance between vet visits |
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Ear cleaning isn't one-size-fits-all. A vet, a groomer, and home care each serve different purposes and aren't interchangeable.
 
 A full veterinary ear cleaning, especially one done by your vet under sedation, is basically a deep cleaning you cannot replicate at home. Your vet has an otoscope to see into the canal clearly, which means they can identify what they're actually dealing with. They use an ear flush system that applies controlled pressure to remove impacted cerumen, debris, and discharge from the horizontal canal without damaging the delicate structures. Some practices use a video otoscope, which costs them $3,000 to $8,000 in equipment and gives them a magnified view that catches problems early.

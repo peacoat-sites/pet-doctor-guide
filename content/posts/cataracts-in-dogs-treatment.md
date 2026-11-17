@@ -40,8 +40,6 @@ A few things that cause cataracts in dogs: diabetes mellitus (diabetic cataracts
 
 ## The Only Proven Treatment: Phacoemulsification Surgery
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me be direct. As of July 2026, there is no eye drop, supplement, or topical medication that has been scientifically proven to reverse or stop canine cataracts. I know you've seen the Lanosterol-based eye drop research. That 2015 study in Science generated real excitement, but subsequent controlled trials in dogs have not produced the clear results people hoped for. The drops aren't clinically available in any validated form yet, and I'd be doing you a disservice to oversell them.
 
 The treatment that works is phacoemulsification. It's essentially the same procedure used in humans, where an ultrasonic probe breaks up the cloudy lens and removes it, replacing it with an artificial intraocular lens. Success rates are genuinely impressive: a 2020 study in Veterinary Ophthalmology tracked 425 eyes over 12 months and found that roughly 90% of dogs had functional vision post-surgery when the procedure was performed before the cataract reached the "hypermature" stage. That number drops meaningfully if you wait too long.

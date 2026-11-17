@@ -34,10 +34,6 @@ The procedures this person performed, intubation and CPR especially, generate ae
 
 ## The Raw Food Connection Is Real and Direct
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 I've had this conversation with clients more times than I can count over the past year and a half. Someone comes in with a sick cat and mentions they feed raw. I'm not here to debate the raw feeding community, but the LA cluster should settle at least one question: contaminated [raw pet food](/raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/) is a real, documented route for H5N1 to reach your cat.
 
 The five LA households had one thing in common. Not backyard chickens. Not proximity to a farm. Commercially purchased raw animal products. The AVMA's ongoing guidance on H5N1 in cats lists the key exposure routes clearly:
@@ -74,7 +70,7 @@ The honest reality is that H5N1 in cats is still a relatively rare event for mos
 ## Sources
 
 - [CDC MMWR: Serologic Evidence of H5N1 Infection in a Veterinary Professional Exposed to an Infected Domestic Cat](https://www.cdc.gov/mmwr/volumes/75/wr/mm7517a1.htm) (May 7, 2026)
-- [dvm360: Weekly Vet Report ,  Cat-to-Human Bird Flu Transmission](https://www.dvm360.com/view/weekly-vet-report-cat-to-human-bird-flu-transmission-new-injectable-for-itchy-dogs-major-pet-food-recall) (May 29, 2026)
+- [dvm360: Weekly Vet Report, Cat-to-Human Bird Flu Transmission](https://www.dvm360.com/view/weekly-vet-report-cat-to-human-bird-flu-transmission-new-injectable-for-itchy-dogs-major-pet-food-recall) (May 29, 2026)
 - [AVMA: Avian Influenza A (H5N1) in Cats](https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza/avian-influenza-h5n1-cats) (Updated 2026)
 - [Worms & Germs Blog: Cat-to-Human Transmission of H5N1 Influenza](https://www.wormsandgermsblog.com/2026/05/articles/animals/cats/cat-to-human-transmission-of-h5n1/) (May 7, 2026)
 - [Vet Help Direct: How Much of a Risk Are Cats in Spreading Bird Flu?](https://vethelpdirect.com/vetblog/2026/06/29/how-much-of-a-risk-are-cats-in-spreading-bird-flu/) (June 29, 2026)

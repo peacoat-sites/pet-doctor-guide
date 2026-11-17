@@ -26,8 +26,6 @@ This comes on the heels of Okava Pharmaceuticals launching the MEOW-1 trial, the
 
 ## Why Cats Are Getting This Treatment Before Dogs
 
-> **Helpful resource:** [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 It might seem counterintuitive that cats are ahead of dogs in GLP-1 research, given that there are far more dog owners in the U.S. But Okava's reasoning makes clinical sense. Indoor cats have far fewer opportunities to exercise than dogs do. Dogs get walks. They get off-leash time. They get dragged outside at least twice a day whether they want to go or not. Cats, especially indoor-only cats, often just... sit. Their caloric output is genuinely limited by their lifestyle in a way that's harder to change through behavioral intervention alone.
 
 The numbers back up the urgency. The Association for Pet Obesity Prevention estimated that 61% of cats in the U.S. were classified as overweight or obese as of 2022, with rates continuing to track human obesity trends upward. That's not a niche problem. That's most cats. And as dvm360 reported in June 2026, investigators on the AKS-562c study specifically noted that there are currently very limited pharmacologic options for treating feline obesity, making this category of drugs a potentially significant breakthrough for a problem that affects the majority of pet cats.

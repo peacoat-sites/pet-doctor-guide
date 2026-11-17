@@ -46,8 +46,6 @@ What surprised me when I really started paying attention was how fast this happe
 | Senior cats (10+) | Increased frequency | Wide-tooth comb; consider professional grooming | Higher risk of silent matting due to reduced self-grooming |
 | Cats prone to matting | 2-3 times weekly + | Wide-toothed metal comb with detangling spray | Conditioner spray reduces friction and mat formation |
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Brushing is the answer, but frequency and tool choice matter more than most guides acknowledge.
 
 For short-haired cats, a grooming session every one to two weeks with a rubber curry brush or a soft-bristle brush is usually enough to stay ahead of things. I like the Kong ZoomGroom for shorthairs; it's maybe $8 on Amazon and cats tend to tolerate it well because it mimics the pressure of petting (the site may earn a commission on that link). For medium to long-haired cats, you're looking at two to three times weekly minimum, and in peak shedding season, daily if the coat is dense.

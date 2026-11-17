@@ -51,8 +51,6 @@ It's available by prescription only. As of July 2026, a 30-day supply of 75mg ca
 | Acute soft tissue injury | 75mg once daily (example dose) | 5 days | Return to ~90% function |
 | Dental pain post-extraction | As prescribed by vet | Per vet protocol | Pain management during healing |
 
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Carprofen is a workhorse. The situations where I see it used most:
 
 Post-surgical pain management, osteoarthritis in older dogs, acute soft tissue injuries, and dental pain following extractions. For chronic arthritis in particular, pain relief can dramatically improve a dog's mobility and quality of life, sometimes noticeably within the first week of treatment.

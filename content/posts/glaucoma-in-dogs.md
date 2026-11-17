@@ -43,8 +43,6 @@ Secondary glaucoma gets underappreciated because it hides behind other diagnoses
 
 ## The Breeds You Should Know About
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Primary glaucoma is a heritable condition, and certain breeds are carrying gene variants that make the iridocorneal angle structurally narrow or closed from birth. The American College of Veterinary Ophthalmologists has been tracking this for decades, and as of 2026, some of the highest-risk breeds include American and English Cocker Spaniels, Basset Hounds, Shiba Inus, Chow Chows, Shar-Peis, and Norwegian Elkhounds.
 
 Cocker Spaniels are at higher risk. Because they're prone to chronic ear and skin issues, eye symptoms can be easy to miss or attribute to allergies. Red eyes in a Cocker with multiple allergy symptoms may seem like just another allergy sign, but it's worth checking with a vet.

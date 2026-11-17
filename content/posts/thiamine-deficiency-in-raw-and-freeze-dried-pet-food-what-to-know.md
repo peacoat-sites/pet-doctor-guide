@@ -32,10 +32,6 @@ The broader pattern is harder to ignore. Federal regulators logged at least 10 p
 
 ## What Thiamine Deficiency Actually Looks Like in Your Cat
 
-> **Helpful resource:** [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where owners need more than a recall notice. Thiamine deficiency doesn't announce itself as "nutritional problem." It looks neurological, and it progresses.
 
 Early signs are subtle: reduced appetite, lethargy, a cat that seems off but nothing you can point to specifically. Then come the more obvious red flags. The FDA's February 2026 recall announcement specifically named ventroflexion of the neck (that's the head drooping down toward the chest), wobbly walking, circling, falling, and seizures as signs of advanced deficiency. At that stage, without treatment, it can be fatal.

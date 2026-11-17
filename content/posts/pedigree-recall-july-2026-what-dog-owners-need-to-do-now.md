@@ -21,7 +21,7 @@ What surprised me about this one, and what makes it genuinely different from the
 The "yet" matters. These cans contain sharp metal and plastic fragments. The real risks here are choking, lacerations to the gastrointestinal tract, and intestinal blockages. Those aren't theoretical. A piece of metal in soft tissue can cause bleeding, infection, or perforation that requires emergency surgery.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Two specific lot codes are affected: 613C3KKCFC and 613C1KKCFC, 13.2 oz cans only.</li><li style="margin:5px 0">Contamination includes sharp metal and plastic fragments; risks include GI lacerations and blockages.</li><li style="margin:5px 0">Products were condemned and meant for destruction before being fraudulently resold nationwide.</li><li style="margin:5px 0">No injuries reported as of July 2, 2026, but do not feed or discard ,  return for refund.</li><li style="margin:5px 0">No other Pedigree or Mars Petcare US products are part of this recall.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Two specific lot codes are affected: 613C3KKCFC and 613C1KKCFC, 13.2 oz cans only.</li><li style="margin:5px 0">Contamination includes sharp metal and plastic fragments; risks include GI lacerations and blockages.</li><li style="margin:5px 0">Products were condemned and meant for destruction before being fraudulently resold nationwide.</li><li style="margin:5px 0">No injuries reported as of July 2, 2026, but do not feed or discard, return for refund.</li><li style="margin:5px 0">No other Pedigree or Mars Petcare US products are part of this recall.</li></ul></div>
 
 
 ## The Contamination Risk Is More Serious Than a Typical Recall
@@ -31,10 +31,6 @@ I'll be honest: when I see "physical contamination" on a recall notice, my first
 The signs to watch for if your dog has already eaten from these lots include: vomiting (especially repeated or with blood), obvious pain or hunching when touched around the abdomen, lethargy that's out of character, loss of appetite, black or tarry stools, and straining or inability to defecate. Any of these warrants a call to your vet today, not Monday. Black tarry stools specifically suggest upper GI bleeding and that's an emergency room visit, not a wait-and-see situation. According to the OKC Fox report from July 6, 2026, the recall has been widely covered nationally, but plenty of households may have bought these cans weeks ago and have them sitting in the back of a cabinet [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/).
 
 ## What To Do With the Recalled Cans
-
-> **Helpful resource:** [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Do not throw them in the trash. I know that sounds counterintuitive when you want dangerous food out of your house fast, but if you toss these, you lose your ability to get a refund and Mars loses evidence for its fraud investigation. The FDA's recall guidance is to return the product to the place of purchase. Hold onto any receipt if you have one, though most retailers will process the return without it given the public recall notice.
 
@@ -65,11 +61,11 @@ Mars says it's cooperating with authorities, and presumably there will be more i
 Check your cans. Watch your dog. Call your vet if anything seems off. That's the whole job right now.
 
 ## Sources
-- [FDA ,  Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet Dog Food](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due) (July 2, 2026)
-- [IndexBox ,  Pedigree Dog Food Recall July 2026: Metal and Plastic Hazard](https://www.indexbox.io/blog/pedigree-dog-food-recall-metal-and-plastic-contamination-in-two-lots/) (July 2026)
-- [OKC Fox ,  Pedigree recalls popular dog food over metal, plastic material](https://okcfox.com/news/local/pedigree-recalls-popular-dog-food-over-metal-plastic-material) (July 6, 2026)
-- [FDA ,  Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/raaw-energy-expands-recall-dog-food-because-listeria-monocytogenes-health-risk) (May 22, 2026)
-- [Vetstreet ,  Dog Food Recalls 2026: FDA + AVMA List and Safety Tracker](https://www.vetstreet.com/our-pet-experts/dog-food-recalls-2026) (June 2026)
+- [FDA, Voluntary Recall of Two Lots of PEDIGREE® Can High Protein Chopped Chicken & Duck Flavor Wet Dog Food](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall-two-lots-pedigreer-can-high-protein-chopped-chicken-duck-flavor-wet-dog-food-due) (July 2, 2026)
+- [IndexBox, Pedigree Dog Food Recall July 2026: Metal and Plastic Hazard](https://www.indexbox.io/blog/pedigree-dog-food-recall-metal-and-plastic-contamination-in-two-lots/) (July 2026)
+- [OKC Fox, Pedigree recalls popular dog food over metal, plastic material](https://okcfox.com/news/local/pedigree-recalls-popular-dog-food-over-metal-plastic-material) (July 6, 2026)
+- [FDA, Raaw Energy Expands Recall of Dog Food Because of Listeria Monocytogenes Health Risk](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/raaw-energy-expands-recall-dog-food-because-listeria-monocytogenes-health-risk) (May 22, 2026)
+- [Vetstreet, Dog Food Recalls 2026: FDA + AVMA List and Safety Tracker](https://www.vetstreet.com/our-pet-experts/dog-food-recalls-2026) (June 2026)
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 

@@ -47,8 +47,6 @@ There are over a dozen tick-borne pathogens capable of infecting dogs, but four 
 
 ## What the Numbers Actually Show
 
-> **Helpful resource:** [Arm & Hammer Dog Dental Spray ,  No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The geographic spread of tick-borne disease has shifted. The [CAPC](https://capcvet.org/) tracks infection rates by county, and as of 2026, Lyme-positive test results appear in all 48 contiguous states, not just the Northeast. Ehrlichia and Anaplasma have also expanded their ranges measurably over the past decade, following tick population expansion tied to milder winters.
 
 Here's where things get clinically useful:

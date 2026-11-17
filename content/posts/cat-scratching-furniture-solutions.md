@@ -59,8 +59,6 @@ Horizontal vs. vertical is also a real split. Some cats are horizontal scratcher
 | Claw caps (Soft Paws/Soft Claws) | Nail protection | $12-14 (40 pack) | 4-6 weeks per application | High (severe cases) |
 | Citrus/lavender sprays | Deterrent | Varies | Varies | Low (unreliable) |
 
-> **Helpful resource:** [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part most guides skip entirely: what do you do about the couch right now, today, while you're training your cat toward better options?
 
 Double-sided tape is genuinely effective. The texture cats love about upholstery is gone the moment sticky tape is on it. [Sticky Paws sheets](https://amzn.to/stickypaws) (around $12-15 for a roll) can be applied directly to fabric, removed without damage, and are transparent enough that your couch doesn't look insane. Leave them on for two to four weeks while you make the scratching post more appealing.

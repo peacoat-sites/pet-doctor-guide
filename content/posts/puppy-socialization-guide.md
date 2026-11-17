@@ -43,8 +43,6 @@ The mistake I see constantly: owners taking puppies to overwhelmingly busy envir
 
 ## The Vaccination Question Nobody Agrees On
 
-> **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where it gets genuinely complicated, and I want to be honest that the research here is mixed in a real way.
 
 Historically, vets advised keeping puppies home until they completed their full vaccine series, which runs to around 16 weeks. The problem: that's also when the socialization window closes. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has updated its position to acknowledge this tension, and most veterinary behaviorists now recommend that the behavioral risk of under-socialization outweighs the infectious disease risk when proper precautions are taken.

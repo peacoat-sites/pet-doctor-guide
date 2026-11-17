@@ -41,8 +41,6 @@ Mid-to-large breeds between 4 and 10 years old are most commonly affected. Spaye
 
 ## The Symptom Picture (And Why It Fools People)
 
-> **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Hypothyroidism is a metabolic slowdown, so the signs are typically slow, vague changes rather than acute problems. Owners don't come in saying "my dog suddenly got sick." They come in saying "he just seems... off. For like six months."
 
 The classic cluster is weight gain without a diet change, lethargy and exercise intolerance, and coat or skin changes. That last one is more specific than people think. The coat becomes dull and brittle, hair starts falling out symmetrically (both sides of the body, which is a real clue), and the skin can become thickened or develop a condition called "tragic expression" where the facial muscles become slightly puffy and the dog looks genuinely sad. Cold intolerance is real and underreported, these dogs actively seek warm spots and hate cold weather.

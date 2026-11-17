@@ -39,8 +39,6 @@ Mildly elevated white blood cell counts often turn out to be stress responses, r
 
 ## What actually causes leukocytosis in dogs
 
-> **Helpful resource:** [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll push back on something you might read elsewhere: not all high WBC counts are emergencies, and treating every elevation the same way leads to unnecessary stress and sometimes unnecessary testing.
 
 The causes fall into a few broad buckets:

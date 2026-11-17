@@ -54,8 +54,6 @@ Some panels also include **electrolytes** like sodium, potassium, and chloride, 
 
 ## When Vets Recommend Blood Work (And Why They're Not Just Upselling You)
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I get this concern all the time, and it's fair to ask. Here's what I tell people: blood work recommendations aren't random.
 
 Your vet will likely recommend blood work in a few key situations. Pre-anesthetic screening is one of the most important. Before any surgery, including a routine spay or neuter, blood work checks that your dog's liver and kidneys can process anesthesia safely. Skipping this step is a real risk, not a formality.

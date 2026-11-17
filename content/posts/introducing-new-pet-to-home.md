@@ -49,8 +49,6 @@ One thing most guides skip: swap bedding between the resident pet and the newcom
 | Week 2 | Supervised visual contact through gate or door | Cats: slow blinking, loose posture, or mutual ignoring (positive). Dogs: loose, wiggly movements, brief sniffs, disengagement |
 | Week 3+ | Supervised shared space, gradual unsupervised time | Continued calm coexistence, no stress-related elimination or overgrooming |
 
-> **Helpful resource:** [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's no universal timeline, but there are reasonable defaults. Compress them and you'll pay for it.
 
 **Days 1-3:** New pet stays in the base room. No face-to-face contact with resident animals. Feed both animals on opposite sides of the closed door if possible, this creates a positive association (food) with the other animal's smell. Watch for stress signals: not eating, hiding for more than 24 hours, excessive vocalization, or diarrhea.

@@ -43,8 +43,6 @@ What most people don't realize is that a tick has to be attached for at least 24
 
 ## Recognizing the Symptoms (And What To Do With That Information)
 
-> **Helpful resource:** [Catit Flower Fountain ,  Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The classic presentation I see: dog is off food for a day or two, running a temperature between 103°F and 106°F (normal is 100-102.5°F), joints look stiff especially in the morning, and the owner says "he's just not himself." Sometimes there's a history of a tick bite; often there isn't, because people miss them.
 
 Here's a rough guide to severity:

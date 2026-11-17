@@ -54,8 +54,6 @@ That's the real reason for multiple visits. Not revenue. Not habit. Biology.
 | 12-16 weeks | DA2PP booster; Rabies; Leptospirosis booster (if started); Bordetella booster (if given intranasally) | Rabies typically not before 12 weeks; most states require by 16 weeks |
 | 14-16 weeks | Final DA2PP in puppy series | Critical booster; lands after maternal immunity has waned to ensure series efficacy |
 
-> **Helpful resource:** [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to give you an actual schedule here, not just "ask your vet." That said, your vet will customize this based on your location, your puppy's risk factors, and what vaccines your breeder already gave. Think of this as the standard framework most small animal practices use.
 
 **6 to 8 weeks**

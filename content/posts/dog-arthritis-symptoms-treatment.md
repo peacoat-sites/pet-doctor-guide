@@ -48,8 +48,6 @@ Arthritis isn't just wear and tear, though wear and tear is a big part of it. It
 
 ## Recognizing the Signs: What to Look For Right Now
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I want you to actually pay attention to your dog's recent behavior. Arthritis symptoms almost never show up obviously at first.
 
 **Behavioral changes to watch for:**

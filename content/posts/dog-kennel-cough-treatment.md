@@ -43,8 +43,6 @@ The real red flags: fever over 103°F, labored breathing, yellow or green nasal 
 
 ## Home Treatment That Actually Works
 
-> **Helpful resource:** [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the real-world protocol I've walked hundreds of owners through, current as of August 2026.
 
 **Rest and isolation first.** Kennel cough is highly contagious to other dogs for roughly 2 weeks from symptom onset, even after the cough improves. Keep your dog away from other dogs. No dog parks, no daycare, no shared water bowls.

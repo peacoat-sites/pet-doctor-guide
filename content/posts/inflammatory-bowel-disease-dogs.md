@@ -43,8 +43,6 @@ What IBD is NOT: it's not the same as irritable bowel syndrome (IBS, which is a 
 
 ## Getting to a Diagnosis
 
-> **Helpful resource:** [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most owners get frustrated, and I don't blame them. IBD requires ruling out a long list of other causes first: intestinal parasites, bacterial infections like Clostridium or Salmonella, dietary intolerance, exocrine pancreatic insufficiency, hypoadrenocorticism, and others. The workup is sequential and can feel slow.
 
 The definitive diagnosis requires intestinal biopsy. Full stop. Bloodwork, urinalysis, fecal testing, and imaging (ultrasound, specifically) all contribute valuable information, but none of them confirm IBD. Ultrasound can show thickening of intestinal wall layers and changes to the muscularis that suggest inflammatory disease, and an experienced internist reading a GI ultrasound can give you a strong suspicion. But "strong suspicion" is not the same as a tissue diagnosis, and the treatment decisions that follow are significantly different enough that guessing wrong is costly.
