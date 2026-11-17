@@ -23,7 +23,7 @@ faqs:
     a: "Your dog should stop scratching their ears, the discharge (if present) should decrease, and the smell should improve within two weeks of starting treatment and cleaning. If things aren't better by three weeks, the treatment or diagnosis might be wrong, call your vet."
   - q: "Is it dangerous to clean my dog's ears myself?"
     a: "No, as long as you use the right solution, don't use cotton swabs, and don't apply excessive pressure. The danger is in cleaning when you shouldn't (missing an infection that needs medication) or cleaning too aggressively (risking the eardrum). Follow your vet's specific instructions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A common mistake is assuming dog ears are fine until a vet points out early warning signs like tan-colored wax buildup or a faint smell. By the time an owner notices a problem, it's often advanced enough to cause discomfort.

@@ -1,6 +1,7 @@
 ---
 title: "IBD in Cats: 30% Don't Respond to Initial Treatment"
 date: 2026-08-13T18:10:21.570306+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about feline IBD symptoms, diagnosis, and treatment options. Discover why some cats need multiple approaches and what to expect."
 image: "/img/heroes/18342628.jpg"

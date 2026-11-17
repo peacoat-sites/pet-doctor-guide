@@ -23,7 +23,7 @@ faqs:
     a: "It genuinely varies by individual cat, but in my clinical experience, sisal rope or sisal fabric gets more consistent use than looped carpet, possibly because looped carpet is less satisfying to pull through. Corrugated cardboard is the wild card that wins over cats who ignore both."
   - q: "How long does it take to redirect a cat to a new scratching post?"
     a: "With consistent placement, the right texture, and some catnip encouragement, most cats show a clear preference shift within two to four weeks. Older cats with established habits can take six to eight weeks. Don't give up at two weeks just because it's not instantaneous."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about cat scratching furniture tell you to "redirect the behavior" and buy a scratching post. That advice isn't wrong, exactly. It's just about 20% of what you actually need to know.

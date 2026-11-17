@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms, BUN, ALT, T4, CBC, wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. Many pet owners wonder whether senior bloodwork is necessary when their dog seems healthy. Understanding what these tests reveal can help you make an informed decision.
 

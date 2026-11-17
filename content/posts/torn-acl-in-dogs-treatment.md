@@ -23,7 +23,7 @@ faqs:
    a: "For dogs over 30-40 pounds, most evidence favors TPLO for long-term outcomes. For smaller or older, lower-activity dogs, extracapsular repair performs well and costs significantly less. The honest answer is that the right surgery depends on your specific dog."
  - q: "How do I know if my dog tore the other ACL too?"
    a: "Sudden lameness in the opposite hind leg, especially after a period of over-relying on it during recovery, is the main sign. Your vet will do the same drawer and thrust tests on that leg. If your dog has already had one CCL tear, mention it immediately, because the suspicion should be high."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog limps in from the backyard after a game of fetch, and suddenly you're staring at a $4,000 surgical estimate. Most articles about this injury waste three paragraphs explaining what a ligament is before telling you anything worth knowing. I'm skipping that part.
 

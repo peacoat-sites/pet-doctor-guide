@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog's ribs should be easy to feel but not easy to see. Run your fingers along his side right now. If you're pressing through more than a thin layer of fat before you feel bone, your dog is likely overweight. If you can't feel them at all, he may be obese. It sounds harsh, but here's the reality: the Association for Pet Obesity Prevention estimates that over 55% of dogs in the United States are overweight or obese. That means the chunky, round-bellied dog you're picturing is actually the norm in most American households. And that norm is quietly shortening dogs' lives.
 

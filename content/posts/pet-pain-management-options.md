@@ -1,6 +1,7 @@
 ---
 title: "Pet Pain Management: 5 Effective Options for Your Animal"
 date: 2026-07-16T18:35:22.494095+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore evidence-based pain relief options for pets, from medications to physical therapy. Help your animal feel better today."
 image: "/img/heroes/7470634.jpg"

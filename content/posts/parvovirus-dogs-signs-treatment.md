@@ -1,6 +1,7 @@
 ---
 title: "92% Survival Rate: Parvovirus in Dogs Signs and Treatment"
 date: 2026-07-12T18:14:21.075230+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the 10 early warning signs of parvovirus in dogs, how 48-hour treatment windows matter, and what vets do to save your dog's life."
 image: "/img/heroes/6235650.jpg"

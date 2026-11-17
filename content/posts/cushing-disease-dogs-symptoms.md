@@ -1,6 +1,7 @@
 ---
 title: "Cushing Disease in Dogs: 85% Recovery With Early Detection"
 date: 2026-07-18T18:13:19.102872+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the key symptoms of Cushing disease in dogs, how vets diagnose it, and treatment options that help dogs live longer, healthier lives."
 image: "/img/heroes/7470634.jpg"

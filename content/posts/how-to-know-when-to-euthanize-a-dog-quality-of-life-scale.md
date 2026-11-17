@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The "how will I know?" question is difficult to answer. By the time most pet owners are searching for quality of life scales, they've already been watching their dog for weeks or months with growing concern. The information available online varies widely in quality. Some of it is genuinely helpful, while much of it is vague in a way that can make grieving people feel worse, not better.
 

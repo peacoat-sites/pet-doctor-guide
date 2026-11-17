@@ -12,7 +12,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "glp-1-weight-loss-drugs-are-coming-for-overweight-pets"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If your cat is fat, there's finally something genuinely new to talk about. Not a prescription diet that requires military-grade portion discipline. Not a puzzle feeder. An actual drug, working the same biological pathway as Ozempic and Wegovy, designed specifically for your overweight pet.
 

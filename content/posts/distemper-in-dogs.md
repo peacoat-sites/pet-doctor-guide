@@ -23,7 +23,7 @@ faqs:
     a: "No. Canine distemper virus does not infect humans. Cats have their own separate distemper virus (feline panleukopenia), which is actually a parvovirus and entirely unrelated despite the shared name. The two viruses don't cross species. Your cat is not at risk from a dog with distemper."
   - q: "If my dog survives distemper, can they spread it to other dogs?"
     a: "Recovered dogs can shed the virus for several weeks after clinical recovery, which matters a lot if you have other dogs in the household. Current guidance generally recommends keeping a recovering dog isolated from unvaccinated or immune-compromised dogs for a minimum of several weeks post-recovery. Your vet can help you determine when it's safe to reintroduce your dog to others based on repeat testing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people think distemper is a disease from the past. Like polio in humans, they vaguely know it exists but assume vaccination wiped it out. Distemper remains a serious threat despite available vaccines. It's a brutal disease, and it does not negotiate.

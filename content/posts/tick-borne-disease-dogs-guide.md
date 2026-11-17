@@ -1,6 +1,7 @@
 ---
 title: "300,000 Dogs Affected: Tick-Borne Disease Guide"
 date: 2026-07-29T18:16:53.445505+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to protect your dog from tick-borne diseases. Essential prevention tips, symptoms to watch for, and when to seek veterinary care."
 image: "/img/heroes/4564889.jpg"

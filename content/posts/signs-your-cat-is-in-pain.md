@@ -1,6 +1,7 @@
 ---
 title: "5 Signs Your Cat Is in Pain and Needs Help"
 date: 2026-07-27T18:50:34.251473+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn to recognize when your cat is hurting. Discover behavioral and physical signs that indicate pain and when to call your vet."
 image: "/img/heroes/6853523.jpg"

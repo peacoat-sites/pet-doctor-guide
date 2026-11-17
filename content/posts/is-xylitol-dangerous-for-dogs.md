@@ -1,6 +1,7 @@
 ---
 title: "Why 0.1g of Xylitol Can Poison Your Dog"
 date: 2026-07-26T18:15:01.402179+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Xylitol is highly toxic to dogs even in small amounts. Learn the dangers, symptoms, and how to keep your pet safe from this sweetener."
 image: "/img/heroes/6578908.jpg"

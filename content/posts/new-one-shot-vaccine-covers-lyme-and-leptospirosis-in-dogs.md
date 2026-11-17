@@ -12,7 +12,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "new-one-shot-vaccine-covers-lyme-and-leptospirosis-in-dogs"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're at your dog's summer wellness appointment, the tech is prepping three or four syringes on the counter, and your dog is already trembling on the table. If you've ever thought *there has to be a better way to do this*, there's actually some good news this month. On June 15, 2026, the USDA approved Elanco's TruCan Ultra Lyme-L4, the first combination vaccine to protect dogs against both Lyme disease and leptospirosis in a single half-milliliter injection. It's landing right at the peak of tick season, and if your dog is due for a wellness visit in the next few weeks, this is worth knowing before you walk through that clinic door.
 

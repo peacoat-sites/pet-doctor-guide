@@ -1,6 +1,7 @@
 ---
 title: "Canine Lymphoma Explained: Signs, Stages, and Treatment Options"
 date: 2026-08-14T18:09:15.182646+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what canine lymphoma is, how vets diagnose it, and what treatment options are available to help your dog fight this common cancer."
 image: "/img/heroes/7474859.jpg"

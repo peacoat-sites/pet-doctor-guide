@@ -7,7 +7,7 @@ author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 date: 2026-06-28
-lastmod: 2026-07-09
+lastmod: 2026-11-16T16:00:00Z
 faqs:
  - q: "When can puppies start vaccines?"
    a: "Puppies can receive their first vaccine at 6-8 weeks of age. The series continues every 2-4 weeks until 16-20 weeks, when they've built enough immunity despite maternal antibodies."

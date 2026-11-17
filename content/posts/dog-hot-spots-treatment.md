@@ -12,7 +12,7 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 slug: "dog-hot-spots-treatment"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog has been licking or scratching one spot obsessively, and now there's a raw, wet, angry-looking patch of skin that seems to have appeared out of nowhere. It's natural to wonder if this is serious, whether you need to rush to the vet, or if there's something you can do at home right now.
 

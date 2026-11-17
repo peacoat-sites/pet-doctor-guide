@@ -1,6 +1,7 @@
 ---
 title: "Anaplasmosis in Dogs: 48-Hour Treatment Timeline"
 date: 2026-07-17T18:18:15.425160+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how anaplasmosis affects dogs and what to expect during treatment. Early diagnosis and antibiotics are critical for recovery."
 image: "/img/heroes/6816871.jpg"

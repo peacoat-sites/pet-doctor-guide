@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog is coughing like he swallowed a pinecone and you're standing there doing the mental math: is this an emergency or will it pass in two minutes? Most articles punt immediately with "take your dog to the vet" and leave you no smarter than when you started. That's not useful. Let me actually help you figure out what's going on.
 

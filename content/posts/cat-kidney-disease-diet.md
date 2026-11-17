@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat just got diagnosed with [chronic kidney disease](/how-to-manage-diabetes-in-cats-with-insulin/), and the vet handed you a prescription diet pamphlet on your way out the door. Now you're home, staring at a bag of food your cat won't touch, reading ingredient labels you don't fully understand, and wondering whether you're slowly starving your cat or slowly killing her kidneys. The diagnosis is overwhelming enough without the diet piece feeling like a puzzle with missing pieces.
 

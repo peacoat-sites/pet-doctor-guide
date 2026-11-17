@@ -23,7 +23,7 @@ faqs:
    a: "Depends on the condition. Cardiac screening for Cavaliers should start by 12 months per the MVD Breeding Protocol. Hip radiographs can be done preliminarily at 4 months, with official OFA certification at 2 years. Ask your vet for a breed-specific screening timeline at your dog's first wellness visit."
  - q: "Is it worth seeing a specialist instead of my regular vet for breed-related issues?"
    a: "For serious conditions, yes, often worth it. A board-certified cardiologist reading your Doberman's echocardiogram is not the same as a general practitioner doing it. Board certifications exist because expertise accumulates with volume. Your general vet is ideal for ongoing care and to triage what needs a specialist. Use both."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most breed health guides read like a Wikipedia stub crossed with a vet school handout. They list conditions by breed in alphabetical order, confirm that yes, large dogs can get hip dysplasia, and leave you no better equipped than before you started. Let me try something more useful.

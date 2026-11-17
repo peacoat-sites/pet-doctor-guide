@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Last year, a client stormed into our clinic absolutely livid. She'd gotten a quote of $850 for her four-year-old beagle's dental cleaning, convinced we were running a scam. "It's just teeth cleaning," she said. "My dentist charges less than that." I spent ten minutes walking her through the line items, and by the end, she wasn't thrilled about the price, but she got it. That's what I'm doing here.
 

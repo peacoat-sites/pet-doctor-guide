@@ -1,6 +1,7 @@
 ---
 title: "Dog Hypothyroidism: 95% Success Rate With Early Treatment"
 date: 2026-07-22T18:39:14.457087+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to identify and treat canine hypothyroidism. Discover why early detection matters and what medication costs to expect for your dog."
 image: "/img/heroes/6235240.jpg"

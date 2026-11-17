@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You came home from work, called your cat's name, and heard nothing. No jingling collar, no trotting paws on hardwood. You searched the apartment for twenty minutes before finding her wedged behind the washing machine, pupils wide, not wanting to be touched. Now you're spiraling. Is she sick? Did something scare her? Is this the beginning of the end?
 

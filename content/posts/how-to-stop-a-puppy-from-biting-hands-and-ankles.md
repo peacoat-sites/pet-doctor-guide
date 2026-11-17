@@ -1,6 +1,7 @@
 ---
 title: "Stop Puppy Biting: 10 Training Techniques That Work"
 date: 2026-07-14T18:19:16.368126+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn 10 effective training techniques to stop your puppy from biting hands and ankles. Proven methods for redirecting puppy biting behavior."
 image: "/img/heroes/15322829.jpg"

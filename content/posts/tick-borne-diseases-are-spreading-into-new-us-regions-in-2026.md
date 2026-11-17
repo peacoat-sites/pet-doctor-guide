@@ -12,7 +12,7 @@ author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
 slug: "tick-borne-diseases-are-spreading-into-new-us-regions-in-2026"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you live in Minnesota, Georgia, Utah, or coastal Maine and you've never really stressed about tick-borne diseases in your pets, I need you to sit with this for a second: that assumption may now be genuinely dangerous. The Companion Animal Parasite Council released its 2026 Pet Parasite Forecast in March, and what surprised me most wasn't that tick ranges are shifting. It's how fast they're shifting, and how many pet owners in historically "safe" zones are heading into peak tick season with zero prevention in place.

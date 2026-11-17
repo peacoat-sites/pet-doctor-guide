@@ -1,6 +1,7 @@
 ---
 title: "Bathing Dogs With Sensitive Skin: How Often Is Safe?"
 date: 2026-07-13T18:52:06.576590+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the right bathing frequency for dogs with sensitive skin, plus tips for choosing gentle products and preventing irritation."
 image: "/img/heroes/4432261.jpg"

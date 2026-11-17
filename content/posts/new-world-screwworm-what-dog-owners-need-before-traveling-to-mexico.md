@@ -1,6 +1,7 @@
 ---
 title: "New World Screwworm: What Dog Owners Need Before Traveling to Mexico"
 date: 2026-08-12T18:09:59.582383+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "New World Screwworm poses serious risks to dogs in Mexico. Learn what pet owners need to know before traveling, including prevention tips and symptoms."
 image: "/img/heroes/7121954.jpg"

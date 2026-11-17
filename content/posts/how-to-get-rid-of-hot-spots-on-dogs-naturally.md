@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A common mistake with hot spots is leaving them alone, assuming they'll clear up on their own, or over-cleaning with hydrogen peroxide. Either approach can delay healing. While not every hot spot needs an emergency vet visit, prompt attention from a vet during regular hours usually prevents the problem from worsening and costs less in the long run.
 

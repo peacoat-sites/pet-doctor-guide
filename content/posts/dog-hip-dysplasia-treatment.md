@@ -1,6 +1,7 @@
 ---
 title: "70% of Dogs Improve With Hip Dysplasia Treatment"
 date: 2026-07-19T18:13:54.428608+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about effective dog hip dysplasia treatments, success rates, and recovery options to help your pet stay active and pain-free."
 image: "/img/heroes/6235124.jpg"

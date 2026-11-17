@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think the hard part's over once their cat wakes up from anesthesia. I thought that too, years ago, until I watched a routine spay turn into a three-day emergency because the owner didn't know what "normal recovery" actually looked like. The cat had been licking her incision obsessively, the owner figured it was just grooming, and by the time she called, the wound was open and infected. The surgery itself was textbook. The recovery fell apart. That gap between "procedure done" and "cat fully healed" is where most post-surgical complications live, and it's almost entirely preventable if you know what to watch for.
 

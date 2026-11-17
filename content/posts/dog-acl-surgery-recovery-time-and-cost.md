@@ -12,7 +12,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog just got the worst possible diagnosis from a knee injury, and now you're staring at a bill estimate that made your stomach drop. Many pet owners face the mental math of deciding whether a knee surgery estimate represents a manageable setback or a life-altering expense. So let's just talk honestly about what you're actually dealing with.
 

@@ -23,7 +23,7 @@ faqs:
    a: "Honestly, maybe not, depending on his actual exposure. A dog who goes outside only on leash, never contacts standing water or wildlife, and lives in a low-risk geographic area may have a risk-benefit profile that doesn't justify the vaccine. This is a conversation worth having with your specific vet rather than defaulting to yes or no."
  - q: "Can humans catch leptospirosis from a sick dog?"
    a: "Yes. Leptospirosis is zoonotic, which means infected dogs can shed the bacteria in their urine and expose people in the household. This is particularly concerning if an infected dog is incontinent or if there are immunocompromised people in the home. If your dog is diagnosed with lepto, your vet should walk you through safe handling protocols immediately."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Many pet owners assume leptospirosis is rare and exotic, relevant only to those hiking in remote areas. In reality, the disease can strike quickly and cause serious illness.

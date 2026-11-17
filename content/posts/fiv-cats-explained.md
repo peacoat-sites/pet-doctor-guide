@@ -1,6 +1,7 @@
 ---
 title: "FIV in Cats: What You Need to Know"
 date: 2026-08-02T18:14:01.381983+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about feline immunodeficiency virus in cats, how it spreads, treatment options, and how to help infected cats live longer, healthier lives."
 image: "/img/heroes/39626.jpg"

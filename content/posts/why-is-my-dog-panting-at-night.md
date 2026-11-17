@@ -1,6 +1,7 @@
 ---
 title: "Why Your Dog Pants at Night: 6 Common Causes"
 date: 2026-07-15T18:37:08.977564+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why dogs pant at night and when it signals a health problem. Learn which causes need veterinary attention."
 image: "/img/heroes/36739473.jpg"

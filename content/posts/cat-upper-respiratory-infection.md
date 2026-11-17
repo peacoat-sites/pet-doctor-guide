@@ -12,7 +12,7 @@ author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
 slug: "cat-upper-respiratory-infection"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume a sneezing cat just has "a little cold" that'll clear up on its own in a few days. Sometimes that's true. But upper respiratory infections can turn into weeks-long problems, making it important to understand what's actually happening when your cat sounds congested.
 

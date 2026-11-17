@@ -1,6 +1,7 @@
 ---
 title: "Cat Conjunctivitis Home Care: 80% Improve With These Steps"
 date: 2026-08-10T18:06:47.776517+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn effective home care strategies for cat conjunctivitis. Discover what works, when to seek help, and how to comfort your cat during recovery."
 image: "/img/heroes/89951.jpg"

@@ -23,7 +23,7 @@ faqs:
     a: "Prices vary significantly by location, surgeon, and whether one or both knees are affected. Expect a range from roughly $1,500 to $4,000 per knee in most U.S. markets. A board-certified orthopedic surgeon will typically be at the higher end. Get an itemized estimate and ask what follow-up is included."
   - q: "Can I prevent my dog from developing a luxating patella?"
     a: "You can't change genetics, but you can maintain a lean body weight, avoid breeding affected dogs, and not push puppies from at-risk breeds into high-impact activities before their growth plates close (typically 12-18 months depending on breed). That's about as much prevention as the evidence supports."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Roughly one in four small-breed dogs will develop a luxating patella at some point. That number comes from clinical observation, not a scare campaign, and it's the first thing I want pet owners to understand: this is one of the most common orthopedic problems we see, and also one of the most over-treated and under-understood.

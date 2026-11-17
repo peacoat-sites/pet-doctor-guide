@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Two days. That's the number that should shift you from "oh, she's just being picky" to "okay, I actually need to figure out what's going on." Not three days. Not a week. Forty-eight hours of a cat not eating is the point where biology starts working against you, even when your cat seems completely fine otherwise.
 

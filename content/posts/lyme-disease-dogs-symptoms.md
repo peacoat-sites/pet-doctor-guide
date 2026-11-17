@@ -23,7 +23,7 @@ faqs:
    a: "The research here is honestly mixed, but most veterinary internists lean toward treating symptomatic dogs and high-risk breeds regardless, and treating any seropositive dog with a C6 value above 30 U/mL. Ask your vet specifically about your dog's C6 number and breed risk. That conversation is worth having in detail."
  - q: "Can dogs get Lyme disease more than once?"
    a: "Yes. A prior infection doesn't confer lasting protective immunity. Dogs in endemic areas can be reinfected, which is another reason ongoing tick prevention and annual testing matter even after a dog has been treated successfully."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most dog owners I talk to think Lyme disease looks like a human case: a bull's-eye rash, a fever that hits fast, obvious misery. The reality in dogs is almost the opposite, and that gap between expectation and fact is exactly why so many dogs get diagnosed weeks or months too late.

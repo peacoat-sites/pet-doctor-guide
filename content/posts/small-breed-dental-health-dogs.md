@@ -23,7 +23,7 @@ faqs:
    a: "Enzymatic toothpastes that are applied by finger or gauze pad are a reasonable second option. Dental chews with the VOHA seal also help. But be honest with your vet about what you're actually doing so they can calibrate how frequently your dog needs professional cleanings."
  - q: "How do I know if my dog has a toothache?"
    a: "Dogs mask pain well, but watch for changes in eating behavior, chewing on one side, dropping food, pawing at the mouth, or reluctance to let you touch their face. Any of these warrants a vet visit rather than a wait-and-see approach. Dental pain is real and often undertreated in dogs simply because they don't cry out the way we'd expect."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your Chihuahua's breath just knocked you back a step. You leaned in to give her a good-morning scratch and got hit with something that smelled like a fishing trawler. And your vet mentioned at the last visit, kind of casually, the way vets sometimes deliver genuinely alarming news, that she's "showing early signs of periodontal disease." She's four years old.

@@ -23,7 +23,7 @@ author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. A urine sample can reveal a surprising amount of information, often catching serious conditions like urinary tract infections, early kidney disease, diabetes, or certain cancers before a dog shows any signs at home. A dog can have a urinary tract infection, early [kidney disease](/senior-pet-bloodwork-panel/), diabetes, or even certain cancers and still look completely fine at home. Understanding what it's measuring puts you in a much better position to ask the right questions.
 

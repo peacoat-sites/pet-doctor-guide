@@ -12,7 +12,7 @@ author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
 slug: "large-breed-dog-joint-health"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Large breed dogs age faster than most people realize. A Great Dane is considered a senior at 6. A Rottweiler's hips can start showing arthritis changes on X-ray at 3 or 4, years before they limp visibly. Large breed owners often fall somewhere on a spectrum between wanting to be proactive and managing a dog that's already struggling with mobility. This article covers both situations.
 

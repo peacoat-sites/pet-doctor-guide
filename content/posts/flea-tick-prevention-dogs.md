@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A single flea can lay up to 50 eggs per day. By the time you spot one flea on your dog, there's a good chance a few hundred eggs are already scattered through your carpet, bedding, and couch cushions. That's not a scare tactic. That's just flea biology, and it's exactly why prevention is so much easier than treatment. Ticks are a different kind of trouble, capable of transmitting Lyme disease, Rocky Mountain spotted fever, and ehrlichiosis, sometimes within 24 to 48 hours of attachment. The good news is that protecting your dog from both is genuinely straightforward once you understand your options and pick the right product for your situation.
 

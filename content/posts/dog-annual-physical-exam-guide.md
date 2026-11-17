@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most dog owners walk into the annual exam thinking it's basically a formality: the vet listens to the heart, gives a few shots, and everyone goes home. I thought the same thing for years, honestly. What surprised me when I started working in clinical practice was just how much gets caught in those 20-30 minutes that owners had no idea about. Heart murmurs in seemingly healthy 4-year-olds. Early kidney disease in dogs showing zero symptoms. Dental disease so advanced in a dog whose owner thought "bad breath is just a dog thing" that three teeth had to come out that same week. The annual physical isn't a formality. It's often the only safety net your dog has.
 

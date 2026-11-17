@@ -1,6 +1,7 @@
 ---
 title: "Why Cats Drink 3.5 Times More Water Than Normal"
 date: 2026-07-21T18:43:26.152941+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why your cat is drinking excessive water and when it signals a serious health problem like diabetes or kidney disease."
 image: "/img/heroes/723130.jpg"

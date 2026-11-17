@@ -1,6 +1,7 @@
 ---
 title: "Mast Cell Tumors in Dogs: Signs, Treatment, and Prognosis"
 date: 2026-07-17T18:21:11.918635+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what mast cell tumors are in dogs, how vets diagnose them, and what treatment options can help your pet live longer."
 image: "/img/heroes/6235017.jpg"

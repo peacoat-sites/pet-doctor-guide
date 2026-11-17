@@ -23,7 +23,7 @@ faqs:
     a: "Go to an emergency vet immediately if your cat is vomiting blood, vomiting more than 3-4 times in a few hours, retching without producing anything, showing signs of weakness or collapse, has a swollen abdomen, or you know they ingested something toxic. Lily ingestion in particular is a genuine life-threatening emergency that cannot wait until morning."
   - q: "Can a cat throw up from stress or anxiety?"
     a: "Yes, absolutely. Cats are more sensitive to environmental stress than most people give them credit for. A new pet in the house, a move, construction noise, or even a change in your schedule can trigger acute vomiting. If the vomiting resolves when the stressor does, stress is a likely factor, but if it continues for more than a day or two, rule out a physical cause with your vet."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most cat owners have been there: it's 2 a.m., you're half asleep, and you step in something warm and wet in the dark hallway. Your cat looks up at you completely unbothered. You're the one having a crisis.

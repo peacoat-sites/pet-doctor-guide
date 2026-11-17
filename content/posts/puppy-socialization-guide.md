@@ -1,6 +1,7 @@
 ---
 title: "12-18 Weeks: The Critical Puppy Socialization Timeline"
 date: 2026-08-01T18:14:21.422683+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the essential stages of puppy socialization from 12 to 18 weeks. Expert tips for raising confident, well-adjusted dogs."
 image: "/img/heroes/9471937.jpg"

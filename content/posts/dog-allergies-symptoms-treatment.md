@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog has been scratching the same spot on his belly for three weeks straight. You've checked for fleas twice, switched his shampoo, and he's *still* going at it. Sound familiar? Allergies are one of the most common reasons dogs end up at the vet, accounting for a significant chunk of all dermatology-related visits in small animal practice. And yet they're also one of the most misunderstood conditions dog owners deal with, partly because the symptoms can look like a dozen other things, and partly because there's no single cure that works for every dog.
 

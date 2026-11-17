@@ -1,6 +1,7 @@
 ---
 title: "Dog Seizure First Aid: How to Keep Your Pet Safe"
 date: 2026-08-11T18:09:52.497586+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what to do if your dog has a seizure, including step-by-step first aid, when to call the vet, and how to prevent injury during an episode."
 image: "/img/heroes/6517563.jpg"

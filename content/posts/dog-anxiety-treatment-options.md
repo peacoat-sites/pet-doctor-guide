@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog has been destroying the baseboards every time you leave for work. Or maybe she trembles through every thunderstorm, pressed into the corner of the closet, refusing to come out for hours. You've Googled "anxious dog" at midnight, overwhelmed by the sheer volume of conflicting advice, and you still don't know what to actually *do*. That's exactly what this article is for.
 

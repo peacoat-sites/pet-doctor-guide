@@ -1,6 +1,7 @@
 ---
 title: "Dog Reactivity Training: Stop Leash Lunging and Barking"
 date: 2026-07-20T19:11:05.322985+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn proven techniques to reduce dog reactivity, manage trigger responses, and build calm behavior on walks and around other dogs."
 image: "/img/heroes/9956241.jpg"

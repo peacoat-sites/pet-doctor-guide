@@ -23,7 +23,7 @@ faqs:
    a: "Some of the same medications are used, but the doses and delivery devices are different. Never use your own inhaler on your cat without explicit veterinary guidance. Even if the medication is technically the same, the dose could be dangerously wrong."
  - q: "Do I need to worry about my other cats getting asthma from the one who has it?"
    a: "Asthma isn't contagious. It's an immune-mediated response, not an infection. That said, if an environmental trigger is driving your cat's asthma, that same environment could theoretically affect another predisposed cat. Improving air quality at home benefits everyone in the household, two-legged and four-legged."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat has been coughing. Not the hairball kind, but something lower, more labored, maybe even a little alarming. You searched the symptoms, landed here, and now you're sitting with the word "asthma" and a dozen questions you don't know how to rank yet. That's exactly where I want to start.
 

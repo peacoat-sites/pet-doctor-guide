@@ -1,6 +1,7 @@
 ---
 title: "Cyclospora Outbreak 2026: What Pet Owners Need to Know"
 date: 2026-07-25T18:11:21.438929+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Cyclospora Outbreak 2026: What Pet Owners Need to Know. Learn how to protect your pets from cyclospora, recognize symptoms, and prevent transmission at home."
 image: "/img/heroes/6927894.jpg"

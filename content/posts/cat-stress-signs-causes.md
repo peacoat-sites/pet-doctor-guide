@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat has been hiding under the bed for three days. She's barely touched her food. When you try to coax her out, she hisses, which she has never done before. You're worried, but you're also second-guessing yourself: is this stress, is she sick, or is this just a cat being a cat? The truth is, those three things are often tangled together, and figuring out which is which can genuinely change how fast she gets better.
 

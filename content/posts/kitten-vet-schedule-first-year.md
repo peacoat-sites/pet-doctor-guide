@@ -23,7 +23,7 @@ author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Veterinary Emergency Technician"
 author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 When you bring home an eight-week-old kitten, questions come up quickly: when does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? New kitten owners often feel unsure about what the first year looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.
 

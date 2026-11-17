@@ -1,6 +1,7 @@
 ---
 title: "New AAHA Guidelines Just Changed How Vets Treat Cat Diabetes"
 date: 2026-07-09T19:02:30.340873+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how the latest AAHA guidelines are transforming feline diabetes treatment, helping vets improve outcomes and quality of life for diabetic cats everywhe"
 image: "/img/heroes/6816862.jpg"

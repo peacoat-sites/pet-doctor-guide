@@ -1,6 +1,7 @@
 ---
 title: "Dog Cruciate Ligament Surgery: What Pet Owners Pay"
 date: 2026-07-30T18:50:22.174105+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what cruciate ligament surgery costs for dogs, factors affecting price, and payment options to help your pet recover."
 image: "/img/heroes/6235124.jpg"

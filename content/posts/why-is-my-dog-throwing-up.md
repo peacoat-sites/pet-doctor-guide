@@ -1,6 +1,7 @@
 ---
 title: "Why Is My Dog Throwing Up? 9 Causes and What to Do"
 date: 2026-07-08T18:53:15.699614+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common reasons dogs vomit, when to call your vet, and simple steps to help your dog feel better fast."
 image: "/img/heroes/6235244.jpg"

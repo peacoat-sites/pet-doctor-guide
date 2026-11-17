@@ -1,6 +1,7 @@
 ---
 title: "How Much Chocolate Is Actually Toxic to Dogs"
 date: 2026-07-10T18:49:01.314734+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out exactly how much chocolate can harm your dog by weight and breed size, plus what to do if your dog eats chocolate right now."
 image: "/img/heroes/3993750.jpg"

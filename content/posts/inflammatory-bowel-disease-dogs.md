@@ -1,6 +1,7 @@
 ---
 title: "IBD in Dogs: Why 70% Need Dietary Changes"
 date: 2026-07-24T18:49:56.788015+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about inflammatory bowel disease in dogs, treatment costs from $800-$3,000, and how diet changes help manage symptoms effectively."
 image: "/img/heroes/6578842.jpg"

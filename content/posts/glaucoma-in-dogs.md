@@ -1,6 +1,7 @@
 ---
 title: "Glaucoma in Dogs: Early Signs and Treatment Options"
 date: 2026-07-24T18:51:58.503174+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to recognize glaucoma symptoms in dogs and understand treatment approaches to protect your pet's vision and eye health."
 image: "/img/heroes/24595746.jpg"

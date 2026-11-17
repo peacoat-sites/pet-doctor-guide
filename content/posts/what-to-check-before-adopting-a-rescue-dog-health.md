@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Roughly half of rescue dogs show at least one health issue within the first 30 days post-adoption that their new owners weren't aware of. Not because shelters are hiding things. Because health assessments done on stressed, under-observed animals in noisy kennels miss a lot, and because most adopters don't know what to look for before they sign the paperwork.
 

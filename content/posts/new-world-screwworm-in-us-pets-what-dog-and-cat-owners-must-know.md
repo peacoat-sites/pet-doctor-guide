@@ -1,6 +1,7 @@
 ---
 title: "New World Screwworm in US Pets: What Dog and Cat Owners Must Know"
 date: 2026-08-09T17:50:43.856885+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "New World Screwworm in US Pets: What Dog and Cat Owners Must Know. Learn symptoms, prevention, and treatment to protect your beloved companions from this parasi"
 image: "/img/heroes/13024080.jpg"

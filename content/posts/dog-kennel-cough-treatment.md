@@ -1,6 +1,7 @@
 ---
 title: "Dog Kennel Cough Treatment: Recovery Options That Work"
 date: 2026-08-05T18:56:53.317165+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn effective kennel cough treatments for dogs, including veterinary care options and home remedies to help your dog recover faster."
 image: "/img/heroes/6235013.jpg"

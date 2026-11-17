@@ -1,6 +1,7 @@
 ---
 title: "Dog Ear Hematoma: When Surgery Is Needed and Alternatives"
 date: 2026-07-21T18:45:46.518447+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how vets treat dog ear hematomas, from surgical drainage to non-invasive options, and what to expect during recovery."
 image: "/img/heroes/37375370.jpg"

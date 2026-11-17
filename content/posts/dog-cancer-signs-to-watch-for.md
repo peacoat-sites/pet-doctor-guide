@@ -1,6 +1,7 @@
 ---
 title: "50% of Dogs Get Cancer: Signs to Watch For"
 date: 2026-08-16T17:37:32.355644+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the warning signs of dog cancer and what pet owners need to know about detection, treatment costs, and when to see a vet."
 image: "/img/heroes/6816858.jpg"

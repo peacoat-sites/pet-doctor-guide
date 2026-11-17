@@ -1,6 +1,7 @@
 ---
 title: "12 Cat Enrichment Ideas to Keep Indoor Cats Happy"
 date: 2026-08-04T18:56:57.400202+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover 12 proven enrichment activities and toys to keep your indoor cat mentally stimulated, active, and entertained throughout the day."
 image: "/img/heroes/35397360.jpg"

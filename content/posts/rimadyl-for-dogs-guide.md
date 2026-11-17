@@ -23,7 +23,7 @@ faqs:
     a: "A single episode of mild vomiting after a dose is worth noting but not necessarily cause to stop the medication immediately. Try giving the next dose with a small meal. If vomiting continues, or if you see blood in the vomit, dark tarry stools, or your dog stops eating, stop the medication and call your vet the same day."
   - q: "Can I use Rimadyl for my dog's pain if it was prescribed for a different condition?"
     a: "In theory you're using the same drug, but I'd call your vet first. Dosing, duration, and appropriateness vary by condition. What was prescribed for a 5-day post-op course might not be the right approach for, say, a new injury without an exam to rule out fractures or internal issues."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your dog has been limping for a few days, your vet just prescribed Rimadyl, and now you're sitting at home staring at the bottle trying to figure out exactly what you've agreed to put in your dog's body. That's a completely reasonable place to be, and I want to give you the kind of honest rundown I wish more people had before they started.

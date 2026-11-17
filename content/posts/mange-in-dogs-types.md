@@ -1,6 +1,7 @@
 ---
 title: "Mange in Dogs: 2 Types, Symptoms, and Treatment Options"
 date: 2026-08-07T18:06:09.458522+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about the two main types of mange in dogs, their symptoms, and effective treatment approaches to help your pet recover."
 image: "/img/heroes/37836877.jpg"

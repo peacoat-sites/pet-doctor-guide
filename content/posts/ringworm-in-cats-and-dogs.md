@@ -1,6 +1,7 @@
 ---
 title: "Ringworm in Cats and Dogs: Signs, Treatment, and Prevention"
 date: 2026-07-23T18:40:27.659237+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to identify ringworm in cats and dogs, treat fungal infections effectively, and prevent spread to other pets and family members."
 image: "/img/heroes/21579851.jpg"

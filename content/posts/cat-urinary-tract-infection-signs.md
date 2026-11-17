@@ -23,7 +23,7 @@ author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pet Specialist"
 author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat has been in and out of the litter box five times in the last hour. Each time, she squats, strains, and produces almost nothing. Maybe she cried out once. Maybe you noticed a tiny pink tinge in the box. Your gut is telling you something is wrong, and you should trust that instinct, because what you're describing is a classic picture of feline lower urinary tract disease (FLUTD), and in some cases it genuinely cannot wait.
 

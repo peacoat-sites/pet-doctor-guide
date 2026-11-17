@@ -1,6 +1,7 @@
 ---
 title: "Are Lilies Poisonous to Cats? What Every Pet Owner Needs to Know"
 date: 2026-08-08T17:49:25.383091+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Lilies are highly toxic to cats and can cause serious kidney damage. Learn which lily types are most dangerous and how to protect your pet."
 image: "/img/heroes/15549153.jpg"

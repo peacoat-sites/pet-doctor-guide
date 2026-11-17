@@ -12,7 +12,7 @@ author_title: "Dog Trainer"
 author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
 slug: "ozempic-for-cats-what-the-new-glp-1-research-actually-means"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Feline weight loss is genuinely difficult. Many cat owners try measured portions, puzzle feeders, and prescription diets recommended by their vet, only to see their cats remain overweight or continue gaining. Obesity is one of the most frustrating conditions to manage in cats because the treatment options are limited. Diet and exercise counseling, basically. That's about it.
 

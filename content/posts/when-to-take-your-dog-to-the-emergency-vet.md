@@ -1,6 +1,7 @@
 ---
 title: "7 Signs Your Dog Needs Emergency Vet Care Now"
 date: 2026-07-09T19:05:11.896252+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which symptoms require an immediate vet visit and which can wait. Knowing the difference could save your dog's life."
 image: "/img/heroes/6235020.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "High White Blood Cell Count in Dogs: Causes and What to Do"
 date: 2026-07-14T18:21:25.555231+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what elevated white blood cells mean for your dog's health, common causes like infection and inflammation, and when to see your vet."
 image: "/img/heroes/6235114.jpg"

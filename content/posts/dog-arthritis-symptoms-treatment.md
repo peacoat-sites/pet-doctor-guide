@@ -23,7 +23,7 @@ author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutritionist"
 author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your normally enthusiastic Labrador won't jump into the car anymore. He hesitates at the bottom of the stairs, looks up at you, and then just stands there. You assume he's being lazy or stubborn. Often, what looks like reluctance is actually pain. A dog may have been hurting for months, quietly compensating, until the car hesitation becomes the moment the pain finally outpaces his ability to hide it. Arthritis in dogs is sneaky. It doesn't announce itself with dramatic limping on day one. It creeps in slowly, and by the time most owners notice something is wrong, the joint disease is already well established.
 

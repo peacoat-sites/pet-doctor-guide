@@ -23,7 +23,7 @@ author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior Expert"
 author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A dog might start honking like a goose a few days into what looks like allergies, and the owner may become convinced it's serious. Kennel cough is one of those conditions that sounds genuinely alarming, looks scary at 11pm when you're Googling worst-case scenarios, and in most healthy adult dogs, will resolve on its own without a single dollar spent at the vet. The key is knowing the difference between normal kennel cough and a case that needs a vet visit today.
 

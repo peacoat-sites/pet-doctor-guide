@@ -23,7 +23,7 @@ faqs:
    a: "Physical dependence can develop with long-term use, which is why abrupt discontinuation, especially in seizure patients, isn't recommended. This is more of a physiological adaptation than 'addiction' in the behavioral sense. Your vet will guide a gradual taper when it's time to stop."
  - q: "Can gabapentin be used with other medications?"
    a: "It generally plays well with NSAIDs, which is part of why it's popular in multimodal pain protocols. It can enhance the sedative effects of other CNS depressants though, so your vet needs to know everything your dog is taking, including supplements. Antacids can reduce gabapentin absorption if given at the same time, so spacing them out by at least two hours is worth doing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most pet owners I talk to assume gabapentin is just a "nerve pain drug" their vet throws at older dogs who seem stiff. That framing is so incomplete it can actually lead people to under-use or misuse a medication that, in the right context, is genuinely remarkable.

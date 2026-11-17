@@ -23,7 +23,7 @@ faqs:
    a: "Yes, and it's one of the things owners feel worst about. Your resident animal is processing a significant change in their environment. Give them extra one-on-one time, keep their routine as consistent as possible, and don't force interaction with the newcomer. Most animals recalibrate within two to three weeks."
  - q: "My new cat won't come out from under the bed. How long is too long?"
    a: "A day or two of hiding is normal and expected. If your new cat hasn't eaten, drunk water, or used the litter box within 48 hours, call your vet. If they're hiding but eating overnight when it's quiet, that's a shy cat adjusting at their own pace, not a crisis, just a process."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most "introducing a new pet" articles spend three paragraphs telling you to be patient and then wish you luck. That's not useful. What you actually need is a clear sequence, specific timing benchmarks, and honest guidance on what to do when things go sideways, because something usually does.

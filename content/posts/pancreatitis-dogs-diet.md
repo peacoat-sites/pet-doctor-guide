@@ -1,6 +1,7 @@
 ---
 title: "Pancreatitis Diet for Dogs: Foods to Feed and Avoid"
 date: 2026-07-20T19:14:04.139767+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which foods are safe for dogs with pancreatitis and how to manage their diet to prevent flare-ups and support recovery."
 image: "/img/heroes/3860309.jpg"

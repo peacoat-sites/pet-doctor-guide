@@ -23,7 +23,7 @@ faqs:
    a: "Ask your vet for an airway assessment at your dog's one-year checkup, or earlier if you're noticing significant symptoms. Earlier intervention generally means better surgical outcomes if correction is needed."
  - q: "What's the one thing most owners get wrong?"
    a: "Assuming loud breathing is just 'how the breed is' and stopping there. Some of it is. But treating all breathing noise as normal means missing dogs who are genuinely struggling and who would do significantly better with intervention."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Your bulldog is snoring so loudly you can hear him from the kitchen. Your pug is gagging after a quick walk around the block. Maybe you've just adopted a French Bulldog puppy and a friend, probably trying to be helpful, mentioned something about "brachycephalic syndrome" and now you're falling down a rabbit hole at 11pm wondering if your new dog is going to be okay.

@@ -23,7 +23,7 @@ author: "Dr. Amanda Foster"
 author_slug: "dr-amanda-foster"
 author_title: "Veterinary Reviewer"
 author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 It's 11:47 PM on a Sunday, and your dog just ate something off the kitchen counter. Or your cat is hiding under the bed, breathing with her mouth open. Or your rabbit hasn't moved in two hours. Your heart is pounding and you're frantically Googling "do I need the emergency vet?" This article is for that exact moment. Not tomorrow, not at a routine appointment. Right now.
 

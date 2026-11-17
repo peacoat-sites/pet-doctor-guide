@@ -1,6 +1,7 @@
 ---
 title: "New World Screwworm Is Back in the US: What Pet Owners Must Know"
 date: 2026-06-20T18:50:07.519444+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Protect your pets from the deadly New World Screwworm returning to the US. Learn the warning signs, risks, and urgent steps every pet owner must take now."
 image: "/img/heroes/14449083.jpg"

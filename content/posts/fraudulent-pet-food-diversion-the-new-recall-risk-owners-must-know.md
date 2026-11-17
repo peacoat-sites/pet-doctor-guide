@@ -1,6 +1,7 @@
 ---
 title: "Fraudulent Pet Food Diversion: The New Recall Risk Owners Must Know"
 date: 2026-07-31T18:48:15.080750+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Fraudulent pet food diversion schemes pose serious health risks to your pets. Learn how counterfeit products enter the market, what signs to watch for, and how "
 image: "/img/heroes/35285854.jpg"
