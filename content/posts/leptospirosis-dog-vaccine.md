@@ -34,9 +34,9 @@ The disease can cause kidney failure, liver damage, and in severe cases, death. 
 
 ## Why the Lepto Vaccine Gets a Bad Reputation
 
-Here's where I'll be honest with you: the leptospirosis vaccine historically had a higher rate of adverse reactions than most core vaccines. Particularly in small breed dogs, we used to see more cases of facial swelling, vomiting, and occasionally anaphylaxis within 30-60 minutes of vaccination. That reputation stuck, and it made a lot of vets cautious about recommending it broadly.
+The leptospirosis vaccine historically had a higher rate of adverse reactions than most core vaccines. Particularly in small breed dogs, more cases of facial swelling, vomiting, and occasionally anaphylaxis within 30-60 minutes of vaccination were observed. That reputation stuck, and it made a lot of vets cautious about recommending it broadly.
 
-But the original whole-cell bacterin vaccines that caused those problems have largely been replaced by newer subunit vaccines. The current formulations, including products like Nobivac Lepto4 from Merck and Zoetis's Vanguard L4, have a significantly improved safety profile. A large retrospective study published in *Vaccine* (and confirmed by ongoing pharmacovigilance data the [AVMA](https://www.avma.org/) has tracked) showed that reaction rates with modern four-serovar vaccines are comparable to many other routine vaccines. We're not seeing the same reaction burden we were 15 years ago.
+But the original whole-cell bacterin vaccines that caused those problems have largely been replaced by newer subunit vaccines. The current formulations, including products like Nobivac Lepto4 from Merck and Zoetis's Vanguard L4, have a significantly improved safety profile. A large retrospective study published in *Vaccine* (and confirmed by ongoing pharmacovigilance data the [AVMA](https://www.avma.org/) has tracked) showed that reaction rates with modern four-serovar vaccines are comparable to many other routine vaccines. The same reaction burden seen 15 years ago is no longer being reported at the same rates.
 
 That said, the risk isn't zero. Small breed dogs under 10 pounds, particularly Dachshunds and Chihuahuas, still have modestly elevated reaction rates. For those dogs, pre-treating with diphenhydramine (Benadryl, roughly 1mg/lb) about 30 minutes before the injection and observing them in the clinic afterward can help prevent adverse reactions. It adds time and a small cost, but it dramatically reduces the likelihood of a scary reaction at home.
 
@@ -54,7 +54,7 @@ Risk factors that genuinely push a dog into "vaccinate this one" territory:
 
 Here's a worked example that illustrates how fast this goes wrong:
 
-**For example, consider a 4-year-old Labrador in suburban Atlanta with backyard access and occasional visits to a neighborhood pond whose owner declined the lepto vaccine two years in a row because "he's not a hunting dog": a dog in that situation could present with acute kidney injury, spend 8 days hospitalized, face a $6,800 bill, and survive with permanent renal scarring.**
+**For example, a 4-year-old Labrador in suburban Atlanta with backyard access and occasional visits to a neighborhood pond could develop acute kidney injury if unvaccinated, potentially requiring 8 days of hospitalization, costing around $6,800, and resulting in permanent renal scarring.**
 
 That is not a scare tactic.
 

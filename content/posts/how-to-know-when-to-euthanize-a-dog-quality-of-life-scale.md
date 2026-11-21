@@ -77,7 +77,7 @@ Bring your quality of life notes if you've been keeping them. Bring video of you
 
 The ASPCA Animal Poison Control Center has a pet loss support line (888-478-7574) that extends beyond poison emergencies, and the AAHA's pet loss resources page is worth bookmarking if you're in this season with your dog.
 
-For example, consider an owner who tracked her lab's daily quality of life over several months. She used the daily journal. She asked the hard question out loud. She made the call on a Tuesday afternoon in her backyard, with Otis in the grass in the sun. She said later she was glad she didn't wait. That is what most families say, eventually. It may help to hear that now, before you need it to.
+For example, imagine an owner who tracked her dog's daily quality of life over several months. She used the daily journal. She asked the hard question out loud. She made the call on a quiet afternoon in her backyard, with her dog comfortable in the sun. She said later she was glad she didn't wait. That is what most families say, eventually. It may help to hear that now, before you need it to.
 
 ---
 
