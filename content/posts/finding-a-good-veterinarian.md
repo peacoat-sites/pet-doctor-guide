@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Finding a vet in a new city can be stressful, especially when online reviews are mixed or your pet needs urgent care. A bad clinic experience can make that stress worse. Finding a good veterinarian is one of the most important decisions you'll make for your animal, and most people do it completely backwards.

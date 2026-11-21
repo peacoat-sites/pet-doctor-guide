@@ -22,7 +22,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Last year, a client stormed into our clinic absolutely livid. She'd gotten a quote of $850 for her four-year-old beagle's dental cleaning, convinced we were running a scam. "It's just teeth cleaning," she said. "My dentist charges less than that." I spent ten minutes walking her through the line items, and by the end, she wasn't thrilled about the price, but she got it. That's what I'm doing here.

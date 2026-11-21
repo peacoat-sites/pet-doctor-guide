@@ -22,7 +22,7 @@ faqs:
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pets"
-author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Tom Harris is the byline used at Pet Doctor Guide for articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Increased thirst and urination are among the first signs of kidney disease in older cats. Weight loss without a diet change and a duller coat may accompany these changes. If you notice this pattern, chronic kidney disease is worth investigating with your vet. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.

@@ -9,7 +9,7 @@ tags: ["vet visit", "puppy care", "dog health", "first vet appointment"]
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-07
 ---
 That first vet visit can feel overwhelming, especially with a squirmy puppy or a nervous rescue dog. But knowing what to expect makes the whole thing easier for both of you.

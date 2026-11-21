@@ -22,7 +22,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat's been pushing food around the bowl for three weeks now. Used to devour it in minutes. Now she sniffs, takes a bite or two, walks away. You figure she's just being picky. Then your vet finds a tooth so infected it needs extraction that same afternoon.

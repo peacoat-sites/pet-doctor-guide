@@ -22,7 +22,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog is shaking his head like he's trying to fling something off, one ear smells vaguely like a corn chip or sourdough bread, and the inside of the flap looks pink and a little gunky. You've seen this before. Maybe it's the third time this year. You already know what it is.

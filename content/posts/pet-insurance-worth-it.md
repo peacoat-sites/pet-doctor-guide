@@ -22,7 +22,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your dog swallows something he shouldn't on a Tuesday night. By Thursday he's in emergency surgery for an intestinal obstruction. You leave the clinic with a healthy dog, a discharge summary, and an invoice for $4,800. I've watched this happen dozens of times in 13 years, and I can tell you the owners who had pet insurance walked out relieved. The ones who didn't were doing math on payment plans before their dog was even fully awake from anesthesia.

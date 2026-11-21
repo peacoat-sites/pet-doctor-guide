@@ -9,7 +9,7 @@ tags: ["upper", "respiratory", "infection"]
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 slug: "cat-upper-respiratory-infection"
 affiliate_disclosure: true
 lastmod: 2026-11-16T16:00:00Z

@@ -22,7 +22,7 @@ faqs:
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Pet First Aid"
-author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Rachel Sanders is the byline used at Pet Doctor Guide for articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog is coughing like he swallowed a pinecone and you're standing there doing the mental math: is this an emergency or will it pass in two minutes? Most articles punt immediately with "take your dog to the vet" and leave you no smarter than when you started. That's not useful. Let me actually help you figure out what's going on.

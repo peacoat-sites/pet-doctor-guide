@@ -22,7 +22,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat jumps up on the couch, misses, and you laugh it off. It's funny the first time. But if that's become a regular occurrence, if your cat's belly is swinging low, and you can't feel her ribs without pressing firmly, that's not a quirky personality trait. That's a medical condition. Feline obesity is the most common nutritional disorder in domestic cats, affecting an estimated 59% of cats in the United States according to the Association for Pet Obesity Prevention. And unlike a chubby human who can choose to go for a walk, your cat depends entirely on you to recognize the problem and do something about it.

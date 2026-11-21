@@ -22,7 +22,7 @@ faqs:
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pets"
-author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Tom Harris is the byline used at Pet Doctor Guide for articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 White foam vomit from a dog who won't eat is one of those symptoms that genuinely ranges from "wait until morning" to "drive to the emergency clinic right now," and most of the advice online makes it sound like it's always one or the other. I'll be honest: that ambiguity used to frustrate me too, even after years in a clinical setting. So let me give you the real breakdown.

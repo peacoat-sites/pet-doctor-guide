@@ -22,7 +22,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your dog just nipped a visitor. Or maybe a neighbor's Lab got your hand during a leash tangle. Or your own cat got startled and your dog jumped in and now someone's bleeding and nobody's quite sure what happened. Whatever the specifics, you're here because there's a bite wound and you want to know what to do with it. Most articles will tell you to "seek medical attention immediately" and leave you there. That's not useful. Let's actually talk about what you're dealing with.

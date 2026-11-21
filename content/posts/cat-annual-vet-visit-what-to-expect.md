@@ -22,7 +22,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat acts completely normal all year, eats well, plays occasionally, and then the vet finds a heart murmur at a routine checkup. This scenario is common, which is why annual wellness visits matter even when your cat seems absolutely fine. Cats are masters of hiding illness, a survival instinct baked in from their wild ancestors, and by the time symptoms become obvious to you at home, a condition is often well advanced.

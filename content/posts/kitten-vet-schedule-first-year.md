@@ -22,7 +22,7 @@ faqs:
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Pet First Aid"
-author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Rachel Sanders is the byline used at Pet Doctor Guide for articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 When you bring home an eight-week-old kitten, questions come up quickly: when does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? New kitten owners often feel unsure about what the first year looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.

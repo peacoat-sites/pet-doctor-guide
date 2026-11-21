@@ -22,7 +22,7 @@ faqs:
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Pet First Aid"
-author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Rachel Sanders is the byline used at Pet Doctor Guide for articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog hasn't touched his bowl in 24 hours. He sniffed it, walked away, and is now lying in his bed looking vaguely miserable. Your stomach drops. Is this serious? Should you be rushing to an emergency clinic at 10pm, or will he be fine by morning? That anxious feeling is completely normal, and the good news is that most cases of a dog skipping meals are not emergencies. But some absolutely are, and knowing the difference could save your dog's life.

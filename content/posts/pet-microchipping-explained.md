@@ -22,7 +22,7 @@ faqs:
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior"
-author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog bolts through an open gate during a thunderstorm. By morning, he's been picked up by animal control, scanned, and is already on his way home before you've even finished printing lost-dog flyers. That's not luck. That's a microchip working exactly as intended. If your pet doesn't have one yet, you're probably wondering whether it's worth it, whether it hurts, and how the whole thing actually works.

@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Pet food ingredient lists can look like chemistry exams. Chicken by-product meal, carrageenan, mixed tocopherols, brewers rice, sodium selenite. What does any of it actually mean? Ingredient lists are ordered by weight before cooking, which means a bag that leads with "real chicken" might contain far less actual meat protein than you think once that moisture-heavy chicken is cooked down. Understanding what you're reading isn't about being a neurotic pet parent. It's about making genuinely informed choices for an animal who depends entirely on you to get it right.

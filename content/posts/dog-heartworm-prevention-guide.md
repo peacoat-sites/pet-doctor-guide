@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your dog can carry heartworm for six months without showing a single sign. A cough. Fatigue on walks. Weight loss. By then, the parasites have already dug into the heart and pulmonary arteries, doing damage that won't completely heal. Here's what catches most people off guard: this disease is almost completely preventable. But once it takes hold, treatment is expensive, brutal on your dog's body, and might not undo everything the worms already broke. Prevention is cheaper. It's also kinder.

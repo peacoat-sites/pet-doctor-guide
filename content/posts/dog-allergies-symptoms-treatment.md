@@ -22,7 +22,7 @@ faqs:
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Pet First Aid"
-author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Rachel Sanders is the byline used at Pet Doctor Guide for articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog has been scratching the same spot on his belly for three weeks straight. You've checked for fleas twice, switched his shampoo, and he's *still* going at it. Sound familiar? Allergies are one of the most common reasons dogs end up at the vet, accounting for a significant chunk of all dermatology-related visits in small animal practice. And yet they're also one of the most misunderstood conditions dog owners deal with, partly because the symptoms can look like a dozen other things, and partly because there's no single cure that works for every dog.

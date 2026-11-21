@@ -22,7 +22,7 @@ faqs:
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pets"
-author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Tom Harris is the byline used at Pet Doctor Guide for articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You just watched your dog eat something off the counter, or maybe you came home to find a chewed-up package and a guilty-looking culprit staring back at you. Your stomach just dropped. That moment of "wait, is that toxic?" is one of the most common panicked calls we get in veterinary practice, and I want you to know: you're not overreacting. Some of the most dangerous substances for dogs look completely harmless to us. Xylitol, the sugar substitute in many sugar-free gums and peanut butters, can cause life-threatening liver failure at doses so small you'd barely notice them missing. Grapes and raisins, which seem like innocent snacks, can trigger acute kidney failure in some dogs with no predictable dose threshold. So if you're here because something just happened, keep reading. This guide is built around the questions I wish every pet owner had answers to before they needed them.

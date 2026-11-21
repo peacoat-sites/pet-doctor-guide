@@ -22,7 +22,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog's been shaking his head for two days straight. You notice him pawing at his left ear, and when you lean in close, there's a smell that stops you cold. You're not imagining it. That's almost certainly an ear infection, and if you've never dealt with one before, the combination of symptoms can feel alarming.

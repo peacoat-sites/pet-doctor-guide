@@ -22,7 +22,7 @@ faqs:
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Pet First Aid"
-author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Rachel Sanders is the byline used at Pet Doctor Guide for articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat has been hiding under the bed for three days. She's barely touched her food. When you try to coax her out, she hisses, which she has never done before. You're worried, but you're also second-guessing yourself: is this stress, is she sick, or is this just a cat being a cat? The truth is, those three things are often tangled together, and figuring out which is which can genuinely change how fast she gets better.

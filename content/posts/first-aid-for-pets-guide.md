@@ -20,7 +20,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A dog eats something off the ground during a walk, and the owner is left wondering if they should panic. A cat starts limping and the severity is unclear. A rabbit takes a tumble and it's hard to know what normal looks like after a fall. Wherever you are right now, here's something important to know before anything else: staying calm and having some basic knowledge is genuinely the most powerful thing you can do for your pet in a crisis. Pet owners who do well in emergencies tend to have one thing in common: they know what to watch for, what to do first, and when to stop trying to handle something at home.

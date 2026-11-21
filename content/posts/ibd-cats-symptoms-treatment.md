@@ -10,7 +10,7 @@ tags: ["cats", "symptoms", "treatment"]
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior"
-author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "ibd-cats-symptoms-treatment"
 affiliate_disclosure: true
 faqs:

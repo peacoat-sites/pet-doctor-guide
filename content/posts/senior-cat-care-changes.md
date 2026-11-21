@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your cat turns 11, and suddenly she's sleeping in different spots, drinking more water, and seems a little stiff getting up from her favorite chair. You chalk it up to "just getting older." But here's what a lot of people don't realize: cats are considered senior at age 11, and geriatric by 15. Those subtle changes you're noticing aren't random. They're often the first signals of conditions that are very manageable when caught early, and genuinely serious when they're not.

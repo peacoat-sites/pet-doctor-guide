@@ -22,7 +22,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog just came home from surgery. You're holding a cone in one hand and a three-page discharge sheet in the other. Your dog is staring at nothing with those glazed, bewildered eyes. You have no idea what the next 72 hours are supposed to look like.

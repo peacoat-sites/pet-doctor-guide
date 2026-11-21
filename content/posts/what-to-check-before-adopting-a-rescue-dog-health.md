@@ -22,7 +22,7 @@ faqs:
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior"
-author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Roughly half of rescue dogs show at least one health issue within the first 30 days post-adoption that their new owners weren't aware of. Not because shelters are hiding things. Because health assessments done on stressed, under-observed animals in noisy kennels miss a lot, and because most adopters don't know what to look for before they sign the paperwork.

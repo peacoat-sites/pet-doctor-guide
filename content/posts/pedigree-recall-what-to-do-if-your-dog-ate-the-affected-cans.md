@@ -9,7 +9,7 @@ tags: ["pedigree", "recall:", "what", "your", "affected"]
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pets"
-author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Tom Harris is the byline used at Pet Doctor Guide for articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "pedigree-recall-what-to-do-if-your-dog-ate-the-affected-cans"
 affiliate_disclosure: true
 ---

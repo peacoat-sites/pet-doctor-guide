@@ -22,7 +22,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 It's 11:47 PM on a Sunday, and your dog just ate something off the kitchen counter. Or your cat is hiding under the bed, breathing with her mouth open. Or your rabbit hasn't moved in two hours. Your heart is pounding and you're frantically Googling "do I need the emergency vet?" This article is for that exact moment. Not tomorrow, not at a routine appointment. Right now.

@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 French Bulldogs have been the most popular dog breed in the United States for two years running, according to AKC registration data. That milestone deserves an asterisk, because French Bulldogs generate more health-related follow-up appointments and owner concerns than most other breeds. They're wonderful dogs. They're also, anatomically speaking, a lot of work.

@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 [periodontal disease](/dog-dental-health-guide/)," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.

@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your cat has been acting completely normal. Eating well, playing occasionally, sleeping approximately 20 hours a day as cats do. So when the vet finds a heart murmur at the annual exam, it feels like it came out of nowhere. It didn't. It was there, quietly developing, and the only reason you caught it early enough to manage it well is because you brought her in. That's exactly what annual wellness exams are for, and it's exactly why skipping them "because she seems fine" is a gamble that doesn't always pay off.

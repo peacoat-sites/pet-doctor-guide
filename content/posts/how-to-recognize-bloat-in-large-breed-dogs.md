@@ -23,7 +23,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 
 ---
 Your dog just ate dinner and now he's pacing. His belly looks bigger than usual and he keeps trying to vomit without bringing anything up. Maybe you searched "dog stomach swollen after eating" and landed here. Or maybe you've heard bloat mentioned at the dog park and always meant to learn more, and something tonight made you finally look it up. Either way, read this carefully. Bloat in large breed dogs is one of the few conditions in veterinary medicine where the window between "treatable" and "too late" can close in a matter of hours.

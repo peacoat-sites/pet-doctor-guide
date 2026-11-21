@@ -22,7 +22,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat just vomited for the third time this morning, and you're standing in the kitchen wondering if you should cancel your plans and head to the emergency vet, or just clean it up and keep an eye on things. That moment of uncertainty is stressful, and it happens to almost every cat owner at some point. Here's what most people don't realize: cats are actually physiologically *more prone* to vomiting than dogs, partly because of how their esophagus is angled and how fast they tend to eat. Occasional vomiting is genuinely common in cats. But "common" doesn't mean "always fine," and knowing the difference between a hairball situation and something that needs urgent care can literally save your cat's life.

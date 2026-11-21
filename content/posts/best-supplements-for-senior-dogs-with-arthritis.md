@@ -22,7 +22,7 @@ faqs:
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior"
-author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it was the way she hesitated before jumping onto the couch she's claimed for the last nine years. You're Googling at 11pm, reading ingredient labels you don't fully understand, wondering if you're doing enough. Many owners find themselves in this situation, searching for ways to support their aging dog. The guidance below focuses on what's actually useful.

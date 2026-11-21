@@ -20,7 +20,7 @@ faqs:
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
 author_title: "Pet First Aid"
-author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Rachel Sanders is the byline used at Pet Doctor Guide for articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've just brought home an eight-week-old puppy. She's small, she's perfect, and she's sneezing directly into your coffee. Your breeder handed you a crinkled sheet of paper listing something called "DHPP" and mentioned she'd had her "first shots." Now you're staring at that paper wondering what any of it means, when she needs more, and whether you're already behind. You're not. But the next few months matter more than most new owners realize, and getting the timing wrong can leave real gaps in protection during the window when puppies are most vulnerable.

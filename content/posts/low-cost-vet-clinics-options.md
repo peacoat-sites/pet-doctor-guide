@@ -22,7 +22,7 @@ faqs:
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pets"
-author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Tom Harris is the byline used at Pet Doctor Guide for articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people assume "affordable vet care" means choosing between a sketchy clinic and skipping treatment altogether. I heard that constantly when I worked with pet owners who'd apologize for waiting two weeks because they couldn't figure out how to pay for a visit. Here's what surprised me: the [low-cost vet landscape](/finding-a-good-veterinarian/) has expanded dramatically in the last decade, and most pet owners have no idea it exists. We're not talking about compromised care. We're talking about real medicine, delivered by licensed professionals, at prices that won't wreck your budget.

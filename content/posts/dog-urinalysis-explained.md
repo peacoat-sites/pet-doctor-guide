@@ -22,7 +22,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. A urine sample can reveal a surprising amount of information, often catching serious conditions like urinary tract infections, early kidney disease, diabetes, or certain cancers before a dog shows any signs at home. A dog can have a urinary tract infection, early [kidney disease](/senior-pet-bloodwork-panel/), diabetes, or even certain cancers and still look completely fine at home. Understanding what it's measuring puts you in a much better position to ask the right questions.

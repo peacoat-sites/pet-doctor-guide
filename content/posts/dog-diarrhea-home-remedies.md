@@ -22,7 +22,7 @@ faqs:
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pets"
-author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Tom Harris is the byline used at Pet Doctor Guide for articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 It's 10 p.m. on a Sunday. Your dog just had liquid diarrhea on the kitchen floor for the third time tonight, and your regular vet doesn't open until Monday morning. You're Googling frantically, wondering if this is serious, if you should drive to the emergency clinic, or if there's something you can safely do at home right now. That scenario plays out in households every single week, and I've fielded more panicked phone calls about it than I can count. The good news: many cases of acute diarrhea in dogs are self-limiting, meaning they resolve on their own with a little supportive care. The not-so-good news: some cases absolutely need a vet, and knowing the difference is everything.

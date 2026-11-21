@@ -22,7 +22,7 @@ faqs:
 author: "Tom Harris"
 author_slug: "tom-harris"
 author_title: "Exotic Pets"
-author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Tom Harris is the byline used at Pet Doctor Guide for articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most pet owners learn what an x-ray costs at the worst possible moment: their dog is limping badly, it's 9 PM on a Friday, and the emergency clinic just quoted them a number that makes their stomach drop. That's exactly when you don't want surprises. So let's talk about what pet x-rays actually cost, why prices swing so wildly, and how to avoid getting blindsided when your animal needs imaging fast.

@@ -22,7 +22,7 @@ faqs:
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior"
-author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most dog owners don't realize their pet has a dental problem until the smell hits them. You lean in for a cuddle, your dog yawns, and you pull back wondering if something crawled into their mouth and died. That moment of "wow, that's bad" is actually a turning point, because by the time you're noticing the odor, periodontal disease has very likely already started. Studies from the American Veterinary Dental College suggest that 80% of dogs show signs of periodontal disease by age three. Three years old. That's not a senior dog problem. That's a young dog problem that most people miss entirely.

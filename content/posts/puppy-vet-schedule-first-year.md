@@ -22,7 +22,7 @@ faqs:
 author: "Amanda Foster"
 author_slug: "amanda-foster"
 author_title: "Pet Health"
-author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Amanda Foster is the byline used at Pet Doctor Guide for articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You bring home an eight-week-old puppy on a Saturday afternoon, and by Sunday morning you're already Googling "when does my puppy need shots." That search is something nearly every new puppy owner does, and for good reason. The first year of a dog's life is medically the densest period they'll ever experience. More vaccines, more parasite prevention choices, more developmental checkpoints crammed into twelve months than at any other time. Get it right from the start, and you're protecting your dog for years. Get it wrong, and you're looking at preventable illness, legal liability with licensing, and a vet relationship built on playing catch-up.

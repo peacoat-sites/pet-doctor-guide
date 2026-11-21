@@ -22,7 +22,7 @@ faqs:
 author: "Karen Lopez"
 author_slug: "karen-lopez"
 author_title: "Dog Behavior"
-author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most dog owners wait until something's obviously wrong to call the vet. Here's a fact that should change that thinking: dogs can lose 75% of their kidney function without showing a single symptom. By the time your dog seems off, the disease has often been quietly progressing for months or years. Routine wellness visits aren't just about vaccines and a quick heart listen. They're your best shot at catching the invisible stuff early, when you actually have treatment options.

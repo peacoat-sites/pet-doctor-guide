@@ -22,7 +22,7 @@ faqs:
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior"
-author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You came home from work, called your cat's name, and heard nothing. No jingling collar, no trotting paws on hardwood. You searched the apartment for twenty minutes before finding her wedged behind the washing machine, pupils wide, not wanting to be touched. Now you're spiraling. Is she sick? Did something scare her? Is this the beginning of the end?

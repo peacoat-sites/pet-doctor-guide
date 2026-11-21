@@ -22,7 +22,7 @@ faqs:
 author: "Michelle Chen"
 author_slug: "michelle-chen"
 author_title: "Cat Behavior"
-author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
+author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most puppies come home around 8 weeks old, and within the first 48 hours, at least three people have probably told you something different about vaccines. Your breeder said one thing. Your neighbor said another. Someone in a Facebook group swore their vet does it completely differently. And now you're staring at a piece of paper from your first vet visit wondering what any of it actually means.

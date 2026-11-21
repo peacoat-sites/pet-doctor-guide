@@ -22,7 +22,7 @@ faqs:
 author: "James Whitfield"
 author_slug: "james-whitfield"
 author_title: "Pet Nutrition"
-author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
+author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most dog owners know grapes are bad. What fewer people realize is that a single grape can potentially cause acute kidney failure in a 20-pound dog, and toxicologists still don't fully understand why. That's the part that gets me every time I tell clients this. It's not a dose-dependent toxin where "a little is probably fine." There's no safe threshold anyone can point to with confidence. After 13 years of watching owners come in panicked, receipt in one hand and dog on leash in the other, I decided to go deep on this topic, not to write another bland "avoid chocolate" list, but to actually explain what these foods do inside your dog's body, why some are genuinely terrifying, and how to tell the difference between a real emergency and a call-your-vet-Monday situation.
