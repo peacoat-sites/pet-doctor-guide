@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_specialty: "Canine Behavior & Positive Reinforcement"
+author_title: "Dog Behavior"
+author_specialty: "Dog Behavior"
 ---
 
-Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand.
+Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards.
+
+[How Pet Doctor Guide articles are written and checked](/editorial-standards/)

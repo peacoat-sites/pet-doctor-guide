@@ -21,8 +21,8 @@ faqs:
    a: "Start early and make the carrier a permanent piece of furniture in your home, not a thing that only appears before stressful events. Put a worn t-shirt inside so it smells like you. Feed treats and meals near or inside it. Feliway spray (a synthetic calming pheromone) on a blanket inside the carrier about 30 minutes before travel can genuinely help. Ask your vet about gabapentin if your kitten has severe travel anxiety. It's safe, commonly used, and often makes a meaningful difference."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Veterinary Emergency Technician"
-author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
+author_title: "Pet First Aid"
+author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 When you bring home an eight-week-old kitten, questions come up quickly: when does she need to go to the vet, what shots does she need, and is that sneezing normal or a red flag? New kitten owners often feel unsure about what the first year looks like from a medical standpoint. The good news: it's predictable, it's manageable, and once you understand the rhythm of it, you'll feel a lot less anxious about whether you're doing it right.

@@ -21,8 +21,8 @@ faqs:
    a: "Xylitol is a sugar alcohol used as a sweetener, and it's extremely toxic to dogs, causing rapid insulin release and potentially fatal hypoglycemia. In pet food specifically it's uncommon, but it shows up in some peanut butter-based treats and dental chews. Always read the full ingredient list on any treat before giving it, and check the ASPCA Poison Control Center's database if you're unsure about a specific product. In cats, xylitol toxicity is less well-documented but still worth avoiding. If you believe your pet has ingested xylitol, call the ASPCA's Animal Poison Control at (888) 426-4435"
 author: "James Whitfield"
 author_slug: "james-whitfield"
-author_title: "Pet Nutritionist"
-author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+author_title: "Pet Nutrition"
+author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Pet food ingredient lists can look like chemistry exams. Chicken by-product meal, carrageenan, mixed tocopherols, brewers rice, sodium selenite. What does any of it actually mean? Ingredient lists are ordered by weight before cooking, which means a bag that leads with "real chicken" might contain far less actual meat protein than you think once that moisture-heavy chicken is cooked down. Understanding what you're reading isn't about being a neurotic pet parent. It's about making genuinely informed choices for an animal who depends entirely on you to get it right.

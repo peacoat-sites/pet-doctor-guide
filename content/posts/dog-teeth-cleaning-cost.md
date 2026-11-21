@@ -21,8 +21,8 @@ faqs:
    a: "A few have reasonable evidence behind them. Plaque Off, an algae-based powder added to food, has some study support and carries VOHC acceptance in certain formulations. Enzymatic toothpastes are backed by solid research. Puzzle feeders won't clean teeth, but they slow eating and provide mental enrichment, which indirectly supports overall health. (This site may earn a commission.) Raw bones and certain hard chews are sometimes promoted for dental health, but they carry real risks of tooth fractures and should only be considered after a conversation with your vet about your specific dog."
 author: "James Whitfield"
 author_slug: "james-whitfield"
-author_title: "Pet Nutritionist"
-author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+author_title: "Pet Nutrition"
+author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 [periodontal disease](/dog-dental-health-guide/)," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.

@@ -21,8 +21,8 @@ faqs:
    a: "Yes, significantly. Outdoor and indoor/outdoor cats can access landscaping plants, neighbor's gardens, and wild plants that indoor cats can't reach. The AAHA hospital accreditation standards emphasize wellness planning that accounts for your cat's specific lifestyle, and if yours goes outside, a conversation about environmental hazards is worth adding to your next annual exam."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 A client walked in one spring afternoon with her cat, Miso, limp and drooling in a carrier lined with Easter grass. She'd put a beautiful lily arrangement on her dining table that morning. By evening, Miso had chewed on a few petals. She had no idea lilies were toxic. Most people don't. Within 72 hours of lily ingestion, a cat can go into acute kidney failure. Miso survived, but it was close, and it was expensive, and it was entirely preventable. I've told that story dozens of times in the exam room because it's the one that lands. People hear "plants can be toxic to cats" and mentally file it under "probably fine." This article is for the people who want to actually know what's in their homes.

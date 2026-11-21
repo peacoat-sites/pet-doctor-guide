@@ -21,8 +21,8 @@ faqs:
    a: "Dogs can't transmit heartworm directly to other dogs or to humans. Transmission requires a mosquito to act as an intermediate host. That said, if you have an infected dog, the mosquitoes in your home and yard are potential vectors for your other pets. All dogs and cats in the household should be on appropriate prevention, especially if one animal has tested positive."
 author: "James Whitfield"
 author_slug: "james-whitfield"
-author_title: "Pet Nutritionist"
-author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+author_title: "Pet Nutrition"
+author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your dog can carry heartworm for six months without showing a single sign. A cough. Fatigue on walks. Weight loss. By then, the parasites have already dug into the heart and pulmonary arteries, doing damage that won't completely heal. Here's what catches most people off guard: this disease is almost completely preventable. But once it takes hold, treatment is expensive, brutal on your dog's body, and might not undo everything the worms already broke. Prevention is cheaper. It's also kinder.

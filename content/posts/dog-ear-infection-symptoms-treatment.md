@@ -19,10 +19,10 @@ faqs:
    a: "No. Human ear drops are formulated for human ear anatomy and pH. More importantly, some ingredients safe for humans can be ototoxic (damaging to hearing) in dogs if the eardrum is compromised. Use only products your vet has specifically recommended for your dog."
  - q: "How long does it take for a dog ear infection to clear up?"
    a: "With appropriate treatment, most uncomplicated outer ear infections show clear improvement within 5-7 days and resolve fully within 10-14 days. If your dog isn't noticeably more comfortable within 48-72 hours of starting treatment, call your vet. It may need to be recleaned, the medication may not be reaching the canal properly, or the pathogen may be resistant to the current treatment."
-author: "Dr. Amanda Foster"
-author_slug: "dr-amanda-foster"
-author_title: "Veterinary Reviewer"
-author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+author: "Amanda Foster"
+author_slug: "amanda-foster"
+author_title: "Pet Health"
+author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog's been shaking his head for two days straight. You notice him pawing at his left ear, and when you lean in close, there's a smell that stops you cold. You're not imagining it. That's almost certainly an ear infection, and if you've never dealt with one before, the combination of symptoms can feel alarming.

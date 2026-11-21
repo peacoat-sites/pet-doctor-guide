@@ -21,8 +21,8 @@ faqs:
    a: "The excess thyroid hormone puts chronic stress on the heart, which can lead to hypertrophic cardiomyopathy. Blood pressure often climbs, eventually causing retinal detachment and blindness. The kidneys suffer, weight loss becomes severe, and the cat's overall condition deteriorates over months to a couple of years. It's a slow decline, but it's not gentle."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Veterinary Emergency Technician"
-author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
+author_title: "Pet First Aid"
+author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many cat owners worry that hyperthyroidism is a death sentence diagnosis. It's not. Hyperthyroidism is manageable with the right approach. Cats with this condition often have good survival rates and quality of life, with multiple treatment options available.

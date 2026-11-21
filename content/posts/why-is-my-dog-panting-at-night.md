@@ -9,8 +9,8 @@ categories: ["Dog Symptoms"]
 tags: ["panting", "night"]
 author: "Michelle Chen"
 author_slug: "michelle-chen"
-author_title: "Cat Behavior Expert"
-author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+author_title: "Cat Behavior"
+author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "why-is-my-dog-panting-at-night"
 affiliate_disclosure: true
 faqs:

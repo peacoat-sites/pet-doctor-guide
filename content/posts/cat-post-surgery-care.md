@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and it's more common than people expect. The combination of an unfamiliar clinic environment, anesthesia, pain, and the discomfort of a cone can genuinely stress a cat out for several days. PetMD's veterinary resource library has good information on feline stress signals if you want to understand what you're observing. Feliway diffusers (synthetic feline pheromones) can help create a calmer recovery space. If the anxiety is severe or persisting past the first week, your vet may recommend short-term anti-anxiety support."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
-author_title: "Cat Behavior Expert"
-author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+author_title: "Cat Behavior"
+author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think the hard part's over once their cat wakes up from anesthesia. I thought that too, years ago, until I watched a routine spay turn into a three-day emergency because the owner didn't know what "normal recovery" actually looked like. The cat had been licking her incision obsessively, the owner figured it was just grooming, and by the time she called, the wound was open and infected. The surgery itself was textbook. The recovery fell apart. That gap between "procedure done" and "cat fully healed" is where most post-surgical complications live, and it's almost entirely preventable if you know what to watch for.

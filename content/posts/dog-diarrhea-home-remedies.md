@@ -21,8 +21,8 @@ faqs:
    a: "Grass eating and subsequent diarrhea is extremely common and usually not cause for serious concern on its own. Dogs eat grass for a variety of reasons, some behavioral, some related to mild GI discomfort. The grass itself often irritates the stomach and gut, leading to loose stools or vomiting. If it's a one-time episode and your dog is otherwise acting normally, supportive home care is appropriate. If your dog is eating grass compulsively or this keeps happening repeatedly, mention it to your vet as it can occasionally signal underlying GI disease."
 author: "Tom Harris"
 author_slug: "tom-harris"
-author_title: "Exotic Pet Specialist"
-author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+author_title: "Exotic Pets"
+author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 It's 10 p.m. on a Sunday. Your dog just had liquid diarrhea on the kitchen floor for the third time tonight, and your regular vet doesn't open until Monday morning. You're Googling frantically, wondering if this is serious, if you should drive to the emergency clinic, or if there's something you can safely do at home right now. That scenario plays out in households every single week, and I've fielded more panicked phone calls about it than I can count. The good news: many cases of acute diarrhea in dogs are self-limiting, meaning they resolve on their own with a little supportive care. The not-so-good news: some cases absolutely need a vet, and knowing the difference is everything.

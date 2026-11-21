@@ -21,8 +21,8 @@ faqs:
    a: "Tell your vet. Seriously. Most veterinary teams would rather help you prioritize the most important tests within your budget than have you skip blood work entirely. If your dog is symptomatic, your vet can often tell you which specific markers matter most for what they're concerned about."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Veterinary Emergency Technician"
-author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
+author_title: "Pet First Aid"
+author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog just had their annual exam, and the vet mentioned it's time for blood work. Or maybe your pup is sick, and the vet wants to run a panel before deciding on treatment. Either way, you're staring at an invoice with terms like "CBC" and "chemistry panel" and wondering what any of it actually means, whether it's really necessary, and what happens if the results come back abnormal.

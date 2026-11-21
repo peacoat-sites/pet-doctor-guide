@@ -21,8 +21,8 @@ faqs:
    a: "Mixed breed dogs have real statistical advantages when it comes to some inherited diseases, but they still need emergency care at roughly the same rate as purebreds when you factor in the everyday accidents and illnesses that aren't breed-specific. Insurance is still worth considering."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who skip pet insurance for a young, healthy dog make that decision because nothing's gone wrong yet. That's exactly when they should be buying it.

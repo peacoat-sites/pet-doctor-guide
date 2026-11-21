@@ -1,44 +1,44 @@
 [
   {
-    "slug": "dr-amanda-foster",
-    "name": "Dr. Amanda Foster",
-    "title": "Veterinary Reviewer",
-    "specialty": "Small Animal Medicine & Clinical Care",
-    "bio": "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+    "slug": "amanda-foster",
+    "name": "Amanda Foster",
+    "title": "Pet Health",
+    "specialty": "Pet Health",
+    "bio": "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "james-whitfield",
     "name": "James Whitfield",
-    "title": "Pet Nutritionist",
-    "specialty": "Animal Diet & Supplement Research",
-    "bio": "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+    "title": "Pet Nutrition",
+    "specialty": "Pet Nutrition",
+    "bio": "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "karen-lopez",
     "name": "Karen Lopez",
-    "title": "Dog Trainer",
-    "specialty": "Canine Behavior & Positive Reinforcement",
-    "bio": "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+    "title": "Dog Behavior",
+    "specialty": "Dog Behavior",
+    "bio": "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "michelle-chen",
     "name": "Michelle Chen",
-    "title": "Cat Behavior Expert",
-    "specialty": "Feline Behavior & Multi-Cat Households",
-    "bio": "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+    "title": "Cat Behavior",
+    "specialty": "Cat Behavior",
+    "bio": "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "rachel-sanders",
     "name": "Rachel Sanders",
-    "title": "Veterinary Emergency Technician",
-    "specialty": "Pet First Aid & Urgent Care",
-    "bio": "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
+    "title": "Pet First Aid",
+    "specialty": "Pet First Aid",
+    "bio": "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
   },
   {
     "slug": "tom-harris",
     "name": "Tom Harris",
-    "title": "Exotic Pet Specialist",
-    "specialty": "Reptiles, Birds & Small Mammals",
-    "bio": "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+    "title": "Exotic Pets",
+    "specialty": "Exotic Pets",
+    "bio": "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
   }
 ]

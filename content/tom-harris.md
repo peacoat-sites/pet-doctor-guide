@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Tom Harris"
 author_slug: "tom-harris"
-author_title: "Exotic Pet Specialist"
-author_specialty: "Reptiles, Birds & Small Mammals"
+author_title: "Exotic Pets"
+author_specialty: "Exotic Pets"
 ---
 
-Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets.
+Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Pet Doctor Guide articles are written and checked](/editorial-standards/)

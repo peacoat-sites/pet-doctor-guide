@@ -19,10 +19,10 @@ faqs:
    a: "Honestly, this is the hard part. Puzzle feeders help redirect mental energy without physical exertion. A durable puzzle feeder (this site may earn a commission) occupies a bored dog who can't run around without stressing the incision. Leash walks only, even in a fenced yard. Short, boring walks. Some dogs do better crated during recovery if they're crate-trained. Sedation is available for genuinely high-energy dogs who won't settle. Ask your vet if that applies to yours."
  - q: "What's the difference between a traditional spay and a laparoscopic spay?"
    a: "A laparoscopic spay uses small incisions and a camera rather than a single longer abdominal incision. Recovery is typically faster and may be less painful. It costs more and not every practice offers it. For most cats and small dogs, the traditional approach has such reliable outcomes that the upgrade isn't necessary. For large breed dogs or anxious owners who want a faster recovery, it's worth asking if your clinic offers it."
-author: "Dr. Amanda Foster"
-author_slug: "dr-amanda-foster"
-author_title: "Veterinary Reviewer"
-author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+author: "Amanda Foster"
+author_slug: "amanda-foster"
+author_title: "Pet Health"
+author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people already know spaying and neutering "is good." What they don't know is *why* it's good in ways that go beyond population control talking points, which specific risks it eliminates versus which ones it merely reduces, and how age and breed factor into timing in ways that can genuinely affect your individual dog or cat. The blanket "fix your pet at six months" advice has been quietly revised by veterinary science over the last decade, and if your vet hasn't mentioned that, you deserve to know.

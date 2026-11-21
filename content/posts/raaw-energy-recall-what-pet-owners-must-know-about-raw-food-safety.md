@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["raaw", "energy", "recall:", "what", "owners"]
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 slug: "raaw-energy-recall-what-pet-owners-must-know-about-raw-food-safety"
 affiliate_disclosure: true
 lastmod: 2026-11-16T16:00:00Z

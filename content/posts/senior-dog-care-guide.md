@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but not by eliminating exercise. Reduced activity accelerates muscle loss, joint stiffness, and cognitive decline. The shift should be toward shorter, more frequent walks rather than one long demanding one. Swap high-impact activities like fetch on hard ground for swimming or gentle leash walks on soft surfaces. Let your dog set the pace on sniff walks. The goal is consistent, low-impact movement every single day, not rest."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Your 9-year-old Lab mix has started sleeping through his morning walk invitation, the one that used to send him skidding across the hardwood floors. He's eating fine, drinking fine, but something has shifted. You can feel it even if you can't quite name it. That subtle change is often the first sign that your dog has crossed into senior territory, and knowing how to respond can genuinely add quality years to his life.

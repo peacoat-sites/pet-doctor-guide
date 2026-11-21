@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Michelle Chen"
 author_slug: "michelle-chen"
-author_title: "Cat Behavior Expert"
-author_specialty: "Feline Behavior & Multi-Cat Households"
+author_title: "Cat Behavior"
+author_specialty: "Cat Behavior"
 ---
 
-Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating.
+Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How Pet Doctor Guide articles are written and checked](/editorial-standards/)

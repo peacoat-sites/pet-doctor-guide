@@ -8,7 +8,7 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
-/dr.-amanda-foster/ /dr-amanda-foster/ 301
+/dr.-amanda-foster/ /amanda-foster/ 301
 
 # 2026-07-18 duplicate-topic merges
 /new-guidelines-just-changed-how-vets-treat-cat-diabetes/ /new-aaha-guidelines-just-changed-how-vets-treat-cat-diabetes/ 301
@@ -32,3 +32,5 @@
 /categories/travel/ /categories/behavior/ 301
 /categories/vaccinations/ /categories/preventive-care/ 301
 /categories/vaccines/ /categories/preventive-care/ 301
+/dr-amanda-foster/ /amanda-foster/ 301
+/alex-chen/ /about/ 301

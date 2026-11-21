@@ -21,8 +21,8 @@ faqs:
    a: "Yes, it can be. Significant disease often hides below the gumline where you can't see it. Halitosis in cats is almost always a sign that something is going on, whether it's periodontal disease, tooth resorption, or less commonly, kidney disease or a gastrointestinal issue. Any persistent bad breath deserves a vet conversation. Dental disease doesn't announce itself with obvious drama in most cats. It shows up quietly in a bowl of uneaten food, a subtle flinch during a chin scratch, or a smell you've learned to ignore. You know your cat better than anyone, and that knowledge is genuinely useful"
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat's been pushing food around the bowl for three weeks now. Used to devour it in minutes. Now she sniffs, takes a bite or two, walks away. You figure she's just being picky. Then your vet finds a tooth so infected it needs extraction that same afternoon.

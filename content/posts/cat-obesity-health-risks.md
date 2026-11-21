@@ -21,8 +21,8 @@ faqs:
    a: "Possibly, yes. Obese cats sometimes struggle to posture properly in the litter box, which can lead to avoidance. Arthritis from excess weight can also make stepping into a box with high sides painful. Beyond physical limitations, urinary issues associated with obesity are real. The article on cat litter box avoidance causes covers the full range of reasons this happens and what to do about it."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat jumps up on the couch, misses, and you laugh it off. It's funny the first time. But if that's become a regular occurrence, if your cat's belly is swinging low, and you can't feel her ribs without pressing firmly, that's not a quirky personality trait. That's a medical condition. Feline obesity is the most common nutritional disorder in domestic cats, affecting an estimated 59% of cats in the United States according to the Association for Pet Obesity Prevention. And unlike a chubby human who can choose to go for a walk, your cat depends entirely on you to recognize the problem and do something about it.

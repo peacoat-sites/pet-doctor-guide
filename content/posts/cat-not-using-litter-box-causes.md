@@ -21,8 +21,8 @@ faqs:
    a: "No, and I say that as gently as possible: it will make things worse. Cats don't connect punishment to a past action. All you'll accomplish is making your cat afraid of you, which increases stress and often worsens the underlying problem. Positive reinforcement, environmental adjustment, and medical treatment are the only tools that actually work."
 author: "James Whitfield"
 author_slug: "james-whitfield"
-author_title: "Pet Nutritionist"
-author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+author_title: "Pet Nutrition"
+author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You cleaned the litter box this morning. You bought the good litter. Your cat used the same box for three years without issue. And now, for the second day straight, you're finding wet spots on your bathroom rug and little surprises behind the sofa. Something shifted. Whether it's behavioral, environmental, or medical matters more than you'd think, because the wrong guess can mean missing a serious health problem or spending months fighting a "behavior issue" that was never behavioral to begin with.

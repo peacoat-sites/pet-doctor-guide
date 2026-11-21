@@ -21,8 +21,8 @@ faqs:
    a: "This is a real question with a real answer: yes, there are theoretical and some documented risks to giving vaccines more often than necessary, including immune-mediated reactions with repeated antigen exposure. This is why the shift toward 3-year core vaccines happened. But the first-year series is not over-vaccination. It's following a biologically necessary protocol. The concern about over-vaccination is more relevant to adult boosters than puppy schedules."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
-author_title: "Cat Behavior Expert"
-author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+author_title: "Cat Behavior"
+author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most puppies come home around 8 weeks old, and within the first 48 hours, at least three people have probably told you something different about vaccines. Your breeder said one thing. Your neighbor said another. Someone in a Facebook group swore their vet does it completely differently. And now you're staring at a piece of paper from your first vet visit wondering what any of it actually means.

@@ -21,8 +21,8 @@ faqs:
    a: "Not always. Some prescription products like Adequan (an injectable polysulfated glycosaminoglycan) have strong evidence behind them and genuinely outperform oral supplements in some dogs. But many 'veterinary-grade' chews sold in clinics are marked up significantly for formulations that aren't meaningfully superior to quality OTC options. I'd evaluate case by case. Adequan is worth asking about specifically for moderate-to-severe arthritis. The fancy $65 bag of chews from the waiting room display? Maybe less so."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
-author_title: "Cat Behavior Expert"
-author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+author_title: "Cat Behavior"
+author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog is slowing down. Maybe you noticed it on the stairs first, or maybe it was the way she hesitated before jumping onto the couch she's claimed for the last nine years. You're Googling at 11pm, reading ingredient labels you don't fully understand, wondering if you're doing enough. Many owners find themselves in this situation, searching for ways to support their aging dog. The guidance below focuses on what's actually useful.

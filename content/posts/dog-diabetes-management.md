@@ -21,8 +21,8 @@ faqs:
    a: "Costs vary significantly based on your location, the insulin your dog uses, whether you do home monitoring, and how often complications arise. Expect it to be a real budget consideration. Many owners find that home glucose monitoring actually reduces overall costs over time by catching problems before they require emergency care. Ask your vet about generic insulin options and whether a pet wellness plan might help offset the cost of regular checkups."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Veterinary Emergency Technician"
-author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
+author_title: "Pet First Aid"
+author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog's been drinking the toilet dry, dragging you outside at 3 a.m., and losing weight despite eating normally. Then the vet says the word "diabetes" and you're sitting in your car trying to figure out how you'll give insulin injections twice a day for the rest of his life. I've stood in that parking lot with enough terrified pet owners to know exactly what you're thinking: this is impossible. Here's what I tell every single one of them: it's not. It becomes routine faster than you'd expect. But first you need to understand what's actually happening.

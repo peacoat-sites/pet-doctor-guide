@@ -21,8 +21,8 @@ faqs:
    a: "Puppies have tiny glycogen stores and limited ability to regulate blood sugar. A puppy under 12 weeks who hasn't eaten in six to eight hours should be assessed for hypoglycemia. Puppies under 16 weeks who miss a full day of food need to be seen by a vet, period. Parvovirus also presents with sudden loss of appetite and lethargy and is life-threatening in unvaccinated or partially vaccinated puppies. Don't wait."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Veterinary Emergency Technician"
-author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
+author_title: "Pet First Aid"
+author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog hasn't touched his bowl in 24 hours. He sniffed it, walked away, and is now lying in his bed looking vaguely miserable. Your stomach drops. Is this serious? Should you be rushing to an emergency clinic at 10pm, or will he be fine by morning? That anxious feeling is completely normal, and the good news is that most cases of a dog skipping meals are not emergencies. But some absolutely are, and knowing the difference could save your dog's life.

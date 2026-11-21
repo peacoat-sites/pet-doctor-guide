@@ -21,8 +21,8 @@ faqs:
    a: "It depends on what was tested. Surgical pre-anesthetic panels often check fewer values than a comprehensive senior wellness panel. Review what was actually run, and ask your vet if anything was omitted, like thyroid, urinalysis, or SDMA. If it was genuinely comprehensive and everything was normal, your vet may be comfortable extending the interval slightly, but get that call explicitly rather than assuming."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
-author_title: "Cat Behavior Expert"
-author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+author_title: "Cat Behavior"
+author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog just turned 8, and at his annual checkup the vet recommends a "senior bloodwork panel." You nod along, they hand you an estimate, and suddenly you're staring at a list of acronyms, BUN, ALT, T4, CBC, wondering what any of it means and whether you actually need to spend the money right now when he seems perfectly fine. Many pet owners wonder whether senior bloodwork is necessary when their dog seems healthy. Understanding what these tests reveal can help you make an informed decision.

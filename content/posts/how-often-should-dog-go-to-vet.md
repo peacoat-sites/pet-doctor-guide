@@ -21,8 +21,8 @@ faqs:
    a: "Absolutely. Talk to your vet about anti-anxiety options, which might be as simple as a pre-visit medication or gabapentin for dogs with significant anxiety. You can also ask about fear-free handling techniques, which many clinics are now trained in. Keeping your dog's carrier or crate out at home and feeding treats near it helps reduce the 'carrier = vet' association over time. The American Veterinary Medical Association (AVMA) has solid public resources on reducing veterinary visit stress if you want to read further."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most dog owners wait until something's obviously wrong to call the vet. Here's a fact that should change that thinking: dogs can lose 75% of their kidney function without showing a single symptom. By the time your dog seems off, the disease has often been quietly progressing for months or years. Routine wellness visits aren't just about vaccines and a quick heart listen. They're your best shot at catching the invisible stuff early, when you actually have treatment options.

@@ -21,8 +21,8 @@ faqs:
    a: "This concern comes up, and it's worth addressing honestly. There have been rare reports of tumors at chip implant sites in animals, which prompted some concern. Regulatory and veterinary organizations, including the British Small Animal Veterinary Association, have reviewed the available data and concluded that the incidence is extremely low, likely no higher than background rates of soft tissue tumors in those locations, and that the benefits of microchipping substantially outweigh the risk. No procedure is entirely without any conceivable risk, but this one is considered very safe."
 author: "Michelle Chen"
 author_slug: "michelle-chen"
-author_title: "Cat Behavior Expert"
-author_bio: "Michelle Chen has studied cat behavior through years of shelter volunteer work and formal coursework in applied animal behavior. She has a talent for translating subtle feline body language into clear guidance for owners, with a particular focus on multi-cat household dynamics and stress-related illness. At Pet Doctor Guide, she covers cat behavior, environmental enrichment, and understanding what your cat is actually communicating."
+author_title: "Cat Behavior"
+author_bio: "Michelle Chen is the byline for Pet Doctor Guide's articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog bolts through an open gate during a thunderstorm. By morning, he's been picked up by animal control, scanned, and is already on his way home before you've even finished printing lost-dog flyers. That's not luck. That's a microchip working exactly as intended. If your pet doesn't have one yet, you're probably wondering whether it's worth it, whether it hurts, and how the whole thing actually works.

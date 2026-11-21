@@ -19,8 +19,8 @@ faqs:
    a: "Waiting too long. I've seen this pattern hundreds of times: someone notices something wrong at 6 PM, decides to sleep on it, and brings in a critically ill animal at 8 AM. Some conditions, like urinary blockages in cats or GI bloat in dogs, deteriorate within hours. If your gut says something is wrong, call an emergency clinic and describe what you're seeing. A two-minute phone call costs nothing. Waiting through a night sometimes costs everything."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A dog eats something off the ground during a walk, and the owner is left wondering if they should panic. A cat starts limping and the severity is unclear. A rabbit takes a tumble and it's hard to know what normal looks like after a fall. Wherever you are right now, here's something important to know before anything else: staying calm and having some basic knowledge is genuinely the most powerful thing you can do for your pet in a crisis. Pet owners who do well in emergencies tend to have one thing in common: they know what to watch for, what to do first, and when to stop trying to handle something at home.

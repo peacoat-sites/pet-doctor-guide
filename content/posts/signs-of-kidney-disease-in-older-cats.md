@@ -21,8 +21,8 @@ faqs:
    a: "This is the hardest question and there's no clean answer. Veterinary quality-of-life scales like the HHHHHMM scale (Hurt, Hunger, Hydration, Hygiene, Happiness, Mobility, and More good days than bad) can give you a structured framework. When a cat is no longer eating despite appetite stimulants, is vomiting daily, has lost interest in everything she once enjoyed, and is spending most of her time hiding or lying still, she's telling you something. Trust what you see. Your vet can help you interpret it, but you know your cat."
 author: "Tom Harris"
 author_slug: "tom-harris"
-author_title: "Exotic Pet Specialist"
-author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+author_title: "Exotic Pets"
+author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Increased thirst and urination are among the first signs of kidney disease in older cats. Weight loss without a diet change and a duller coat may accompany these changes. If you notice this pattern, chronic kidney disease is worth investigating with your vet. Here's what I'll be honest about upfront: kidney disease is the single most common serious illness in senior cats, affecting an estimated 30 to 40 percent of cats over age 10. It means if you have a geriatric cat, kidney disease isn't some remote possibility you're hoping to avoid. It's something you genuinely need to understand now, before you're sitting in an exam room in crisis mode.

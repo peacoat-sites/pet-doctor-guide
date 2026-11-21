@@ -21,8 +21,8 @@ faqs:
    a: "Breathing difficulty, collapse, pale or white gums, suspected poisoning, inability to urinate (especially in male dogs), severe vomiting or diarrhea with blood, seizures, or a bloated distended abdomen: these are emergencies. Go now, not in the morning. A limp that started today with no trauma history, a small lump you just noticed, a mild ear odor, or a one-time soft stool: these can almost always wait for a scheduled appointment. When in doubt, call your clinic's after-hours line before driving to an emergency hospital."
 author: "James Whitfield"
 author_slug: "james-whitfield"
-author_title: "Pet Nutritionist"
-author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+author_title: "Pet Nutrition"
+author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You budget carefully for your dog's food, toys, and the occasional emergency. Then the reminder card arrives for the annual checkup and you realize you have no idea what it's actually going to cost. You've heard numbers ranging from $50 to $400 for what people vaguely call a "routine visit," and the spread is so wide it's almost useless. Here's what most coverage on this topic gets wrong: they throw out a national average, call it a day, and leave you no better equipped to predict your own bill. Let's fix that.

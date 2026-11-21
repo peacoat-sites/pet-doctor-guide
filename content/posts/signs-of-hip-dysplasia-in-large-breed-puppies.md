@@ -6,10 +6,10 @@ description: "Learn the early signs of hip dysplasia in large breed puppies so y
 image: "/img/heroes/37197497.jpg"
 categories: ["Orthopedic"]
 tags: ["signs", "dysplasia", "large", "breed", "puppies"]
-author: "Dr. Amanda Foster"
-author_slug: "dr-amanda-foster"
-author_title: "Veterinary Reviewer"
-author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+author: "Amanda Foster"
+author_slug: "amanda-foster"
+author_title: "Pet Health"
+author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 slug: "signs-of-hip-dysplasia-in-large-breed-puppies"
 affiliate_disclosure: true
 faqs:

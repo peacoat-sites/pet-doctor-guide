@@ -21,8 +21,8 @@ faqs:
    a: "Yes, though it's less common than in humans. Environmental allergies can cause enough post-nasal drip and throat irritation to trigger a gag-cough, and some dogs have reactions to inhaled irritants like cigarette smoke, candles, or cleaning sprays. If the coughing is seasonal or linked to a specific environment, mention that to your vet as it genuinely changes the diagnostic approach."
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"
-author_title: "Veterinary Emergency Technician"
-author_bio: "Rachel Sanders works as an emergency veterinary technician, triaging the cases that come in after hours when owners are scared and unsure. She writes clear guidance on what is a true emergency and what can safely wait until morning. At Pet Doctor Guide she covers pet first aid and urgent care."
+author_title: "Pet First Aid"
+author_bio: "Rachel Sanders is the byline for Pet Doctor Guide's articles on pet first aid and telling a true emergency from something that can wait for a regular appointment. It is a pen name, not a veterinary technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog is coughing like he swallowed a pinecone and you're standing there doing the mental math: is this an emergency or will it pass in two minutes? Most articles punt immediately with "take your dog to the vet" and leave you no smarter than when you started. That's not useful. Let me actually help you figure out what's going on.

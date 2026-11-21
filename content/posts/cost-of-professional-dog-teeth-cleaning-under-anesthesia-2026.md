@@ -21,8 +21,8 @@ faqs:
    a: "Almost never for routine cleanings. Most dogs go home the same afternoon, a few hours after the procedure once they're fully recovered from anesthesia. Dogs who've had extensive oral surgery, are very old or compromised, or who had complications may be kept for observation, but that's the exception."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Last year, a client stormed into our clinic absolutely livid. She'd gotten a quote of $850 for her four-year-old beagle's dental cleaning, convinced we were running a scam. "It's just teeth cleaning," she said. "My dentist charges less than that." I spent ten minutes walking her through the line items, and by the end, she wasn't thrilled about the price, but she got it. That's what I'm doing here.

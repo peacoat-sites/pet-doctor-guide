@@ -19,10 +19,10 @@ faqs:
    a: "Normal post-surgical swelling peaks around 48 to 72 hours and then gradually decreases. It should feel soft and stay localized to the surgical site. A seroma (a pocket of fluid that can form under the skin) is common and looks like a soft, fluctuant lump at the incision site. These usually resolve on their own, but get it checked at your recheck appointment. Firm, hot, rapidly spreading swelling, especially with fever or discharge, suggests infection and needs same-day veterinary attention."
  - q: "When should I go to the emergency vet versus wait for my regular clinic to open?"
    a: "Go to emergency care if you see: pale or white gums, labored breathing, collapse or inability to stand, a wound that's actively bleeding and won't stop with gentle pressure after 5 minutes, or obvious signs of extreme distress. Call first if you're unsure, most emergency clinics will help you triage by phone. For concerns like mild swelling, slightly off appetite, or incision questions, it's usually reasonable to wait until your regular clinic opens, especially if you can send photos and speak to a technician."
-author: "Dr. Amanda Foster"
-author_slug: "dr-amanda-foster"
-author_title: "Veterinary Reviewer"
-author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+author: "Amanda Foster"
+author_slug: "amanda-foster"
+author_title: "Pet Health"
+author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog just came home from surgery. You're holding a cone in one hand and a three-page discharge sheet in the other. Your dog is staring at nothing with those glazed, bewildered eyes. You have no idea what the next 72 hours are supposed to look like.

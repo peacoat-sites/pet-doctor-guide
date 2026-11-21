@@ -1,40 +1,39 @@
 ---
-title: "About Dr. Amanda Foster"
+title: "About Pet Doctor Guide"
 hide_title: true
-description: "Learn about Dr. Amanda Foster, the Pet Health Editor behind petdoctorguide.com."
+date: 2026-01-01
+draft: false
+description: "What Pet Doctor Guide covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "dr-amanda-foster"
-author_name: "Dr. Amanda Foster"
-person_name: "Dr. Amanda Foster"
 ---
 
-# About Dr. Amanda Foster
+## About Pet Doctor Guide
 
-I've spent most of my life surrounded by animals,  dogs, cats, rabbits, and the occasional rescue that needed a temporary home. Growing up with pets taught me early that being a good animal owner means more than feeding schedules and vet checkups; it means understanding what your pet is telling you and knowing when something is wrong before it becomes serious.
+Pet Doctor Guide helps pet owners understand symptoms, preventive care, nutrition and behavior, so they can make better decisions together with their veterinarian.
 
-Over the years I've navigated everything from a dog with a mystery allergy that took three specialists to diagnose, to a senior cat with kidney disease requiring daily subcutaneous fluids. Those experiences sent me deep into research,  reading veterinary journals, consulting with multiple vets, and learning to ask the right questions. I started Pet Doctor Guide because I kept finding that the information pet owners actually needed was buried under product ads and generic advice.
+## Who writes here
 
-My goal here is simple: write the guides I wish I'd had when I was sitting in a waiting room, worried sick about my animals.
+Articles are published under pen names, each covering one part of the site:
 
-## Why I Started Pet Doctor Guide
+- **[Amanda Foster](/amanda-foster/)**: preventive care, common symptoms, vet visits and when a problem needs a vet right away
+- **[James Whitfield](/james-whitfield/)**: pet food labels, feeding amounts, supplements and diet changes
+- **[Karen Lopez](/karen-lopez/)**: dog behavior and reward-based training, including reactivity and fear
+- **[Michelle Chen](/michelle-chen/)**: cat behavior, body language and multi-cat households
+- **[Rachel Sanders](/rachel-sanders/)**: pet first aid and telling a true emergency from something that can wait for a regular appointment
+- **[Tom Harris](/tom-harris/)**: reptiles, birds and small mammals: housing, diet and health basics
 
-When my dog was diagnosed with a chronic condition at age four, I spent weeks trying to find clear, honest information about treatment options, costs, and what to realistically expect. Most sites either oversimplified or pushed me toward expensive products. I wanted a resource written from the pet owner's perspective,  someone who had actually dealt with vet bills, insurance claims, and the emotional weight of caring for a sick animal.
+## How we work
 
-Pet Doctor Guide fills that gap. Every article is written with the goal of helping you walk into your next vet appointment better informed, better prepared, and more confident in the decisions you're making for your pet.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## What You'll Find Here
+## Important limits
 
-- **Symptom guides:** What common signs mean and when to call the vet
-- **Vet visit prep:** What to expect from appointments, tests, and procedures
-- **Pet nutrition:** Decoding labels, choosing the right food, and spotting deficiencies
-- **Preventive care:** Vaccination schedules, parasite prevention, and wellness exams
-- **Pet insurance:** How it works, what to look for, and how to evaluate plans
-- **Senior pet care:** Managing aging, chronic conditions, and quality of life decisions
+Nothing here can diagnose or treat your pet. If your pet may have eaten something toxic, call your veterinarian, an emergency clinic or the ASPCA Animal Poison Control Center at (888) 426-4435 (a consultation fee may apply). Trouble breathing, collapse, seizures, a swollen or hard belly, repeated vomiting and straining to urinate are emergencies: go to a vet now rather than reading further.
 
-## A Note on Our Content
+## Affiliate disclosure
 
-Every article on this site is grounded in publicly available veterinary research, guidance from professional veterinary organizations, and my own experience as a multi-pet household. I link to authoritative sources,  AVMA, veterinary school resources, peer-reviewed research,  wherever possible. Nothing on this site replaces a licensed veterinarian's judgment. I am not a vet, and this site is not a substitute for professional care.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
-## Get in Touch
+## Contact
 
-Have a question, correction, or topic you'd like me to cover? I'd love to hear from you. Visit the [contact page](/contact/) to reach out directly.
+Questions, corrections or topic requests: use the [contact page](/contact/).

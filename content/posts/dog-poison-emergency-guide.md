@@ -21,8 +21,8 @@ faqs:
    a: "Yes. MDR1 gene mutations, common in herding breeds like collies, Australian shepherds, and Shetland sheepdogs, make them significantly more sensitive to certain drugs and some antiparasitic medications. Small dogs face greater risk from the same absolute dose simply due to body weight. Senior dogs and dogs with existing liver or kidney disease process toxins less efficiently. Mention your dog's breed and any health conditions when you call."
 author: "Tom Harris"
 author_slug: "tom-harris"
-author_title: "Exotic Pet Specialist"
-author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+author_title: "Exotic Pets"
+author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You just watched your dog eat something off the counter, or maybe you came home to find a chewed-up package and a guilty-looking culprit staring back at you. Your stomach just dropped. That moment of "wait, is that toxic?" is one of the most common panicked calls we get in veterinary practice, and I want you to know: you're not overreacting. Some of the most dangerous substances for dogs look completely harmless to us. Xylitol, the sugar substitute in many sugar-free gums and peanut butters, can cause life-threatening liver failure at doses so small you'd barely notice them missing. Grapes and raisins, which seem like innocent snacks, can trigger acute kidney failure in some dogs with no predictable dose threshold. So if you're here because something just happened, keep reading. This guide is built around the questions I wish every pet owner had answers to before they needed them.

@@ -21,8 +21,8 @@ faqs:
    a: "Tell your vet. Directly and clearly. They can't help you find alternatives if they don't know cost is a barrier. Options might include a payment plan, a teleradiology consultation for a second opinion at lower cost, or a triage conversation about what the minimum necessary imaging looks like. There are also nonprofit organizations like the Pet Fund and RedRover Relief that offer financial assistance for veterinary care. It's worth a phone call."
 author: "Tom Harris"
 author_slug: "tom-harris"
-author_title: "Exotic Pet Specialist"
-author_bio: "Tom Harris has kept and cared for exotic animals since childhood and has spent years studying reptile husbandry, avian nutrition, and small mammal health. He fills a real gap in pet content where most resources focus on cats and dogs while millions of households keep rabbits, parrots, geckos, and ferrets. At Pet Doctor Guide, he covers care guides for exotic and less common pets."
+author_title: "Exotic Pets"
+author_bio: "Tom Harris is the byline for Pet Doctor Guide's articles on reptiles, birds and small mammals: housing, diet and health basics. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most pet owners learn what an x-ray costs at the worst possible moment: their dog is limping badly, it's 9 PM on a Friday, and the emergency clinic just quoted them a number that makes their stomach drop. That's exactly when you don't want surprises. So let's talk about what pet x-rays actually cost, why prices swing so wildly, and how to avoid getting blindsided when your animal needs imaging fast.

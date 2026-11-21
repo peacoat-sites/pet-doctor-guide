@@ -7,10 +7,10 @@ description: "Learn the warning signs of dog cancer and what pet owners need to 
 image: "/img/heroes/6816858.jpg"
 categories: ["Common Conditions"]
 tags: ["cancer", "signs", "watch"]
-author: "Dr. Amanda Foster"
-author_slug: "dr-amanda-foster"
-author_title: "Veterinary Reviewer"
-author_bio: "Dr. Amanda Foster has practiced small animal veterinary medicine for 14 years, working in both private clinics and emergency settings. She reviews all medical content on Pet Doctor Guide for clinical accuracy, adding context that separates reliable guidance from internet folklore. Her particular interest is in preventive care and helping pet owners recognize symptoms early."
+author: "Amanda Foster"
+author_slug: "amanda-foster"
+author_title: "Pet Health"
+author_bio: "Amanda Foster is the byline for Pet Doctor Guide's articles on preventive care, common symptoms, vet visits and when a problem needs a vet right away. It is a pen name, not a veterinarian; how articles are researched and checked is explained in our editorial standards."
 slug: "dog-cancer-signs-to-watch-for"
 affiliate_disclosure: true
 faqs:

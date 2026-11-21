@@ -21,8 +21,8 @@ faqs:
    a: "A normal urinalysis is genuinely reassuring, but it's not a complete picture of kidney function. Early chronic kidney disease can be present before the urinalysis becomes abnormal. SDMA (a blood marker) and creatinine levels together give a fuller picture. If kidney disease runs in your dog's breed, like in Cocker Spaniels or Bull Terriers, ask your vet about a full kidney panel rather than relying on urinalysis alone."
 author: "Karen Lopez"
 author_slug: "karen-lopez"
-author_title: "Dog Trainer"
-author_bio: "Karen Lopez is a CPDT-certified dog trainer who has worked with over 400 dogs across shelter, private, and group class settings. She specializes in reactive dog behavior, fear-based issues, and building the kind of relationship between dog and owner that makes training stick. At Pet Doctor Guide, she covers dog behavior, training techniques, and the behavioral signals every owner should understand."
+author_title: "Dog Behavior"
+author_bio: "Karen Lopez is the byline for Pet Doctor Guide's articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most dog owners hear "we'd like to run a urinalysis" and think: quick dip-stick test, two minutes, done. A urine sample can reveal a surprising amount of information, often catching serious conditions like urinary tract infections, early kidney disease, diabetes, or certain cancers before a dog shows any signs at home. A dog can have a urinary tract infection, early [kidney disease](/senior-pet-bloodwork-panel/), diabetes, or even certain cancers and still look completely fine at home. Understanding what it's measuring puts you in a much better position to ask the right questions.

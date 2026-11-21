@@ -21,8 +21,8 @@ faqs:
    a: "For gabapentin and trazodone, yes. For Feliway, Zylkene, and most supplement-based products, no prescription required. The AAHA's standards for veterinary practice require appropriate prescribing oversight for controlled and prescription medications, which is why your vet needs to be in the loop for anything pharmaceutical."
 author: "James Whitfield"
 author_slug: "james-whitfield"
-author_title: "Pet Nutritionist"
-author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+author_title: "Pet Nutrition"
+author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most articles about sedating cats for travel bury the actual useful information under so many "always ask your vet first" disclaimers that you finish reading knowing nothing more than when you started. So let's fix that.

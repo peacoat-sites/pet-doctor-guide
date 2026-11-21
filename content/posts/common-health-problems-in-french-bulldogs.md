@@ -21,8 +21,8 @@ faqs:
    a: "Don't wait. Intermittent knuckling or foot dragging in a Frenchie is a spinal red flag until proven otherwise. Call your vet today, describe exactly what you saw, and let them decide if it needs to be seen urgently. The earlier spinal issues are caught, the more options you have."
 author: "James Whitfield"
 author_slug: "james-whitfield"
-author_title: "Pet Nutritionist"
-author_bio: "James Whitfield has spent his career studying animal nutrition with a focus on companion animals and has consulted for pet food companies on ingredient formulations. He is skeptical of marketing claims and writes with a research-first approach to dog food ratings, supplement efficacy, and dietary interventions. At Pet Doctor Guide, he covers nutrition, ingredient analysis, and how to read a pet food label."
+author_title: "Pet Nutrition"
+author_bio: "James Whitfield is the byline for Pet Doctor Guide's articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 French Bulldogs have been the most popular dog breed in the United States for two years running, according to AKC registration data. That milestone deserves an asterisk, because French Bulldogs generate more health-related follow-up appointments and owner concerns than most other breeds. They're wonderful dogs. They're also, anatomically speaking, a lot of work.
