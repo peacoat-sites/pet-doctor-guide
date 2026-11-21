@@ -122,7 +122,7 @@ It helps to know what you're ruling out. Not every swollen belly or vomiting epi
 | Pancreatitis | Vomiting, diarrhea, hunched posture, painful abdomen | Urgent to emergency depending on severity |
 | Splenic mass/rupture | Sudden weakness, pale gums, distended belly, collapse | Emergency |
 
-When in doubt, treat it as an emergency. In my 13 years of practice, I've never once seen a situation made worse by getting to the vet too quickly.
+When in doubt, treat it as an emergency. Veterinary professionals consistently find that arriving at the clinic too quickly has never made a situation worse.
 
 If your dog is showing signs right now and you've been reading this hoping something will tell you it's probably fine, I want to be honest: don't wait. Get in the car. Bloat is the condition that rewards fast action more than almost anything else we see in veterinary medicine, and the dogs who do best are the ones whose owners trusted their gut and went. Trust yours.
 

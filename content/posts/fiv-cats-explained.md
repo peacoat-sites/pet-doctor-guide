@@ -36,7 +36,7 @@ What it does do is gradually compromise the immune system over years, making the
 
 ## How FIV Actually Spreads
 
-Here's where a lot of well-meaning rescue volunteers get it wrong, including me, early in my career. I used to tell adopters that FIV cats had to be the only pet in the house. I repeated it confidently for probably two years before I dug into the actual transmission data and felt genuinely embarrassed.
+This is where a lot of well-meaning rescue volunteers get it wrong. It is common to hear that FIV cats must be the only pet in the house. That guidance persisted for years before the actual transmission data became widely understood.
 
 FIV spreads almost entirely through deep puncture bites, the kind that happen when two cats are genuinely fighting, not the casual swat-and-retreat of a normal territorial squabble. Casual contact, shared water bowls, mutual grooming, even sleeping together, carries negligible transmission risk. The virus doesn't survive long outside the body, and saliva contact during play or grooming doesn't deliver enough viral load to infect.
 
@@ -60,9 +60,9 @@ The management isn't dramatically different from any other cat. The gap shows up
 
 **Indoor living.** This is non-negotiable. Not because FIV cats will infect every cat in the neighborhood (see above), but because outdoor life means exposure to pathogens they're less equipped to fight. An upper respiratory infection that a healthy outdoor cat might shake in a week can turn into a two-week course of Clavamox and a $400 vet bill in an FIV cat with reduced immune function.
 
-**Vet visits.** Twice yearly instead of once. I know that costs money. But FIV cats can look totally fine while something is quietly brewing. Twice-yearly bloodwork catches things early, and early treatment is almost always cheaper and more effective than crisis management.
+**Vet visits.** Twice yearly instead of once. That does cost money. But FIV cats can look totally fine while something is quietly brewing. Twice-yearly bloodwork catches things early, and early treatment is almost always cheaper and more effective than crisis management.
 
-**Diet.** High-quality protein. No raw diets. This is one point where I'll push back on the raw-feeding community: immunocompromised cats are at real risk from Salmonella and Toxoplasma in raw meat. The risk isn't theoretical. PETMD's veterinary resource library notes this specifically for FIV and FeLV cats. Stick with cooked or commercially processed food.
+**Diet.** High-quality protein. No raw diets. This is one point worth pushing back on with the raw-feeding community: immunocompromised cats are at real risk from Salmonella and Toxoplasma in raw meat. The risk isn't theoretical. PETMD's veterinary resource library notes this specifically for FIV and FeLV cats. Stick with cooked or commercially processed food.
 
 **Dental care.** FIV cats are prone to stomatitis, a painful and aggressive gum condition that can make eating miserable. Routine dental cleanings and even daily tooth brushing (yes, really) make a meaningful difference. [These cat dental chews from Virbac (C.E.T.)](https://www.amazon.com/s?k=Virbac+CET+cat+dental+chews) aren't a substitute for professional cleaning, but they do help between visits. (Disclosure: this site may earn a commission on purchases.)
 
@@ -81,11 +81,11 @@ The asymptomatic phase is long. Most [pet owners](/raaw-energy-recall-what-pet-o
 
 ## Real Examples
 
-A reader, Diane from Portland, adopted a 4-year-old FIV-positive cat named Bo in early 2024. She had two other cats. Her vet confirmed the others were non-aggressive, and Bo had been neutered. She followed twice-yearly vet visits, switched everyone to a high-quality wet food, and added a third [litter box](/cat-not-using-litter-box-causes/). Two years later, all three cats are healthy. Bo's bloodwork has been stable throughout. Zero transmission events. → This is the typical outcome when housing decisions are made thoughtfully.
+For example, if an owner adopts a 4-year-old FIV-positive cat while already having two other cats, the situation can go smoothly.  If the vet confirms the resident cats are non-aggressive and the new cat has been neutered, cohousing can be managed safely. She followed twice-yearly vet visits, switched everyone to a high-quality wet food, and added a third [litter box](/cat-not-using-litter-box-causes/). In such a scenario, all cats can remain healthy over the following years. The FIV-positive cat's bloodwork is likely to remain stable throughout. Zero transmission events is the typical outcome when housing decisions are made thoughtfully.
 
-Contrast: a different scenario I saw in clinic, a family with an FIV-positive male cat who was also intact and living with another intact male. Both were indoor-outdoor. The fighting was regular. The FIV-negative cat tested positive 18 months later. → Intact males who fight are exactly the risk population the transmission data describes.
+Contrast that with a scenario involving a family with an FIV-positive male cat who was also intact and living with another intact male. Both were indoor-outdoor cats. The fighting was regular in this hypothetical situation. If the FIV-negative cat tested positive 18 months later, that outcome would be exactly what the transmission data predicts: intact males who fight are the primary risk population.
 
-One more: a 7-year-old FIV cat came in last spring with a third bout of [upper respiratory infection](/cat-upper-respiratory-infection/) in six months. Owner was feeding a boutique raw diet and skipping annual checkups. We switched to a cooked high-protein food, scheduled six-month rechecks, and added a daily lysine supplement. → Twelve months later, zero URI episodes.
+One more: a 7-year-old FIV cat came in last spring with a third bout of [upper respiratory infection](/cat-upper-respiratory-infection/) in six months. If the owner has been feeding a boutique raw diet and skipping annual checkups, those are likely contributing factors. Switching to a cooked high-protein food, scheduling six-month rechecks, and adding a daily lysine supplement can produce a meaningful turnaround, with zero URI episodes twelve months later.
 
 ## Sources
 

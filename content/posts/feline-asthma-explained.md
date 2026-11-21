@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Your cat has been coughing. Not the hairball kind, but something lower, more labored, maybe even a little alarming. You searched the symptoms, landed here, and now you're sitting with the word "asthma" and a dozen questions you don't know how to rank yet. That's exactly where I want to start.
 
-Feline asthma is more common than most people realize. Somewhere between 1% and 5% of cats are affected, which sounds small until you consider how many cats there are in the world. In a busy small animal clinic, we see it regularly. It's also one of those conditions that gets misdiagnosed, mismanaged, or simply missed for months, sometimes years, before a cat gets real relief. That part genuinely bothers me.
+Feline asthma is more common than most people realize. Somewhere between 1% and 5% of cats are affected, which sounds small until you consider how many cats there are in the world. Vets in busy small animal clinics see it regularly. It's also one of those conditions that gets misdiagnosed, mismanaged, or simply missed for months, sometimes years, before a cat gets real relief. That part genuinely bothers me.
 
 Here's the reassuring piece: a well-managed asthmatic cat can live a completely normal life. The goal of this article is to help you understand what's actually happening inside your cat's lungs, recognize when you need to move fast versus when you can schedule a regular appointment, and ask the right questions when you're sitting across from your vet.
 
@@ -37,11 +37,11 @@ Feline asthma is an allergic respiratory disease. When a cat inhales a trigger (
 
 It's chronic, meaning it doesn't go away. But it does fluctuate. Some cats go months between episodes. Others deal with near-daily symptoms if their environment isn't managed well.
 
-One thing I always clarify: [feline asthma and feline bronchitis](/cat-upper-respiratory-infection/) often get lumped together under "chronic lower airway disease." They can happen together, or separately. Bronchitis involves persistent inflammation without the dramatic spasm; asthma involves that spasm, which creates the acute "attack" feeling. The distinction matters for treatment.
+One important distinction: [feline asthma and feline bronchitis](/cat-upper-respiratory-infection/) often get lumped together under "chronic lower airway disease." They can happen together, or separately. Bronchitis involves persistent inflammation without the dramatic spasm; asthma involves that spasm, which creates the acute "attack" feeling. The distinction matters for treatment.
 
 ## Recognizing It: The Posture Tells You More Than the Sound
 
-The classic picture is a cat crouched low, neck extended, elbows out, sides heaving. Sometimes there's an audible wheeze. Sometimes there isn't. Here's what I've told people repeatedly: don't wait for a wheeze to take the episode seriously.
+The classic picture is a cat crouched low, neck extended, elbows out, sides heaving. Sometimes there's an audible wheeze. Sometimes there isn't. The key point to understand is this: don't wait for a wheeze to take the episode seriously.
 
 A coughing cat often gets mistaken for a gagging cat. People assume hairball and move on. But if your cat is doing any of this:
 
@@ -78,7 +78,7 @@ The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-c
 
 ## Living With an Asthmatic Cat Day to Day
 
-Here's what I tell people once the initial shock wears off: asthma management is mostly routine once you find your cat's baseline. You'll probably spend a few months adjusting medications, identifying triggers, and figuring out what your specific cat's warning signs look like before an episode. After that, it genuinely becomes second nature.
+Asthma management is mostly routine once a cat's baseline is established. You'll probably spend a few months adjusting medications, identifying triggers, and figuring out what your specific cat's warning signs look like before an episode. After that, it genuinely becomes second nature.
 
 Keep a simple log. Date, duration of symptoms, anything unusual in the environment that day. This is more useful at vet appointments than you'd think, and it helps you notice patterns (certain seasons, after cleaning the house, after a new litter brand).
 

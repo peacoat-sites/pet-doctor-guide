@@ -26,7 +26,7 @@ faqs:
     a: "No, but pain is more commonly the cause than owners realize, especially when there's no crying or obvious limping. Dogs are wired to suppress pain signals behaviorally, so quiet trembling with a slightly stiff posture or reluctance to jump can be the only sign. When in doubt, a gentle physical exam is the fastest way to answer that question definitively."
 ---
 
-Most dog owners see their pet shaking and immediately picture the worst. And I'll be honest: for a long time, I did too. My first year as a vet tech, I'd see a shaking dog come through the door and my brain would jump straight to seizure, toxin, neurological disaster. What surprised me, after 13 years of actually watching what happens next, is how often the answer is something far more mundane. And how often it's something owners dismissed that turned out to be serious. The tricky part is knowing which is which.
+Most dog owners see their pet shaking and immediately picture the worst.   What surprises many people is how often the answer is something far more mundane. And how often it's something owners dismissed that turned out to be serious. The tricky part is knowing which is which.
 
 Shaking in dogs isn't a single symptom. It's a category. It covers everything from a Lab quivering because someone opened the treat drawer to a Chihuahua in early kidney failure. The challenge for owners isn't knowing that shaking can mean something bad. It's figuring out how to read the rest of the picture.
 
@@ -42,15 +42,15 @@ The tell for all three of these: the shaking stops when the trigger is removed. 
 
 ## Pain Is a Bigger Cause Than Most People Realize
 
-Here's where I see owners get it wrong most often, and I made this mistake myself early on. A dog shaking quietly in the corner, not crying, not limping, not refusing food, owners often assume that dog is fine because it's "not acting sick." But dogs hide pain remarkably well, and shaking is frequently the only outward sign.
+Here's where owners get it wrong most often. A dog shaking quietly in the corner, not crying, not limping, not refusing food, owners often assume that dog is fine because it's "not acting sick." But dogs hide pain remarkably well, and shaking is frequently the only outward sign.
 
 Spinal pain (especially in breeds like Dachshunds, Corgis, or French Bulldogs) often presents as trembling without any obvious lameness. Abdominal pain, whether from bloat, pancreatitis, or a foreign body obstruction, can cause generalized shaking along with a hunched posture and reluctance to move. Ear infections can produce head tremors specifically when the vestibular system gets involved.
 
 Clinical scenarios that require attention:
 
-Scenario: A 4-year-old Dachshund brought in for "shaking episodes" that happened mainly in the morning. No vomiting, eating normally, no obvious neurological signs. Owner thought it was anxiety. Vet palpated the thoracolumbar spine, dog yelped. X-ray revealed early intervertebral disc disease. Treatment with rest, anti-inflammatories, and muscle relaxants resolved the shaking within 10 days.
+For example, if a 4-year-old Dachshund were brought in for shaking episodes that happened mainly in the morning, with no vomiting and normal appetite, an owner might assume anxiety, but veterinary palpation of the thoracolumbar spine could reveal early intervertebral disc disease, with rest, anti-inflammatories, and muscle relaxants resolving the shaking within 10 days.
 
-Scenario: A 7-year-old Labrador with intermittent trembling after meals. Owner attributed it to food excitement. Bloodwork showed elevated lipase consistent with pancreatitis. Dietary change to a low-fat prescription diet and one hospitalization stay, shaking stopped, no recurrence at recheck 6 weeks later.
+For example, a 7-year-old Labrador with intermittent trembling after meals might have an owner who attributes it to food excitement, when bloodwork could reveal elevated lipase consistent with pancreatitis, with a dietary change to a low-fat prescription diet and one hospitalization stay resolving the shaking and no recurrence at a 6-week recheck.
 
 If the shaking happens in a pattern (only in the morning, only after eating, only when getting up from rest), that pattern is a clue. Write it down before your appointment. Vets love a timeline.
 
@@ -72,11 +72,11 @@ Before you call your vet, here's what actually helps: watch for 90 seconds and n
 
 Is the shaking localized (just the back legs, just the head) or whole-body? Is the dog conscious and responding to you normally during it? Did anything happen right before: exposure to cold, a loud noise, eating something unusual, physical activity? Has it happened before, and if so, how often?
 
-One thing only someone who's done this a lot would know: video it. I cannot stress this enough. If the episode stops by the time you get to the clinic (and it often does), a 20-second phone video is worth more than any description you can give. Neurological episodes in particular are notoriously hard to describe accurately. Vets genuinely want to see it.
+One practical tip that makes a real difference: video it. I cannot stress this enough. If the episode stops by the time you get to the clinic (and it often does), a 20-second phone video is worth more than any description you can give. Neurological episodes in particular are notoriously hard to describe accurately. Vets genuinely want to see it.
 
 ## When to Go Now vs. When to Wait
 
-This is the question I get most from readers, and I'll give you an actual framework rather than the useless "when in doubt, call your vet" non-answer.
+Here is an actual framework rather than the useless "when in doubt, call your vet" non-answer.
 
 | Symptom combination | What it likely means | Action |
 |---|---|---|

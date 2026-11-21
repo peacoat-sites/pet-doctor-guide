@@ -25,13 +25,13 @@ author_title: "Cat Behavior"
 author_bio: "Michelle Chen is the byline used at Pet Doctor Guide for articles on cat behavior, body language and multi-cat households. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most cat owners I talk to assume that because their cat never steps foot outside, worms simply aren't a concern. I used to think the same thing, honestly. Then I started seeing it in practice: a perfectly indoor, pampered apartment cat presenting with a tapeworm segment stuck to the fur near their tail. The owner was baffled. So was I, at first.
+Many cat owners assume that because their cat never steps foot outside, worms simply aren't a concern.  Vets regularly see it in practice: a perfectly indoor, pampered apartment cat presenting with a tapeworm segment stuck to the fur near their tail. The owner is typically baffled. 
 
-The truth about indoor cats and parasites is messier and more interesting than the "they're safe inside" narrative. Let me tell you what I've actually learned after 13 years of seeing cats come through the clinic door.
+The truth about indoor cats and parasites is messier and more interesting than the "they're safe inside" narrative. 
 
 ## Indoor doesn't mean zero risk
 
-Here's what surprises most people: indoor cats can absolutely get intestinal parasites, just through different routes than outdoor cats. The most common culprits I see in truly indoor cats are tapeworms and roundworms, and both have sneaky transmission paths that have nothing to do with hunting outside.
+Here's what surprises most people: indoor cats can absolutely get intestinal parasites, just through different routes than outdoor cats. The most common culprits in truly indoor cats are tapeworms and roundworms, and both have sneaky transmission paths that have nothing to do with hunting outside.
 
 Tapeworms, specifically *Dipylidium caninum*, come from fleas. One infected flea ingested during grooming is all it takes. If your cat has ever had a single flea (and most do, at least once, because fleas hitchhike on clothing, shoes, and other pets), there's a real possibility of tapeworm exposure. Tapeworm infections can occur in homes where fleas have never been noticed. Fleas are fast and small and easy to miss.
 
@@ -50,17 +50,17 @@ Low-level parasite infections often go completely undetected in cats. Cats are n
 
 The honest answer is: it depends, and anyone giving you a single universal number is oversimplifying.
 
-The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) doesn't publish a one-size-fits-all deworming schedule for adult indoor cats, because the risk profile genuinely varies. What most parasitologists and feline-focused vets I've spoken to recommend falls into a few practical categories:
+The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) doesn't publish a one-size-fits-all deworming schedule for adult indoor cats, because the risk profile genuinely varies. What most parasitologists and feline-focused vets recommend falls into a few practical categories:
 
 **For kittens:** Every two weeks from two weeks of age until twelve weeks, then monthly until six months. This is standard, and it's non-negotiable. Roundworm burden in young kittens can be heavy and can cause real harm, including respiratory issues from larval migration.
 
 **For adult indoor-only cats with truly minimal risk:** No fleas, no contact with other animals, no outdoor access, owner doesn't work with soil or animals. An annual [fecal exam is reasonable](/cat-annual-wellness-exam-guide/). Routine prophylactic deworming every month isn't necessary or well-supported for this group. You're treating a problem that may not exist.
 
-**For adult indoor cats with any of these factors:** another pet that goes outside, a history of fleas, hunting behavior (even just insects), a new cat or kitten introduced to the home, or an owner who works in veterinary medicine, agriculture, or animal rescue. I'd push for a fecal exam every six months and a low threshold for treating if anything looks off.
+**For adult indoor cats with any of these factors:** another pet that goes outside, a history of fleas, hunting behavior (even just insects), a new cat or kitten introduced to the home, or an owner who works in veterinary medicine, agriculture, or animal rescue. A fecal exam every six months is advisable, with a low threshold for treating if anything looks off.
 
 **For cats in multi-cat households or those from shelters and rescues:** More aggressive initial testing and deworming, then reassess. Shelter environments are notoriously high-risk for parasites, and a cat adopted at eight months may have had exposure you don't know about.
 
-The piece of advice I give owners most often: ask your vet for a fecal float test before you deworm. It costs roughly $25-$45 at most clinics. Knowing what you're dealing with changes everything, including which product you actually need.
+A key piece of guidance worth following: ask your vet for a fecal float test before you deworm. It costs roughly $25-$45 at most clinics. Knowing what you're dealing with changes everything, including which product you actually need.
 
 ## The flea connection is the part most people miss
 
@@ -68,7 +68,7 @@ I want to stay on this for a second because it's the single most underappreciate
 
 If you're not keeping your indoor cat on year-round flea prevention, you're leaving a door open. The tapeworm lifecycle requires an intermediate host: the flea. No fleas, essentially no *Dipylidium* tapeworms. It's that direct.
 
-What I've found works well for indoor cats who need flea coverage: topical products like Revolution Plus (selamectin plus sarolaner) or Bravecto Plus (moxidectin plus fluralaner) cover fleas AND certain intestinal parasites simultaneously. Revolution Plus, for instance, covers roundworms and hookworms on top of flea prevention. Two birds, one product, once a month or once every three months depending on the formulation. These are prescription products in the US, so your vet needs to be involved, but that's actually a good thing because it means dosing is appropriate for your cat's weight.
+Topical products like Revolution Plus (selamectin plus sarolaner) or Bravecto Plus (moxidectin plus fluralaner) work well for indoor cats who need flea coverage and cover fleas AND certain intestinal parasites simultaneously. Revolution Plus, for instance, covers roundworms and hookworms on top of flea prevention. Two birds, one product, once a month or once every three months depending on the formulation. These are prescription products in the US, so your vet needs to be involved, but that's actually a good thing because it means dosing is appropriate for your cat's weight.
 
 For cats genuinely at minimal risk, a simple over-the-counter tapeworm tablet like Bayer Tapeworm Dewormer (praziquantel, about $15-$20 for three tablets) is worth having on hand. If you ever see what looks like a small white rice grain near your cat's tail or in the litter box, that's almost certainly a tapeworm segment, and you can treat it at home while scheduling a vet visit to confirm and assess for fleas.
 
@@ -76,7 +76,7 @@ For cats genuinely at minimal risk, a simple over-the-counter tapeworm tablet li
 
 ## What a "deworming schedule" actually looks like in practice
 
-I'll be honest, the word "schedule" makes it sound more rigid than it needs to be for a healthy adult indoor cat with low risk factors. Here's how I think about it practically:
+The word "schedule" can sound more rigid than it needs to be for a healthy adult indoor cat with low risk factors. Here is a practical way to approach it:
 
 Start with a fecal exam if your cat hasn't had one in the past year, especially at the next [annual wellness visit](/cat-annual-vet-visit-what-to-expect/). If it's clean, great. You've got a baseline. If something shows up, treat specifically for what's there, not with a broad-spectrum product that may not target the right parasite. Pyrantel pamoate is great for roundworms and hookworms. Praziquantel is what you want for tapeworms. Fenbendazole covers a broader range including some protozoa. These aren't interchangeable.
 
@@ -84,11 +84,11 @@ Recheck the fecal in 2-3 weeks after treating to confirm clearance.
 
 Then reassess risk annually. If nothing changes in the cat's lifestyle or household, a once-yearly fecal exam is reasonable. If a new pet comes in, recheck. If you notice any of the classic signs (pot-bellied appearance, visible worm segments, unexplained weight loss, vomiting, or a dull coat), don't wait for the annual appointment.
 
-One thing [PetMD's veterinary resource library](https://www.petmd.com/) notes that I think is worth repeating: roundworms are zoonotic. They can infect humans, particularly children, causing a condition called visceral larva migrans. This isn't a scare tactic. It's a real reason to take indoor cat deworming seriously even when the cat seems completely healthy.
+One thing [PetMD's veterinary resource library](https://www.petmd.com/) notes that is worth repeating: roundworms are zoonotic. They can infect humans, particularly children, causing a condition called visceral larva migrans. This isn't a scare tactic. It's a real reason to take indoor cat deworming seriously even when the cat seems completely healthy.
 
 ## When something looks wrong and you shouldn't wait
 
-Most worm situations in indoor cats are not emergencies. But I'd call the vet same-day or go to urgent care if:
+Most worm situations in indoor cats are not emergencies. Contact a vet the same day or go to urgent care if:
 
 - A kitten under twelve weeks is showing lethargy, severe bloating, or vomiting repeatedly
 - You can see live, moving worms in vomit or stool (rare but it happens)
@@ -99,7 +99,7 @@ Everything else, the occasional tapeworm segment, a single episode of vomiting w
 
 ---
 
-Here's where I land after all this: the "deworm your cat every month no matter what" advice you'll find in some older resources is outdated for low-risk indoor adult cats. But "indoor cats don't need deworming" is equally wrong and potentially harmful. The right answer is somewhere in the middle, built on actual testing and actual knowledge of your cat's specific risk factors. Less satisfying than a simple schedule, but a lot closer to the truth.
+The "deworm your cat every month no matter what" advice found in some older resources is outdated for low-risk indoor adult cats. But "indoor cats don't need deworming" is equally wrong and potentially harmful. The right answer is somewhere in the middle, built on actual testing and actual knowledge of your cat's specific risk factors. Less satisfying than a simple schedule, but a lot closer to the truth.
 
 ## Sources
 

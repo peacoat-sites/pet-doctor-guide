@@ -26,7 +26,7 @@ faqs:
     a: "If the ingestion was recent, they'll likely induce vomiting (if not already done) and administer activated charcoal to limit further absorption. For more serious cases, IV fluids, medications to control heart rate or seizures, and overnight monitoring are standard. The treatment is largely supportive since there's no antidote for theobromine specifically."
 ---
 
-Every week, at least one dog owner in our clinic's waiting room has the same look: phone in hand, Googling furiously, trying to figure out if what their dog just ate is going to kill them. Chocolate is the most common reason for that look. And most of what they've already read before arriving is either too vague to be useful ("even small amounts can be dangerous!") or too dismissive ("a little bit won't hurt"). Both miss the point.
+Every week, at least one dog owner arrives at the vet's waiting room with the same look: phone in hand, Googling furiously, trying to figure out if what their dog just ate is going to kill them. Chocolate is the most common reason for that look. And most of what they've already read before arriving is either too vague to be useful ("even small amounts can be dangerous!") or too dismissive ("a little bit won't hurt"). Both miss the point.
 
 The actual answer is dose-dependent, weight-dependent, and type-of-chocolate-dependent. Once you understand those three variables, you can make a real call instead of a panicked guess.
 
@@ -55,11 +55,11 @@ So a 10-pound (4.5 kg) dog would need to ingest roughly 180 mg of theobromine to
 
 This is why "even a small amount can be dangerous" is simultaneously true and not useful. Small relative to what?
 
-12-pound Shih Tzu eats one standard Hershey bar (1.55 oz, milk chocolate, roughly 70 mg theobromine total) → Dog is at about 15 mg/kg → Likely GI upset, maybe vomiting, no cardiac or neurological signs → Monitored at home, vomited once, recovered fine.
+For example, if a 12-pound Shih Tzu eats one standard Hershey bar (1.55 oz, milk chocolate, roughly 70 mg theobromine total), the dog is at about 15 mg/kg, likely to show GI upset and possibly vomit, but without cardiac or neurological signs, and would typically recover fine with monitoring at home.
 
-8-pound Chihuahua eats a single square of 85% dark chocolate (about 0.5 oz, approximately 77 mg theobromine) → That's roughly 21 mg/kg → We're at the low end of the mild toxicity zone → Called the [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control), induced vomiting at home with vet guidance, watched for 12 hours.
+For example, if an 8-pound Chihuahua eats a single square of 85% dark chocolate (about 0.5 oz, approximately 77 mg theobromine), that is roughly 21 mg/kg, putting the dog at the low end of the mild toxicity zone, where the recommended course would be to call the [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control), potentially induce vomiting at home with vet guidance, and monitor for 12 hours.
 
-45-pound mixed breed gets into a baking cabinet and eats 4 oz of cocoa powder (roughly 2,280 mg theobromine) → That's over 112 mg/kg → Emergency visit immediately, IV fluids, activated charcoal, hospitalized overnight → Survived, but it was a serious case.
+For example, if a 45-pound mixed breed gets into a baking cabinet and eats 4 oz of cocoa powder (roughly 2,280 mg theobromine), that is over 112 mg/kg, requiring an immediate emergency visit with IV fluids, activated charcoal, and overnight hospitalization.
 
 ## What to Do in the First 30 Minutes
 
@@ -79,15 +79,15 @@ If the dose was borderline and you're monitoring at home, you're looking for vom
 
 Things that mean you stop monitoring and start driving: muscle tremors, a racing heart you can feel when you put your hand on their chest, unusual agitation that doesn't settle, seizures. The cardiac effects of theobromine are what make severe poisoning genuinely dangerous, and the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) notes that severe cases require supportive care including cardiac monitoring that simply can't be replicated at home.
 
-Theobromine has a relatively long half-life in dogs, around 17-18 hours. That means symptoms can persist or worsen over a day even after the dog looks like they've stabilized. Owners may call back the next morning confused because a dog seemed fine at bedtime but is now trembling. If there was a meaningful exposure, don't declare victory after four hours.
+Theobromine has a relatively long half-life in dogs, around 17-18 hours. That means symptoms can persist or worsen over a day even after the dog looks like they've stabilized. It is not unusual for owners to call back the next morning confused because a dog seemed fine at bedtime but is now trembling. If there was a meaningful exposure, don't declare victory after four hours.
 
 ## Breeds and Individual Factors
 
 Size is the biggest variable, but not the only one. Dogs with pre-existing heart conditions are at higher risk from theobromine's cardiac effects even at lower doses. Older dogs and puppies metabolize things differently than healthy adult dogs. If your dog is on any medication that affects liver enzymes, that changes the equation too, which is genuinely one of those situations where talking to your vet beats any calculator.
 
-Anyone who's owned a Labrador or a Beagle knows these dogs will eat everything. Labs specifically have a known tendency toward dietary indiscretion (the polite phrase we use in the clinic), and it's not a coincidence that they're overrepresented in chocolate ingestion cases. Know your dog. If you have a counter-surfer, keeping chocolate in a closed cabinet rather than on the counter is not overprotective.
+Anyone who has owned a Labrador or a Beagle knows these dogs will eat everything. Labs specifically have a known tendency toward dietary indiscretion, and it is not a coincidence that they are overrepresented in chocolate ingestion cases. Know your dog. If you have a counter-surfer, keeping chocolate in a closed cabinet rather than on the counter is not overprotective.
 
-As of July 2026, the most reliable tool I'd point someone toward for a quick initial estimate is the Merck Veterinary Manual's toxicology guidelines, cross-referenced with a call to poison control. Not a random website. Not Reddit.
+As of July 2026, the most reliable starting point for a quick initial estimate is the Merck Veterinary Manual's toxicology guidelines, cross-referenced with a call to poison control. Not a random website. Not Reddit.
 
 ## Sources
 

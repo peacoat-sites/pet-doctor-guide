@@ -40,7 +40,7 @@ The ear flap, or pinna, has two layers of skin with cartilage sandwiched between
 
 Here's what most people don't realize: the hematoma itself isn't the root problem. It's a symptom. Something made your dog shake or scratch hard enough to rupture a vessel. That something is almost always an [ear infection](/dog-ear-infection-symptoms-treatment/), ear mites, allergies, or a foreign body in the ear canal. Treating the hematoma without addressing the underlying cause is like mopping up a leak without fixing the pipe. You'll be back in the same exam room in six weeks.
 
-I made this assumption myself early in my career, actually. I had a client with a Golden Retriever named Biscuit who came in twice in one year with hematomas on the same ear. The first time, we drained it beautifully, sutured it, it healed perfectly. But the vet she was seeing (not ours, to be fair) didn't look at the ear canal closely. Biscuit had a yeast infection simmering in there the whole time. Second hematoma, same ear, worse than the first.
+This pattern comes up more than owners expect. For example, imagine a Golden Retriever presenting twice in one year with hematomas on the same ear. The first time, the hematoma is drained and sutured, and it heals perfectly. But if the ear canal is not examined closely, the underlying problem goes undetected. A yeast infection had been simmering in the ear canal the whole time. The result is a second hematoma on the same ear, worse than the first.
 
 ## When to Go to the Emergency Vet vs. Wait for Monday
 
@@ -48,7 +48,7 @@ This is what you actually want to know.
 
 Go to an emergency clinic tonight if your dog has a fever (normal is 99.5 to 102.5°F), if the ear feels hard rather than squishy, if there's any visible wound or bleeding from the ear, or if your dog is so distressed that he won't stop crying or scratching. Any of those shift the calculus.
 
-If the ear is soft, squishy, your dog is uncomfortable but not frantic, and this just appeared in the last day or two, you can wait until your regular vet opens. Keep your dog from scratching at it by putting a cone on overnight if you have one handy. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) hotline sometimes gets calls about people trying to treat hematomas at home with things like witch hazel or needle drainage, and I want to be clear: please don't do that. Puncturing the hematoma at home is not sterile, it's unlikely to work (the blood will re-accumulate), and you can introduce infection.
+If the ear is soft, squishy, your dog is uncomfortable but not frantic, and this just appeared in the last day or two, you can wait until your regular vet opens. Keep your dog from scratching at it by putting a cone on overnight if you have one handy. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) hotline sometimes gets calls about people trying to treat hematomas at home with things like witch hazel or needle drainage, Attempting this at home is strongly discouraged. Puncturing the hematoma at home is not sterile, it's unlikely to work (the blood will re-accumulate), and you can introduce infection.
 
 A soft e-collar or recovery cone, even one of those inflatable ones, helps enormously while you're waiting for the appointment. Something like the [KONG Cloud E-Collar](https://www.amazon.com/dp/B001P2FJXQ?tag=contentportfo-20) (typically around $18 to $28 depending on size) is more comfortable for sleeping than the hard plastic kind. *(Disclosure: this site may earn a small commission from qualifying Amazon purchases.)*
 
@@ -68,21 +68,21 @@ The surgical approach is still the gold standard. Needle aspiration alone often 
 
 The teat cannula method has gained real traction at a lot of practices over the last several years. The vet makes a small incision, places a small drainage tube, and the ear is bandaged. It's less invasive than full surgery and the results have been good in the literature, especially for smaller hematomas. Your vet may or may not offer it; it's worth asking.
 
-One more thing that only someone who's actually managed post-op ear hematomas would mention: the quilting sutures (the ones that keep the ear layers pressed together while everything heals) are uncomfortable. They look a little alarming. Clients sometimes want them out early because the dog seems bothered by them. Resist that urge. Those sutures need to stay in typically three to four weeks. Removing them early is one of the most common reasons for failed surgical outcomes.
+One thing worth knowing about post-op ear hematoma recovery: the quilting sutures, the ones that keep the ear layers pressed together while everything heals, are uncomfortable. They look a little alarming. Clients sometimes want them out early because the dog seems bothered by them. Resist that urge. Those sutures need to stay in typically three to four weeks. Removing them early is one of the most common reasons for failed surgical outcomes.
 
 ## Treating the Underlying Cause
 
 Your vet will examine the ear canal during the same visit. Expect a cytology swab to check for bacteria or yeast, and possibly an ear culture if the infection looks significant or has been recurring.
 
-If allergies are the root cause (and they often are in dogs that get repeated ear infections), that's a longer conversation. Environmental allergies and food allergies are both common culprits. Breeds like Cocker Spaniels, Labrador Retrievers, Shar Peis, and Basset Hounds are overrepresented in my records for repeat ear problems, partly because of ear anatomy and partly because of breed-associated allergy rates. If your vet brings up allergy testing or a food trial, don't dismiss it as upselling. It's often the only thing that actually breaks the cycle.
+If allergies are the root cause (and they often are in dogs that get repeated ear infections), that's a longer conversation. Environmental allergies and food allergies are both common culprits. Breeds like Cocker Spaniels, Labrador Retrievers, Shar Peis, and Basset Hounds are overrepresented in veterinary records for repeat ear problems, partly because of ear anatomy and partly because of breed-associated allergy rates. If your vet brings up allergy testing or a food trial, don't dismiss it as upselling. It's often the only thing that actually breaks the cycle.
 
-Scenario example: Cocker Spaniel with third ear hematoma in two years → full allergy workup revealing dust mite sensitivity → prescription Cytopoint injections plus monthly ear cleanings with Virbac Epi-Otic Advanced → zero hematomas in the eighteen months since.
+For example, a Cocker Spaniel presenting with a third ear hematoma in two years might undergo a full allergy workup, reveal dust mite sensitivity, and go on to have zero hematomas in the eighteen months following prescription Cytopoint injections and monthly ear cleanings with Virbac Epi-Otic Advanced.
 
 ## What Happens If You Don't Treat It
 
 I'll be straightforward. Some hematomas do resolve on their own over six to eight weeks as the body slowly reabsorbs the blood. But "resolved" doesn't mean "healed normally." The scar tissue that forms as the blood organizes and contracts causes the ear cartilage to crinkle and fold. The result is what veterinarians call "cauliflower ear," the same thing you see in experienced boxers and wrestlers. It's permanent. It doesn't hurt, but it looks dramatic and it can narrow the ear canal, which makes future infections more likely.
 
-Whether that tradeoff makes sense depends on your dog's age, your financial situation, and how bad the hematoma is. I'm not going to pretend surgery is the only moral choice. But go in knowing what the "do nothing" option actually costs in terms of long-term ear health.
+Whether that tradeoff makes sense depends on your dog's age, your financial situation, and how bad the hematoma is. Surgery is not the only option for every dog or every situation. But go in knowing what the "do nothing" option actually costs in terms of long-term ear health.
 
 ## Sources
 

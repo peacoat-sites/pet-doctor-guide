@@ -28,9 +28,9 @@ faqs:
 
 Most dog owners assume nighttime panting is just a hot dog or a nervous one, but there are several medical conditions that can cause it.
 
-Across 13 years in a small animal clinic, I'd estimate roughly 40% of the nighttime panting cases we saw had a medical explanation that owners had been dismissing as anxiety or temperature for months. That number isn't from a published study, I'll be honest, but it tracks with what the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has flagged repeatedly: panting is one of the most underreported symptoms in dogs because owners assume it's behavioral. A 2023 survey published in the *Journal of Veterinary Internal Medicine* found that owners delayed seeking care for panting by an average of 6.2 weeks, often because they couldn't identify a clear trigger. Six weeks is a long time if your dog's adrenal gland is failing.
+Veterinary clinics commonly find that a significant portion of nighttime panting cases have a medical explanation that owners had been dismissing as anxiety or temperature for months. That number isn't from a published study, I'll be honest, but it tracks with what the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has flagged repeatedly: panting is one of the most underreported symptoms in dogs because owners assume it's behavioral. A 2023 survey published in the *Journal of Veterinary Internal Medicine* found that owners delayed seeking care for panting by an average of 6.2 weeks, often because they couldn't identify a clear trigger. Six weeks is a long time if your dog's adrenal gland is failing.
 
-What surprised me most when I really started paying attention wasn't the serious cases. It was how many dogs were panting at night for completely fixable reasons that nobody had thought to address.
+What is often surprising when looking closely at the data is that it is not the serious cases that stand out most. It is how many dogs are panting at night for completely fixable reasons that nobody had thought to address.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Nighttime panting lasting more than 2 weeks warrants a vet visit, not more waiting.</li><li style="margin:5px 0">Cushing's disease, pain, and heart conditions cause panting that owners often misread as anxiety.</li><li style="margin:5px 0">A dog panting only at night (not during the day) is a more specific symptom worth tracking carefully.</li><li style="margin:5px 0">Breed matters: brachycephalic dogs (Bulldogs, Pugs) pant more at baseline and can mask serious symptoms.</li><li style="margin:5px 0">A single night of panting after a stressful day is almost never an emergency.</li></ul></div>
 
@@ -38,7 +38,7 @@ What surprised me most when I really started paying attention wasn't the serious
 
 Let me break down what's really going on, because the list is longer than "it's hot" or "they're nervous."
 
-**Pain.** This is the one I see missed most often. Dogs are stoic in ways that should honestly impress us. A dog with undiagnosed arthritis, a spinal issue, or an internal problem will often pant quietly at night when the household is still and there's nothing to distract them from the discomfort. I've sat with owners who said "but she's eating fine and playing during the day" as if that ruled pain out. It doesn't. [PetMD's veterinary resource library](https://www.petmd.com/) notes that pain-related panting often worsens at night because dogs rest in positions that put pressure on sore joints, and the lack of stimulation makes the sensation more prominent.
+**Pain.** This is the one vets say is missed most often. Dogs are stoic in ways that should honestly impress us. A dog with undiagnosed arthritis, a spinal issue, or an internal problem will often pant quietly at night when the household is still and there's nothing to distract them from the discomfort. Owners sometimes say "but she's eating fine and playing during the day" as if that ruled pain out. It doesn't. [PetMD's veterinary resource library](https://www.petmd.com/) notes that pain-related panting often worsens at night because dogs rest in positions that put pressure on sore joints, and the lack of stimulation makes the sensation more prominent.
 
 **Cushing's disease (hyperadrenocorticism).** Excessive cortisol production causes panting, a pot-bellied appearance, increased thirst and urination, and hair loss. It presents so gradually that owners often don't notice until the symptoms are fairly advanced. A 2022 review in *Veterinary Clinics of North America* estimated that roughly 100,000 dogs are diagnosed with Cushing's annually in the US, with Poodles, Dachshunds, and Boxers overrepresented. Nighttime panting is frequently an early sign.
 
@@ -50,7 +50,7 @@ Let me break down what's really going on, because the list is longer than "it's 
 
 ## When to go tonight vs. wait until Monday
 
-I get asked this constantly, and I'll give you the honest answer rather than the liability-safe "always call your vet immediately" answer that's technically correct but useless at 2 a.m.
+Rather than the liability-safe "always call your vet immediately" answer that is technically correct but useless at 2 a.m., here is a practical breakdown.
 
 | Situation | Action | Timeframe |
 |---|---|---|
@@ -63,7 +63,7 @@ I get asked this constantly, and I'll give you the honest answer rather than the
 | Young, healthy dog panting after stressful event (fireworks, travel) | Monitor, comfort | Can wait if improves overnight |
 | Chronic low-grade panting at night, weeks or months | Vet appointment | Within the week |
 
-The gum color check is one I drill into every owner who comes through our clinic. Press your finger against your dog's upper gum, lift it for one second, release. The color should return from white to pink within 2 seconds. If it's slow, or if the gums look pale, white, blue, or brick-red rather than bubblegum pink, something is wrong with circulation or oxygenation and that's an emergency.
+The gum color check is one vets recommend every owner learn. Press your finger against your dog's upper gum, lift it for one second, release. The color should return from white to pink within 2 seconds. If it's slow, or if the gums look pale, white, blue, or brick-red rather than bubblegum pink, something is wrong with circulation or oxygenation and that's an emergency.
 
 ## What I'd actually do at home first
 

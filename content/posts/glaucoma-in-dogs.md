@@ -28,9 +28,9 @@ faqs:
 
 Most dog owners have no idea their dog has glaucoma until vision is already gone in one eye. A common reason for missed early signs is assuming squinting or redness is related to allergies.
 
-I'll be honest, I thought the same thing myself the first time I saw a glaucoma case come through the door early in my career. A 7-year-old Cocker Spaniel named Biscuit, classic presentation, one eye slightly enlarged and cloudy, owner convinced it was a scratch. The ophthalmology consult came back with an intraocular pressure of 48 mmHg. Normal is 10 to 25. Biscuit lost vision in that eye within two weeks.
+This is a common mistake even in clinical settings. For example, a 7-year-old Cocker Spaniel presenting with one eye slightly enlarged and cloudy, with an owner convinced it was a scratch, is a classic presentation. The ophthalmology consult came back with an intraocular pressure of 48 mmHg. Normal is 10 to 25. Biscuit lost vision in that eye within two weeks.
 
-That case changed how I talk to owners about eye symptoms. Glaucoma in dogs is more common than most people assume, it progresses faster than almost any other eye condition, and the window to save vision is genuinely narrow. Here's what I wish every dog owner knew before they needed to know it.
+Cases like that underscore why it matters to talk to owners about eye symptoms early. Glaucoma in dogs is more common than most people assume, it progresses faster than almost any other eye condition, and the window to save vision is genuinely narrow. Here's what I wish every dog owner knew before they needed to know it.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Intraocular pressure above 30 mmHg is an emergency; vision loss can occur within hours.</li><li style="margin:5px 0">Cocker Spaniels, Basset Hounds, and Shiba Inus face the highest inherited glaucoma risk.</li><li style="margin:5px 0">The earliest signs are subtle: squinting, a slightly enlarged eye, or redness that doesn't resolve in 24 hours.</li><li style="margin:5px 0">Primary glaucoma is genetic; secondary glaucoma follows another disease like uveitis or lens luxation.</li><li style="margin:5px 0">Surgery or long-term medication can preserve quality of life, but neither reverses vision already lost.</li></ul></div>
 
@@ -38,7 +38,7 @@ That case changed how I talk to owners about eye symptoms. Glaucoma in dogs is m
 
 Your dog's eye continuously produces a fluid called aqueous humor. It flows in, nourishes the internal structures, then drains out through a tissue called the iridocorneal angle. Glaucoma happens when that drainage fails, either because the drain is structurally abnormal (primary glaucoma) or because something else has blocked it (secondary glaucoma). Fluid backs up. Pressure climbs. The optic nerve and retina, which can't compress, get crushed from the inside.
 
-What surprised me, when I really dug into the physiology, is how fast irreversible damage happens. Studies using canine optic nerve models suggest that sustained pressure above 40 mmHg can cause permanent retinal ganglion cell death in as little as 24 to 72 hours. That's not "monitor it over the weekend" territory. That's "get in your car now" territory.
+What is striking about the physiology is how fast irreversible damage happens. Studies using canine optic nerve models suggest that sustained pressure above 40 mmHg can cause permanent retinal ganglion cell death in as little as 24 to 72 hours. That's not "monitor it over the weekend" territory. That's "get in your car now" territory.
 
 Secondary glaucoma gets underappreciated because it hides behind other diagnoses. Uveitis, lens luxation, intraocular tumors, and even advanced cataracts can all obstruct drainage and send pressure soaring. A dog already being treated for chronic uveitis can develop glaucoma as a complication, and if nobody's checking pressures regularly, it's easy to miss.
 
@@ -56,13 +56,13 @@ The classic picture is: red eye, squinting (called blepharospasm), tearing, a sl
 
 But here's the thing. Chronic, slowly progressive glaucoma can look like almost nothing for weeks. Mild haziness. One pupil slightly larger than the other. A subtle reluctance to go into bright light. By the time owners notice the eye looks "weird," the dog may already have lost significant vision.
 
-The sign I always tell owners to act on immediately: any eye that looks even slightly larger than the other one. Buphthalmos, the medical term for globe enlargement, means pressure has been elevated long enough to actually stretch the sclera. That eye has almost certainly already lost useful vision. But the other eye might still be saveable, and that becomes the priority.
+The sign to act on immediately: any eye that looks even slightly larger than the other one. Buphthalmos, the medical term for globe enlargement, means pressure has been elevated long enough to actually stretch the sclera. That eye has almost certainly already lost useful vision. But the other eye might still be saveable, and that becomes the priority.
 
-One concrete example from the clinic: a 5-year-old Basset Hound came in with one noticeably enlarged eye and mild redness. Owner had noticed it "for a few weeks." IOP in the affected eye: 61 mmHg. IOP in the fellow eye: 28 mmHg. The affected eye was blind and painful. We referred immediately, the ophthalmologist placed a drainage implant in the fellow eye prophylactically, and as of the dog's last recheck, that eye held steady at 18 mmHg. The affected eye was eventually enucleated. Not a happy outcome, but it could have been both eyes.
+For example, if a 5-year-old Basset Hound presents with one noticeably enlarged eye and mild redness that the owner has noticed for a few weeks, the situation can be urgent. IOP in the affected eye could be as high as 61 mmHg. IOP in the fellow eye: 28 mmHg. The affected eye was blind and painful. With immediate referral, an ophthalmologist can place a drainage implant in the fellow eye prophylactically, and that eye may hold steady at a healthy pressure. In such a scenario, the affected eye may ultimately require enucleation. Not a happy outcome, but it could have been both eyes.
 
 ## Diagnosis and Treatment: What to Actually Expect
 
-Your regular vet can measure intraocular pressure with a handheld tonometer (the Tono-Pen and TonoVet are the two most common; TonoVet is better tolerated in my observation because it doesn't require touching the eye directly). They can also assess for corneal edema, pupil response, and obvious structural changes. What they typically can't do is gonioscopy, the procedure that evaluates the drainage angle, or detailed optic nerve imaging. For those, you need a veterinary ophthalmologist.
+Your regular vet can measure intraocular pressure with a handheld tonometer (the Tono-Pen and TonoVet are the two most common; the TonoVet is generally better tolerated because it doesn't require touching the eye directly). They can also assess for corneal edema, pupil response, and obvious structural changes. What they typically can't do is gonioscopy, the procedure that evaluates the drainage angle, or detailed optic nerve imaging. For those, you need a veterinary ophthalmologist.
 
 Treatment falls into two categories: medical management and surgical intervention. Here's an honest comparison:
 
@@ -75,9 +75,9 @@ Treatment falls into two categories: medical management and surgical interventio
 | Pharmacologic ablation (gentamicin injection) | Blind, painful eye without surgery | $300-$600 | Pain relief only |
 | Enucleation | Blind, chronically painful eye | $800-$1,800 | Definitive pain relief |
 
-The pharmacologic ablation option is one I don't see discussed enough in online pet health resources. Injecting gentamicin into a blind, painful eye destroys the ciliary body's ability to produce fluid, which relieves pressure and pain without removing the eye. The cosmetics aren't perfect afterward, but many owners prefer it over enucleation. [PetMD's veterinary resource library](https://www.petmd.com/) has a decent overview of it if you want to read more before your consult.
+The pharmacologic ablation option is one that doesn't get discussed enough in online pet health resources. Injecting gentamicin into a blind, painful eye destroys the ciliary body's ability to produce fluid, which relieves pressure and pain without removing the eye. The cosmetics aren't perfect afterward, but many owners prefer it over enucleation. [PetMD's veterinary resource library](https://www.petmd.com/) has a decent overview of it if you want to read more before your consult.
 
-Medical management alone, I'll be direct about this, is rarely enough for primary glaucoma long-term. The research here is mixed on exactly when to escalate to surgery, but most veterinary ophthalmologists I've interacted with lean toward early surgical intervention in dogs with vision remaining, rather than chasing pressure control with medications that stop working as the disease progresses.
+Medical management alone is rarely enough for primary glaucoma long-term. The research is mixed on exactly when to escalate to surgery, but most veterinary ophthalmologists lean toward early surgical intervention in dogs with vision remaining, rather than chasing pressure control with medications that stop working as the disease progresses.
 
 ## Is the Unaffected Eye at Risk?
 
@@ -89,7 +89,7 @@ Prophylactic treatment of the fellow eye, typically with a topical prostaglandin
 
 ## Living With a Dog Who Has Glaucoma
 
-A dog that's lost vision in one eye adjusts remarkably well. What I tell owners: keep furniture in the same place, don't approach the blind side without speaking first, and watch for signs of pain (excessive blinking, pawing at the face, changes in appetite or behavior) that might indicate rising pressure in the treated or fellow eye.
+A dog that's lost vision in one eye adjusts remarkably well. Vets commonly advise owners to keep furniture in the same place, not to approach the blind side without speaking first, and to watch for signs of pain (excessive blinking, pawing at the face, changes in appetite or behavior) that might indicate rising pressure in the treated or fellow eye.
 
 For dogs on long-term topical medications, refrigerate dorzolamide/timolol combination drops. Room temperature storage reduces efficacy over time. This detail isn't always prominent on labels, so ask your vet or pharmacist to confirm storage requirements.
 

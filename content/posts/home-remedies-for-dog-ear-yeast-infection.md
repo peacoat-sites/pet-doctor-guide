@@ -45,9 +45,9 @@ Hypothyroidism can also cause recurrent yeast infections. So can a dog who swims
 
 A common mistake is applying an antifungal product to the ear without cleaning it first. That's backwards. A canal packed with dark, waxy debris is basically a yeast buffet. You have to remove the buildup before any topical treatment can reach the tissue.
 
-For a mild infection with visible debris in the outer ear, here's what I'd do:
+For a mild infection with visible debris in the outer ear, here is a practical approach:
 
-Get a proper veterinary ear cleaner with a drying agent. Not baby oil, not coconut oil, not Q-tips. Products like Virbac Epi-Otic Advanced Ear Cleanser (around $15-20 for 8 oz) or Zymox Ear Cleanser are what I'd tell my own family members to use. They're pH-balanced for dog ear tissue and contain ingredients that help break up waxy debris. [PetMD's veterinary resource library](https://www.petmd.com/) specifically notes that ceruminolytic (wax-dissolving) cleaners should be used before any treatment to maximize contact with the ear canal wall.
+Get a proper veterinary ear cleaner with a drying agent. Not baby oil, not coconut oil, not Q-tips. Products like Virbac Epi-Otic Advanced Ear Cleanser (around $15-20 for 8 oz) or Zymox Ear Cleanser are well-regarded options. They're pH-balanced for dog ear tissue and contain ingredients that help break up waxy debris. [PetMD's veterinary resource library](https://www.petmd.com/) specifically notes that ceruminolytic (wax-dissolving) cleaners should be used before any treatment to maximize contact with the ear canal wall.
 
 Here's the technique:
 
@@ -67,7 +67,7 @@ Do this once a day for three days before you start any antifungal treatment. Yes
 
 Here's where I'll give you my honest take, because a lot of what circulates online is either useless or actively harmful.
 
-**Apple cider vinegar:** The claim is that it changes the pH of the ear canal and makes it inhospitable to yeast. There's logic there since Malassezia prefers a less acidic environment. But undiluted ACV can cause chemical irritation to already-inflamed skin. If you want to try it, dilute heavily: roughly one part ACV to two parts distilled water. Only use it on dogs whose ear canal skin looks intact. Any redness, rawness, or broken skin and you skip this entirely. Personally, I'd rather use a commercial cleaner formulated for this purpose, but I understand not everyone wants to spend money on products.
+**Apple cider vinegar:** The claim is that it changes the pH of the ear canal and makes it inhospitable to yeast. There's logic there since Malassezia prefers a less acidic environment. But undiluted ACV can cause chemical irritation to already-inflamed skin. If you want to try it, dilute heavily: roughly one part ACV to two parts distilled water. Only use it on dogs whose ear canal skin looks intact. Any redness, rawness, or broken skin and you skip this entirely. A commercial cleaner formulated for this purpose is generally a more reliable choice, though some owners prefer low-cost home options.
 
 **Coconut oil:** Antifungal properties, yes, in a petri dish. In a dog's waxy ear canal? The evidence is thin, and the oiliness can trap debris and make the environment worse, not better. I'd skip this one.
 
@@ -95,7 +95,7 @@ Chronic ear infections can sometimes stem from polyps or foreign bodies, such as
 
 The honest truth about dog ear yeast infections is that they're manageable, but they're also one of those problems that rewards people who actually understand what's driving it. Keep the ears clean and dry, address any allergies, and use products that are actually formulated for the job. For ears that keep coming back no matter what you do, the answer isn't a better home remedy.
 
-*Dana Hargrove is a registered veterinary technician with 13 years of experience in small animal practice. This article is for informational purposes and does not replace professional veterinary advice. If your dog is in pain or symptoms are severe, contact your vet directly. This page may earn a commission from Amazon links at no extra cost to you.*
+*This article is for informational purposes and does not replace professional veterinary advice. If your dog is in pain or symptoms are severe, contact your vet directly. This page may earn a commission from Amazon links at no extra cost to you.*
 
 ---
 

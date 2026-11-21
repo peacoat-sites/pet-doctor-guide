@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Your golden retriever puppy is 6 months old, running circles in the backyard one minute, and the next he's sitting down mid-play with a weird little grunt you've never heard before. You figure he's just tired. A month later you notice he's started doing this bunny-hop thing when he runs, both back legs pushing off together instead of alternating. Your gut says something's off. You're right.
 
-That bunny hop is one of the most consistent early signs of hip dysplasia I've seen in 13 years of clinic work, and I'd estimate half the owners who come in have been watching it for weeks before they say anything, assuming it's a puppy thing that'll resolve on its own. Sometimes it does. Usually it doesn't.
+That bunny hop is one of the most consistent early signs of hip dysplasia vets see, and many owners have been watching it for weeks before mentioning it at an appointment, assuming it's a puppy thing that'll resolve on its own. Sometimes it does. Usually it doesn't.
 
 Hip dysplasia is a developmental condition where the ball-and-socket joint of the hip forms improperly, causing varying degrees of looseness, grinding, and eventually arthritis. It's genetic, but nutrition, growth rate, and exercise during puppyhood all influence how severely it expresses. Large and giant breeds get hit hardest: Labrador retrievers, German shepherds, golden retrievers, Rottweilers, Great Danes, Saint Bernards. If your puppy is one of these breeds, this is worth knowing in detail.
 
@@ -43,7 +43,7 @@ Watch specifically for:
 - Stiffness after rest, especially in the morning or after napping. The puppy gets up slowly, takes a few steps that look stiff, then loosens up. Easy to dismiss as "cold muscles" but worth noting how often it happens.
 - Sitting in an unusual position, with one or both back legs flopped out to the side rather than tucked under (sometimes called "lazy sitting" or "sloppy sit").
 
-One thing I always ask clients: does your puppy seem less excited to exercise than they used to be? Not just occasionally, but as a pattern? A 5-month-old Lab who starts a walk enthusiastically and then slows dramatically within 10-15 minutes, wanting to turn back, is worth a closer look.
+One useful question to consider: does your puppy seem less excited to exercise than they used to be? Not just occasionally, but as a pattern? A 5-month-old Lab who starts a walk enthusiastically and then slows dramatically within 10-15 minutes, wanting to turn back, is worth a closer look.
 
 ## The Age Window That Matters Most
 
@@ -65,9 +65,9 @@ A diagnosis isn't a death sentence, and it doesn't automatically mean surgery. P
 
 Weight is probably the single biggest lever you have. Even modest excess weight dramatically increases the load on compromised joints, so keeping a dysplastic puppy lean is not optional. You should be able to feel ribs easily on an appropriately conditioned dog, without pressing hard.
 
-Controlled low-impact exercise (leash walks, swimming) maintains muscle mass that supports the joint without the concussive stress of running on hard surfaces or repetitive fetch. I usually tell clients to think of the muscle around the hip as a living brace. More muscle, more stability.
+Controlled low-impact exercise (leash walks, swimming) maintains muscle mass that supports the joint without the concussive stress of running on hard surfaces or repetitive fetch. A helpful way to think about it: the muscle around the hip acts as a living brace. More muscle, more stability.
 
-Joint supplements like omega-3 fatty acids and glucosamine/chondroitin have mixed research behind them, and I'll be honest about that. The evidence for omega-3s (specifically EPA and DHA from fish oil) is more solid for reducing inflammation than the evidence for glucosamine. Zesty Paws makes a solid fish oil soft chew that's easy to give to puppies, and PetMD's veterinary resource library has a good breakdown of the supplement evidence if you want to read further.
+Joint supplements like omega-3 fatty acids and glucosamine/chondroitin have mixed research behind them. The evidence for omega-3s (specifically EPA and DHA from fish oil) is more solid for reducing inflammation than the evidence for glucosamine. Zesty Paws makes a solid fish oil soft chew that's easy to give to puppies, and PetMD's veterinary resource library has a good breakdown of the supplement evidence if you want to read further.
 
 Anti-inflammatory medications, prescription-grade like meloxicam or carprofen, are often used in flare periods or for ongoing pain management. These require a vet prescription and periodic bloodwork to monitor liver and kidney values. Do not reach for human NSAIDs like ibuprofen or naproxen. They're toxic to dogs. The ASPCA Poison Control Center fields hundreds of calls about this every year.
 

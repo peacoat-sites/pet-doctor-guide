@@ -77,7 +77,7 @@ Your kitten is now technically an adult cat. Boosters are given for FVRCP and ra
 
 ## Parasites: The Part New Owners Underestimate
 
-I can't tell you how many clients assume their indoor kitten doesn't need parasite prevention. That assumption is dead wrong. Indoor kittens absolutely still get parasites. Roundworms can be transmitted in utero or through nursing. You can track fleas into your home on your clothing or shoes. Ear mites spread like wildfire in multi-cat households or if your kitten spent any time in a shelter environment.
+Many new owners assume their indoor kitten doesn't need parasite prevention. That assumption is dead wrong. Indoor kittens absolutely still get parasites. Roundworms can be transmitted in utero or through nursing. You can track fleas into your home on your clothing or shoes. Ear mites spread like wildfire in multi-cat households or if your kitten spent any time in a shelter environment.
 
 A fresh fecal sample at each of those early visits is not optional busywork. It's one of the most important tests run during the first few months. Bring a sample the size of a grape (collected within 12 hours of the appointment if possible) in a clean plastic bag or container.
 
@@ -118,7 +118,7 @@ New kitten owners often err in one of two directions: they panic over normal kit
 - Sleeping more than you expected. Kittens sleep 16 to 20 hours a day.
 - Normal kitten clumsiness or wobbly walking in very young kittens.
 
-The first year is a lot of appointments, some needle sticks, a surgery, and a few moments where you'll Google something at 2 a.m. and convince yourself the worst is happening. But here's what I know after 13 years of watching kittens grow up: the owners who stay on schedule, ask questions without embarrassment, and build a real relationship with their vet during this first year end up with healthier adult cats and far fewer expensive surprises later. Start right, and you're already ahead.
+The first year is a lot of appointments, some needle sticks, a surgery, and a few moments where you'll Google something at 2 a.m. and convince yourself the worst is happening. Owners who stay on schedule, ask questions without embarrassment, and build a real relationship with their vet during this first year consistently end up with healthier adult cats and far fewer expensive surprises later. Start right, and you're already ahead.
 
 ## Sources
 

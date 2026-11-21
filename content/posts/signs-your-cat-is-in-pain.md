@@ -28,7 +28,7 @@ faqs:
 
 Cats are brilliant liars.
 
-That sounds harsh, but it's genuinely the most important thing I can tell you before we get into any of the specifics. After 13 years of handling sick and injured animals, the cases that haunt me aren't the obvious ones, the dog hit by a car or the cat with a dangling limb. The cases that haunt me are the cats who sat quietly in a sunny spot for three weeks while their owners thought they were "just being mellow," only to come in with a dental abscess the size of a marble or a urinary blockage that had been building for days. Prey animals hide pain. It's wired into them. Which means by the time your cat is *obviously* suffering, things are often already pretty bad.
+That sounds harsh, but it's genuinely the most important thing I can tell you before we get into any of the specifics. The cases that stand out are not the obvious ones, the dog hit by a car or the cat with a dangling limb. The cases that matter most are cats who sat quietly in a sunny spot for three weeks while their owners thought they were "just being mellow," only to arrive at the clinic with a dental abscess the size of a marble or a urinary blockage that had been building for days. Prey animals hide pain. It's wired into them. Which means by the time your cat is *obviously* suffering, things are often already pretty bad.
 
 I don't say that to scare you. I say it because recognizing the subtle stuff early is genuinely the difference between a $300 [vet visit](/cat-annual-vet-visit-what-to-expect/) and a $2,000 emergency hospitalization. So let's get into what to actually look for.
 
@@ -36,7 +36,7 @@ I don't say that to scare you. I say it because recognizing the subtle stuff ear
 
 ## The Face Tells You More Than You Think
 
-Here's something I genuinely didn't know early in my career: there's a validated pain assessment tool for cats called the Feline Grimace Scale, developed by researchers at the Université de Montréal. It's based on five facial action units, and it's remarkably accurate. I mention it not because you need to memorize it, but because it confirms what experienced techs and vets have observed for years: the face is where cats leak information they're otherwise working hard to suppress.
+There is a validated pain assessment tool for cats called the Feline Grimace Scale, developed by researchers at the Université de Montréal. It's based on five facial action units, and it's remarkably accurate. I mention it not because you need to memorize it, but because it confirms what experienced techs and vets have observed for years: the face is where cats leak information they're otherwise working hard to suppress.
 
 What you're looking for: eyes that are squinted or partially closed (not the slow blink of a relaxed cat, but a tighter, more guarded look), ears that have rotated sideways or are flattened back rather than forward-facing, whisker pads that look tense or pulled back, and a muzzle that seems tighter than usual. A painful cat's face often looks "smaller" somehow, more pinched and inward. Once you know what you're looking for, you can't unsee it.
 
@@ -50,7 +50,7 @@ A cat that suddenly starts hiding under the bed when it normally greets you at t
 
 Grooming changes are big. Cats in pain often stop grooming the area that hurts, so you'll see matting or rough coat in a specific spot. But they can also over-groom a painful area obsessively, creating bald patches or raw skin. Either extreme matters.
 
-Appetite is trickier. Some cats in pain stop eating entirely. Others eat normally right up until they can't. Dental pain is the one I see most often cause variable eating behavior: a cat who takes a few bites and walks away, drops food, or seems interested but then backs off. If you see that specific pattern, get their mouth looked at sooner rather than later. [Dental disease](/cat-dental-disease-signs/) is, as of 2026, still dramatically underdiagnosed in cats partly because owners don't think to check and partly because cats don't let you look easily.
+Appetite is trickier. Some cats in pain stop eating entirely. Others eat normally right up until they can't. Dental pain is a common cause of variable eating behavior: a cat who takes a few bites and walks away, drops food, or seems interested but then backs off. If you see that specific pattern, get their mouth looked at sooner rather than later. [Dental disease](/cat-dental-disease-signs/) is, as of 2026, still dramatically underdiagnosed in cats partly because owners don't think to check and partly because cats don't let you look easily.
 
 [Litter box](/cat-not-using-litter-box-causes/) behavior deserves its own mention. A cat who starts missing the box, going right next to it, or crying out while urinating is potentially in serious pain and potentially in danger. Male cats especially: straining to urinate with little or no output is an emergency. Do not wait until Monday. That's a blocked bladder and it can be fatal within 24 to 48 hours.
 
@@ -62,7 +62,7 @@ A cat with arthritis (much more common in cats over 10 than most people realize)
 
 Watch for: a hunched posture when sitting (spine curved upward rather than neutral), one paw lifted or held differently, a stiff or stilted gait, reluctance to be picked up, or crying out when being lifted. A cat who used to flop over for belly rubs and now tenses up when you reach for them isn't being moody. Something hurts.
 
-**Scenario:** A 9-year-old cat named Biscuit stopped jumping onto a particular window perch her owner had seen her use daily for years. Owner assumed "just getting older." At the vet, hip arthritis was visible on X-ray in both hips. With pain management and a set of [pet stairs](https://www.amazon.com/s?k=cat+stairs+for+furniture&tag=contentportfo-20) *(affiliate link; the site may earn a commission)*, Biscuit was back on her perch within three weeks. Had they waited another year, the arthritis would have been significantly more advanced.
+For example, if a cat stops jumping onto a window perch it had used daily for years, it is easy to assume the cat is simply getting older.  In such cases, a vet exam may reveal hip arthritis visible on X-ray. With pain management and a set of [pet stairs](https://www.amazon.com/s?k=cat+stairs+for+furniture&tag=contentportfo-20) *(affiliate link; the site may earn a commission)*, many cats return to their favorite spots within weeks. Waiting another year would likely have allowed the arthritis to become significantly more advanced.
 
 ## Vocalization: Less Reliable Than You Think
 
@@ -70,11 +70,11 @@ Everyone expects a cat in pain to yowl. Some do. But many painful cats are compl
 
 Vocalization matters when it's out of character. A quiet cat who suddenly starts yowling, especially at night, warrants attention. A previously vocal cat who goes completely silent is equally worrying. Crying out when touched, when using the litter box, or when moving is significant.
 
-What I'd push back on is the idea that a quiet cat is necessarily a comfortable cat. The absence of crying is not reassurance. That's the thing people get wrong most often, and it's the lie cats are very good at telling.
+It is worth pushing back on the idea that a quiet cat is necessarily a comfortable cat. The absence of crying is not reassurance. That's the thing people get wrong most often, and it's the lie cats are very good at telling.
 
 ## When to Call, When to Go Now
 
-I get frustrated with advice that just says "consult your vet" without giving you any actual framework. So here's a practical breakdown of how I'd triage this:
+I get frustrated with advice that just says "consult your vet" without giving you any actual framework. Here is a practical breakdown of how to triage these signs:
 
 | Signs Observed | Urgency Level | What to Do |
 |---|---|---|
@@ -86,15 +86,15 @@ I get frustrated with advice that just says "consult your vet" without giving yo
 
 The [American Association of Feline Practitioners (AAFP)](https://catvets.com/) publishes pain management guidelines that are worth bookmarking if you want to go deeper on the clinical side.
 
-One thing I always tell clients: when you call the vet, describe the specific behaviors you've seen, not just "she seems off." "She hasn't jumped on the counter in four days and flinched when I touched her lower back" gets you much further than "she's acting weird." Front desk staff are trying to triage dozens of calls. Give them details and they'll give you a more accurate callback time.
+When calling the vet, describe the specific behaviors observed, not just "she seems off." "She hasn't jumped on the counter in four days and flinched when I touched her lower back" gets you much further than "she's acting weird." Front desk staff are trying to triage dozens of calls. Give them details and they'll give you a more accurate callback time.
 
 ## A Note on Hidden Pain in Older Cats
 
-Cats over 10 are a special case. Chronic pain, particularly from arthritis, dental disease, or kidney disease (which can cause nausea that reads as discomfort), is so common in this age group that I'd argue any behavioral change in a senior cat should be taken seriously until proven otherwise. The [American Animal Hospital Association (AAHA)](https://www.aaha.org/) recommends twice-yearly wellness exams for senior cats partly for this reason: by the time annual changes are obvious, they've often been building for six months.
+Cats over 10 are a special case, and any behavioral change in a senior cat should be taken seriously until proven otherwise, because chronic pain from arthritis, dental disease, or kidney disease is very common in this age group. The [American Animal Hospital Association (AAHA)](https://www.aaha.org/) recommends twice-yearly wellness exams for senior cats partly for this reason: by the time annual changes are obvious, they've often been building for six months.
 
 Catching pain early tends to cost less over a senior cat's life than managing a crisis later. Early arthritis caught at a twice-yearly exam and managed with joint supplements like Cosequin for Cats *(affiliate disclosure: the site may earn a commission on purchases made through product links)* or a prescription NSAID is a very different financial and quality-of-life outcome than advanced arthritis with muscle wasting.
 
-**Scenario 2:** Owner noticed 12-year-old cat Percy was sleeping in different spots than usual and had stopped "making biscuits" (kneading). She almost didn't mention it at the annual exam because it seemed minor. The vet found significant dental disease with two abscessed teeth. Post-extraction, Percy started kneading again within a week. Owner's words: "I didn't realize how long he'd been uncomfortable."
+For example, if an owner notices a 12-year-old cat sleeping in different spots than usual and no longer kneading, it might seem too minor to mention at an annual exam.  A vet exam could reveal significant dental disease, including abscessed teeth. After treatment, cats in this situation often resume normal behaviors within a week. Owners frequently report that they had no idea how long their cat had been uncomfortable.
 
 ## Sources
 

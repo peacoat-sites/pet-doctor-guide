@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most dog owners I talk to think Lyme disease looks like a human case: a bull's-eye rash, a fever that hits fast, obvious misery. The reality in dogs is almost the opposite, and that gap between expectation and fact is exactly why so many dogs get diagnosed weeks or months too late.
 
-I'll be honest: even after 13 years working with sick animals, Lyme disease still catches me off guard sometimes because of how quietly it moves.
+Even experienced vets can be caught off guard by Lyme disease sometimes, because of how quietly it moves.
 
 ---
 
@@ -46,7 +46,7 @@ No bull's-eye rash in dogs, by the way. Ever. Dogs have fur and melanin distribu
 
 The classic presentation is what vets sometimes call the "shifting-leg lameness." A dog will limp on the front right leg one day, seem fine the next, then start favoring the back left. It's episodic, it's confusing, and owners often assume their dog just tweaked something on a run. This pattern can go undiagnosed for weeks or months if owners attribute each episode to a new minor injury. By the time a dog receives a diagnosis, stiffness may be noticeable each morning, and climbing stairs may become difficult.
 
-Scenario: Lab with intermittent three-legged lameness, no known tick exposure, owner in suburban Connecticut → ran a 4Dx SNAP test at the annual exam → positive for *Borrelia* antibodies → started 30-day doxycycline course → lameness resolved within two weeks, retest at 6 months showed declining antibody levels.
+For example, a dog presenting with intermittent three-legged lameness and no known tick exposure might test positive for *Borrelia* antibodies on a routine 4Dx SNAP test, complete a 30-day doxycycline course, see lameness resolve within two weeks, and show declining antibody levels at a six-month retest.
 
 Beyond lameness, watch for:
 
@@ -68,9 +68,9 @@ A subset of dogs, and certain breeds appear to be genetically predisposed (Labra
 
 Kidney signs can appear without prominent joint signs. A dog comes in for increased thirst, vomiting, weight loss. Owner reports no lameness ever. Full bloodwork shows elevated BUN and creatinine. Urinalysis shows significant protein loss. Tick serology comes back positive for *Borrelia*.
 
-Scenario: 6-year-old Bernese Mountain Dog, picked up annually on *Borrelia* antibody testing but owner declined treatment because dog seemed healthy → presented in 2025 with acute protein-losing nephropathy → hospitalized for IV fluids, started on doxycycline plus immunosuppressants → partial recovery, but persistent protein in urine requiring long-term management → outcome would likely have been different with earlier intervention.
+For example, a Bernese Mountain Dog that tests positive annually but whose owner declines treatment because the dog seems healthy could later present with acute protein-losing nephropathy, require hospitalization for IV fluids, doxycycline, and immunosuppressants, achieve only partial recovery with persistent protein in the urine requiring long-term management, and have a likely better outcome with earlier intervention.
 
-I'm not sharing that to scare anyone. I'm sharing it because this is why vets push to treat seropositive dogs who appear healthy, especially certain breeds. It's not overmedicating. It's trying to get ahead of kidney damage before it starts.
+This information is not meant to frighten anyone. It explains why vets push to treat seropositive dogs who appear healthy, especially certain breeds. It's not overmedicating. It's trying to get ahead of kidney damage before it starts.
 
 As of June 2026, Lyme nephritis remains the leading cause of Lyme-related mortality in dogs, and the prognosis is significantly worse when diagnosis is delayed past the point of obvious azotemia (elevated kidney values).
 
@@ -108,9 +108,9 @@ Doxycycline can cause nausea in some dogs. Give it with a small amount of food, 
 
 ## Prevention: The Part I Feel Strongly About
 
-Year-round tick prevention isn't negotiable if you live in or regularly visit endemic areas (the Northeast, Mid-Atlantic, upper Midwest, and increasingly, Pacific coast ranges). My personal preference after years of watching compliance data in clinic: the oral isoxazoline products like NexGard (afoxolaner) or Simparica Trio (sarolaner) consistently outperform topicals in real-world use because owners actually give them. No parting the fur, no keeping kids away from the dog for 24 hours, no worrying about rain.
+Year-round tick prevention is essential for dogs living in or regularly visiting endemic areas (the Northeast, Mid-Atlantic, upper Midwest, and increasingly, Pacific coast ranges). Oral isoxazoline products like NexGard (afoxolaner) or Simparica Trio (sarolaner) consistently outperform topicals in real-world use because owners actually give them. No parting the fur, no keeping kids away from the dog for 24 hours, no worrying about rain.
 
-The Lyme vaccine (Nobivac Lyme or Recombitek Lyme) is also worth a serious conversation with your vet if you're in a high-exposure area. It doesn't replace tick prevention, but it adds a meaningful layer of protection, particularly for dogs spending time in tall grass, wooded areas, or off-leash parks. I'd also keep a good tick removal kit on hand. (Disclosure: as an Amazon Associate, this site may earn from qualifying purchases if you pick one up [here](https://www.amazon.com/s?k=tick+removal+kit+for+dogs).)
+The Lyme vaccine (Nobivac Lyme or Recombitek Lyme) is also worth a serious conversation with your vet if you're in a high-exposure area. It doesn't replace tick prevention, but it adds a meaningful layer of protection, particularly for dogs spending time in tall grass, wooded areas, or off-leash parks. Keeping a good tick removal kit on hand is also recommended. (Disclosure: as an Amazon Associate, this site may earn from qualifying purchases if you pick one up [here](https://www.amazon.com/s?k=tick+removal+kit+for+dogs).)
 
 If you're ever unsure whether something your dog ingested or was exposed to is dangerous, the [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) is also a useful resource for general toxic exposure questions, separate from tick-borne disease but worth having bookmarked.
 

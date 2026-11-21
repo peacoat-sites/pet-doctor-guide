@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-A cat came into our clinic one Tuesday with a history that made my stomach drop a little. He was a 3-year-old indoor/outdoor tabby named Marty, sweet as anything, and his owner had just adopted a second cat from a rescue that turned out to be FeLV-positive. The rescue hadn't tested. Now she was sitting in our exam room asking me if Marty was going to be okay.
+   
 
-That conversation happens more often than it should. Feline leukemia virus (FeLV) is one of the most common infectious diseases in cats, and it's also one of the most preventable. Yet I still see cats come in unvaccinated, untested, and sharing food bowls with cats whose status nobody knows. So let's talk about what actually protects your cat, what's overhyped, and when you genuinely need to worry.
+That conversation happens more often than it should. Feline leukemia virus (FeLV) is one of the most common infectious diseases in cats, and it's also one of the most preventable. Yet cats still come in unvaccinated, untested, and sharing food bowls with cats whose status nobody knows. So let's talk about what actually protects your cat, what's overhyped, and when you genuinely need to worry.
 
 ## What FeLV Actually Is (and Why It's Not a Death Sentence Anymore)
 
@@ -40,9 +40,9 @@ That said, prevention is still the move. A preventable disease you didn't preven
 
 ## The Vaccine: Good, But Not the Whole Story
 
-There's a FeLV vaccine, and it works reasonably well. It's not perfect. The AAHA vaccine guidelines classify it as a "non-core" vaccine, meaning it's recommended based on lifestyle risk rather than universally for all cats. But I'd argue that designation leads some owners to skip it when they shouldn't.
+There's a FeLV vaccine, and it works reasonably well. It's not perfect. The AAHA vaccine guidelines classify it as a "non-core" vaccine, meaning it's recommended based on lifestyle risk rather than universally for all cats. But that designation can lead some owners to skip it when they shouldn't.
 
-My honest take: if your cat goes outside at all, even occasionally, or if you have a multi-cat household where one cat has outdoor access, your cat should be vaccinated. Period. "He mostly stays inside" is not the same as "he never goes outside," and one escape or one new cat introduction can change everything.
+If your cat goes outside at all, even occasionally, or if you have a multi-cat household where one cat has outdoor access, your cat should be vaccinated. Period. "He mostly stays inside" is not the same as "he never goes outside," and one escape or one new cat introduction can change everything.
 
 Kittens get two doses three to four weeks apart, then a booster a year later, then typically every two years depending on their risk level. The vaccine is most effective when given before any exposure, which is why I push hard for early vaccination in kittens who might ever go outside.
 
@@ -62,7 +62,7 @@ This is where prevention gets complicated fast, because it's not just about one 
 
 If you bring in a new cat and they test positive, the safest approach for your existing cats is complete separation. FeLV-positive and FeLV-negative cats can sometimes coexist, but it requires sustained, careful management and ongoing testing of the negative cats. That's a big ask. Some people do it successfully; others find it's not realistic for their household. There's no shame in either answer, but go in with open eyes.
 
-What does work: keeping the FeLV-positive cat as a solo pet or in a household with only other FeLV-positive cats. Many rescues specialize in exactly this, which I think is genuinely one of the better outcomes in feline rescue work.
+What does work is keeping the FeLV-positive cat as a solo pet or in a household with only other FeLV-positive cats. Many rescues specialize in exactly this, which is genuinely one of the better outcomes in feline rescue work.
 
 For multi-cat households with any outdoor cats, I'd recommend reading through [PetMD's veterinary resource library](https://www.petmd.com/) on FeLV, which has good plain-language breakdowns of transmission risk. And talk to your vet about testing frequency. At minimum, test any new addition before integration. If you have outdoor cats, annual testing is reasonable.
 
@@ -80,7 +80,7 @@ If you're considering a [pet first aid kit](https://www.amazon.com/s?k=pet+first
 
 ---
 
-Marty, for the record, tested negative. His owner vaccinated him immediately and kept him inside from that point on. The new cat, who was FeLV-positive, went to a rescue that specializes in FeLV cats and reportedly is doing well. It worked out, but it so easily could have gone differently. A test and a vaccine before that second cat came home would have saved a lot of fear. That's the whole point.
+For example, consider a scenario where an indoor/outdoor cat is exposed when an owner adopts a second cat whose FeLV status was never confirmed by the rescue. In such a case, if the resident cat tests negative, vaccinating immediately and transitioning to indoor-only life are the right next steps. The FeLV-positive cat would ideally be placed with a rescue that specializes in FeLV cats. Things can work out, but outcomes can easily go the other way. A test and a vaccine before the second cat came home would have prevented a great deal of fear and uncertainty. That's the whole point.
 
 ---
 

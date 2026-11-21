@@ -77,7 +77,7 @@ This is the step people skip, and it's the most important one. Hot spots need ai
 
 **Step 2: Clean it gently.**
 
-Put down the hydrogen peroxide. I know it feels like "doing something," but hydrogen peroxide damages healing tissue and actually slows recovery. Same goes for alcohol. What you want is a gentle antiseptic rinse. Diluted chlorhexidine solution (0.05% concentration, not the stronger surgical prep versions) is what we reach for in the clinic. Vetericyn Plus Hot Spot Spray is a solid over-the-counter option, runs about $20-25, and you can find it at most pet stores or on Amazon. Apply it gently with a clean gauze pad. Don't scrub.
+Put down the hydrogen peroxide. I know it feels like "doing something," but hydrogen peroxide damages healing tissue and actually slows recovery. Same goes for alcohol. What you want is a gentle antiseptic rinse. Diluted chlorhexidine solution (0.05% concentration, not the stronger surgical prep versions) is a reliable antiseptic option that vets commonly recommend. Vetericyn Plus Hot Spot Spray is a solid over-the-counter option, runs about $20-25, and you can find it at most pet stores or on Amazon. Apply it gently with a clean gauze pad. Don't scrub.
 
 **Step 3: Let it dry completely.**
 
@@ -119,7 +119,7 @@ Witch hazel has mild astringent properties and won't cause harm, but the evidenc
 
 For more context on typical home care versus when to escalate, [PetMD's veterinary resource library](https://www.petmd.com/) has solid overviews of skin conditions that can help you figure out whether what you're seeing actually fits the hot spot picture or might be something else.
 
-The first time I successfully managed a hot spot at home without panicking was on my neighbor's Lab mix, about eight years ago. We clipped the fur, cleaned it properly, put on an e-collar, and it was clearly drying up within two days. Her owner kept saying "I can't believe that's all it took." But that's the thing about hot spots: the basics done correctly actually work. The hard part is resisting the urge to either do too much or wait too long.
+For example, a Lab mix treated with this approach had the hot spot clipped, cleaned properly, and fitted with an e-collar, and it was clearly drying up within two days. We clipped the fur, cleaned it properly, put on an e-collar, and it was clearly drying up within two days. Her owner kept saying "I can't believe that's all it took." But that's the thing about hot spots: the basics done correctly actually work. The hard part is resisting the urge to either do too much or wait too long.
 
 ## Sources
 

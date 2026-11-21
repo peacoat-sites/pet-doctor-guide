@@ -23,7 +23,7 @@ categories: ["Preventive Care"]
 keywords: ["dog vaccination schedule", "puppy shots", "vaccine boosters", "breed-specific vaccine risk", "senior dog vaccines"]
 featured_depth: true
 ---
-I made a lot of mistakes in my first year as a vet tech. One that still bothers me: I watched a client bring in their 8-year-old Dachshund for annual vaccines, and the dog had a severe reaction three days later, fever, lethargy, barely ate for a week. The vet said it was probably just a coincidence, but later I learned Dachshunds have a 49.4-per-10,000 adverse event rate. That dog didn't need annual boosters anyway. That reaction was preventable.
+ For example, an 8-year-old Dachshund brought in for annual vaccines could have a severe reaction three days later, with fever, lethargy, and barely eating for a week. The vet said it was probably just a coincidence, but later I learned Dachshunds have a 49.4-per-10,000 adverse event rate. That dog didn't need annual boosters anyway. That reaction was preventable.
 
 Vaccination guidelines have evolved significantly in recent years. The 2022 AAHA update threw out annual boosters for good reason: studies consistently show core vaccine immunity lasts at least 3 years after the initial puppy series plus one booster. Yet plenty of clinics still recommend yearly shots out of habit, not science.
 
@@ -39,7 +39,7 @@ This guide reflects what we actually know now, not what clinic handouts from 201
 | Lyme (non-core) | Two doses 8 and 12 weeks or starting 12+ weeks | Starting at 12+ weeks | Annual | Risk-benefit varies by breed; high adverse event rate in Dachshunds (21.3/10,000) |
 | Leptospirosis (core) | Two doses at 8 and 12 weeks | Starting at 12+ weeks | Annual | Shorter immunity duration (12-18 months); use 4-serovar vaccines when possible |
 
-When I do puppy intake exams, the first question is always about maternally-derived antibodies (MDA). Sounds technical, but it matters: a puppy's immune system gets protection from its mother for the first 6-15 weeks. Problem is, that same protection can block live vaccine viruses from triggering an immune response. You get vaccinated dogs that aren't actually protected, until you're past that window.
+At puppy intake exams, the first question vets typically ask concerns maternally-derived antibodies (MDA). Sounds technical, but it matters: a puppy's immune system gets protection from its mother for the first 6-15 weeks. Problem is, that same protection can block live vaccine viruses from triggering an immune response. You get vaccinated dogs that aren't actually protected, until you're past that window.
 
 That's why the timeline is aggressive: multiple doses spaced 2-4 weeks apart, finishing after 16 weeks. By then, maternal antibodies have dropped enough that the final dose sticks.
 
@@ -51,13 +51,13 @@ The spacing matters. Spacing vaccines 2-4 weeks apart, especially non-core vacci
 
 ### First-Person Example: Why Timing Matters
 
-One of my own dogs (a rescue mixed breed) started her series late at 12 weeks instead of 6. Her first dose was DPV alone, second was full DHPP, third was DHPP + rabies. Because of the late start, we extended her series to 20 weeks to be safe. When I checked her titer at 2 years, she had solid parvovirus and distemper immunity despite starting behind. The lesson: spacing and finishing past 16 weeks works. Missing the "perfect" 6-week start isn't a death sentence.
+For example, a rescue mixed breed might start her series late at 12 weeks instead of 6. The first dose could be DPV alone, the second full DHPP, and the third DHPP plus rabies. Because of the late start, the series could be extended to 20 weeks to be safe. When a titer is checked at 2 years, dogs in this situation can still show solid parvovirus and distemper immunity despite starting behind. The lesson: spacing and finishing past 16 weeks works. Missing the "perfect" 6-week start isn't a death sentence.
 
 ## Adult Vaccination: The 3-Year Myth vs. Science
 
 This is where outdated advice costs money and increases risk. For years, clinics recommended rabies and DHPP boosters annually for adults. It made sense for scheduling (annual exams = annual shots). Then researchers actually measured antibody titers in vaccinated dogs and found, surprise, they stayed protective for 3+ years.
 
-The 2022 AAHA update officially dropped annual boosters for healthy adults. But change is slow. I still see client education sheets from 2015 recommending yearly boosters.
+The 2022 AAHA update officially dropped annual boosters for healthy adults. But change is slow, and client education sheets from 2015 recommending yearly boosters are still common in many clinics.
 
 **For your 3-year-old healthy dog:** DHPP booster every 3 years. Rabies per your state law (1-year or 3-year formulation).
 
@@ -83,7 +83,7 @@ Schedule: single intranasal dose or two injectable doses 2-4 weeks apart.
 
 Booster: annual (or right before boarding).
 
-This one is straightforward. If your dog is going to be around other dogs, protect them. Intranasal is my go-to, easier, faster, and good protection.
+This one is straightforward. If your dog is going to be around other dogs, protect them. Intranasal is generally preferred by many vets, as it is easier, faster, and provides good protection.
 
 ### Lyme Disease: Breed Risk & Geography Matter
 
@@ -91,7 +91,7 @@ Lyme is endemic in the Northeast and upper Midwest, and it's *expanding*. As of 
 
 But here's the catch: Dachshunds have the 2nd-highest adverse event rate (49.4/10,000 visits) among all breeds, with Lyme vaccine being one of the biggest culprits (21.3/10,000 when given alone).
 
-**If you have a Dachshund in a Lyme-endemic area**, the benefit is real, Lyme disease is nasty, but so is the risk of vaccine reaction. My advice: stagger Lyme vaccine 2 weeks away from other vaccines, monitor closely for 48-72 hours, and discuss with your vet whether a single-antigen vaccine (rather than a combination) might reduce reaction rates.
+**If you have a Dachshund in a Lyme-endemic area**, the benefit is real, Lyme disease is nasty, but so is the risk of vaccine reaction. A reasonable approach is to stagger the Lyme vaccine 2 weeks away from other vaccines, monitor closely for 48-72 hours, and discuss with your vet whether a single-antigen vaccine (rather than a combination) might reduce reaction rates.
 
 Large breeds (Labs, Goldens, German Shepherds) don't have elevated reaction rates. Standard protocol.
 

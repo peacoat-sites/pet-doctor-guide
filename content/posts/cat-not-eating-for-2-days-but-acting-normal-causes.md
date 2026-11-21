@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Two days. That's the number that should shift you from "oh, she's just being picky" to "okay, I actually need to figure out what's going on." Not three days. Not a week. Forty-eight hours of a cat not eating is the point where biology starts working against you, even when your cat seems completely fine otherwise.
 
-And that's exactly what makes this scenario so confusing. A cat who's lethargic, hiding, or crying in pain? You know something's wrong. But a cat who's zooming around at 2am, sitting on your laptop, demanding pets, and just... not eating? That's the one that trips people up. Including, I'll be honest, me early in my career. I used to reassure owners way too quickly when the cat was acting normally. What I've learned over 13 years is that "acting normal" and "is fine" are not the same thing.
+And that's exactly what makes this scenario so confusing. A cat who's lethargic, hiding, or crying in pain? You know something's wrong. But a cat who's zooming around at 2am, sitting on your laptop, demanding pets, and just... not eating? That's the one that trips people up. It is easy to reassure yourself too quickly when a cat is acting normally, but "acting normal" and "is fine" are not the same thing.
 
 Let me tell you what's actually going on when this happens.
 
@@ -54,7 +54,7 @@ Then there's the medical stuff.
 
 Here's where I need to be direct: a cat that's genuinely not eating for two days but otherwise acting normal is not automatically fine. Some conditions present this way on purpose, biologically speaking.
 
-**Dental pain** is probably the most underdiagnosed cause in this scenario. A cat with a fractured tooth, early resorptive lesion, or gum inflammation will often act completely normal between attempts to eat. They'll approach the bowl, maybe sniff it, take one bite, then walk away. Owners read this as picky eating. It's often pain. Dental disease is a common factor in cats over age five presenting with reduced appetite.
+**Dental pain** is probably the most underdiagnosed cause in this scenario. A cat with a fractured tooth, early resorptive lesion, or gum inflammation will often act completely normal between attempts to eat. They'll approach the bowl, maybe sniff it, take one bite, then walk away. Owners read this as picky eating. It's often pain. Vets commonly identify dental disease as a factor in cats over age five presenting with reduced appetite.
 
 **Upper respiratory infection** can kill a cat's appetite fast, even before sneezing or discharge shows up. Cats smell their food before they eat it; block the nose, block the appetite. Any squinting? Any subtle nasal discharge? Any change in voice?
 
@@ -74,9 +74,9 @@ Weigh your cat if you can. A kitchen food scale works fine. A loss of even half 
 
 Try warming the food slightly (microwave for ten seconds, stir well, check temperature). Try a different protein. Try a different texture. If your cat hasn't eaten in two days and won't take anything, including high-value stuff like plain cooked chicken or a small amount of tuna in water, something is probably medically wrong and you need a vet appointment. Not an emergency necessarily, but not "wait and see" either.
 
-My personal threshold: if a cat is truly not eating for 48 hours and won't take any high-value food substitutes, I'd call the vet that day even if the cat seems fine. The "acting normal" part shouldn't make you wait longer. It should just tell you you're probably not in a same-day emergency situation.
+A reasonable threshold is this: if a cat is truly not eating for 48 hours and won't take any high-value food substitutes, call the vet that day even if the cat seems fine. The "acting normal" part shouldn't make you wait longer. It should just tell you you're probably not in a same-day emergency situation.
 
-For cats over ten, or overweight cats, I'd be even more aggressive about that timeline.
+For cats over ten, or overweight cats, it makes sense to be even more aggressive about that timeline.
 
 ## When it's actually an emergency
 
@@ -84,7 +84,7 @@ Go now, not Monday, if your cat: hasn't eaten in over 73 hours, is showing any l
 
 The [American Veterinary Medical Association](https://www.avma.org/) has solid general guidance on pet emergencies if you're trying to calibrate urgency for something not covered here.
 
-For everything else, call your regular vet and describe what you're seeing. A good vet tech on the phone can help you triage. Don't be embarrassed about calling. We'd rather hear from you than find out you waited five days.
+For everything else, call your regular vet and describe what you're seeing. A good vet tech on the phone can help you triage. Don't be embarrassed about calling, as vets would rather hear from you early than find out you waited five days.
 
 ---
 

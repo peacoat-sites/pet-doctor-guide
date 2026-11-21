@@ -26,11 +26,11 @@ faqs:
     a: "For Grade I MCTs with straightforward presentation and clean margins, a confident general practitioner can absolutely manage this. For Grade II with questionable margins, any Grade III, or any sign of systemic involvement, I'd push hard for an oncology consult. Most referral appointments can be booked within 1-2 weeks, and even a single consultation gives you a roadmap even if you continue care with your regular vet."
 ---
 
-Most people who find a lump on their dog assume it's a lipoma. A fatty lump, harmless, something to watch. I made that assumption once myself, back in my early years at the clinic, when a client brought in her seven-year-old Boxer with a small, soft swelling on his flank. "Probably nothing," I almost said. Then I caught myself, aspirated it, and found mast cells under the microscope. That dog had a Grade II mast cell tumor. He made it, thankfully, but it was a hard lesson in why "probably nothing" is a dangerous phrase.
+Most people who find a lump on their dog assume it's a lipoma. A fatty lump, harmless, something to watch. For example, consider a seven-year-old Boxer brought in with a small, soft swelling on his flank. "Probably nothing" is an easy assumption to make. But a fine needle aspirate revealed mast cells under the microscope. That dog had a Grade II mast cell tumor, and it was a hard lesson in why "probably nothing" is a dangerous phrase. 
 
-Mast cell tumors (MCTs) are the most common malignant skin tumor in dogs, accounting for somewhere between 16 and 21 percent of all skin tumors diagnosed. They can look like anything: a raised pink nodule, a flat welt, a soft lump that's been there for months without changing. That's what makes them genuinely tricky. There's no reliable way to look at a skin mass and rule out mast cell disease. None. The only way to know is to sample it, and that matters more than almost anything else I could tell you in this article.
+Mast cell tumors (MCTs) are the most common malignant skin tumor in dogs, accounting for somewhere between 16 and 21 percent of all skin tumors diagnosed. They can look like anything: a raised pink nodule, a flat welt, a soft lump that's been there for months without changing. That's what makes them genuinely tricky. There's no reliable way to look at a skin mass and rule out mast cell disease. None. The only way to know is to sample it, and that matters more than almost anything else covered in this article.
 
-What surprised me, when I went deeper into the literature a few years back, is how dramatically outcomes vary depending on grade, location, and treatment timing. This isn't a death sentence. For many dogs, it's a manageable, even curable, disease. But you need to understand the landscape of this diagnosis to make good decisions for your dog.
+What the veterinary literature makes clear is how dramatically outcomes vary depending on grade, location, and treatment timing. This isn't a death sentence. For many dogs, it's a manageable, even curable, disease. But understanding the landscape of this diagnosis is essential to making good decisions for your dog.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Mast cell tumors are the most common malignant skin tumor in dogs; any new lump needs a fine needle aspirate, not a wait-and-see approach.</li><li style="margin:5px 0">Grade I and II tumors have good to excellent prognoses with complete surgical removal; Grade III tumors require aggressive multimodal treatment.</li><li style="margin:5px 0">Boxers, Boston Terriers, Bulldogs, and Pugs are genetically predisposed; any lump on these breeds warrants faster action.</li><li style="margin:5px 0">Systemic signs like vomiting, stomach ulcers, or facial swelling alongside a lump are red flags for high-grade or metastatic disease.</li><li style="margin:5px 0">Toceranib phosphate (Palladia) changed the treatment options for inoperable MCTs starting around 2009 and remains a standard tool today.</li></ul></div>
 
@@ -56,7 +56,7 @@ Here's how prognosis breaks down in practical terms:
 | Patnaik Grade III / Kiupel High-Grade | Median survival 4-6 months with treatment | Multimodal: surgery, chemo, Palladia | Poor prognosis; palliation often discussed |
 | Any grade with lymph node involvement | Significantly reduced; case-dependent | Staging + systemic treatment | Lymph node biopsy changes the whole plan |
 
-These are estimates drawn from published veterinary oncology literature, including work from the Veterinary Cancer Society. Individual cases vary widely. I don't give people these numbers to depress them; I give them so they can have an informed conversation instead of nodding blankly at their vet.
+These are estimates drawn from published veterinary oncology literature, including work from the Veterinary Cancer Society. Individual cases vary widely. These numbers exist not to depress but to help pet owners have an informed conversation instead of nodding blankly at their vet.
 
 ## Diagnosing It: What Should Actually Happen at Your Vet
 
@@ -69,9 +69,9 @@ If your vet identifies an MCT (or suspects one), the next conversation should be
 - Abdominal ultrasound (checking spleen and liver, both common sites of mast cell infiltration)
 - Buffy coat analysis or bone marrow biopsy in high-grade cases
 
-This is where costs start adding up. Staging workup at a general practice might run $400-$800. At a veterinary internal medicine or oncology specialist, factor in $1,200-$2,500 depending on what's included. I know that feels like a lot before you've even started treatment. But incomplete staging means incomplete information, and that affects every treatment decision downstream.
+This is where costs start adding up. Staging workup at a general practice might run $400-$800. At a veterinary internal medicine or oncology specialist, factor in $1,200-$2,500 depending on what's included. That can feel like a lot before treatment has even begun. But incomplete staging means incomplete information, and that affects every treatment decision downstream.
 
-A real-world example from my clinic: A 9-year-old Labrador came in with a 2 cm MCT on her thigh. Grade II Patnaik. Owner declined full staging due to cost, proceeded to surgery. Margins were clean. Six months later, a splenic mass. Retrospectively, the spleen was probably already involved at initial diagnosis. Full staging and earlier recognition of systemic disease might have changed the initial treatment plan. I can't say it would have saved her, but it would have changed the conversation.
+For example, consider a hypothetical 9-year-old Labrador presenting with a 2 cm MCT on her thigh. Grade II Patnaik. Owner declined full staging due to cost, proceeded to surgery. Margins were clean. Six months later, a splenic mass. Retrospectively, the spleen was probably already involved at initial diagnosis. Full staging and earlier recognition of systemic disease might have changed the initial treatment plan. It may not have changed the outcome, but it would have changed the conversation.
 
 ## Treatment Options, Honestly Assessed
 
@@ -83,7 +83,7 @@ Toceranib phosphate, sold as Palladia by Zoetis, was the first FDA-approved targ
 
 The research here is genuinely mixed on whether adding a tyrosine kinase inhibitor (TKI) before surgery to shrink a tumor actually improves long-term outcomes versus just going straight to surgery. It's an active area of discussion in veterinary oncology. If your oncologist recommends neoadjuvant Palladia, ask specifically what the goal is: Is it to achieve resectability? Reduce surgical complexity? Make sure you understand the "why" before you start.
 
-Prednisone is often used palliatively in cases where surgery and aggressive treatment aren't possible or desired. It can temporarily reduce tumor size in some cases. It's not a cure, and I'll be honest: its role in MCT management as monotherapy is mostly about buying time and quality of life, not remission.
+Prednisone is often used palliatively in cases where surgery and aggressive treatment aren't possible or desired. It can temporarily reduce tumor size in some cases. It is not a cure, and its role in MCT management as monotherapy is mostly about buying time and quality of life, not remission.
 
 ## Breeds That Need Faster Action
 
@@ -97,9 +97,9 @@ For any dog already diagnosed with MCT who develops facial swelling or difficult
 
 ## Practical Costs in 2026
 
-These are midpoint estimates. Geographic variation is real: a surgical excision in rural Montana is priced differently than the same procedure at a specialty center in Boston. These numbers are drawn from my own experience ordering procedures and talking to owners about invoices over 13 years. ([AAHA-accredited hospitals](https://www.aaha.org/) may charge slightly more for MCT staging and surgery, but accreditation also correlates with better surgical and anesthetic protocols, which matters for this specific tumor type.)
+These are midpoint estimates. Geographic variation is real: a surgical excision in rural Montana is priced differently than the same procedure at a specialty center in Boston. These numbers are drawn from published veterinary cost ranges and owner-reported invoices. ([AAHA-accredited hospitals](https://www.aaha.org/) may charge slightly more for MCT staging and surgery, but accreditation also correlates with better surgical and anesthetic protocols, which matters for this specific tumor type.)
 
-A scenario I see regularly: Owner with a Grade II MCT diagnosis, $1,800 for surgery, margins came back "narrow but complete." Oncologist recommends radiation as a precaution: $9,000 they don't have. Decision: close monitoring with recheck every 8-12 weeks, and a plan to discuss Palladia if there's any evidence of local recurrence. That's a reasonable, informed choice. Not giving up; being strategic with real-world constraints.
+A common scenario involves an owner facing a Grade II MCT diagnosis, $1,800 for surgery, with margins that came back "narrow but complete." Oncologist recommends radiation as a precaution: $9,000 they don't have. Decision: close monitoring with recheck every 8-12 weeks, and a plan to discuss Palladia if there's any evidence of local recurrence. That's a reasonable, informed choice. Not giving up; being strategic with real-world constraints.
 
 ## Sources
 

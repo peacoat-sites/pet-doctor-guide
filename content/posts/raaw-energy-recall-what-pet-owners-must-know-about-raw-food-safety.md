@@ -29,7 +29,7 @@ It's May 26, 2026, and if you feed your dog Raaw Energy, you're probably checkin
 | **Geographic Distribution** | Connecticut, Delaware, Massachusetts, Maryland, New Hampshire, New Jersey, New York, Pennsylvania, Virginia |
 | **Company Response** | All dog food production halted (May 21, 2026) |
 
-I've seen a lot of recalls over my 13 years in practice. Most of them, Salmonella, E. coli, cause obvious problems. Your dog gets sick, you bring them in, we treat it. Listeria is the one that keeps me up at night because it doesn't always announce itself.
+Veterinary professionals have seen many recalls over the years. Most of them, Salmonella, E. coli, cause obvious problems. Your dog gets sick, you bring them in, we treat it. Listeria is particularly concerning because it doesn't always announce itself.
 
 Listeria monocytogenes is a bacterium that can be present in contaminated food and never cause a single symptom in your dog. That doesn't mean your dog isn't shedding it through saliva and feces. That means your asymptomatic dog is a vector, spreading the bacteria to your family, to other pets, to anyone immunocompromised who touches contaminated surfaces. This is particularly dangerous if you have elderly relatives, young children, pregnant household members, or anyone with a compromised immune system. Your healthy dog eating contaminated raw food isn't necessarily the problem. The person in your household with leukemia, or your partner's transplanted kidney, or your mother's cancer treatment, they are the vulnerability.
 
@@ -53,7 +53,7 @@ If you've already fed your dog some of this food and your dog is fine, that's go
 
 ## Should You Switch Away from Raw Food?
 
-This is the question everyone's asking, and I'm not going to give you a simple answer because I owe you an honest one. Raw feeding, when done well with thoughtfully sourced ingredients and proper handling, can be a legitimate diet for some dogs. The problem is that it requires significantly more food safety vigilance than most people maintain. You need to handle it like raw meat for human consumption, because it is raw meat. You need to clean surfaces immediately, use separate cutting boards, wash hands frequently, never let the food sit at room temperature.
+This is the question everyone's asking, and there is no simple answer. Raw feeding, when done well with thoughtfully sourced ingredients and proper handling, can be a legitimate diet for some dogs. The problem is that it requires significantly more food safety vigilance than most people maintain. You need to handle it like raw meat for human consumption, because it is raw meat. You need to clean surfaces immediately, use separate cutting boards, wash hands frequently, never let the food sit at room temperature.
 
 Many pet owners find it difficult to maintain careful food handling consistently, which can become a real concern if a recall occurs. The safer move, honestly, is traditional commercial diets that go through heat treatment. Are those boring? Sure. Are they less likely to carry Listeria or Salmonella? Absolutely.
 
@@ -63,7 +63,7 @@ If you do continue with raw feeding, switch to a different brand and verify they
 
 Your dog probably won't show symptoms. But if your dog develops fever, lethargy, loss of appetite, vomiting, or diarrhea in the coming weeks, especially if it's paired with tremors or stiffness, contact your vet immediately and mention the potential Listeria exposure. A blood culture can identify Listeria, and if it's present, antibiotics work. But the earlier you catch it, the better the outcome.
 
-Raw dog food exists in this strange liminal space where it's legal, it's marketed aggressively, and it carries demonstrably higher contamination risk. This recall is the third major incident I can point to in six months. It's not a coincidence. It's a system that's not quite working the way it's supposed to.
+Raw dog food exists in this strange liminal space where it's legal, it's marketed aggressively, and it carries demonstrably higher contamination risk. This recall is the third major incident in six months. It's not a coincidence. It's a system that's not quite working the way it's supposed to.
 
 ## Sources
 

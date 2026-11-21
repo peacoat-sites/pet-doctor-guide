@@ -30,7 +30,7 @@ Most pet owners I talk to assume gabapentin is just a "nerve pain drug" their ve
 
 Gabapentin is often thought of narrowly as a seizure medication, but veterinary practice has expanded its use significantly. It's now used pre-surgically, for situational anxiety, for neuropathic pain after spinal injuries, and as part of multimodal pain protocols for dogs with cancer.
 
-So let me tell you what I've actually learned after 13 years of watching this drug work (and occasionally not work) in real dogs.
+The following covers what veterinary practice has shown about how this drug works, and occasionally does not work, in real dogs.
 
 ---
 
@@ -38,7 +38,7 @@ So let me tell you what I've actually learned after 13 years of watching this dr
 
 Gabapentin was originally developed as an anticonvulsant. It works by binding to calcium channels in the nervous system, which dampens the release of certain neurotransmitters involved in pain signaling and abnormal electrical activity in the brain. That dual mechanism, anticonvulsant and analgesic, is what makes it so versatile.
 
-What surprised me when I went deep on the pharmacology is how different dogs process gabapentin compared to humans. Dogs metabolize it faster. A dose that might keep a human comfortable for 8 hours may wear off in 4-6 hours in a dog, which is exactly why vets sometimes prescribe it two or three times daily. If your dog is on once-daily gabapentin for chronic pain and it doesn't seem to be helping much, that dosing frequency might be worth a conversation with your vet.
+One notable finding from the pharmacology is how differently dogs process gabapentin compared to humans. Dogs metabolize it faster. A dose that might keep a human comfortable for 8 hours may wear off in 4-6 hours in a dog, which is exactly why vets sometimes prescribe it two or three times daily. If your dog is on once-daily gabapentin for chronic pain and it doesn't seem to be helping much, that dosing frequency might be worth a conversation with your vet.
 
 The drug is primarily cleared by the kidneys, which matters if your dog has any degree of renal compromise. In those patients, the dose typically gets lowered, not just as a precaution but because gabapentin can accumulate and cause excessive sedation.
 
@@ -56,13 +56,13 @@ Here's where it gets interesting, because the list is longer than most owners re
 
 **Situational anxiety** more broadly, including thunderstorms and fireworks, is another application. It's not the same as a dedicated anxiolytic, and it won't work for every dog, but for dogs with mild to moderate situational anxiety, it can help.
 
-A few real-world examples from my time in practice:
+The following scenarios illustrate how gabapentin is commonly applied in clinical settings.
 
-**Scenario 1:** A 9-year-old Labrador with confirmed IVDD, [already on Meloxicam](/rimadyl-for-dogs-guide/), still vocalizing at night. Vet added gabapentin at 10mg/kg twice daily. Owner reported noticeably better sleep behavior within one week, and the dog stopped avoiding stairs within three weeks.
+For example, a 9-year-old Labrador with confirmed IVDD, [already on Meloxicam](/rimadyl-for-dogs-guide/), might still be vocalizing at night. If a vet adds gabapentin at 10mg/kg twice daily, the owner may report noticeably better sleep behavior within one week, and the dog may stop avoiding stairs within three weeks. 
 
-**Scenario 2:** A 4-year-old Border Collie with severe thunderstorm phobia, not responding well to trazodone alone. Gabapentin added at 100mg two hours before predicted storms. Owner described it as "60-70% improvement" in panic behaviors over several storm events.
+For example, a 4-year-old Border Collie with severe thunderstorm phobia not responding well to trazodone alone might benefit from gabapentin added at 100mg two hours before predicted storms, with owners describing a 60-70% improvement in panic behaviors over several storm events.  
 
-**Scenario 3:** A 7-year-old mixed breed scheduled for a dental extraction, historically extremely difficult to handle at the clinic. Pre-visit gabapentin given at home two hours prior. Staff noted she was significantly calmer for pre-anesthetic bloodwork and IV placement.
+For example, a 7-year-old mixed breed scheduled for a dental extraction and historically difficult to handle at the clinic might receive pre-visit gabapentin at home two hours prior, with staff noting the dog is significantly calmer for pre-anesthetic bloodwork and IV placement.  
 
 ---
 
@@ -101,7 +101,7 @@ The one thing I want to be clear about: don't stop gabapentin abruptly, especial
 
 The honest answer is: maybe. Gabapentin isn't magic, and it can underwhelm for certain pain types, particularly pure inflammatory pain where an NSAID is really the right tool. The research on gabapentin for canine osteoarthritis specifically is more mixed than the enthusiasm around it sometimes suggests. Some dogs respond beautifully; others show minimal change.
 
-What I've found is that it tends to work best as part of a multimodal approach: combined with an NSAID, with appropriate weight management, with physical therapy if that's accessible. Using it as the only intervention for a dog with moderate to severe arthritis is probably setting yourself up for disappointment.
+Gabapentin tends to work best as part of a multimodal approach: combined with an NSAID, with appropriate weight management, with physical therapy if that's accessible. Using it as the only intervention for a dog with moderate to severe arthritis is probably setting yourself up for disappointment.
 
 Anyone who's owned a senior German Shepherd or a Dachshund with spinal issues knows that pain management is rarely simple. Gabapentin is one solid tool in a bigger toolkit.
 

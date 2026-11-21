@@ -26,9 +26,9 @@ faqs:
     a: "You mostly can't, not productively. Once your dog is flooded, the best move is to increase distance as quickly and calmly as possible. Turn and walk the other way. Don't repeat 'no' or yell, it adds arousal to an already overloaded nervous system. When you're far enough away that your dog can breathe and look at you, then you regroup. The real work is preventing the episode from starting, which means threshold management on every single walk."
 ---
 
-My first reactive dog was a 47-pound beagle mix named Truck, and I was convinced he was broken. Every dog on the block, every jogger in a reflective vest, every plastic bag skittering across the sidewalk sent him into a full-body meltdown of barking, lunging, and leash-spinning that left my shoulder sore and my cheeks red. I'd handled hundreds of dogs in the clinic. I thought I knew what I was doing. I didn't, not really, not with this.
+    
 
-What I eventually learned, after a lot of humbling trial and error, is that reactivity isn't a personality flaw or a dominance problem or evidence that your dog is aggressive. It's almost always fear or frustration that has no better outlet. And that distinction matters enormously, because the way you treat fear-based behavior is completely different from how you'd treat a dog who actually wants to make contact and hurt something. Conflating the two is one of the most common mistakes I see, and it derails a lot of training before it even gets started.
+Reactivity isn't a personality flaw or a dominance problem or evidence that your dog is aggressive. It's almost always fear or frustration that has no better outlet. And that distinction matters enormously, because the way you treat fear-based behavior is completely different from how you'd treat a dog who actually wants to make contact and hurt something. Conflating the two is one of the most common mistakes owners make, and it derails a lot of training before it even gets started.
 
 The good news: dog reactivity is one of the most trainable behavioral issues out there. It takes time and consistency, not magic. If you're in the thick of it [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/), that's worth holding onto.
 
@@ -44,7 +44,7 @@ Here's what reactivity is not, and I want to be clear about this: it's not the s
 
 ## The One Concept That Changes Everything: Threshold
 
-I wish someone had explained threshold to me in year one. It would have saved Truck and me about six months of spinning our wheels.
+ 
 
 Your dog has a threshold, an invisible line. On one side of that line, your dog can see the trigger, feel some stress, but still think. Still respond to cues. Still take food. On the other side of that line, your dog is flooded. Brain offline. No amount of treat-waving or "watch me!" is going to reach them because the emotional brain has completely taken over.
 
@@ -82,13 +82,13 @@ The food needs to be high-value enough to compete with the emotional arousal. A 
 | Generalization | Practicing with different triggers, environments, stress levels | Months 3-6 |
 | Maintenance | Ongoing management; reactivity usually doesn't fully disappear | Ongoing |
 
-These are rough estimates based on my experience with hundreds of dogs. A dog with mild reactivity toward one trigger who gets daily consistent practice might see real change in six weeks. A dog with multiple triggers, a history of flooding experiences, or a particularly anxious baseline temperament might need six months before you notice meaningful distance reduction. The research genuinely supports that DS/CC works, but it doesn't work on a schedule you can force.
+These are rough estimates based on documented training outcomes. A dog with mild reactivity toward one trigger who gets daily consistent practice might see real change in six weeks. A dog with multiple triggers, a history of flooding experiences, or a particularly anxious baseline temperament might need six months before you notice meaningful distance reduction. The research genuinely supports that DS/CC works, but it doesn't work on a schedule you can force.
 
-Three worked examples from my own case history:
+The following examples illustrate how timelines can vary in practice:
 
-A 3-year-old Aussie mix, reactive to bikes, threshold at about 40 feet. Owner did 10-minute DS/CC sessions daily on a quiet residential street. By week 9, threshold had reduced to roughly 15 feet with no reaction. Bike could pass at normal speed without lunging.
+For example, a 3-year-old Aussie mix reactive to bikes might have a threshold of about 40 feet. With 10-minute DS/CC sessions daily on a quiet residential street, threshold could reduce to roughly 15 feet with no reaction by week 9, and bikes could pass at normal speed without lunging.  
 
-A 5-year-old rescue mutt, reactive to all dogs, threshold so large it was hard to practice in a suburban neighborhood. Owner found a dead-end industrial street with no foot traffic for early sessions. Combined DS/CC with a 2mg/kg melatonin supplement (vet-approved for mild anxiety reduction) before walks. Threshold compressed from roughly 80 feet to 45 feet over 14 weeks.
+For example, a 5-year-old rescue mutt reactive to all dogs might have a threshold so large it is hard to practice in a suburban neighborhood. Finding a dead-end industrial street with no foot traffic for early sessions, combined with DS/CC and a 2mg/kg melatonin supplement (vet-approved for mild anxiety reduction) before walks, could compress threshold from roughly 80 feet to 45 feet over 14 weeks.  
 
 Punishment doesn't teach the dog what you want them to do instead. For fear-based reactivity, aversive methods can actually increase arousal and worsen the association with the trigger. Switching to management tools like a front-clip harness combined with desensitization and counterconditioning removes the source of increased arousal and addresses the fear-based association directly.
 
@@ -96,7 +96,7 @@ Punishment doesn't teach the dog what you want them to do instead. For fear-base
 
 A front-clip harness or head halter gives you management without pain. The Ruffwear Front Range works well for everyday use, and the Gentle Leader suits very strong dogs. Neither of these is a training tool on its own, but they give you physical control while you're doing the actual work.
 
-High-value treats in a pouch you can access in under two seconds. I cannot stress the speed thing enough. A treat bag that requires you to dig around costs you the timing.
+High-value treats in a pouch you can access in under two seconds. The speed of treat delivery cannot be overstated. A treat bag that requires you to dig around costs you the timing.
 
 A standard 6-foot leash. That's it. Not a retractable. Retractable leashes and reactive dogs are a genuinely bad combination because the constant tension trains the dog to pull and limits your control during critical moments.
 

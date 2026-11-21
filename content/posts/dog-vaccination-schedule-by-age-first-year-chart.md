@@ -29,7 +29,7 @@ Most puppies come home around 8 weeks old, and within the first 48 hours, at lea
 
 You're not confused because you're not paying attention. You're confused because the vaccine schedule genuinely has moving parts, and most handouts do a poor job explaining the *why* behind the timing.
 
-Here's what I tell people who come in with that exact look on their face: the first year is a series, not a single event. Think of it less like getting a shot and more like building a wall, one layer at a time. Each appointment adds to something the previous one started.
+The first year is a series, not a single event. Think of it less like getting a shot and more like building a wall, one layer at a time. Each appointment adds to something the previous one started.
 
 ---
 
@@ -80,11 +80,11 @@ A few things worth flagging. Lyme disease vaccine is recommended in tick-endemic
 
 Not every vaccine is the same, and knowing the difference between core and non-core vaccines helps you have a smarter conversation with your vet instead of just nodding along.
 
-Core vaccines are the ones every dog should get, full stop, regardless of lifestyle. That list is: distemper, parvovirus, adenovirus (the hepatitis component), and rabies. Parvovirus alone kills thousands of dogs every year, and it's highly contagious, environmentally stable, and notoriously hard to eliminate once it's in an area. [PetMD's veterinary resource library](https://www.petmd.com/) describes parvo as one of the most serious infectious diseases in dogs. That's not an exaggeration. I've sat with families in our clinic lobby who lost puppies to it. It's preventable. The vaccine matters.
+Core vaccines are the ones every dog should get, full stop, regardless of lifestyle. That list is: distemper, parvovirus, adenovirus (the hepatitis component), and rabies. Parvovirus alone kills thousands of dogs every year, and it's highly contagious, environmentally stable, and notoriously hard to eliminate once it's in an area. [PetMD's veterinary resource library](https://www.petmd.com/) describes parvo as one of the most serious infectious diseases in dogs. That is not an exaggeration, and vets regularly see families who have lost puppies to it. It's preventable. The vaccine matters.
 
 Non-core vaccines are lifestyle-dependent. Bordetella, leptospirosis, Lyme, and canine influenza all fall into this category. Non-core doesn't mean unimportant. It means the risk-benefit calculation depends on your dog's actual life. A dog who never leaves the backyard has a very different exposure profile than one who goes to daycare three times a week or hikes with you in rural Wisconsin.
 
-My honest opinion: most dogs should get bordetella and leptospirosis. Lepto is water-borne and spread by wildlife, including suburban wildlife. You don't have to live on a farm. If your dog walks near puddles, streams, or anywhere that raccoons, deer, or rats pass through, lepto exposure is a real possibility. Ask your vet specifically about lepto prevalence in your county.
+Most dogs should get bordetella and leptospirosis. Lepto is water-borne and spread by wildlife, including suburban wildlife. You don't have to live on a farm. If your dog walks near puddles, streams, or anywhere that raccoons, deer, or rats pass through, lepto exposure is a real possibility. Ask your vet specifically about lepto prevalence in your county.
 
 ---
 
@@ -94,7 +94,7 @@ The single most useful thing you can do before your first puppy vet visit: get w
 
 If you don't have records, don't panic. It doesn't mean you start from scratch. Your vet can make a reasonable judgment call based on your puppy's age, source, and history. It just means the schedule might get adjusted to be conservative.
 
-One thing I see people skip: writing down questions before the appointment. You'll think of three things in the waiting room and forget all of them the moment your puppy starts crying. Bring a list. Ask about the 3-year rabies vs. 1-year rabies debate for your state (this is a legal question as much as a medical one). Ask about when your puppy will be fully protected and whether it's safe to take them to the dog park before the series is done. Most vets recommend waiting one to two weeks after the final booster.
+One thing owners commonly skip is writing down questions before the appointment. You'll think of three things in the waiting room and forget all of them the moment your puppy starts crying. Bring a list. Ask about the 3-year rabies vs. 1-year rabies debate for your state (this is a legal question as much as a medical one). Ask about when your puppy will be fully protected and whether it's safe to take them to the dog park before the series is done. Most vets recommend waiting one to two weeks after the final booster.
 
 ---
 
@@ -123,7 +123,6 @@ The first year of puppy vaccines is one of those things that feels overwhelming 
 - [PetMD's veterinary resource library](https://www.petmd.com/)
 - [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
 - [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

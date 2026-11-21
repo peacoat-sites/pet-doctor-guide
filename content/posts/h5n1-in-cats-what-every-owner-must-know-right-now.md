@@ -18,13 +18,11 @@ Most coverage of H5N1 in pets is stuck in 2024, still framing this as a wild-bir
 
 The AVMA Convention in Anaheim, running July 10–14, 2026, just wrapped up a dedicated panel on detecting and managing feline H5N1, covering clinical signs, PPE protocols, and occupational risk for vet staff. Infectious disease panels at AVMA don't get scheduled unless the profession considers something urgent. This one was urgent. If you own a cat, you need to understand what's changed, what the real risks are, and what you can actually do about it before your next [vet visit](/your-dogs-first-vet-visit-guide/).
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">H5N1 kills 50–70% of infected cats, making cats one of the most severely affected domestic mammal species.</li><li style="margin:5px 0">A May 2026 CDC MMWR report confirmed the first serologic evidence of cat-to-human H5N1 transmission in Los Angeles County.</li><li style="margin:5px 0">Cats have tested H5N1-positive in 18 U.S. states as of mid-2026.</li><li style="margin:5px 0">Stopping raw poultry and raw dairy is the single most effective household risk-reduction step you can take today.</li><li style="margin:5px 0">Dogs appear less susceptible to the current strain, but that can change as the virus evolves.</li></ul></div>
-
 
 ## Why Cats Are Getting Hit So Hard
 
-Cats are obligate predators who hunt birds. They eat raw meat. They groom extensively. All of that makes them a near-perfect bridge host for a virus circulating in wild and domestic poultry. The reported mortality rate for H5N1-infected cats sits at 50–70%, which is genuinely shocking compared to most respiratory viruses we deal with in small animal practice. For context, untreated feline panleukopenia runs about 25–90% mortality depending on age, and we consider that a catastrophic disease. H5N1 in cats is in that same territory.
+Cats are obligate predators who hunt birds. They eat raw meat. They groom extensively. All of that makes them a near-perfect bridge host for a virus circulating in wild and domestic poultry. The reported mortality rate for H5N1-infected cats sits at 50–70%, which is genuinely shocking compared to most respiratory viruses seen in small animal practice. For context, untreated feline panleukopenia runs about 25–90% mortality depending on age, and we consider that a catastrophic disease. H5N1 in cats is in that same territory.
 
 The AVMA has been tracking confirmed feline cases across 18 U.S. states, and the geographic spread keeps widening. Outdoor cats and cats in multi-cat households carry the most risk, but indoor cats are not exempt, because the exposure route isn't just a cat catching a bird in the yard.
 
@@ -32,7 +30,7 @@ The AVMA has been tracking confirmed feline cases across 18 U.S. states, and the
 
 This is the part that isn't getting nearly enough attention. Raw and freeze-dried [raw pet](/raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/) foods, particularly those containing poultry, represent a confirmed transmission pathway from infected flocks to household cats. The FDA issued a safety notice in September 2025 about RAWR raw cat food. Go Raw / Quest Cat Food had recalls in 2026 tied to both low thiamine and H5N1 contamination concerns. These aren't theoretical risks; they're documented events with real product names and dates.
 
-Vethelpdirect.com put it plainly in a June 29, 2026 article: stopping raw poultry and raw dairy is the single most effective household risk-reduction step an owner can take. That's not a vague suggestion. It's a ranked recommendation, and I agree with it. If you're currently feeding a raw or freeze-dried raw diet, check the brand against current FDA recall notices and seriously consider switching to a commercially prepared cooked diet until the situation stabilizes.
+Vethelpdirect.com put it plainly in a June 29, 2026 article: stopping raw poultry and raw dairy is the single most effective household risk-reduction step an owner can take. That's not a vague suggestion, but a ranked recommendation supported by current evidence. If you're currently feeding a raw or freeze-dried raw diet, check the brand against current FDA recall notices and seriously consider switching to a commercially prepared cooked diet until the situation stabilizes.
 
 ## What H5N1 Looks Like in a Cat (and When to Call)
 
@@ -56,9 +54,7 @@ That does not mean the risk is trivial. It means we caught something through car
 
 Dogs appear less susceptible to the current strain than cats, based on available data. That's reassuring for multi-pet households but not a guarantee. The virus is still evolving.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">H5N1 mortality rate in domestic mammals (%)</div><div class="sc-row"><span class="sc-label">Domestic cats</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">60%</span></div><div class="sc-row"><span class="sc-label">Domestic dogs</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">15%</span></div><div class="sc-row"><span class="sc-label">Cattle (dairy)</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">5%</span></div><div class="sc-src">Source: AVMA 2026</div></div>
-
 
 ## Talking to Your Vet Without Wasting Anyone's Time
 

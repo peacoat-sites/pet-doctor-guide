@@ -40,9 +40,9 @@ Here's where most articles fail you: they say "if your cat is drinking more than
 
 A 10-pound cat eating a mixed wet/dry diet typically drinks somewhere between 3.5 and 4.5 ounces of water per day from their bowl, because wet food contributes another 3–4 ounces of moisture on its own. A cat on exclusively dry kibble? They may drink 7–8 ounces from the bowl and still be perfectly normal. Diet is the biggest variable most people forget.
 
-The practical test: fill their water bowl to a consistent level before bed and measure what's left in the morning. Do this for three days. If your 10-pound cat is drinking more than 9–10 ounces daily (and eating wet food), that's worth flagging. On dry food only, I'd be more concerned around 12+ ounces. These aren't hard clinical cutoffs, just field-tested benchmarks that tell you whether you're looking at a possible problem or a diet quirk.
+The practical test: fill their water bowl to a consistent level before bed and measure what's left in the morning. Do this for three days. If your 10-pound cat is drinking more than 9–10 ounces daily (and eating wet food), that's worth flagging. On dry food only, concern is more warranted around 12+ ounces. These aren't hard clinical cutoffs, just field-tested benchmarks that tell you whether you're looking at a possible problem or a diet quirk.
 
-I'll admit I got this wrong early in my career. A client brought in her 8-year-old DSH, Mabel, in late 2019 and described what I mentally filed as "probably just the new dry food." It was hyperthyroidism. Mabel's T4 came back at 8.2 µg/dL against a normal ceiling of about 4.0. We caught it, she went on methimazole, and she's still around. But I learned to take the history more carefully after that.
+ For example, an 8-year-old domestic shorthair presenting with increased thirst might initially seem like a diet quirk. In such a case, the cause could be hyperthyroidism. A T4 result of 8.2 µg/dL against a normal ceiling of about 4.0 would confirm the diagnosis. With prompt diagnosis, the cat could be started on methimazole and managed successfully. 
 
 ## The Most Likely Culprits, Ranked
 
@@ -78,13 +78,13 @@ Third: bring any supplements, medications, or food changes from the last three m
 
 A cat who just switched from wet to dry food will drink more water. Full stop. This is not disease. The moisture content of canned food runs about 75–80%; dry kibble is roughly 10%. If your cat was eating one 5.5-oz can of wet food daily (contributing about 4 oz of water) and you switched to all-dry, they need to compensate by drinking more from the bowl. The math is just math.
 
-Where this gets tricky: sometimes a cat doesn't compensate enough, which contributes to concentrated urine and crystal formation. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has consistently supported wet food as the better default hydration strategy for cats, especially those with any history of urinary issues. I'd agree. Dry food isn't poison, but cats evolved as desert hunters who got most of their moisture from prey, and their thirst drive is genuinely weak compared to dogs.
+Where this gets tricky: sometimes a cat doesn't compensate enough, which contributes to concentrated urine and crystal formation. The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has consistently supported wet food as the better default hydration strategy for cats, especially those with any history of urinary issues. That position is well supported. Dry food isn't poison, but cats evolved as desert hunters who got most of their moisture from prey, and their thirst drive is genuinely weak compared to dogs.
 
 The CKD bar is the one that should catch your eye. A cat with [kidney disease](/cat-kidney-disease-diet/) on an all-dry diet may be drinking nearly nine times what a healthy cat on wet food drinks. The body is desperately trying to flush toxins the kidneys can't concentrate properly.
 
 ## When It's an Emergency vs. When It Can Wait
 
-I get this question constantly, so let me be direct.
+It is worth being direct about when to seek urgent care versus scheduling a routine appointment.
 
 **Go today or to an emergency clinic tonight:**
 - Increased drinking plus vomiting more than once in 24 hours

@@ -30,7 +30,7 @@ Many pet owners assume leptospirosis is rare and exotic, relevant only to those 
 
 Leptospirosis is a bacterial infection caused by *Leptospira* spirochetes, and it's been quietly spreading across the U.S. for years. Dogs pick it up through contact with contaminated water or soil, often from the urine of infected wildlife like raccoons, deer, rats, or opossums. And what most people don't realize is that this isn't just a rural dog problem anymore. Urban dogs in cities like Chicago, New York, and Houston are getting it. Puddles in the park. Flooded backyards. A sniff in the wrong corner of the dog run.
 
-The disease can cause kidney failure, liver damage, and in severe cases, death. It's also zoonotic, meaning it can infect humans. So when families ask me whether the lepto vaccine is "really necessary," I take that question seriously.
+The disease can cause kidney failure, liver damage, and in severe cases, death. It's also zoonotic, meaning it can infect humans. So when families ask whether the lepto vaccine is "really necessary," that question deserves a serious answer.
 
 ## Why the Lepto Vaccine Gets a Bad Reputation
 
@@ -54,9 +54,9 @@ Risk factors that genuinely push a dog into "vaccinate this one" territory:
 
 Here's a worked example that illustrates how fast this goes wrong:
 
-**A 4-year-old Labrador in suburban Atlanta, backyard access, occasional visits to a neighborhood pond → Owner declined lepto vaccine two years in a row because "he's not a hunting dog" → Dog presented with acute kidney injury in September, spent 8 days hospitalized, $6,800 bill, and survived with permanent renal scarring.**
+**For example, consider a 4-year-old Labrador in suburban Atlanta with backyard access and occasional visits to a neighborhood pond whose owner declined the lepto vaccine two years in a row because "he's not a hunting dog": a dog in that situation could present with acute kidney injury, spend 8 days hospitalized, face a $6,800 bill, and survive with permanent renal scarring.**
 
-That's not a scare tactic. That's a file I pulled from my last clinic job.
+That is not a scare tactic.
 
 Conversely, a small apartment dog in a high-rise who goes outside only on leash to a dry urban sidewalk and never contacts wildlife or standing water is genuinely lower risk. This is one of the few vaccines where individual lifestyle really does drive the calculus. Your vet should be asking about your dog's actual daily life before either strongly recommending or dismissing it.
 
@@ -74,7 +74,7 @@ Endemic maps change. What was low-risk five years ago might not be today. The CD
 
 ## How to Talk to Your Vet About This
 
-I know this part is frustrating. You've got 15 minutes in the exam room, the vet is moving fast, and you're supposed to make an informed decision about a vaccine you've never thought about before. Here's what I'd actually say:
+This part can be frustrating. You've got 15 minutes in the exam room, the vet is moving fast, and you're supposed to make an informed decision about a vaccine you've never thought about before. Here is what to consider saying:
 
 Ask your vet: "Is lepto endemic in our specific area? What four serovars does your current product cover? And given my dog's lifestyle, do you think the benefit outweighs the reaction risk for their size?"
 

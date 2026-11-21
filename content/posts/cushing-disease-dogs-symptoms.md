@@ -44,15 +44,15 @@ The other 15-20% of cases come from a tumor on one of the adrenal glands directl
 
 There's also iatrogenic Cushing's, which is caused by long-term steroid use (prednisone, dexamethasone, and similar medications). This form can catch owners off guard, especially when the steroids were prescribed for an unrelated condition like allergies or immune disease. If your dog has been on steroids for months and starts showing these symptoms, that's a conversation to have with your vet immediately.
 
-## The Symptoms, in Order of How Often I See Them
+## The Symptoms, in Order of How Often They Appear
 
-Not every dog presents the same way. But after 13 years of seeing Cushing's cases come through the clinic, there's a pretty reliable pattern to how things show up.
+Not every dog presents the same way. Across many documented cases, there is a pretty reliable pattern to how things show up.
 
 **Increased thirst and urination** almost always come first. Most owners notice this before anything else. We're talking about a dog who suddenly needs water constantly and may be having accidents indoors after years of being reliable. The clinical term is polydipsia (increased drinking) and polyuria (increased urination), and it's so common in Cushing's that [PetMD's veterinary resource library](https://www.petmd.com/) lists it as the number-one presenting complaint in affected dogs.
 
 Then comes the **pot belly**. Cortisol causes fat to redistribute to the abdomen and weakens the abdominal muscles, so the belly actually drops and rounds. People often assume their dog has just gained weight, but you can sometimes see a difference: the ribs are often still palpable and the back is relatively normal, while the belly hangs low. It's a specific shape.
 
-**Hair loss and skin changes** are probably the most visually striking. The hair loss tends to be symmetrical, often on the flanks and sides, and the skin underneath can look darker, sometimes almost gray or mottled. Comedones (those tiny blackhead-like bumps) along the belly are actually a pretty telling sign. The skin can also feel thin and papery.
+**Hair loss and skin changes** are probably the most visually striking. The hair loss tends to be symmetrical, often on the flanks and sides, and the skin underneath can look darker, sometimes almost gray or mottled. Comedones (those tiny blackhead-like bumps) along the belly are actually a pretty telling sign in affected dogs. The skin can also feel thin and papery.
 
 Other symptoms that show up with some regularity:
 
@@ -61,7 +61,7 @@ Other symptoms that show up with some regularity:
 - Recurrent skin or urinary infections (high cortisol suppresses immune function)
 - Failure to cycle in unspayed females
 - Testicular atrophy in males
-- Calcinosis cutis: hard calcium deposits under the skin, which I've only seen in more advanced or severe cases
+- Calcinosis cutis: hard calcium deposits under the skin, which tends to appear only in more advanced or severe cases
 
 **Lethargy and appetite changes** are tricky because they go both ways. Some Cushing's dogs are ravenously hungry; others lose interest in food. The lethargy can look exactly like a normal aging dog slowing down, which is why the average time from symptom onset to Cushing's diagnosis is reportedly around 1-2 years. Owners aren't failing to notice. The symptoms genuinely mimic aging.
 
@@ -73,7 +73,7 @@ Age is the other major factor. Most dogs diagnosed with Cushing's are between 7 
 
 ## Symptom Comparison by Cushing's Type
 
-This is something I genuinely wish more owners understood before their vet conversation, because the type of Cushing's affects both the diagnostic approach and what treatment looks like.
+Understanding the distinction before the vet conversation is valuable, because the type of Cushing's affects both the diagnostic approach and what treatment looks like.
 
 | Feature | Pituitary-Dependent | Adrenal-Dependent |
 |---|---|---|
@@ -90,13 +90,13 @@ That last row matters a lot. If your vet suspects adrenal-dependent Cushing's, t
 
 ## What to Expect at the Vet
 
-I'm going to be direct here because a lot of the advice online makes this sound simpler than it is: diagnosing Cushing's takes more than one test. Your vet will probably run a urinalysis and a basic blood panel first (these show changes consistent with Cushing's but aren't diagnostic on their own), then move to one of two specific tests.
+To be clear, a lot of the advice online makes this sound simpler than it is: diagnosing Cushing's takes more than one test. Your vet will probably run a urinalysis and a basic blood panel first (these show changes consistent with Cushing's but aren't diagnostic on their own), then move to one of two specific tests.
 
-The **low-dose dexamethasone suppression test (LDDST)** is the most commonly used first-line diagnostic. Your dog gets a small injection of dexamethasone; in a normal dog, this suppresses cortisol production. In a Cushing's dog, it doesn't. The test takes 8 hours, and your dog will spend the day at the clinic. (The smell of those waiting exam rooms at hour 7 is something I remember clearly from my early clinic days; there's a specific institutional quiet to a late afternoon diagnostic day.)
+The **low-dose dexamethasone suppression test (LDDST)** is the most commonly used first-line diagnostic. Your dog gets a small injection of dexamethasone; in a normal dog, this suppresses cortisol production. In a Cushing's dog, it doesn't. The test takes 8 hours, and your dog will spend the day at the clinic. 
 
 The **ACTH stimulation test** measures cortisol before and after an injection of synthetic ACTH. It's faster (about 2 hours) but less sensitive for pituitary-dependent Cushing's. It is, however, the test used to monitor treatment once medication is started. Your vet will probably use both at different points.
 
-A scenario that plays out regularly: A 9-year-old Beagle comes in with a 6-month history of increased drinking and a new pot belly. Urinalysis shows dilute urine and a [urinary tract infection](/how-to-treat-a-cat-urinary-tract-infection-at-home/). Blood work shows elevated alkaline phosphatase (ALP), which is almost universally high in Cushing's dogs. LDDST confirms lack of suppression. Abdominal ultrasound shows bilaterally enlarged adrenal glands, consistent with pituitary-dependent disease. Trilostane started at 2.2 mg/kg daily. ACTH stim recheck at 4 weeks shows cortisol now in target range. Owner reports dog drinking normally again by week 6.
+For example, consider a 9-year-old Beagle presenting with a 6-month history of increased drinking and a new pot belly. Urinalysis shows dilute urine and a [urinary tract infection](/how-to-treat-a-cat-urinary-tract-infection-at-home/). Blood work shows elevated alkaline phosphatase (ALP), which is almost universally high in Cushing's dogs. LDDST confirms lack of suppression. Abdominal ultrasound shows bilaterally enlarged adrenal glands, consistent with pituitary-dependent disease. Trilostane started at 2.2 mg/kg daily. ACTH stim recheck at 4 weeks shows cortisol now in target range. Owner reports dog drinking normally again by week 6.
 
 That's a pretty typical trajectory when everything goes smoothly.
 

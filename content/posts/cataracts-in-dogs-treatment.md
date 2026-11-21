@@ -28,19 +28,19 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most people notice it as a cloudiness in one eye. Then the other. You Google "cloudy eyes in dogs" at midnight and end up somewhere between "it's just nuclear sclerosis, totally normal" and "your dog is going blind and needs $4,000 surgery." You're not sure which end of that spectrum you're looking at, and honestly, that uncertainty is exactly where I want to start.
 
-Cataracts in dogs are one of the most common things I see owners get confused about, partly because the condition looks so similar to another age-related change called nuclear sclerosis, and partly because the treatment conversation gets complicated fast. Let me walk you through what's actually going on, what your real options are, and how to think about the decision without panicking.
+Cataracts in dogs are one of the most common things owners get confused about, partly because the condition looks so similar to another age-related change called nuclear sclerosis, and partly because the treatment conversation gets complicated fast. Let me walk you through what's actually going on, what your real options are, and how to think about the decision without panicking.
 
 ## What You're Actually Looking At (And What It Isn't)
 
 Nuclear sclerosis and cataracts are often confused because they look similar from a distance. Nuclear sclerosis, the normal hardening of the lens that happens in virtually every dog over age seven, looks alarmingly similar to a cataract from across the room. Both create a bluish-gray haze in the eye. But nuclear sclerosis doesn't significantly impair vision, and it doesn't require surgery. A true cataract is an opacity in the lens that actually blocks light from reaching the retina. The distinction matters enormously when you're deciding what to do next.
 
-Your vet can tell the difference with an ophthalmoscope in about two minutes. If you've been told it's a cataract, get that confirmed by a board-certified veterinary ophthalmologist before you do anything else. In my experience, this referral step gets skipped more than it should, and it matters because the ophthalmologist will also check retinal function before recommending surgery. If the retina is already damaged from diabetes or another underlying condition, surgery won't restore vision even if it goes perfectly.
+Your vet can tell the difference with an ophthalmoscope in about two minutes. If you've been told it's a cataract, get that confirmed by a board-certified veterinary ophthalmologist before you do anything else. This referral step is skipped more often than it should be, and it matters because the ophthalmologist will also check retinal function before recommending surgery. If the retina is already damaged from diabetes or another underlying condition, surgery won't restore vision even if it goes perfectly.
 
 A few things that cause cataracts in dogs: diabetes mellitus (diabetic cataracts can develop within weeks of a diabetes diagnosis and are notoriously fast-moving), inherited cataracts in breeds like Bichon Frisés, Labrador Retrievers, American Cocker Spaniels, and Poodles, trauma, and certain toxin exposures. PetMD's veterinary resource library has a solid breakdown of breed predispositions if you want to check where your dog falls.
 
 ## The Only Proven Treatment: Phacoemulsification Surgery
 
-Let me be direct. As of July 2026, there is no eye drop, supplement, or topical medication that has been scientifically proven to reverse or stop canine cataracts. I know you've seen the Lanosterol-based eye drop research. That 2015 study in Science generated real excitement, but subsequent controlled trials in dogs have not produced the clear results people hoped for. The drops aren't clinically available in any validated form yet, and I'd be doing you a disservice to oversell them.
+Let me be direct. As of July 2026, there is no eye drop, supplement, or topical medication that has been scientifically proven to reverse or stop canine cataracts. The Lanosterol-based eye drop research has drawn a lot of attention. That 2015 study in Science generated real excitement, but subsequent controlled trials in dogs have not produced the clear results people hoped for. The drops are not clinically available in any validated form yet, and overselling them would do pet owners a disservice.
 
 The treatment that works is phacoemulsification. It's essentially the same procedure used in humans, where an ultrasonic probe breaks up the cloudy lens and removes it, replacing it with an artificial intraocular lens. Success rates are genuinely impressive: a 2020 study in Veterinary Ophthalmology tracked 425 eyes over 12 months and found that roughly 90% of dogs had functional vision post-surgery when the procedure was performed before the cataract reached the "hypermature" stage. That number drops meaningfully if you wait too long.
 
@@ -64,11 +64,11 @@ Surgery requires general anesthesia, which carries real risk in dogs with uncont
 Many dogs adapt well to vision loss because they navigate primarily by smell and spatial memory. Environmental management such as keeping furniture in consistent places, using scent markers near stairs, and adding texture to floor transitions can support quality of life. The ASPCA has guidance on managing pets with [vision impairment](/how-to-treat-cloudy-eyes-in-older-dogs/) that's worth reading if you're going this route.
 
 **Medical management scenario:**
-A Cavalier King Charles Spaniel named Maisie, seen at the clinic where I worked until 2023, was diagnosed with bilateral cataracts at age eleven. Her owners elected not to pursue surgery given her cardiac issues (which are common in Cavaliers). We managed the lens-induced uveitis with Prednisolone Acetate 1% eye drops twice daily, monitored intraocular pressure quarterly, and kept her environment consistent. She maintained reasonable quality of life for two more years with zero vision restoration but also no surgical risk.
+For example, an eleven-year-old Cavalier King Charles Spaniel diagnosed with bilateral cataracts might have owners who elect not to pursue surgery given significant cardiac issues, which are common in the breed.  In such cases, lens-induced uveitis can be managed with Prednisolone Acetate 1% eye drops twice daily, with intraocular pressure monitored quarterly and the home environment kept consistent. Dogs managed this way can maintain a reasonable quality of life without vision restoration and without the risks of surgery.
 
 ## Preparing for the Ophthalmologist Appointment
 
-You'll get more out of that visit if you come prepared. Here's what I tell people to bring and be ready to discuss:
+You'll get more out of that visit if you come prepared. Here is what to bring and be ready to discuss:
 
 Bring any records of when you first noticed the cloudiness, and note whether it seemed to progress fast (diabetic cataracts can do that). Be upfront about your dog's overall health, any medications they're on, and your realistic budget. Ophthalmologists don't expect everyone to say yes to surgery, and a good one will give you an honest picture of your dog's candidacy before you commit to anything.
 

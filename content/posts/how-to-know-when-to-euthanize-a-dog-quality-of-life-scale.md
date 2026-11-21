@@ -37,7 +37,7 @@ Quality of life scales can be polarizing. For some families, putting a number on
 
 Here's what the scale can't do: it can't make the decision for you. It's a framework for observation, not a verdict. A dog who scores a 38 might be suffering in ways the scale doesn't capture. A dog who scores a 32 might have a diagnosis that's about to turn a corner with treatment. Use it as one lens, not the only one.
 
-The other tool worth knowing is the Cincinnati Children's Hospital-adapted scale that some veterinary practices now use for [chronic pain assessment](/blood-work-for-dogs-explained/). It's more behavior-specific and less reliant on subjective categories like "happiness," which some vets find more reliable. Research here is genuinely mixed on which tool is better. Most experienced practitioners I know use a combination of formal scoring and clinical gut.
+The other tool worth knowing is the Cincinnati Children's Hospital-adapted scale that some veterinary practices now use for [chronic pain assessment](/blood-work-for-dogs-explained/). It's more behavior-specific and less reliant on subjective categories like "happiness," which some vets find more reliable. Research here is genuinely mixed on which tool is better. Most experienced practitioners use a combination of formal scoring and clinical gut.
 
 ## Going Category by Category: What to Actually Watch For
 
@@ -55,7 +55,7 @@ Let me walk through the HHHHHMM categories in plain language, because the offici
 
 **Mobility** matters because immobility creates secondary problems fast. Pressure sores. Muscle atrophy. Loss of bowel function. But more than that, a dog who can't move can't get away from discomfort, can't get to their water bowl, can't reposition themselves. If mobility is impaired, the question is whether it's reversible (a post-surgical dog who needs two weeks of rest is not the same as a dog with advanced degenerative myelopathy who can't rise without help and is progressing).
 
-**More Good Days Than Bad.** This is the one most families tell me later was the clearest signal. When you start dreading checking on your dog in the morning, when you feel relief rather than joy after a hard day, when the bad days are reliably outnumbering the good ones, you already know something. Keeping a simple journal helps. Not elaborate, just a daily note: "good day" or "hard day" and one observation. After two weeks, patterns that were invisible become obvious.
+**More Good Days Than Bad.** This is the one most families say later was the clearest signal. When you start dreading checking on your dog in the morning, when you feel relief rather than joy after a hard day, when the bad days are reliably outnumbering the good ones, you already know something. Keeping a simple journal helps. Not elaborate, just a daily note: "good day" or "hard day" and one observation. After two weeks, patterns that were invisible become obvious.
 
 ## The "Just One More Day" Problem
 
@@ -77,7 +77,7 @@ Bring your quality of life notes if you've been keeping them. Bring video of you
 
 The ASPCA Animal Poison Control Center has a pet loss support line (888-478-7574) that extends beyond poison emergencies, and the AAHA's pet loss resources page is worth bookmarking if you're in this season with your dog.
 
-Somewhere in the middle of writing this, I thought about a lab named Otis whose owner I worked with for six months. She used the daily journal. She asked the hard question out loud. She made the call on a Tuesday afternoon in her backyard, with Otis in the grass in the sun. She told me later she was glad she didn't wait. That's what most families say, eventually. I hope it helps to hear that now, before you need it to.
+For example, consider an owner who tracked her lab's daily quality of life over several months. She used the daily journal. She asked the hard question out loud. She made the call on a Tuesday afternoon in her backyard, with Otis in the grass in the sun. She said later she was glad she didn't wait. That is what most families say, eventually. It may help to hear that now, before you need it to.
 
 ---
 

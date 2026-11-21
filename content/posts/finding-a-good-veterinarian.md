@@ -96,7 +96,7 @@ If you suspect a medication error or toxic exposure, the [ASPCA Poison Control C
 
 Finding a good vet isn't a one-time task. It's the start of an ongoing relationship, and you're an active participant in it.
 
-Keep a simple health journal for your pet. Note vaccine dates, medications, any symptoms you observed and when. This is gold when something changes later and your vet asks "how long has this been going on?" I can't tell you how many times a client's precise notes helped a vet catch something earlier.
+Keep a simple health journal for your pet. Note vaccine dates, medications, any symptoms you observed and when. This is gold when something changes later and your vet asks "how long has this been going on?" Precise notes from owners have helped vets catch problems earlier countless times.
 
 Be honest during visits. Many pet owners underreport how much their dog is begging at the table or aren't consistent with medication. Your vet can't help your pet if the picture you're giving them is incomplete. They're not judging you.
 

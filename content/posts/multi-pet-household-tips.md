@@ -26,13 +26,13 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Three cats and a dog under one roof sounds charming until 2 a.m. when the terrier is sprinting laps because the tabby ambushed him off the couch. I'll be honest: I spent years telling clients that multi-pet households "just take some adjustment," and while that's technically true, it undersells how deliberate you have to be about the setup. Most of the chaos I see in multi-pet homes isn't personality conflict. It's resource competition that nobody noticed until it got loud.
+Three cats and a dog under one roof sounds charming until 2 a.m. when the terrier is sprinting laps because the tabby ambushed him off the couch. That framing is technically true, but it undersells how deliberate you have to be about the setup. Most of the chaos in multi-pet homes isn't personality conflict. It's resource competition that nobody noticed until it got loud.
 
 What surprised me was how often people get the introduction right and then get everything else wrong. They do a careful slow intro with the new cat and the resident dog, keep them separated for a week, do scent swaps, the whole protocol. And then on day eight they plop both food bowls in the same corner of the kitchen and wonder why things deteriorated. The introduction is maybe 20% of the challenge. The other 80% is the ongoing management of space, resources, and health.
 
 ## The Resource Math That Actually Matters
 
-Here's the rule I give every multi-pet client: the number of feeding stations, water bowls, litter boxes, and resting spots should always exceed the number of animals. Not match. Exceed.
+The practical rule for multi-pet households is that the number of feeding stations, water bowls, litter boxes, and resting spots should always exceed the number of animals. Not match. Exceed.
 
 For cats specifically, the litter box guideline is n+1, where n is your number of cats. Two cats, three boxes. Four cats, five boxes. This guideline is widely repeated, but the spatial element often gets overlooked. Those boxes need to be in different rooms or at least different ends of the same room. Clustering three boxes in one bathroom gives a single cat the ability to guard all of them.
 
@@ -51,7 +51,7 @@ Water is underrated. Dogs are messy drinkers. A dog that splashes water all over
 
 Multi-species households bring a set of health complications that single-species homes don't deal with. Some are obvious, like the fact that dogs and cats have completely different vaccination schedules and parasite prevention needs. Some are less obvious.
 
-Flea prevention is the one I see mismanaged most dangerously. Permethrin, which is in many dog flea treatments and spot-ons, is acutely toxic to cats. Not "could cause some issues" toxic. Potentially fatal within hours toxic. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) lists permethrin as one of their most frequent cat toxicity calls. If you have a cat and a dog in the same house, you need flea products that are safe for both species to be in contact with, or you need to keep animals separated for the full drying time, typically 24-48 hours. Read the label. Every time.
+Flea prevention is one of the most dangerously mismanaged areas in multi-species households. Permethrin, which is in many dog flea treatments and spot-ons, is acutely toxic to cats. Not "could cause some issues" toxic. Potentially fatal within hours toxic. The [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control) lists permethrin as one of their most frequent cat toxicity calls. If you have a cat and a dog in the same house, you need flea products that are safe for both species to be in contact with, or you need to keep animals separated for the full drying time, typically 24-48 hours. Read the label. Every time.
 
 The other thing that surprises people is how contagious some conditions are across animals in the same household. Ringworm (which is a fungal infection, not a worm) spreads between cats, dogs, and humans. Upper respiratory infections spread between cats but generally not to dogs. Kennel cough, technically, can occasionally pass to cats in close-contact environments, though this is less common and the research here is genuinely mixed. The practical takeaway: when one animal is sick, separate them from the others sooner than feels necessary, and tell your vet at intake that you have other animals at home.
 

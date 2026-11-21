@@ -25,7 +25,7 @@ author_title: "Dog Behavior"
 author_bio: "Karen Lopez is the byline used at Pet Doctor Guide for articles on dog behavior and reward-based training, including reactivity and fear. It is a pen name, not a certified dog trainer; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
-A client walked in one spring afternoon with her cat, Miso, limp and drooling in a carrier lined with Easter grass. She'd put a beautiful lily arrangement on her dining table that morning. By evening, Miso had chewed on a few petals. She had no idea lilies were toxic. Most people don't. Within 72 hours of lily ingestion, a cat can go into acute kidney failure. Miso survived, but it was close, and it was expensive, and it was entirely preventable. I've told that story dozens of times in the exam room because it's the one that lands. People hear "plants can be toxic to cats" and mentally file it under "probably fine." This article is for the people who want to actually know what's in their homes.
+For example, imagine a cat brought into a clinic one spring afternoon, limp and drooling in a carrier lined with Easter grass. She'd put a beautiful lily arrangement on her dining table that morning. By evening, Miso had chewed on a few petals. She had no idea lilies were toxic. Most people don't. Within 72 hours of lily ingestion, a cat can go into acute kidney failure. The cat survived, but it was close, and it was expensive, and it was entirely preventable. Vets share that kind of story often because it's the one that lands. People hear "plants can be toxic to cats" and mentally file it under "probably fine." This article is for the people who want to actually know what's in their homes.
 
 ## The Plants That Can Kill Quickly (Treat These as True Emergencies)
 
@@ -124,7 +124,7 @@ A [basic pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+cat&tag
 
 ## Building a Safer Home: What to Replace and What to Choose Instead
 
-The best thing I can tell you is to take an afternoon and audit your home. Pull up a comprehensive toxin resource like [PetMD's veterinary library](https://www.petmd.com/) and search every plant you own.
+The best step is to take an afternoon and audit your home. Pull up a comprehensive toxin resource like [PetMD's veterinary library](https://www.petmd.com/) and search every plant you own.
 
 Some safe swaps for common toxic houseplants:
 
@@ -141,7 +141,7 @@ If you're set on keeping any mildly risky plants, placement matters. Cats can ju
 
 If you want to redirect your cat's chewing urges, cat grass kits or catnip plants are genuinely satisfying for them and completely safe. A [puzzle feeder](https://www.amazon.com/s?k=cat+puzzle+feeder&tag=contentportfo-20) can also redirect some of that restless energy that leads to plant chewing in the first place. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-You don't have to get rid of every plant in your home. Plenty of beautiful, low-maintenance plants are perfectly safe for cats. But the few that aren't? They're genuinely dangerous, and the consequences of a wrong assumption are severe. Miso's owner didn't know. Now you do. Take an hour this week, check your plants against a reliable toxin database, and make the swaps where it matters. Your cat can't read the labels. That job belongs to you.
+You don't have to get rid of every plant in your home. Plenty of beautiful, low-maintenance plants are perfectly safe for cats. But the few that aren't? They're genuinely dangerous, and the consequences of a wrong assumption are severe. Many owners don't know. Now you do. Take an hour this week, check your plants against a reliable toxin database, and make the swaps where it matters. Your cat can't read the labels. That job belongs to you.
 
 ---
 
@@ -154,7 +154,6 @@ You don't have to get rid of every plant in your home. Plenty of beautiful, low-
 - [puzzle feeder](https://www.amazon.com/s?k=cat+puzzle+feeder&tag=contentportfo-20)
 - [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
 - [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Your dog has been destroying the baseboards every time you leave for work. Or maybe she trembles through every thunderstorm, pressed into the corner of the closet, refusing to come out for hours. You've Googled "anxious dog" at midnight, overwhelmed by the sheer volume of conflicting advice, and you still don't know what to actually *do*. That's exactly what this article is for.
 
-Dog anxiety is one of the most common behavioral complaints I hear from pet owners in the clinic. It's also one of the most misunderstood. People assume anxious dogs are just "bad" dogs, or that the problem will resolve on its own. It rarely does. The good news is that there are real, evidence-backed options, ranging from simple environmental changes to prescription medication, and most dogs respond well when you find the right combination.
+Dog anxiety is one of the most common behavioral complaints vets hear from pet owners. It's also one of the most misunderstood. People assume anxious dogs are just "bad" dogs, or that the problem will resolve on its own. It rarely does. The good news is that there are real, evidence-backed options, ranging from simple environmental changes to prescription medication, and most dogs respond well when you find the right combination.
 
 ## Understanding What's Actually Going On
 
@@ -57,7 +57,7 @@ The two primary techniques are desensitization and counter-conditioning, and the
 
 **Counter-conditioning** pairs that trigger with something great. You leave, your dog gets a Kong stuffed with frozen peanut butter. Now "owner leaving" predicts "amazing food reward" instead of "world is ending."
 
-This process takes weeks, sometimes months. It demands daily practice. I know that's not what anyone wants to hear when their dog just chewed through a door frame. But dogs who go through proper behavior modification have far better long-term outcomes than dogs managed on medication alone.
+This process takes weeks, sometimes months, and demands daily practice, which is not what anyone wants to hear when their dog just chewed through a door frame. But dogs who go through proper behavior modification have far better long-term outcomes than dogs managed on medication alone.
 
 Working with a certified applied animal behaviorist (CAAB) or a veterinary behaviorist (Dip ACVB) is ideal for moderate to severe cases. For milder anxiety, a certified professional dog trainer (CPDT-KA) using force-free methods can guide you through the process effectively.
 
@@ -96,7 +96,7 @@ One important caution: never give your dog human anxiety supplements or medicati
 
 ## Prescription Medication: When to Take That Step
 
-There's still stigma around medicating an anxious dog. I want to address that directly. If your dog had arthritis, you wouldn't hesitate to give them pain medication. Anxiety is a medical condition. When it's severe, medication is appropriate, compassionate, and often necessary for behavior modification to even be possible. A dog in full panic can't learn.
+There's still stigma around medicating an anxious dog. It is worth addressing that directly. If a dog had arthritis, most owners would not hesitate to provide pain medication. Anxiety is a medical condition. When it's severe, medication is appropriate, compassionate, and often necessary for behavior modification to even be possible. A dog in full panic can't learn.
 
 Your regular vet can prescribe most commonly used anti-anxiety medications. A veterinary behaviorist can handle more complex cases.
 

@@ -30,7 +30,7 @@ Roughly 300,000 dogs in the United States test positive for [Lyme disease](/lyme
 
 Most articles on this topic spend too much time listing tick species and not enough time telling you what to actually do when your dog has been exposed, when to panic, and when to wait. Let's fix that.
 
-The hard truth is that tick-[borne diseases](/tick-borne-diseases-are-spreading-into-new-us-regions-in-2026/) in dogs are underdiagnosed, often because the signs are vague and easy to chalk up to "he's just having an off day." Dogs often present with two weeks of intermittent limping and mild lethargy that owners mistake for a sprain, only to test positive for both Lyme and Anaplasmosis on a 4Dx panel. This misdiagnosis is common.
+The hard truth is that tick-[borne diseases](/tick-borne-diseases-are-spreading-into-new-us-regions-in-2026/) in dogs are underdiagnosed, often because the signs are vague and easy to chalk up to "he's just having an off day." Dogs commonly present with two weeks of intermittent limping and mild lethargy that owners mistake for a sprain, only to test positive for both Lyme and Anaplasmosis on a 4Dx panel. This misdiagnosis is common.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Lyme disease affects roughly 300,000 dogs annually in the U.S., per CAPC surveillance data.</li><li style="margin:5px 0">Most tick-borne diseases are treatable with doxycycline when caught early; delayed treatment raises complication risk significantly.</li><li style="margin:5px 0">A dog can have 2+ tick-borne co-infections simultaneously, the 4Dx Plus test screens for four at once.</li><li style="margin:5px 0">Symptoms typically appear 1-3 weeks post-exposure; some dogs stay asymptomatic for months.</li><li style="margin:5px 0">Year-round tick prevention is now recommended in most U.S. regions, not just spring through fall.</li></ul></div>
 
@@ -68,15 +68,15 @@ Massachusetts clocking 84 positive Lyme tests per 1,000 dogs tested isn't abstra
 
 ## Recognizing the Signs (Including the Subtle Ones)
 
-This is where I'd push back on most symptom lists, which tend to read like medical dictionaries. In practice, the dogs that get missed are the ones whose owners describe them as "just a little off." Not screaming in pain. Just... quieter than usual. Eating slower. Less interested in the ball.
+Most symptom lists tend to read like medical dictionaries, which makes them easy to overlook in practice. The dogs that get missed are most often the ones whose owners describe them as "just a little off." Not screaming in pain. Just... quieter than usual. Eating slower. Less interested in the ball.
 
 A few scenarios worth knowing:
 
-Dog returns from a hiking trip in the Berkshires, normal for 10 days, then starts favoring a front leg intermittently. Owner assumes a sprain. Takes two weeks to come in. 4Dx positive for Lyme. Starts doxycycline, improves within 5 days. Full resolution in 3 weeks. This is the best-case presentation.
+For example, a dog might return from a hiking trip in the Berkshires, appear normal for 10 days, then start favoring a front leg intermittently. The owner assumes a sprain. It takes two weeks to come in. The 4Dx panel comes back positive for Lyme. The dog starts doxycycline and improves within 5 days. Full resolution follows within 3 weeks. This is the best-case presentation.
 
-Dog adopted from a rescue that pulled from rural Tennessee. Six weeks post-adoption, comes in for lethargy and mild nosebleed. CBC shows platelet count of 28,000 (normal is 175,000-500,000). 4Dx positive for Ehrlichia. Hospitalized two nights for supportive care, doxycycline for 6 weeks. Platelets normalize by week 4. That dog was in the subclinical phase before the adoption, nobody knew.
+For example, a dog adopted from a rescue that pulled from rural Tennessee might go six weeks post-adoption before showing symptoms. At six weeks post-adoption, the dog presents for lethargy and a mild nosebleed. A CBC shows a platelet count of 28,000 (normal is 175,000-500,000). The 4Dx panel is positive for Ehrlichia. The dog is hospitalized two nights for supportive care and treated with doxycycline for 6 weeks. Platelets normalize by week 4. In this scenario, the dog was in the subclinical phase before the adoption, and nobody knew.
 
-Outdoor dog in North Carolina. Owner brings her in because "her face looks puffy and she has a fever of 104.7." RMSF suspected immediately based on clinical signs and geography. Doxycycline started before bloodwork returned. She was discharged three days later. If that owner had waited until Monday, the outcome would likely have been different.
+Consider an outdoor dog in North Carolina. The owner brings her in because "her face looks puffy and she has a fever of 104.7." RMSF is suspected immediately based on clinical signs and geography. Doxycycline started before bloodwork returned. She was discharged three days later. If that owner had waited until Monday, the outcome would likely have been different.
 
 The lesson across all three: timing matters more than any specific symptom.
 

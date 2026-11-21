@@ -61,7 +61,7 @@ Benadryl makes a lot of products and many aren't safe for dogs:
 
 **Benadryl Itch Stopping Cream or Spray** is topical and meant for humans. It's not appropriate to apply to your dog's skin because they'll lick it off and the concentration isn't meant for ingestion.
 
-Buy the plain, original Benadryl tablets (the pink ones) or the generic store brand diphenhydramine. CVS, Walgreens, and Target all carry 25 mg diphenhydramine for a few dollars per box. You don't need a brand name here at all. I keep a basic pet first aid kit stocked at home and diphenhydramine tablets are part of it.
+Buy the plain, original Benadryl tablets (the pink ones) or the generic store brand diphenhydramine. CVS, Walgreens, and Target all carry 25 mg diphenhydramine for a few dollars per box. You don't need a brand name here at all. Keeping a basic pet first aid kit stocked with diphenhydramine tablets is a practical step for dog owners.
 
 ## What Benadryl Actually Does For Allergies in Dogs
 
@@ -84,8 +84,6 @@ The drug is also sedating, which is partly why it helps: a sleepy dog scratches 
 | Difficulty breathing, wheezing, or labored panting | No | Go to emergency vet immediately |
 | Collapse, weakness, or trembling | No | Go to emergency vet immediately |
 | Pale or bluish gums | No | Go to emergency vet immediately |
-
-I want to be really clear about this because it matters.
 
 Benadryl is appropriate for:
 - Mild hives or skin redness with no other symptoms
@@ -112,7 +110,7 @@ Dogs with certain conditions shouldn't have Benadryl without a vet's approval: g
 
 One more thing: if you've been giving Benadryl for more than a few days and you're not seeing improvement, that's useful information for your vet, not a sign to keep increasing the dose. Chronic allergy management in dogs has gotten much more effective in the last decade. Cytopoint and Apoquel are prescription options that work dramatically better for many dogs than antihistamines ever did. They're not cheap (Cytopoint injections typically run $60-150 depending on your dog's size and your area), but for a dog who's miserable every allergy season, they're worth asking about.
 
-If there's one thing I want you to take from all this, it's that Benadryl is a reasonable, vet-approved tool for mild allergic reactions in dogs, but it has limits. Know your dog's weight, check that label carefully, and if things look like more than garden-variety allergies, don't second-guess yourself about going in. Your instincts about your own pet are usually right.
+Benadryl is a reasonable, vet-approved tool for mild allergic reactions in dogs, but it has limits. Know your dog's weight, check that label carefully, and if things look like more than garden-variety allergies, don't second-guess yourself about going in. Your instincts about your own pet are usually right.
 
 ## Sources
 

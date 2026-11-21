@@ -26,7 +26,7 @@ faqs:
     a: "The list is long: idiopathic epilepsy (genetic, no identifiable cause), brain tumors, liver disease, low blood sugar, toxin ingestion, encephalitis, and head trauma are among the most common. That's exactly why a vet workup after a first seizure matters; the cause changes the entire treatment approach."
 ---
 
-Your dog just had a seizure. Or maybe you're reading this because you're terrified it might happen someday, and you want to be ready. Either way, you're in the right place, and I want you to take a breath first, because what I'm about to walk you through is manageable. I've been a vet tech for 13 years, and I've talked a lot of panicking people through this exact moment. The fear you're feeling [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/) makes complete sense. Watching a dog seize is one of the most frightening things a pet owner can experience, and almost everyone's first instinct is to do the wrong thing.
+Your dog just had a seizure. Or maybe you're reading this because you're terrified it might happen someday, and you want to be ready. Either way, you're in the right place, and I want you to take a breath first, because what I'm about to walk you through is manageable. Vet techs and veterinarians talk a lot of panicking people through this exact moment. The fear you're feeling [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/) makes complete sense. Watching a dog seize is one of the most frightening things a pet owner can experience, and almost everyone's first instinct is to do the wrong thing.
 
 Here's the good news: most seizures in dogs stop on their own within one to two minutes, and your job during that time is mostly to protect your dog from hurting themselves, stay calm, and pay attention to the clock. That's genuinely it. You don't have to fix the seizure. You just have to keep things safe while it passes.
 
@@ -46,11 +46,11 @@ There are different types of seizures. Generalized tonic-clonic (what most peopl
 
 Keep your hands away from the mouth. Move furniture, sharp objects, or stairs out of the immediate area if you safely can. If the dog is near a staircase, try to block access, but don't restrain the dog's movements forcibly, because that can cause injury. If the dog is small enough and actively moving toward danger, you can gently guide them away with a blanket or towel between you and them.
 
-Start timing immediately. I mean the second you realize what's happening. If you can get your phone in your hand to run a stopwatch, do it. Your vet is going to ask "how long did it last?" and "I'm not sure, maybe a couple minutes?" is genuinely less useful than "1 minute 42 seconds." That specificity changes the clinical picture.
+Start timing immediately, from the second you realize what's happening. If you can get your phone in your hand to run a stopwatch, do it. Your vet is going to ask "how long did it last?" and "I'm not sure, maybe a couple minutes?" is genuinely less useful than "1 minute 42 seconds." That specificity changes the clinical picture.
 
 Keep the room as calm and dim as you can. Noise and bright light can sometimes extend the post-ictal phase (the recovery period after the seizure), and dogs are often disoriented and frightened when they come out of one. Don't crowd them. Don't let kids run up. Speak softly. The dog may not recognize you for a few minutes, and that's normal.
 
-If you can, film it. I know that sounds cold, but a 30-second video showing the type and character of the movements is one of the most useful things you can bring to your vet appointment. It helps enormously with diagnosis and deciding whether this is idiopathic epilepsy versus something structural.
+If possible, film it, because a 30-second video showing the type and character of the movements is one of the most useful things to bring to a vet appointment. It helps enormously with diagnosis and deciding whether this is idiopathic epilepsy versus something structural.
 
 ## When It's an Emergency vs. When to Call Monday Morning
 
@@ -75,7 +75,7 @@ After the seizure ends, your dog will likely seem "not right" for anywhere from 
 
 Don't panic about this phase. It's normal. Don't try to feed them right away, because a disoriented dog can choke. Keep them in a safe, quiet space. Sit with them calmly if they want comfort, but don't force it. The post-ictal phase resolves on its own, and most dogs are largely back to themselves within an hour.
 
-One thing I always tell people: write down the post-ictal behavior, too. How long it lasted, what it looked like. Your vet wants that information, and most people forget to mention it.
+Write down the post-ictal behavior, too. How long it lasted, what it looked like. Your vet wants that information, and most people forget to mention it.
 
 ## Communicating With Your Vet Afterward
 
@@ -83,7 +83,7 @@ If this was a first-ever seizure, your vet is going to want a full workup. For a
 
 For dogs already diagnosed with epilepsy, keep a seizure log. Date, time, duration, description of type, recovery time. Apps like SeizureTracker (yes, it's designed for humans, but it works for dogs too) can make this easier. If your dog is on phenobarbital or potassium bromide, your vet needs this log at every recheck, because medication adjustments are driven by frequency data. [PetMD's veterinary resource library](https://www.petmd.com/) has a good plain-language breakdown of canine epilepsy management if you want to understand the "why" behind what your vet is recommending.
 
-One thing I wish someone had told me early in my career: don't downplay seizures to your vet because you don't want to seem "dramatic." I've heard so many clients say "it was probably nothing" about an episode that was clearly something. Tell your vet everything. Duration, character, what the dog did after. More information is always better.
+It is important not to downplay seizures to your vet out of fear of seeming "dramatic." Owners often say "it was probably nothing" about an episode that was clearly something. Tell your vet everything. Duration, character, what the dog did after. More information is always better.
 
 ## Sources
 

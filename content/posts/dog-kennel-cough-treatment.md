@@ -30,7 +30,7 @@ Most dogs who get [kennel cough](/kennel-cough-symptoms-and-how-long-it-lasts-in
 
 That doesn't mean you ignore it. It means you triage it like an adult.
 
-I'll be honest: I used to reflexively tell every owner to come in immediately. Then I spent a few years really tracking outcomes in our practice, and what surprised me was how many of the mild-to-moderate cases we treated with antibiotics "just in case" recovered on exactly the same timeline as dogs that got rest and honey water. The research here is genuinely mixed on routine antibiotic use for uncomplicated kennel cough, and the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has acknowledged that antimicrobial stewardship matters, even in veterinary practice.
+ Research and clinical observation have shown that many mild-to-moderate cases treated with antibiotics "just in case" recovered on exactly the same timeline as dogs that got rest and honey water. The research here is genuinely mixed on routine antibiotic use for uncomplicated kennel cough, and the [American Veterinary Medical Association (AVMA)](https://www.avma.org/) has acknowledged that antimicrobial stewardship matters, even in veterinary practice.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most healthy adult dogs recover from kennel cough in 1-3 weeks with supportive home care.</li><li style="margin:5px 0">Antibiotics are not always necessary; reserve them for severe cases, puppies, seniors, or immunocompromised dogs.</li><li style="margin:5px 0">A productive-sounding cough with clear discharge is generally less alarming than lethargy, fever, or yellow/green nasal discharge.</li><li style="margin:5px 0">Honey (1/2 teaspoon for small dogs, 1 tablespoon for large dogs) can help soothe irritated airways.</li><li style="margin:5px 0">Call your vet immediately if your dog stops eating, runs a fever above 103°F, or the cough worsens after day 5.</li></ul></div>
 
@@ -44,21 +44,21 @@ The real red flags: fever over 103°F, labored breathing, yellow or green nasal 
 
 ## Home Treatment That Actually Works
 
-Here's the real-world protocol I've walked hundreds of owners through, current as of August 2026.
+Here is a practical home care protocol for uncomplicated kennel cough, current as of August 2026.
 
 **Rest and isolation first.** Kennel cough is highly contagious to other dogs for roughly 2 weeks from symptom onset, even after the cough improves. Keep your dog away from other dogs. No dog parks, no daycare, no shared water bowls.
 
-**Honey.** I know it sounds like folk medicine. Stick with me. A small amount of raw honey (local or manuka) coats the irritated throat and has mild antimicrobial properties. For dogs under 20 lbs, about half a teaspoon two or three times daily. For larger dogs, up to a tablespoon. Stir it into warm water or let them lick it off a spoon. Don't use it in diabetic dogs or puppies under 1 year.
+**Honey.** It may sound like folk medicine. Stick with me. A small amount of raw honey (local or manuka) coats the irritated throat and has mild antimicrobial properties. For dogs under 20 lbs, about half a teaspoon two or three times daily. For larger dogs, up to a tablespoon. Stir it into warm water or let them lick it off a spoon. Don't use it in diabetic dogs or puppies under 1 year.
 
 **Humidity.** Run a humidifier near where your dog sleeps, or let them hang out in the bathroom during a hot shower. The moist air loosens the junk in their airways and reduces cough frequency. This can make a noticeable difference within 24 to 48 hours, and it costs nothing if you already have a humidifier.
 
 **Collar to harness.** Pressure on the trachea from a collar makes that cough worse. Switch your dog to a harness for walks until they're fully recovered.
 
-**Cough suppressants.** This is where I want you to call your vet before acting. Robitussin DM (dextromethorphan only, NOT with guaifenesin or acetaminophen) is sometimes recommended in dogs at approximately 0.5 to 1 mg per pound every 8 hours, but I would not give this without at least a phone consult first. Some vets are fine with it; others aren't. Do not guess on this one.
+**Cough suppressants.** This is where calling your vet before acting is essential. Robitussin DM (dextromethorphan only, NOT with guaifenesin or acetaminophen) is sometimes recommended in dogs at approximately 0.5 to 1 mg per pound every 8 hours, But it should not be given without at least a phone consult with a vet first. Some vets are fine with it; others aren't. Do not guess on this one.
 
 **Avoid smoke and aerosols.** Candles, cleaning sprays, secondhand smoke: all of them irritate an already-angry airway. Treat your dog like a patient recovering from laryngitis.
 
-**Example:** A reader named Petra emailed me last spring about her 4-year-old Beagle mix who developed a classic honking cough two days after boarding. She did the honey, humidifier, harness swap, and rest routine. Her vet confirmed kennel cough over the phone and said to monitor. The cough peaked around day 4, then steadily improved. By day 11, it was gone. No antibiotics, no office visit, no complications.
+**Example:** For instance, if a healthy 4-year-old Beagle mix develops a classic honking cough two days after boarding, a vet confirms kennel cough over the phone and advises monitoring. Using the honey, humidifier, harness swap, and rest routine is a reasonable supportive approach.  The cough would typically peak around day 4, then steadily improve. By day 11, it is often fully resolved. In uncomplicated cases like this, no antibiotics or office visit may be needed.
 
 ## When Antibiotics Are the Right Call
 
@@ -75,11 +75,11 @@ Dogs who should be seen promptly and will likely need medication:
 
 The most commonly prescribed antibiotics are doxycycline (typically 5 mg/kg twice daily for 7 to 10 days) or amoxicillin-clavulanate (Clavamox). Doxycycline is generally the first choice for *Bordetella* specifically. Some vets add an anti-inflammatory like Meloxicam if there's significant irritation. The [AAHA hospital accreditation standards](https://www.aaha.org/) encourage vets to document antimicrobial prescribing rationale, which means your vet should be able to explain why they're prescribing, not just reflexively handing you a bottle.
 
-**Example:** A 2-year-old Frenchie came into our clinic three years ago with what looked like typical kennel cough, but the owner mentioned he'd been lethargic since day 1. Respiratory rate was elevated. We did chest X-rays and found early bronchopneumonia. He needed 14 days of doxycycline and a week of nebulization treatment. He recovered fully, but the outcome changes fast if you wait on a dog that's already struggling to breathe.
+**Example:** For instance, a 2-year-old Frenchie presenting with what looks like typical kennel cough but with lethargy from day 1 warrants closer attention. Respiratory rate was elevated. Chest X-rays in such a case might reveal early bronchopneumonia. A dog in this situation may need 14 days of doxycycline and a week of nebulization treatment. Full recovery is possible, but the outcome can change fast if treatment is delayed for a dog already struggling to breathe.
 
 ## Cost Comparison: Home Care vs. Vet Visit
 
-Costs vary significantly by region, but here's a realistic breakdown based on what I see in general practice as of 2026.
+Costs vary significantly by region, but here is a realistic breakdown based on typical general practice figures as of 2026.
 
 | Approach | Typical Cost Range | What You Get |
 |---|---|---|
