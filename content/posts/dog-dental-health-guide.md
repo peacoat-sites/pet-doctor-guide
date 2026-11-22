@@ -1,5 +1,5 @@
 ---
-title: "Keep Your Dog's Teeth Healthy: A Vet's Guide"
+title: "Keep Your Dog's Teeth Healthy: A Complete Dental Care Guide"
 date: 2026-05-22T15:31:36.663117+00:00
 draft: false
 description: "Keep your dogs teeth clean and healthy with our complete dental care guide. Learn brushing tips, warning signs, and vet-recommended treatments for better oral h"

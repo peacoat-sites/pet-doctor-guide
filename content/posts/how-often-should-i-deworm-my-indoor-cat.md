@@ -1,5 +1,5 @@
 ---
-title: "Indoor Cat Deworming: A Vet's Schedule Guide"
+title: "Indoor Cat Deworming: How Often and on What Schedule"
 date: 2026-06-05T19:14:29.845419+00:00
 draft: false
 description: "Find out how often you should deworm your indoor cat, which worms to watch for, signs of infection, and the best treatment options to keep your cat healthy."

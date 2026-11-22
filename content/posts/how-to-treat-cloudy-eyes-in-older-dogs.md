@@ -2,7 +2,7 @@
 title: "Clear Your Senior Dog's Vision: Cloudy Eye Treatments"
 date: 2026-07-02T18:51:02.903078+00:00
 draft: false
-description: "Learn how to treat cloudy eyes in older dogs with vet-approved tips, causes, and care options to help protect your senior dogs vision and health."
+description: "Learn how to treat cloudy eyes in older dogs with practical tips, causes, and care options to help protect your senior dogs vision and health."
 image: "/img/heroes/20635787.jpg"
 categories: ["Eye Health"]
 tags: ["treat", "cloudy", "eyes", "older", "dogs"]

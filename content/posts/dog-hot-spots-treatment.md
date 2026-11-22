@@ -2,7 +2,7 @@
 title: "Stop Dog Hot Spots Before They Spread"
 date: 2026-06-25T19:19:27.741905+00:00
 draft: false
-description: "Learn how to treat dog hot spots fast with vet-approved remedies, home care tips, and prevention strategies to keep your pup comfortable and heal."
+description: "Learn how to treat dog hot spots fast with simple remedies, home care tips, and prevention strategies to keep your pup comfortable and heal."
 image: "/img/heroes/6125775.jpg"
 categories: ["Skin Conditions"]
 tags: ["spots", "treatment"]
