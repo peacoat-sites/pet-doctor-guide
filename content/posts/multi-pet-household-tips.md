@@ -1,5 +1,5 @@
 ---
-title: "Keep Multiple Pets Healthy: Essential Vet Care Tips"
+title: "Multi-Pet Household Tips for Health and Harmony"
 date: 2026-06-24T19:02:15.731570+00:00
 draft: false
 description: "Keep dogs, cats, and small pets happy under one roof with feeding, space, and intro tips that reduce stress for every animal in your home."

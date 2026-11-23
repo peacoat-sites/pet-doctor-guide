@@ -42,7 +42,7 @@ Fat content should be below 10% on a dry matter basis for dogs with a documented
 
 To find dry matter fat, take the guaranteed analysis on the bag, subtract the moisture percentage from 100, then divide the stated fat percentage by that number and multiply by 100. It's tedious. But it's the actual number that matters, not the marketing language on the front of the bag.
 
-A few commercial foods that consistently come up in low-fat feeding: Royal Canin Gastrointestinal Low Fat (around 7% fat on a dry matter basis), Hill's i/d Low Fat, and Purina Pro Plan EN Gastroenteric Low Fat. These are prescription diets, so you'll need your vet on board, which is reasonable given the stakes. Over-the-counter options like Natural Balance Fat Dog or Merrick [Grain Free](/grain-free-vs-grain-inclusive-dog-food-which-is-better/) Chicken are sometimes recommended, but check the math yourself every time a formula changes, because manufacturers quietly reformulate.
+A few commercial foods that consistently come up in low-fat feeding: Royal Canin Gastrointestinal Low Fat (around 7% fat on a dry matter basis), Hill's i/d Low Fat, and Purina Pro Plan EN Gastroenteric Low Fat. These are prescription diets, so you'll need your vet on board, which is reasonable given the stakes. Over-the-counter options like Natural Balance Fat Dog or Merrick Grain Free Chicken are sometimes recommended, but check the math yourself every time a formula changes, because manufacturers quietly reformulate.
 
 ## Frequency and Portions: The Underrated Variable
 

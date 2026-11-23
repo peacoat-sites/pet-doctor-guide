@@ -1,5 +1,5 @@
 ---
-title: "Is Your Dog Itching? Common Allergy Signs and Relief Options"
+title: "Dog Allergies Symptoms and Treatment Options Explained"
 date: 2026-05-27T22:34:34.545860+00:00
 draft: false
 description: "Dog allergies can cause itching, rashes, and ear infections. Learn to identify symptoms in your pet and discover effective treatment options from your vet."

@@ -14,7 +14,7 @@ slug: "felpreva-what-cat-owners-should-know-about-the-new-fda-approved-parasi"
 affiliate_disclosure: true
 ---
 
-The FDA approved Felpreva on November 16, 2026, and if you share your home with a cat, this is worth paying attention to. Virbac's new prescription topical is the first product of its kind cleared for use in American cats: a single spot-on [that covers](/pet-insurance-that-covers-pre-existing-conditions-options/) fleas, ticks, ear mites, roundworms, and tapeworms all at once, applied just four times a year. That's a meaningful departure from the current reality for most cat owners, who piece together separate monthly flea treatments, periodic deworming, and the occasional vet visit to address whatever parasite slipped through.
+The FDA approved Felpreva on November 16, 2026, and if you share your home with a cat, this is worth paying attention to. Virbac's new prescription topical is the first product of its kind cleared for use in American cats: a single spot-on that covers fleas, ticks, ear mites, roundworms, and tapeworms all at once, applied just four times a year. That's a meaningful departure from the current reality for most cat owners, who piece together separate monthly flea treatments, periodic deworming, and the occasional vet visit to address whatever parasite slipped through.
 
 The timing matters. Veterinary Practice News reported the approval on November 16, 2026, the same day the FDA made it official, and Virbac's own press release confirmed the product is being positioned for U.S. distributor rollout in 2027. So Felpreva isn't something you can pick up this week, but it's close enough that understanding what it is, who it's for, and what it actually does will help you have a smarter conversation with your vet when it does arrive.
 
@@ -51,7 +51,7 @@ If your cat has a history of neurological issues or takes other medications, bri
 
 ## The EU Track Record
 
-Felpreva has been sold in Europe since its EU authorization, giving American [cat owners](/new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/) a body of real-world data beyond the controlled clinical trials that supported FDA approval. That four-year head start in those markets gives American cat owners something useful: a population of cats who've already received the product, and a body of real-world data beyond the controlled clinical trials that supported FDA approval.
+Felpreva has been sold in Europe since its EU authorization, giving American cat owners a body of real-world data beyond the controlled clinical trials that supported FDA approval. That four-year head start in those markets gives American cat owners something useful: a population of cats who've already received the product, and a body of real-world data beyond the controlled clinical trials that supported FDA approval.
 
 This doesn't mean every concern is settled. Post-market surveillance in the EU has continued, as it does with any veterinary pharmaceutical. But the EU availability does mean that the product isn't brand-new to the world when it arrives in U.S. clinics, and your vet may already have access to European clinical literature if you want to look deeper.
 
@@ -61,7 +61,7 @@ Thinking about annual costs is legitimate here. A quarterly prescription topical
 
 If you want a clearer picture of your overall annual pet costs before making decisions about premium prescription products, the [Cost Owning Dog Cat](/cost-of-owning-a-dog-cat/) tool can help you model those numbers more realistically for a cat.
 
-The prescription requirement also means a [vet visit](/your-dogs-first-vet-visit-guide/) is part of the upfront cost. For cats who are already seen annually, that may be baked in. For cats who only see a vet when something's wrong, budget for the exam.
+The prescription requirement also means a vet visit is part of the upfront cost. For cats who are already seen annually, that may be baked in. For cats who only see a vet when something's wrong, budget for the exam.
 
 ## When to Ask Your Vet About Felpreva
 

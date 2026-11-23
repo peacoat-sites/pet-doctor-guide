@@ -36,7 +36,7 @@ The good news: when caught and treated correctly, anaplasmosis responds quickly.
 
 ## What's Actually Happening Inside Your Dog
 
-Anaplasmosis in dogs is caused by two distinct bacterial species, and they do different things, which matters for understanding symptoms. *Anaplasma phagocytophilum* infects [white blood](/what-does-a-high-white-blood-cell-count-mean-in-dogs/) cells (specifically neutrophils) and is transmitted by the black-legged tick (Ixodes scapularis in the East, Ixodes pacificus on the West Coast). *Anaplasma platys* infects platelets and is spread by the brown dog tick. The American Veterinary Medical Association recognizes both as significant tick-borne pathogens, though A. phagocytophilum is by far the more commonly diagnosed of the two.
+Anaplasmosis in dogs is caused by two distinct bacterial species, and they do different things, which matters for understanding symptoms. *Anaplasma phagocytophilum* infects white blood cells (specifically neutrophils) and is transmitted by the black-legged tick (Ixodes scapularis in the East, Ixodes pacificus on the West Coast). *Anaplasma platys* infects platelets and is spread by the brown dog tick. The American Veterinary Medical Association recognizes both as significant tick-borne pathogens, though A. phagocytophilum is by far the more commonly diagnosed of the two.
 
 The white blood cell version causes fever, lethargy, joint pain, and sometimes vomiting. The platelet version is sneakier. It causes something called cyclic thrombocytopenia, meaning platelet counts drop in cycles, and you might see bruising, nosebleeds, or blood in the urine before anything else seems obviously wrong.
 

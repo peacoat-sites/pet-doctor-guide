@@ -1,5 +1,5 @@
 ---
-title: "Kennel Cough In Dogs: Signs, Duration, And Recovery"
+title: "Kennel Cough in Dogs: Symptoms, Duration, and Recovery"
 date: 2026-06-12T19:26:36.669068+00:00
 draft: false
 description: "Learn to spot kennel cough symptoms in dogs, including honking cough and runny nose, and find out how long it typically lasts before your dog fully recovers."

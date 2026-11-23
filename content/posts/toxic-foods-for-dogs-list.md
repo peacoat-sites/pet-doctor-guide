@@ -1,5 +1,5 @@
 ---
-title: "Foods Your Dog Should Never Eat"
+title: "Toxic Foods for Dogs: A List Every Owner Should Know"
 date: 2026-05-19T18:24:34.164198+00:00
 draft: false
 description: "Keep your dog safe by knowing which foods are toxic to them. Discover our complete list of dangerous foods dogs should never eat, including chocolate, grapes, a"

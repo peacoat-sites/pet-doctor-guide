@@ -35,7 +35,7 @@ X-rays are excellent at showing dense structures. Bones, foreign objects, the ov
 
 Ultrasound works differently. It uses high-frequency sound waves, usually in the range of 5 to 15 megahertz for small animals, that bounce off internal structures and return to a sensor. The machine converts those returning waves into a real-time image. You can actually watch the heart beating, see blood moving through vessels, and observe the texture of liver or spleen tissue in ways that simply aren't possible with radiographs.
 
-This is why ultrasound and X-rays are often used together. They answer different questions. [A chest X-ray](/pet-x-ray-costs/) might show fluid around the heart. The ultrasound shows the heart itself, whether the chambers are functioning normally, and whether the fluid is coming from inside or outside the cardiac sac.
+This is why ultrasound and X-rays are often used together. They answer different questions. A chest X-ray might show fluid around the heart. The ultrasound shows the heart itself, whether the chambers are functioning normally, and whether the fluid is coming from inside or outside the cardiac sac.
 
 ## What Conditions Vets Use Ultrasound to Diagnose
 

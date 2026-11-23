@@ -1,5 +1,5 @@
 ---
-title: "Why Your Dog Is Limping and How to Help"
+title: "Dog Limping Causes and Treatment: How to Help Your Dog"
 date: 2026-05-22T20:21:17.597267+00:00
 draft: false
 description: "Find out why your dog is limping, from minor injuries to serious conditions, and discover the best treatment options to help your pet recover quickly and safely"

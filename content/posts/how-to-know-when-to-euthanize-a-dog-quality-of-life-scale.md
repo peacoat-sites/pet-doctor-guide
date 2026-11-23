@@ -1,5 +1,5 @@
 ---
-title: "When Should You Say Goodbye? A Dog Quality Of Life Guide"
+title: "How to Know When to Euthanize a Dog: Quality of Life Guide"
 date: 2026-06-04T12:19:06.563705+00:00
 draft: false
 description: "Discover how to use a dog quality of life scale to help you make the difficult decision of when to euthanize your dog with compassion and clarity."
@@ -37,13 +37,13 @@ Quality of life scales can be polarizing. For some families, putting a number on
 
 Here's what the scale can't do: it can't make the decision for you. It's a framework for observation, not a verdict. A dog who scores a 38 might be suffering in ways the scale doesn't capture. A dog who scores a 32 might have a diagnosis that's about to turn a corner with treatment. Use it as one lens, not the only one.
 
-The other tool worth knowing is the Cincinnati Children's Hospital-adapted scale that some veterinary practices now use for [chronic pain assessment](/blood-work-for-dogs-explained/). It's more behavior-specific and less reliant on subjective categories like "happiness," which some vets find more reliable. Research here is genuinely mixed on which tool is better. Most experienced practitioners use a combination of formal scoring and clinical gut.
+The other tool worth knowing is the Cincinnati Children's Hospital-adapted scale that some veterinary practices now use for chronic pain assessment. It's more behavior-specific and less reliant on subjective categories like "happiness," which some vets find more reliable. Research here is genuinely mixed on which tool is better. Most experienced practitioners use a combination of formal scoring and clinical gut.
 
 ## Going Category by Category: What to Actually Watch For
 
 Let me walk through the HHHHHMM categories in plain language, because the official descriptions can be a little abstract.
 
-**Hurt** is about [pain management](/best-supplements-for-senior-dogs-with-arthritis/). Can your dog's pain be controlled with medication? Is your dog panting at rest, crying out, refusing to be touched in areas that weren't previously sensitive? Panting at night is something a lot of owners miss, because they're asleep. If you can, check in at 2 a.m. a few nights in a row. A dog in chronic pain often can't fully rest, and nighttime restlessness is one of the clearest signs I see families overlook.
+**Hurt** is about pain management. Can your dog's pain be controlled with medication? Is your dog panting at rest, crying out, refusing to be touched in areas that weren't previously sensitive? Panting at night is something a lot of owners miss, because they're asleep. If you can, check in at 2 a.m. a few nights in a row. A dog in chronic pain often can't fully rest, and nighttime restlessness is one of the clearest signs I see families overlook.
 
 **Hunger** doesn't just mean whether your dog eats. It means whether they're taking in enough nutrition to sustain themselves without force-feeding. A dog who picks at food when hand-fed or coaxed is different from a dog who's refusing everything entirely. Appetite loss can also be driven by nausea, oral pain, or medication side effects, so before you score this low, ask your vet whether there's a treatable cause.
 

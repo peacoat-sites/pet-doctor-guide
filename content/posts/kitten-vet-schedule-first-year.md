@@ -81,7 +81,7 @@ Many new owners assume their indoor kitten doesn't need parasite prevention. Tha
 
 A fresh fecal sample at each of those early visits is not optional busywork. It's one of the most important tests run during the first few months. Bring a sample the size of a grape (collected within 12 hours of the appointment if possible) in a clean plastic bag or container.
 
-For [ongoing flea prevention](/how-often-should-i-deworm-my-indoor-cat/), talk to your vet about an appropriate monthly topical or oral product. Many over-the-counter flea products sold in grocery stores contain permethrin, which is highly toxic to cats. The ASPCA Poison Control Center lists permethrin as one of the most common causes of feline toxicity calls they receive. Stick with vet-recommended products.
+For ongoing flea prevention, talk to your vet about an appropriate monthly topical or oral product. Many over-the-counter flea products sold in grocery stores contain permethrin, which is highly toxic to cats. The ASPCA Poison Control Center lists permethrin as one of the most common causes of feline toxicity calls they receive. Stick with vet-recommended products.
 
 If you want to keep a good pet first aid kit on hand at home, make sure it includes a rectal thermometer, saline eye wash, and a phone number for an emergency vet. Kittens have a talent for getting into things at inconvenient hours.
 

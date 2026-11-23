@@ -33,7 +33,7 @@ A lot of pet owners think flea and tick prevention is a warm-weather job. They s
 
 Ticks are even more resilient. The black-legged tick, commonly called the deer tick and the primary carrier of Lyme disease, stays active whenever temperatures are above 35°F. That's most of winter in many parts of the country. The American dog tick tends to be more seasonal, but geographic tick ranges have been shifting noticeably over the past decade.
 
-If your dog goes outside at all, they're at risk. Year-round prevention isn't upselling. It's the practical standard, and it's what AAHA hospital accreditation standards recommend as part of a [complete preventive care plan](/dog-annual-physical-exam-guide/) for dogs in endemic areas.
+If your dog goes outside at all, they're at risk. Year-round prevention isn't upselling. It's the practical standard, and it's what AAHA hospital accreditation standards recommend as part of a complete preventive care plan for dogs in endemic areas.
 
 ## The Main Types of Prevention Products: A Honest Comparison
 

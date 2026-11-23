@@ -67,13 +67,13 @@ For owners looking for reliable supply, [Heartgard Plus chewables are available 
 
 ## The Annual Heartworm Test: Why You Actually Need It Every Year
 
-Your vet wants [annual heartworm tests](/how-often-should-dog-go-to-vet/) even if your dog's been on prevention the whole time. Lots of owners balk at this. It feels like waste if you've been careful. Here's why it actually matters.
+Your vet wants annual heartworm tests even if your dog's been on prevention the whole time. Lots of owners balk at this. It feels like waste if you've been careful. Here's why it actually matters.
 
 No preventive works 100% of the time, in every situation. Dogs spit out chewables and you miss it. A topical washes off before it's fully absorbed. You were late on a dose during a chaotic month. The test catches prevention failures before they become serious infections.
 
 Testing is also required before starting prevention on any dog with an unknown history, which matters a lot for rescues and adoptions. The standard test is an antigen test, which detects proteins from adult female worms. It's a quick in-clinic blood draw that takes about eight minutes. A separate microfilaria test (looking for larvae in the bloodstream) might also run. Neither hurts and both are reliable when done right.
 
-The American Heartworm Society recommends annual testing. AAHA hospital accreditation standards include heartworm screening as part of preventive care, so you know the veterinary profession takes this seriously. If your clinic is AAHA-accredited, this testing is built into their [wellness visit](/dog-annual-physical-exam-guide/) structure by design.
+The American Heartworm Society recommends annual testing. AAHA hospital accreditation standards include heartworm screening as part of preventive care, so you know the veterinary profession takes this seriously. If your clinic is AAHA-accredited, this testing is built into their wellness visit structure by design.
 
 ## Step-by-Step: Starting Your Dog on Heartworm Prevention
 

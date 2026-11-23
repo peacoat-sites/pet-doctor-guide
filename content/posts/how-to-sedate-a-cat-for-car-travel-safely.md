@@ -66,7 +66,7 @@ Do the trial on a normal day at home, 1-2 weeks before the trip. Give the prescr
 
 There are three OTC categories worth discussing: pheromone products, supplements, and herbal formulas.
 
-Feliway spray (synthetic feline facial pheromone) is the most evidence-backed OTC option. Spritz it in the carrier 15-30 minutes before loading the cat, not directly on the cat. It won't sedate anything, but it genuinely reduces carrier [stress for many cats](/cat-stress-signs-causes/) and it's safe to combine with anything. A bottle runs about $20-25. Worth keeping on hand.
+Feliway spray (synthetic feline facial pheromone) is the most evidence-backed OTC option. Spritz it in the carrier 15-30 minutes before loading the cat, not directly on the cat. It won't sedate anything, but it genuinely reduces carrier stress for many cats and it's safe to combine with anything. A bottle runs about $20-25. Worth keeping on hand.
 
 Zylkene (alpha-casozepine, derived from milk protein) is taken daily for several days before travel. There's reasonable evidence it reduces anxiety in cats, though it's milder than prescription options. Good choice if your cat's travel anxiety is moderate and you can't get a vet appointment. Sold in capsules, easy to open and mix into food.
 

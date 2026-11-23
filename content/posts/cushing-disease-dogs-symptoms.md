@@ -96,7 +96,7 @@ The **low-dose dexamethasone suppression test (LDDST)** is the most commonly use
 
 The **ACTH stimulation test** measures cortisol before and after an injection of synthetic ACTH. It's faster (about 2 hours) but less sensitive for pituitary-dependent Cushing's. It is, however, the test used to monitor treatment once medication is started. Your vet will probably use both at different points.
 
-For example, consider a 9-year-old Beagle presenting with a 6-month history of increased drinking and a new pot belly. Urinalysis shows dilute urine and a [urinary tract infection](/how-to-treat-a-cat-urinary-tract-infection-at-home/). Blood work shows elevated alkaline phosphatase (ALP), which is almost universally high in Cushing's dogs. LDDST confirms lack of suppression. Abdominal ultrasound shows bilaterally enlarged adrenal glands, consistent with pituitary-dependent disease. Trilostane started at 2.2 mg/kg daily. ACTH stim recheck at 4 weeks shows cortisol now in target range. Owner reports dog drinking normally again by week 6.
+For example, consider a 9-year-old Beagle presenting with a 6-month history of increased drinking and a new pot belly. Urinalysis shows dilute urine and a urinary tract infection. Blood work shows elevated alkaline phosphatase (ALP), which is almost universally high in Cushing's dogs. LDDST confirms lack of suppression. Abdominal ultrasound shows bilaterally enlarged adrenal glands, consistent with pituitary-dependent disease. Trilostane started at 2.2 mg/kg daily. ACTH stim recheck at 4 weeks shows cortisol now in target range. Owner reports dog drinking normally again by week 6.
 
 That's a pretty typical trajectory when everything goes smoothly.
 

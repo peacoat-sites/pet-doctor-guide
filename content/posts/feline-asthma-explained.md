@@ -1,5 +1,5 @@
 ---
-title: "Why Your Cat's Cough Might Be Asthma"
+title: "Feline Asthma Explained: Symptoms, Diagnosis, and Treatment"
 date: 2026-06-15T20:35:41.069940+00:00
 draft: false
 description: "Discover what feline asthma is, what causes it, how to spot the signs in your cat, and the treatment options vets recommend to keep your cat breathing easy."
@@ -37,7 +37,7 @@ Feline asthma is an allergic respiratory disease. When a cat inhales a trigger (
 
 It's chronic, meaning it doesn't go away. But it does fluctuate. Some cats go months between episodes. Others deal with near-daily symptoms if their environment isn't managed well.
 
-One important distinction: [feline asthma and feline bronchitis](/cat-upper-respiratory-infection/) often get lumped together under "chronic lower airway disease." They can happen together, or separately. Bronchitis involves persistent inflammation without the dramatic spasm; asthma involves that spasm, which creates the acute "attack" feeling. The distinction matters for treatment.
+One important distinction: feline asthma and feline bronchitis often get lumped together under "chronic lower airway disease." They can happen together, or separately. Bronchitis involves persistent inflammation without the dramatic spasm; asthma involves that spasm, which creates the acute "attack" feeling. The distinction matters for treatment.
 
 ## Recognizing It: The Posture Tells You More Than the Sound
 

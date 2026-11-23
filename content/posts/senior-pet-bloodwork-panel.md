@@ -1,5 +1,5 @@
 ---
-title: "Why Senior Pets Need Regular Blood Tests"
+title: "Senior Pet Bloodwork Panel: What It Tests and Why"
 date: 2026-05-26T12:40:07.675552+00:00
 draft: false
 description: "Regular bloodwork panels help detect hidden health issues in aging pets early. Learn what tests are included, what they reveal, and how often seniors should be "

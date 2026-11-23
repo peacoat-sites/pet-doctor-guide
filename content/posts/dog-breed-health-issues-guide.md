@@ -1,5 +1,5 @@
 ---
-title: "Which Dog Breeds Face the Most Health Problems"
+title: "Dog Breed Health Issues: How to Research Before You Commit"
 date: 2026-06-22T20:19:12.141402+00:00
 draft: false
 description: "Discover common health issues by dog breed, from hip dysplasia in large breeds to breathing problems in flat-faced dogs. Keep your pet healthy and happy."
@@ -64,7 +64,7 @@ Rather than going breed by breed (there are hundreds; that article would be inte
 
 **Large and giant breeds** (Great Danes, Saint Bernards, Irish Wolfhounds, Rottweilers) share two major concerns: orthopedic disease and bloat. Gastric dilatation-volvulus (GDV, or bloat) is the one that kills dogs with almost no warning. The stomach fills with gas and twists. Your dog goes from fine to dead in hours without emergency surgery. If you own a [large, deep-chested dog](/large-breed-dog-joint-health/), you need to know what bloat looks like: unproductive retching, a distended abdomen, sudden restlessness or distress. It is always an emergency. Thirty minutes of "wait and see" can make the difference between a dog that survives and one that doesn't.
 
-**[Chondrodystrophic breeds](/small-breed-dental-health-dogs/)** are the ones with abnormally short limbs: Dachshunds, Basset Hounds, Corgis. Intervertebral disc disease (IVDD) is the primary concern, and it can cause sudden paralysis. Sudden hind-end weakness can indicate IVDD requiring immediate surgery, so it shouldn't be dismissed as a muscle strain. Prevention matters here: keep these dogs lean, use a harness instead of a collar, and take sudden hind-end weakness seriously.
+**Chondrodystrophic breeds** are the ones with abnormally short limbs: Dachshunds, Basset Hounds, Corgis. Intervertebral disc disease (IVDD) is the primary concern, and it can cause sudden paralysis. Sudden hind-end weakness can indicate IVDD requiring immediate surgery, so it shouldn't be dismissed as a muscle strain. Prevention matters here: keep these dogs lean, use a harness instead of a collar, and take sudden hind-end weakness seriously.
 
 **Herding and sporting breeds** (Border Collies, Australian Shepherds, German Shepherds, Labrador Retrievers) tend to be healthier overall but carry their own baggage. MDR1 gene mutations in many herding breeds mean certain common drugs, including some antiparasitics, can be fatal. This is a DNA test that costs around $80 through Washington State University's Veterinary Clinical Pharmacology Lab. Every herding breed owner should know their dog's MDR1 status before any medication is prescribed.
 

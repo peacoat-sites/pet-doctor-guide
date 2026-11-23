@@ -1,5 +1,5 @@
 ---
-title: "Why Your Cat Is Avoiding the Litter Box"
+title: "Why Your Cat Is Not Using the Litter Box: Causes"
 date: 2026-05-27T05:54:20.919286+00:00
 draft: false
 description: "Discover the most common reasons your cat is avoiding the litter box and learn simple, effective solutions to solve the problem and restore good litter habits f"
@@ -58,7 +58,7 @@ Once medical causes are cleared, scrutinize the box setup. Cats are picky in way
 
 **Covered boxes trap odors.** To humans, a lid seems tidy. To your cat, it's a smell chamber. Imagine a port-a-potty with no ventilation. Some cats tolerate it fine; others refuse outright. If you have a covered box and a problem, remove the lid for two weeks. See what happens.
 
-**The number of boxes matters.** One box per cat, plus one extra. Two cats? Three boxes. This isn't random: cats are territorial, and [one can block another's access](/multi-pet-household-tips/) to a single shared box without you noticing.
+**The number of boxes matters.** One box per cat, plus one extra. Two cats? Three boxes. This isn't random: cats are territorial, and one can block another's access to a single shared box without you noticing.
 
 **Location is everything.** Boxes near loud appliances, in high-traffic areas, or spots where a cat gets cornered by another pet or kid get avoided. Cats want a quiet exit when they're vulnerable. Put yourself in their position.
 

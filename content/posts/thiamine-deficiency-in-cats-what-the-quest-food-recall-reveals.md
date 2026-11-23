@@ -41,7 +41,7 @@ Here's what advanced thiamine deficiency actually looks like in a cat, because t
 | Circling | Repetitive turning in one direction |
 | Seizures | Full-body muscle activity, loss of consciousness |
 
-If your cat is showing any of the first four signs, this is a same-day [vet visit](/your-dogs-first-vet-visit-guide/). Seizures are an emergency: go now, call ahead if you can. The good news, and it's real, is that thiamine deficiency is typically reversible if caught and treated promptly with B1 supplementation. That reversal window matters enormously, which is why I keep saying "prompt."
+If your cat is showing any of the first four signs, this is a same-day vet visit. Seizures are an emergency: go now, call ahead if you can. The good news, and it's real, is that thiamine deficiency is typically reversible if caught and treated promptly with B1 supplementation. That reversal window matters enormously, which is why I keep saying "prompt."
 
 ## What the FDA's March Advisory Actually Means for You
 

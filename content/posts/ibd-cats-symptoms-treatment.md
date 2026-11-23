@@ -26,7 +26,7 @@ faqs:
     a: "Most IBD cats do best on a single-protein novel protein diet (like rabbit, venison, or duck if those aren't proteins they've had before) or a hydrolyzed protein prescription diet. PetMD's veterinary resources have solid overviews of elimination diet protocols. The key is consistency. Your vet or a veterinary internist can help you identify what's actually novel for your specific cat based on their diet history."
 ---
 
-Most [cat owners](/new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/) don't realize that IBD is the single most common cause of chronic vomiting and diarrhea in cats, affecting somewhere between 1 in 3 and 1 in 2 cats who show up at specialty practices with long-term GI symptoms. IBD is more complicated and more manageable than it might initially seem.
+Most cat owners don't realize that IBD is the single most common cause of chronic vomiting and diarrhea in cats, affecting somewhere between 1 in 3 and 1 in 2 cats who show up at specialty practices with long-term GI symptoms. IBD is more complicated and more manageable than it might initially seem.
 
 IBD ([inflammatory bowel disease](/inflammatory-bowel-disease-dogs/)) isn't a single disease. It's a category of conditions where immune cells infiltrate the walls of the GI tract, causing chronic inflammation that disrupts normal digestion. The most common forms are lymphocytic-plasmacytic enteritis, eosinophilic gastroenteritis, and neutrophilic IBD. What surprised me, even after years of working with these cases, is how dramatically different two IBD cats can look. One patient might vomit grass and bile twice a week and otherwise seem fine. Another loses 30% of her body weight over six months with barely any vomiting at all.
 
@@ -38,7 +38,7 @@ IBD symptoms are maddeningly nonspecific. Chronic vomiting. Weight loss. Intermi
 
 They don't. Not like that.
 
-What you're watching for: vomiting that's happening more than once or twice a week, [weight loss](/best-high-protein-dog-food-for-weight-loss/) you didn't intend, any change in stool consistency lasting more than two to three weeks, a coat that's suddenly dull or greasy, or a cat who used to be food-motivated and now sniffs the bowl and walks away. Middle-aged to older cats are at higher risk (most IBD cats are diagnosed between 5 and 12 years old), though it can happen younger.
+What you're watching for: vomiting that's happening more than once or twice a week, weight loss you didn't intend, any change in stool consistency lasting more than two to three weeks, a coat that's suddenly dull or greasy, or a cat who used to be food-motivated and now sniffs the bowl and walks away. Middle-aged to older cats are at higher risk (most IBD cats are diagnosed between 5 and 12 years old), though it can happen younger.
 
 The tricky part is that hyperthyroidism, chronic kidney disease, pancreatitis, and intestinal lymphoma all produce nearly identical symptoms. IBD also frequently occurs alongside pancreatitis and cholangitis in a presentation vets call "triaditis," which as of 2026 remains genuinely challenging to sort out clinically.
 

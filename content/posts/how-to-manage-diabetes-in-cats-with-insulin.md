@@ -1,5 +1,5 @@
 ---
-title: "Insulin Injections For Cats: A Step-By-Step Guide"
+title: "How to Manage Diabetes in Cats With Insulin: Step-by-Step"
 date: 2026-07-01T19:14:12.305310+00:00
 draft: false
 description: "Learn how to manage diabetes in cats with insulin, including dosing tips, monitoring blood sugar, and keeping your cat healthy and comfortable."

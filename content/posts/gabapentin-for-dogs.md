@@ -58,7 +58,7 @@ Here's where it gets interesting, because the list is longer than most owners re
 
 The following scenarios illustrate how gabapentin is commonly applied in clinical settings.
 
-For example, a 9-year-old Labrador with confirmed IVDD, [already on Meloxicam](/rimadyl-for-dogs-guide/), might still be vocalizing at night. If a vet adds gabapentin at 10mg/kg twice daily, the owner may report noticeably better sleep behavior within one week, and the dog may stop avoiding stairs within three weeks. 
+For example, a 9-year-old Labrador with confirmed IVDD, already on Meloxicam, might still be vocalizing at night. If a vet adds gabapentin at 10mg/kg twice daily, the owner may report noticeably better sleep behavior within one week, and the dog may stop avoiding stairs within three weeks. 
 
 For example, a 4-year-old Border Collie with severe thunderstorm phobia not responding well to trazodone alone might benefit from gabapentin added at 100mg two hours before predicted storms, with owners describing a 60-70% improvement in panic behaviors over several storm events.  
 

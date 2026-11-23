@@ -49,7 +49,7 @@ If your dog is in pain on a Saturday night and your vet is closed, call an emerg
 
 Most veterinarians will recommend baseline bloodwork before starting a dog on long-term NSAID therapy, and recheck panels every six months or so after that. I've met a lot of owners who skip the rechecks because the dog seems fine and the tests feel like unnecessary expense. I understand that impulse. Vet costs today are real, and $150-200 for a chemistry panel when your dog is acting totally normal feels hard to justify.
 
-Here's why I'd push back: the early signs of NSAID-related kidney stress aren't always visible. A dog can lose significant kidney function before you notice increased thirst or changes in urination. By the time those symptoms show up, you're already behind. Catching it on a blood panel while values are mildly elevated gives you options, mainly stopping the drug, supporting the kidneys, and reassessing [pain management](/gabapentin-for-dogs/). Catching it in a crisis is a very different conversation.
+Here's why I'd push back: the early signs of NSAID-related kidney stress aren't always visible. A dog can lose significant kidney function before you notice increased thirst or changes in urination. By the time those symptoms show up, you're already behind. Catching it on a blood panel while values are mildly elevated gives you options, mainly stopping the drug, supporting the kidneys, and reassessing pain management. Catching it in a crisis is a very different conversation.
 
 The American Veterinary Medical Association backs routine monitoring for dogs on long-term NSAIDs, and in my clinical experience, the practices that are rigorous about this catch problems early. It's not a money grab. It's how the drug is meant to be used.
 

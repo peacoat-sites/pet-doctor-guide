@@ -77,11 +77,11 @@ The management isn't dramatically different from any other cat. The gap shows up
 | Progressive immune decline | Variable; not all cats reach this | Recurrent infections, weight loss, dental disease, neurological signs |
 | Terminal AIDS-like stage | Some cats never reach this | Severe immunosuppression, cancer, organ failure |
 
-The asymptomatic phase is long. Most [pet owners](/raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/) who adopt an FIV cat will spend the majority of that cat's life in the middle column of that table, dealing with a cat that seems totally normal. That's not denial, it's just the actual disease progression.
+The asymptomatic phase is long. Most pet owners who adopt an FIV cat will spend the majority of that cat's life in the middle column of that table, dealing with a cat that seems totally normal. That's not denial, it's just the actual disease progression.
 
 ## Real Examples
 
-For example, if an owner adopts a 4-year-old FIV-positive cat while already having two other cats, the situation can go smoothly.  If the vet confirms the resident cats are non-aggressive and the new cat has been neutered, cohousing can be managed safely. She followed twice-yearly vet visits, switched everyone to a high-quality wet food, and added a third [litter box](/cat-not-using-litter-box-causes/). In such a scenario, all cats can remain healthy over the following years. The FIV-positive cat's bloodwork is likely to remain stable throughout. Zero transmission events is the typical outcome when housing decisions are made thoughtfully.
+For example, if an owner adopts a 4-year-old FIV-positive cat while already having two other cats, the situation can go smoothly.  If the vet confirms the resident cats are non-aggressive and the new cat has been neutered, cohousing can be managed safely. She followed twice-yearly vet visits, switched everyone to a high-quality wet food, and added a third litter box. In such a scenario, all cats can remain healthy over the following years. The FIV-positive cat's bloodwork is likely to remain stable throughout. Zero transmission events is the typical outcome when housing decisions are made thoughtfully.
 
 Contrast that with a scenario involving a family with an FIV-positive male cat who was also intact and living with another intact male. Both were indoor-outdoor cats. The fighting was regular in this hypothetical situation. If the FIV-negative cat tested positive 18 months later, that outcome would be exactly what the transmission data predicts: intact males who fight are the primary risk population.
 

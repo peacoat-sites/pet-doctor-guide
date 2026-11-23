@@ -40,7 +40,7 @@ Many cats ignore their scratching posts. A common mistake is placing posts in ou
 
 That's the core problem right there.
 
-Cats scratch for [territorial marking](/cat-hiding-behavior-explained/), and territory means the spaces they share with you. The living room couch is prime real estate. The spare bedroom post is exile. Put the post where the scratching is happening. Yes, that means your living room. Yes, it'll look like your cat runs the house. (The cat does run the house. That's a separate article.)
+Cats scratch for territorial marking, and territory means the spaces they share with you. The living room couch is prime real estate. The spare bedroom post is exile. Put the post where the scratching is happening. Yes, that means your living room. Yes, it'll look like your cat runs the house. (The cat does run the house. That's a separate article.)
 
 Texture matters just as much. Most budget posts are covered in looped berber carpet, which a lot of cats genuinely dislike. Cats tend to prefer sisal rope, corrugated cardboard, or wood. The only way to figure out which your cat prefers is to offer two or three options simultaneously. Sisal rope posts like the [SmartCat Ultimate Scratching Post](https://amzn.to/smartcat-sisal) (about $30-35 currently) are consistently popular and actually tall enough for a full stretch at 32 inches. That height matters because a cat needs to extend fully to get the stretch benefit. Most cheap posts are 18 inches. That's too short for most adult cats and they'll ignore it.
 

@@ -1,5 +1,5 @@
 ---
-title: "Why Your Dog Won't Eat and Is Vomiting White Foam"
+title: "Dog Throwing Up White Foam and Not Eating: What It Means"
 date: 2026-06-09T19:31:37.688939+00:00
 draft: false
 description: "Discover why your dog is vomiting white foam and refusing food. Learn common causes, warning signs, and when to seek urgent veterinary care for your pet."
@@ -74,7 +74,7 @@ Ask yourself these questions:
 2. Is your dog drinking water? A dog who is vomiting AND not drinking is at real risk of rapid dehydration.
 3. Is your dog a puppy, a senior, or immunocompromised? These animals have much less physiological reserve.
 4. When was the last vaccine? Parvovirus is rare in vaccinated dogs, but not impossible, and it hits puppies fast and hard.
-5. Is your dog having diarrhea too? [Vomiting plus diarrhea plus anorexia](/dog-diarrhea-home-remedies/) is a trifecta that almost always needs vet input.
+5. Is your dog having diarrhea too? Vomiting plus diarrhea plus anorexia is a trifecta that almost always needs vet input.
 
 If the answers to any of those are concerning, don't talk yourself into waiting until Monday. Emergency vet visits are expensive, I know. But the cost of a sick-dog exam and some fluids is almost always less than the cost of treating a dog who got significantly worse overnight.
 

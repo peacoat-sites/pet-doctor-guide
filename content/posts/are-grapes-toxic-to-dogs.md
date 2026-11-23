@@ -35,7 +35,7 @@ The mechanism isn't fully understood even now. For years, researchers suspected 
 
 ## What Happens Inside Your Dog's Body
 
-The kidneys take the hit. Grape toxicity in dogs produces a specific pattern of acute kidney injury that can progress to complete kidney failure if untreated. What's alarming is the speed. [Early signs](/early-signs-of-heart-disease-in-small-breed-dogs/) can appear within a few hours of ingestion. Full-blown uremia, the buildup of waste products the kidneys can no longer filter, can develop within 24 to 72 hours.
+The kidneys take the hit. Grape toxicity in dogs produces a specific pattern of acute kidney injury that can progress to complete kidney failure if untreated. What's alarming is the speed. Early signs can appear within a few hours of ingestion. Full-blown uremia, the buildup of waste products the kidneys can no longer filter, can develop within 24 to 72 hours.
 
 Early symptoms to watch for: vomiting (often within the first couple of hours), diarrhea, lethargy, loss of appetite, and abdominal pain. As kidney function deteriorates, you'll see decreased or absent urination, weakness, tremors, and eventually seizures. Some dogs stop producing urine entirely. That's called oliguria or anuria, and it's a very bad sign.
 

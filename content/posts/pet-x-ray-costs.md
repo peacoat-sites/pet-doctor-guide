@@ -61,7 +61,7 @@ You can do a few things right now, before any emergency, that'll reduce financia
 
 **Ask about payment options upfront.** Many practices work with CareCredit or Scratchpay, and some have in-house payment plans. The [AVMA](https://www.avma.org/) supports expanded access to veterinary care, and most good practices reflect that value. Asking about financing isn't embarrassing. Vets and vet techs would rather discuss it before treatment than have you decline imaging your pet genuinely needs.
 
-**[Consider pet insurance](/senior-pet-bloodwork-panel/).** If you're reading this before a crisis, now's the time to look. Most accident and illness policies cover diagnostics including x-rays, and they're genuinely worth the monthly premium for dogs and cats under 10 with no major pre-existing conditions.
+**Consider pet insurance.** If you're reading this before a crisis, now's the time to look. Most accident and illness policies cover diagnostics including x-rays, and they're genuinely worth the monthly premium for dogs and cats under 10 with no major pre-existing conditions.
 
 **Build a basic emergency fund.** Even $500 set aside specifically for pet care changes your options dramatically. A dedicated savings account won't cover imaging, but reducing small-expense emergencies keeps more in reserve for the big ones.
 

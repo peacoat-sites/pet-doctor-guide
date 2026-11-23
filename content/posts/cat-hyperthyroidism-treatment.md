@@ -44,7 +44,7 @@ What most people don't realize is that once it's confirmed, you have four legiti
 
 Most cats in the US start on methimazole (Tapazole, or compounded versions). It's an antithyroid medication that blocks excess thyroid hormone production. It doesn't cure anything, stop giving it, and levels climb back up, but it controls the disease, and it won't bankrupt you.
 
-Starting dose is typically 2.5mg twice daily, though some cats do fine on once-daily. During the first three months, monitoring is essential. Bloodwork is needed at two weeks, again at four to six weeks, then every three to six months once stabilized. Skipping rechecks because a cat seems fine can lead to complications like [kidney crisis](/cat-kidney-disease-diet/) (more on that soon).
+Starting dose is typically 2.5mg twice daily, though some cats do fine on once-daily. During the first three months, monitoring is essential. Bloodwork is needed at two weeks, again at four to six weeks, then every three to six months once stabilized. Skipping rechecks because a cat seems fine can lead to complications like kidney crisis (more on that soon).
 
 There's a transdermal gel version you apply to the inner ear flap, which sounds perfect if your cat won't swallow pills. I'll level with you: absorption is less predictable than oral dosing, and the research is genuinely mixed. Some cats respond beautifully to it. Others never hit consistent blood levels. If you go this route, be extra rigorous about those follow-up bloodworks.
 

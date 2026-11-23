@@ -64,7 +64,7 @@ Three main procedures come up:
 
 ## Finding the Right Surgeon
 
-Your regular vet can diagnose this. The surgery should go to a [board-certified veterinary surgeon](/luxating-patella-dogs/) (DACVS credential) or a vet with significant TPLO experience. Ask directly: "How many TPLOs have you performed?" Under 50 isn't reassuring. Over 200, you're in good hands.
+Your regular vet can diagnose this. The surgery should go to a board-certified veterinary surgeon (DACVS credential) or a vet with significant TPLO experience. Ask directly: "How many TPLOs have you performed?" Under 50 isn't reassuring. Over 200, you're in good hands.
 
 University veterinary hospitals are worth calling. Wait times can be longer, but the surgical teams are excellent and costs run 15-30% lower than private specialty practices. If your regular vet's referral estimate feels impossible, call your nearest vet school.
 

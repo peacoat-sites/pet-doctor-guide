@@ -62,7 +62,7 @@ Annual wellness panels are commonly recommended for dogs 7 years and older. Dogs
 
 Blood work is also essential when a dog is sick and the symptoms aren't specific. Lethargy, weight loss, increased thirst, vomiting: any of these can have a dozen different causes. Blood work helps your vet rule out or confirm possibilities quickly instead of guessing.
 
-Finally, if your dog is on [long-term medication](/senior-pet-bloodwork-panel/) (phenobarbital for seizures, NSAIDs for arthritis, thyroid meds), regular monitoring protects them from organ damage that can quietly develop over time.
+Finally, if your dog is on long-term medication (phenobarbital for seizures, NSAIDs for arthritis, thyroid meds), regular monitoring protects them from organ damage that can quietly develop over time.
 
 ## Understanding Abnormal Results: What "Out of Range" Actually Means
 

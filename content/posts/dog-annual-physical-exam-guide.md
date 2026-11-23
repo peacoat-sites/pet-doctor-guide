@@ -53,7 +53,7 @@ A basic wellness panel typically includes a complete blood count (CBC) and a che
 
 What struck me in practice is how often "completely healthy" middle-aged dogs came back with mildly elevated BUN or creatinine, early indicators of kidney insufficiency, that their owners had no idea about. Catching that at Stage 1 versus Stage 3 kidney disease is a completely different prognosis.
 
-If your dog is on [long-term medications like NSAIDs](/dog-heartworm-prevention-guide/), phenobarbital, or cyclosporine, bloodwork isn't optional. It's essential every 6 months to monitor organ health.
+If your dog is on long-term medications like NSAIDs, phenobarbital, or cyclosporine, bloodwork isn't optional. It's essential every 6 months to monitor organ health.
 
 ## Vaccinations: Core vs. Non-Core and How to Have the Right Conversation
 

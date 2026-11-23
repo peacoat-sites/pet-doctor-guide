@@ -25,7 +25,7 @@ author_title: "Pet Nutrition"
 author_bio: "James Whitfield is the byline used at Pet Doctor Guide for articles on pet food labels, feeding amounts, supplements and diet changes. It is a pen name, not a veterinary nutritionist; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 [periodontal disease](/dog-dental-health-guide/)," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.
+Your dog's breath smells like something died under the couch, your vet just mentioned "Stage 2 periodontal disease," and now you're staring at an estimate that starts with a number that made you quietly close the folder. You're not alone. Dental cleanings are one of the most common procedures I see clients sticker-shocked by, mostly because nobody explained what they were actually paying for ahead of time. Let's fix that.
 
 ## What You're Actually Paying For (And Why It Costs More Than Your Own Cleaning)
 
@@ -79,7 +79,7 @@ Also ask about how the practice handles post-procedure communication. Will someo
 
 ## Keeping Costs Down Long-Term: Home Care That Actually Works
 
-The most effective way to reduce lifetime dental costs is to reduce the buildup of plaque that leads to periodontal disease. And the single most effective home care method is [daily toothbrushing](/how-to-brush-a-dogs-teeth-that-hates-it/). Not weekly. Daily. Plaque starts mineralizing into tartar within 24 to 72 hours, so brushing every few days doesn't fully interrupt that cycle.
+The most effective way to reduce lifetime dental costs is to reduce the buildup of plaque that leads to periodontal disease. And the single most effective home care method is daily toothbrushing. Not weekly. Daily. Plaque starts mineralizing into tartar within 24 to 72 hours, so brushing every few days doesn't fully interrupt that cycle.
 
 Here's how to actually make it happen, especially if your dog currently hates it.
 

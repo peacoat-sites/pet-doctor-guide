@@ -59,7 +59,7 @@ A few things to bring to your vet's attention proactively:
 - Changes in stool consistency or frequency
 - Any sign of confusion, staring at walls, or getting "stuck" in corners
 
-That last cluster of symptoms can signal [canine cognitive dysfunction](/best-supplements-for-senior-dogs-with-arthritis/), a condition similar to Alzheimer's in humans. It's underdiagnosed partly because owners assume confusion is just "being old." It's not inevitable, and there are real treatment options.
+That last cluster of symptoms can signal canine cognitive dysfunction, a condition similar to Alzheimer's in humans. It's underdiagnosed partly because owners assume confusion is just "being old." It's not inevitable, and there are real treatment options.
 
 For more context on what a thorough wellness exam covers, [this breakdown of what to expect at your cat's annual vet visit](/cat-annual-vet-visit-what-to-expect/) parallels what a senior dog exam should include, and can help you ask better questions.
 

@@ -66,7 +66,7 @@ Let me be direct here. Not every dog that misses a meal needs a vet visit. But c
 **Call your regular vet the same day (or first thing Monday if it's a weekend) if:**
 
 - Your dog hasn't eaten in 48 hours and shows no improvement
-- You notice [vomiting or diarrhea alongside](/dog-diarrhea-home-remedies/) the lack of appetite
+- You notice vomiting or diarrhea alongside the lack of appetite
 - Your dog is drinking significantly more or less water than normal
 - There's any sign of mouth pain, drooling, or pawing at the face
 - Your dog is a senior (over 8 years for most breeds, over 6 for giant breeds) and this is new behavior

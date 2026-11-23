@@ -1,5 +1,5 @@
 ---
-title: "Watch For These Warning Signs of Hip Dysplasia"
+title: "Signs of Hip Dysplasia in Large Breed Puppies"
 date: 2026-06-17T19:34:42.819916+00:00
 draft: false
 description: "Learn the early signs of hip dysplasia in large breed puppies so you can get your dog the help they need before joint damage worsens."
@@ -51,7 +51,7 @@ Puppies are typically screened and symptoms become most noticeable between 4 and
 
 Puppies can be diagnosed at 5 months with obvious radiographic changes despite moving normally on physical exam. Radiographs can reveal changes before they become apparent in movement. Early detection matters because interventions available before the growth plates close (typically around 12-18 months in large breeds) differ meaningfully from options after closure.
 
-If your vet finds hip laxity early, surgical options like juvenile pubic symphysiodesis (JPS) or triple pelvic osteotomy (TPO) may still be on the table. After skeletal maturity, you're generally looking at either a [total hip replacement](/torn-acl-in-dogs-treatment/) or long-term pain management. Earlier information genuinely changes outcomes.
+If your vet finds hip laxity early, surgical options like juvenile pubic symphysiodesis (JPS) or triple pelvic osteotomy (TPO) may still be on the table. After skeletal maturity, you're generally looking at either a total hip replacement or long-term pain management. Earlier information genuinely changes outcomes.
 
 ## How Your Vet Will Confirm It
 

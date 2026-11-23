@@ -21,7 +21,7 @@ This quiz isn't a pass-or-fail test. Think of it as a mirror, one that reflects 
 
 Here's what matters: readiness isn't fixed. It grows. And the right pet for your actual life (not the life you wish you had) is worth a little planning upfront.
 
-Start with our beginner guides on choosing a species, [budgeting for care](/cat-kidney-disease-diet/), and prepping your home. When you're getting close to deciding, talk to a veterinarian you trust. They can walk through the specifics for your situation and catch things you might miss.
+Start with our beginner guides on choosing a species, budgeting for care, and prepping your home. When you're getting close to deciding, talk to a veterinarian you trust. They can walk through the specifics for your situation and catch things you might miss.
 
 ## Sources
 

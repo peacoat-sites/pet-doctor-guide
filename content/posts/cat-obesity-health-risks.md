@@ -1,5 +1,5 @@
 ---
-title: "Why Overweight Cats Face Serious Health Problems"
+title: "Cat Obesity Health Risks Every Owner Should Take Seriously"
 date: 2026-05-26T16:22:56.740443+00:00
 draft: false
 description: "Cat obesity increases risks of diabetes, joint problems, heart disease, and shortened lifespan. Learn how to keep your cat healthy and at ideal weight."

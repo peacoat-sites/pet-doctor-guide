@@ -1,5 +1,5 @@
 ---
-title: "Canine Distemper: Signs, Treatment, And Prevention"
+title: "Distemper in Dogs: Signs, Treatment, and Prevention"
 date: 2026-07-05T18:18:27.904020+00:00
 draft: false
 description: "Learn the signs, causes, and prevention of distemper in dogs. Discover how this serious viral disease spreads and how to protect your dog with vaccination."

@@ -43,7 +43,7 @@ Not all ingredients require suspicion. Many are genuinely beneficial, and knowin
 
 **Named meat proteins** are the gold standard. Chicken, salmon, beef, turkey, lamb. When you see a specific animal listed rather than something vague like "meat," that's a point in the food's favor. Deboned chicken and chicken meal are both fine options. Chicken meal is actually more protein-dense than deboned chicken because the water has already been removed. A food with chicken meal in the top three ingredients often has more actual protein than one where deboned chicken appears first.
 
-**Whole vegetables and fruits** like sweet potatoes, blueberries, carrots, and peas provide fiber, antioxidants, and micronutrients. Small to moderate amounts are generally beneficial. Peas and legumes in large quantities have been under scrutiny related to dilated cardiomyopathy (DCM) in dogs, and while the science is still developing, the FDA opened an investigation into [grain-free diets heavy in legumes](/grain-free-vs-grain-inclusive-dog-food-which-is-better/). Moderation and variety make sense here.
+**Whole vegetables and fruits** like sweet potatoes, blueberries, carrots, and peas provide fiber, antioxidants, and micronutrients. Small to moderate amounts are generally beneficial. Peas and legumes in large quantities have been under scrutiny related to dilated cardiomyopathy (DCM) in dogs, and while the science is still developing, the FDA opened an investigation into grain-free diets heavy in legumes. Moderation and variety make sense here.
 
 **Named fats** matter. Chicken fat, salmon oil, flaxseed. These provide omega-3 and omega-6 fatty acids that support skin, coat, and immune function. Compare that to "animal fat," which is a vague catch-all with no defined source.
 

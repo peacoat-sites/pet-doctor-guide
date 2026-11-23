@@ -1,5 +1,5 @@
 ---
-title: "IBD in Dogs: Why 70% Need Dietary Changes"
+title: "Inflammatory Bowel Disease in Dogs: Diagnosis and Treatment"
 date: 2026-07-24T18:49:56.788015+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -30,7 +30,7 @@ Up to 70% of dogs with chronic gastrointestinal symptoms that don't resolve afte
 
 So let's cut through it.
 
-If your dog has had recurring vomiting, chronic diarrhea, [weight loss](/ozempic-for-cats-what-the-new-glp-1-research-actually-means/), or a persistently poor coat for more than a few weeks, IBD is on the table. Not the only possibility, but definitely on the table. And what most people don't realize is that IBD isn't a single disease. It's a category. An umbrella term for a group of chronic inflammatory conditions affecting the GI tract, each with different characteristics and, critically, different treatment approaches.
+If your dog has had recurring vomiting, chronic diarrhea, weight loss, or a persistently poor coat for more than a few weeks, IBD is on the table. Not the only possibility, but definitely on the table. And what most people don't realize is that IBD isn't a single disease. It's a category. An umbrella term for a group of chronic inflammatory conditions affecting the GI tract, each with different characteristics and, critically, different treatment approaches.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">IBD in dogs is diagnosed via intestinal biopsy, not bloodwork alone, imaging and labs support but can't confirm it.</li><li style="margin:5px 0">The most common form, lymphocytic-plasmacytic enteritis, often responds well to dietary change before steroids are tried.</li><li style="margin:5px 0">Protein-losing enteropathy, a severe IBD complication, carries a guarded prognosis; early diagnosis dramatically improves outcomes.</li><li style="margin:5px 0">Treatment costs typically run $800–$3,000+ for initial workup; ongoing management averages $50–$200/month depending on medications.</li><li style="margin:5px 0">German Shepherds, Basenjis, Shar-Peis, and Soft-Coated Wheaten Terriers are statistically overrepresented in IBD diagnoses.</li></ul></div>
 
@@ -93,7 +93,7 @@ Most IBD dogs do okay. Not perfectly, but okay. Flares happen. Stress triggers t
 
 Keep a simple log. Weight every two weeks at home (you can get a decent baby scale for under $40 that works for small-to-medium dogs). Stool consistency scored 1–7 using the Purina Fecal Scoring System, which your vet can print for you. Appetite on a simple 1–3 scale. This kind of data is useful at recheck appointments and allows for faster medication adjustments rather than relying on memory.
 
-For dogs on long-term steroids, get a baseline urinalysis and consider a urine culture before each annual bloodwork cycle, because steroid-associated [urinary tract](/how-to-treat-a-cat-urinary-tract-infection-at-home/) infections are common and often silent. A lot of owners don't know about that one.
+For dogs on long-term steroids, get a baseline urinalysis and consider a urine culture before each annual bloodwork cycle, because steroid-associated urinary tract infections are common and often silent. A lot of owners don't know about that one.
 
 If your dog is on chlorambucil, be careful handling the pills. Wear gloves. This is a chemotherapy drug, and while the doses used for IBD are low, chronic skin exposure for the human administering it isn't a great idea.
 

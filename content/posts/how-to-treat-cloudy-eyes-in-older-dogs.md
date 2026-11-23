@@ -1,5 +1,5 @@
 ---
-title: "Clear Your Senior Dog's Vision: Cloudy Eye Treatments"
+title: "How to Treat Cloudy Eyes in Older Dogs"
 date: 2026-07-02T18:51:02.903078+00:00
 draft: false
 description: "Learn how to treat cloudy eyes in older dogs with practical tips, causes, and care options to help protect your senior dogs vision and health."
@@ -69,7 +69,7 @@ Beyond the two big ones, a few other things can cause cloudy appearance in a dog
 
 ## What You Can (and Can't) Do at Home
 
-Honest answer: for most causes of cloudy eyes in older dogs, there's nothing meaningful you can treat at home. Nuclear sclerosis needs no treatment. Cataracts require surgical evaluation. [Ulcers need prescription antibiotics](/dog-eye-infection-treatment/). Uveitis and glaucoma need immediate veterinary intervention.
+Honest answer: for most causes of cloudy eyes in older dogs, there's nothing meaningful you can treat at home. Nuclear sclerosis needs no treatment. Cataracts require surgical evaluation. Ulcers need prescription antibiotics. Uveitis and glaucoma need immediate veterinary intervention.
 
 What you *can* do at home:
 

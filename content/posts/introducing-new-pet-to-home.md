@@ -59,7 +59,7 @@ There's no universal timeline, but there are reasonable defaults. Compress them 
 
 **Week 3 and beyond:** Supervised shared space, then gradual unsupervised time as trust builds.
 
-Concrete example from clinic experience: a client brought home an adult rescue cat into a two-resident-cat household. She moved to face-to-face contact on day two because "they seemed fine." Within 48 hours the resident cats had [stress-induced cystitis](/cat-stress-signs-causes/) (both of them), the newcomer had a puncture wound above her eye, and the client was at our emergency line at 11 p.m. We reset the whole process. Four weeks later, with the proper sequence, all three cats were coexisting without incident. The extra month felt long. The alternative felt longer.
+Concrete example from clinic experience: a client brought home an adult rescue cat into a two-resident-cat household. She moved to face-to-face contact on day two because "they seemed fine." Within 48 hours the resident cats had stress-induced cystitis (both of them), the newcomer had a puncture wound above her eye, and the client was at our emergency line at 11 p.m. We reset the whole process. Four weeks later, with the proper sequence, all three cats were coexisting without incident. The extra month felt long. The alternative felt longer.
 
 ## Reading the Room: Body Language You Can't Afford to Miss
 

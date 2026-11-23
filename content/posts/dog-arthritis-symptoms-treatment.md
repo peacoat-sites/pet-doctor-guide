@@ -1,5 +1,5 @@
 ---
-title: "Is Your Dog Limping? Signs Of Arthritis To Watch For"
+title: "Dog Arthritis Symptoms and Treatment: A Practical Guide"
 date: 2026-05-21T00:43:16.741117+00:00
 draft: false
 description: "Dog arthritis can cause limping, stiffness, and reduced mobility in older pets. Learn about common symptoms, pain management options, and treatments to improve "

@@ -33,7 +33,7 @@ Cat kidneys are remarkable and fragile at the same time. Unlike dogs, cats evolv
 
 Clinical signs don't appear until roughly 66 to 75 percent of kidney function is already gone. That's not a typo. A cat can lose two-thirds of kidney function before you notice a single symptom. The kidneys compensate that well for that long.
 
-This is why vets push for bloodwork starting at age 7. Catching early-stage [chronic kidney disease (CKD)](/cat-kidney-disease-diet/) on labwork, before symptoms appear, gives you and your cat the longest runway for management. The International Renal Interest Society (IRIS) stages CKD from 1 to 4 based on creatinine and SDMA values. Many cats at Stage 1 feel completely fine. By Stage 3 or 4, things get much harder to manage.
+This is why vets push for bloodwork starting at age 7. Catching early-stage chronic kidney disease (CKD) on labwork, before symptoms appear, gives you and your cat the longest runway for management. The International Renal Interest Society (IRIS) stages CKD from 1 to 4 based on creatinine and SDMA values. Many cats at Stage 1 feel completely fine. By Stage 3 or 4, things get much harder to manage.
 
 ## The Symptoms You'll Actually See: A Real List
 

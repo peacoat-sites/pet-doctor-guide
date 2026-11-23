@@ -63,7 +63,7 @@ Puzzle feeders help. A lot. Something like the Outward Hound Nina Ottosson puzzl
 
 Weeks two through eight involve gradual, controlled leash walking. Your surgeon will give you a protocol: five minutes twice a day at week two, increasing by five minutes every week or two depending on progress. You'll have a recheck radiograph around week six to eight to assess bone healing. This is the appointment that determines whether you get to start increasing activity or whether you're staying conservative. Don't skip it.
 
-From week eight to sixteen, you're building toward off-leash activity, stair use, and eventually running. [Physical rehabilitation](/dog-surgery-recovery-guide/) during this phase makes a real difference. A certified canine rehabilitation practitioner (look for CCRT or CCRP credentials) can do hydrotherapy, therapeutic laser, and targeted strengthening exercises that will get your dog's quad muscles back online faster and reduce the risk of compensatory injuries. It's not cheap, but it shortens the functional recovery window meaningfully.
+From week eight to sixteen, you're building toward off-leash activity, stair use, and eventually running. Physical rehabilitation during this phase makes a real difference. A certified canine rehabilitation practitioner (look for CCRT or CCRP credentials) can do hydrotherapy, therapeutic laser, and targeted strengthening exercises that will get your dog's quad muscles back online faster and reduce the risk of compensatory injuries. It's not cheap, but it shortens the functional recovery window meaningfully.
 
 ## Complications: What to Watch For
 

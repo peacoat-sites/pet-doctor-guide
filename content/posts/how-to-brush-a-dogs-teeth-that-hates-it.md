@@ -1,5 +1,5 @@
 ---
-title: "Stop Fighting Your Dog's Dental Care"
+title: "How to Brush a Dog's Teeth That Hates It: What Works"
 date: 2026-06-14T19:06:59.817658+00:00
 draft: false
 description: "Learn how to brush a dog's teeth that hates it with gentle techniques, tasty toothpaste, and a step-by-step approach that makes the process stress-free for you "

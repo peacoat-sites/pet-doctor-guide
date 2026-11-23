@@ -66,7 +66,7 @@ Diabetes runs a distant second in frequency but is arguably more dramatic in ons
 
 You can walk into the vet with genuinely useful data, and most people don't bother. Here's what actually helps:
 
-First: collect a urine sample the morning of the appointment. Use a clean, rinsed [litter box](/cat-not-using-litter-box-causes/) with no litter, or a handful of the plastic aquarium gravel pellets some clinics provide. The sample should be less than four hours old and kept cool. Urine specific gravity, which tells us how concentrated the urine is, degrades fast. A dilute USG of 1.008 or below in a cat is a significant finding. A sample that sat in a hot car for two hours isn't reliable.
+First: collect a urine sample the morning of the appointment. Use a clean, rinsed litter box with no litter, or a handful of the plastic aquarium gravel pellets some clinics provide. The sample should be less than four hours old and kept cool. Urine specific gravity, which tells us how concentrated the urine is, degrades fast. A dilute USG of 1.008 or below in a cat is a significant finding. A sample that sat in a hot car for two hours isn't reliable.
 
 Second: write down what you've actually observed. Not "she seems thirstier." Specifics. "She's been drinking from the toilet, which she never did before." "She's emptying a 16-oz bowl in about 18 hours." "She's waking me up at 3 a.m. asking for water." That level of detail changes what a vet considers first.
 

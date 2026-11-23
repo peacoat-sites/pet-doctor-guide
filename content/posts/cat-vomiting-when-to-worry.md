@@ -45,7 +45,7 @@ Some situations are not "let's see how this goes." They are "get in the car." Me
 - Vomiting blood. Fresh red blood or vomit that looks like coffee grounds (digested blood from higher in the GI tract) is always an emergency.
 - Lethargic and vomiting together. Vomiting alone is different. Combined with obvious weakness, unwillingness to move, or hiding, that's serious.
 - Showing signs of pain: vocalizing when touched on the belly, hunching, refusing to let you near them.
-- Vomiting AND [not urinating](/cat-not-eating-for-2-days-but-acting-normal-causes/). In male cats especially, this combination can indicate a urinary blockage, which is fatal within 24 to 48 hours if untreated.
+- Vomiting AND not urinating. In male cats especially, this combination can indicate a urinary blockage, which is fatal within 24 to 48 hours if untreated.
 - Vomiting after known or suspected ingestion of toxins: lilies (any part of a true lily is deadly to cats), household cleaners, medications, or string/thread, which can cause a linear foreign body obstruction requiring surgery.
 
 PetMD's veterinary resource library documents plant toxicity in cats thoroughly, and true lilies (Easter lily, tiger lily, daylily) sit at the top of the danger list. If there's any chance your cat got into one, don't wait for vomiting to start. Call animal poison control immediately.

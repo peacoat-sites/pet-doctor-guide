@@ -45,7 +45,7 @@ Bacterial infections, most commonly *Bordetella bronchiseptica* or *Mycoplasma* 
 
 Cats have a far more sensitive sense of smell than humans, and products that smell mild to us can be genuinely noxious to them. Products that smell mild to us can be genuinely noxious to them. Plug-in air fresheners, scented candles, aerosol cleaning sprays, cigarette smoke, and even some essential oil diffusers can trigger sneezing that looks exactly like an infection.
 
-The diagnostic test here is free and takes about a week: remove the suspected irritant from the room where your cat spends most of its time and watch what happens. If sneezing stops or significantly improves within a few days, you have your answer. No [vet visit](/cat-annual-vet-visit-what-to-expect/) needed.
+The diagnostic test here is free and takes about a week: remove the suspected irritant from the room where your cat spends most of its time and watch what happens. If sneezing stops or significantly improves within a few days, you have your answer. No vet visit needed.
 
 A less obvious irritant source: dusty cat litter. Some clumping litters produce a fine silica dust that some cats react to strongly. Switching to a low-dust formula (unscented, fine-grain) is a simple change worth trying before assuming the cause is infectious.
 
