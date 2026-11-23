@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common reasons dogs vomit, when to call your vet, and simple steps to help your dog feel better fast."
 image: "/img/heroes/6235244.jpg"
-categories: ["Dog Symptoms"]
+categories: ["Symptoms"]
 tags: ["throwing"]
 author: "James Whitfield"
 author_slug: "james-whitfield"

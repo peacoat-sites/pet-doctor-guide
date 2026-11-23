@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why dogs pant at night and when it signals a health problem. Learn which causes need veterinary attention."
 image: "/img/heroes/36739473.jpg"
-categories: ["Dog Symptoms"]
+categories: ["Symptoms"]
 tags: ["panting", "night"]
 author: "Michelle Chen"
 author_slug: "michelle-chen"

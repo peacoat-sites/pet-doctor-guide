@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common reasons dogs shake or tremble, from cold and excitement to pain and illness, and learn when to call your vet."
 image: "/img/heroes/7210319.jpg"
-categories: ["Dog Symptoms"]
+categories: ["Symptoms"]
 tags: ["shaking"]
 author: "James Whitfield"
 author_slug: "james-whitfield"

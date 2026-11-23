@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out why your dog won't stop scratching, from allergies and fleas to dry skin and infections, plus what you can do to bring relief fast."
 image: "/img/heroes/3921202.jpg"
-categories: ["Dog Symptoms"]
+categories: ["Symptoms"]
 tags: ["scratching", "much"]
 author: "Amanda Foster"
 author_slug: "amanda-foster"
