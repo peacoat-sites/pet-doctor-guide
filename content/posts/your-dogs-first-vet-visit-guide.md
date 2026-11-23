@@ -47,7 +47,7 @@ A standard first-visit exam hits these points:
 | Leptospirosis | Non-core | Geographic and lifestyle dependent | Regional risk varies |
 | Influenza | Non-core | Geographic and lifestyle dependent | Regional risk varies |
 
-Depending on your dog's age and what they've had before, the vet may start or continue a [vaccine series](/dog-vaccinations-schedule-guide/). Core vaccines include:
+Depending on your dog's age and what they've had before, the vet may start or continue a [vaccine series](/dog-vaccination-schedule-by-breed-age-2026-guide/). Core vaccines include:
 
 - **Distemper/Parvo/Adenovirus (DHPP)**, given as a puppy series, then boosters
 - **Rabies**, required by law in most states

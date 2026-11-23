@@ -4,7 +4,7 @@ date: 2026-11-16T15:59:48.608050+00:00
 draft: false
 description: "Learn what causes cat sneezing, from allergies to infections. Find out when it's normal and when you should call your vet."
 image: "/img/heroes/24821709.jpg"
-categories: ["Cat Symptoms"]
+categories: ["Symptoms"]
 tags: ["sneezing"]
 author: "James Whitfield"
 author_slug: "james-whitfield"

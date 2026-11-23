@@ -50,7 +50,7 @@ The raw feeding community's frustration is legitimate. These recalls get weaponi
 
 But I'll be honest about something else: the safety infrastructure around raw and minimally processed foods is genuinely thinner than it is for commercial kibble. The companies tend to be smaller. Testing protocols vary more widely. The FDA's regulatory oversight of raw pet food has historically been less consistent than its approach to more conventional products. That's not a reason to abandon raw feeding. It is a reason to be a more active, skeptical consumer within that space.
 
-Practically speaking, this means checking the FDA recall page and the [AVMA's recall alerts tracker](/raaw-energy-recall-what-pet-owners-must-know-about-raw-food-safety/) regularly, not just when something blows up on social media. The AVMA maintains a searchable recalls and safety alerts database that's genuinely useful and easy to use. It also means understanding that voluntary recalls, which all three of these are, depend entirely on the company choosing to act. The Raaw Energy expanded recall on May 22 covered products going back nearly a year. That's a long window.
+Practically speaking, this means checking the FDA recall page and the AVMA's recall alerts tracker regularly, not just when something blows up on social media. The AVMA maintains a searchable recalls and safety alerts database that's genuinely useful and easy to use. It also means understanding that voluntary recalls, which all three of these are, depend entirely on the company choosing to act. The Raaw Energy expanded recall on May 22 covered products going back nearly a year. That's a long window.
 
 ## How to Talk to Your Vet About This
 

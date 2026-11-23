@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Xylitol is highly toxic to dogs even in small amounts. Learn the dangers, symptoms, and how to keep your pet safe from this sweetener."
 image: "/img/heroes/6578908.jpg"
-categories: ["Is It Safe"]
+categories: ["Behavior"]
 tags: ["xylitol", "dangerous", "dogs"]
 author: "Michelle Chen"
 author_slug: "michelle-chen"
@@ -28,7 +28,7 @@ faqs:
 
 0.1 grams per kilogram of body weight. That's all it takes. That's the dose at which xylitol can trigger life-threatening hypoglycemia in a dog, according to the ASPCA Animal Poison Control Center, and it's a smaller amount than most people can visualize. For a 20-pound Beagle, we're talking about roughly 0.9 grams of xylitol, which you'd find in as few as two or three pieces of sugar-free gum.
 
-If you're reading this because you just caught your dog eating something that had xylitol in it, skip down to the section on what to do [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/). I'll be here when you get back. For everyone else: this is one of those pet toxins where I genuinely believe most owners are underprepared, not because they don't love their dogs, but because xylitol has quietly spread into dozens of products most people would never think to check.
+If you're reading this because you just caught your dog eating something that had xylitol in it, skip down to the section on what to do [right now](/h5n1-bird-flu-in-cats-what-the-first-cat-to-human-case-means/). I'll be here when you get back. For everyone else: this is one of those pet toxins where I genuinely believe most owners are underprepared, not because they don't love their dogs, but because xylitol has quietly spread into dozens of products most people would never think to check.
 
 Xylitol toxicity in dogs moves quickly and often catches owners by surprise. Understanding how it works and what to watch for can make the difference in an emergency.
 
@@ -62,7 +62,7 @@ I had a client a few years ago whose dog got into a bag of sugar-free baking mix
 
 ## The Dose-Response Breakdown
 
-This table is worth bookmarking. The numbers come from peer-reviewed veterinary toxicology literature and ASPCA guidelines, and they help you calibrate how urgently to act based on how much your [dog ate](/pedigree-recall-what-to-do-if-your-dog-ate-the-affected-cans/).
+This table is worth bookmarking. The numbers come from peer-reviewed veterinary toxicology literature and ASPCA guidelines, and they help you calibrate how urgently to act based on how much your [dog ate](/pedigree-recall-july-2026-what-dog-owners-need-to-do-now/).
 
 | Xylitol Dose (mg/kg body weight) | Expected Effect | Time to Onset | Urgency |
 |---|---|---|---|

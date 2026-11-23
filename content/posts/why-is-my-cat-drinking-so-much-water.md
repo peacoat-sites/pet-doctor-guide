@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why your cat is drinking excessive water and when it signals a serious health problem like diabetes or kidney disease."
 image: "/img/heroes/723130.jpg"
-categories: ["Cat Symptoms"]
+categories: ["Symptoms"]
 tags: ["drinking", "much", "water"]
 author: "Amanda Foster"
 author_slug: "amanda-foster"

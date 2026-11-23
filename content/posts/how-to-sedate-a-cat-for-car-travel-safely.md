@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most articles about sedating cats for travel bury the actual useful information under so many "always ask your vet first" disclaimers that you finish reading knowing nothing more than when you started. So let's fix that.
 
-Here's the real situation: cats can be safely sedated or chemically calmed for car trips, but the method that works depends on your [cat's health status](/cat-annual-wellness-exam-guide/), the length of the trip, and whether you've tested anything before the day you actually need it to work. That last part is where most people fail.
+Here's the real situation: cats can be safely sedated or chemically calmed for car trips, but the method that works depends on your [cat's health status](/cat-annual-vet-visit-what-to-expect/), the length of the trip, and whether you've tested anything before the day you actually need it to work. That last part is where most people fail.
 
 ## What "Sedation" Actually Means for a Car Trip
 

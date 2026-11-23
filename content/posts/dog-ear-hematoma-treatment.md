@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how vets treat dog ear hematomas, from surgical drainage to non-invasive options, and what to expect during recovery."
 image: "/img/heroes/37375370.jpg"
-categories: ["Ear Health"]
+categories: ["Common Conditions"]
 tags: ["hematoma", "treatment"]
 author: "James Whitfield"
 author_slug: "james-whitfield"

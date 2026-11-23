@@ -4,7 +4,7 @@
 /foods-toxic-to-dogs-complete-list/  /toxic-foods-for-dogs-list/  301
 
 # 2026-07-17 slug-change 301s (GSC 404 cleanup)
-/cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026/ /cost-of-professional-dog-teeth-cleaning-under-anesthesia/ 301
+/cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026/ /dog-teeth-cleaning-cost/ 301
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
@@ -12,7 +12,7 @@
 
 # 2026-07-18 duplicate-topic merges
 /new-guidelines-just-changed-how-vets-treat-cat-diabetes/ /new-aaha-guidelines-just-changed-how-vets-treat-cat-diabetes/ 301
-/new-world-screwworm-is-now-in-the-us-what-pet-owners-must-know/ /new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/ 301
+/new-world-screwworm-is-now-in-the-us-what-pet-owners-must-know/ /new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/ 301
 
 # 2026-07-18 thin-category consolidation
 /categories/cat-conditions/ /categories/common-conditions/ 301
@@ -35,3 +35,26 @@
 /dr-amanda-foster/ /amanda-foster/ 301
 /alex-chen/ /about/ 301
 /dog-vaccination-schedule-by-breed-age-the-vet-tech-guide-2026/ /dog-vaccination-schedule-by-breed-age-2026-guide/ 301
+/cat-annual-wellness-exam-guide/ /cat-annual-vet-visit-what-to-expect/ 301
+/cost-of-professional-dog-teeth-cleaning-under-anesthesia/ /dog-teeth-cleaning-cost/ 301
+/dog-vaccinations-schedule-guide/ /dog-vaccination-schedule-by-breed-age-2026-guide/ 301
+/dog-vaccination-schedule-by-age-first-year-chart/ /dog-vaccination-schedule-by-breed-age-2026-guide/ 301
+/new-one-shot-vaccine-covers-lyme-and-leptospirosis-in-dogs/ /new-combo-vaccine-protects-dogs-against-lyme-and-lepto-in-one-shot/ 301
+/new-world-screwworm-is-back-in-the-us-and-pets-are-at-risk/ /new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/ 301
+/new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/ /new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/ 301
+/new-world-screwworm-is-back-how-to-protect-your-dog-and-cat/ /new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/ 301
+/pedigree-recall-what-to-do-if-your-dog-ate-the-affected-cans/ /pedigree-recall-july-2026-what-dog-owners-need-to-do-now/ 301
+/pedigree-wet-dog-food-recall-what-the-fraud-angle-means-for-you/ /pedigree-recall-july-2026-what-dog-owners-need-to-do-now/ 301
+/thiamine-deficiency-in-cats-what-the-go-raw-recall-means-for-you/ /thiamine-deficiency-in-cats-what-the-quest-food-recall-reveals/ 301
+/thiamine-deficiency-in-cats-what-the-2026-raw-food-recalls-reveal/ /thiamine-deficiency-in-cats-what-the-quest-food-recall-reveals/ 301
+/thiamine-deficiency-in-raw-and-freeze-dried-pet-food-what-to-know/ /thiamine-deficiency-in-cats-what-the-quest-food-recall-reveals/ 301
+/glp-1-weight-loss-drugs-are-coming-for-overweight-pets/ /ozempic-for-cats-what-the-new-glp-1-research-actually-means/ 301
+/glp-1-weight-loss-implants-for-cats-what-owners-need-to-know/ /ozempic-for-cats-what-the-new-glp-1-research-actually-means/ 301
+/h5n1-in-cats-what-every-owner-must-know-right-now/ /h5n1-bird-flu-in-cats-what-the-first-cat-to-human-case-means/ 301
+/dog-hot-spots-treatment/ /how-to-get-rid-of-hot-spots-on-dogs-naturally/ 301
+/signs-of-bloat-in-dogs-and-when-to-rush-to-the-vet/ /how-to-recognize-bloat-in-large-breed-dogs/ 301
+/dog-cruciate-surgery-cost/ /dog-acl-surgery-recovery-time-and-cost/ 301
+/why-is-my-cat-throwing-up/ /cat-vomiting-when-to-worry/ 301
+/how-to-tell-if-your-cat-is-in-pain-signs/ /signs-your-cat-is-in-pain/ 301
+/is-pet-insurance-worth-it-for-a-healthy-young-dog/ /pet-insurance-worth-it/ 301
+/raaw-energy-recall-what-pet-owners-must-know-about-raw-food-safety/ /raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/ 301

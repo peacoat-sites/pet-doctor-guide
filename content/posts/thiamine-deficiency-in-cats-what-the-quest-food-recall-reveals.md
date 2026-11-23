@@ -28,7 +28,7 @@ This is still an active, evolving situation. If you have any of these products i
 
 Cats are obligate carnivores, and their metabolic demand for thiamine (Vitamin B1) is higher than in most other mammals. They can't synthesize it themselves. They need a continuous dietary supply, and when that supply drops out, the consequences hit the nervous system hard and fast.
 
-The FDA's testing confirmed that all 8 examined lots of Quest products fell far below the AAFCO minimum cat food standard of 5.6 mg/kg of thiamine. When cats don't get enough B1, the neurological symptoms can escalate in a matter of days to weeks depending on how deficient the food is. The FDA first became aware of the Quest problem when a veterinary neurologist reported a cat presenting with severe [thiamine deficiency](/thiamine-deficiency-in-cats-what-the-go-raw-recall-means-for-you/) after eating an affected lot, and additional illness complaints prompted wider testing.
+The FDA's testing confirmed that all 8 examined lots of Quest products fell far below the AAFCO minimum cat food standard of 5.6 mg/kg of thiamine. When cats don't get enough B1, the neurological symptoms can escalate in a matter of days to weeks depending on how deficient the food is. The FDA first became aware of the Quest problem when a veterinary neurologist reported a cat presenting with severe thiamine deficiency after eating an affected lot, and additional illness complaints prompted wider testing.
 
 Here's what advanced thiamine deficiency actually looks like in a cat, because this is something you need to recognize:
 

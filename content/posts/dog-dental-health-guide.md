@@ -63,7 +63,7 @@ A cracked tooth or facial swelling that's warm to the touch edges into emergency
 
 ## Building a Home Dental Care Routine
 
-Daily toothbrushing is genuinely the most effective thing you can do between [professional cleanings](/cost-of-professional-dog-teeth-cleaning-under-anesthesia-2026/). The mechanical action of bristles against tooth surfaces disrupts plaque before it hardens. Nothing else replicates this as well.
+Daily toothbrushing is genuinely the most effective thing you can do between [professional cleanings](/dog-teeth-cleaning-cost/). The mechanical action of bristles against tooth surfaces disrupts plaque before it hardens. Nothing else replicates this as well.
 
 **How to brush your dog's teeth:**
 

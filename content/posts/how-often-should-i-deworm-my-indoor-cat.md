@@ -54,7 +54,7 @@ The [American Veterinary Medical Association (AVMA)](https://www.avma.org/) does
 
 **For kittens:** Every two weeks from two weeks of age until twelve weeks, then monthly until six months. This is standard, and it's non-negotiable. Roundworm burden in young kittens can be heavy and can cause real harm, including respiratory issues from larval migration.
 
-**For adult indoor-only cats with truly minimal risk:** No fleas, no contact with other animals, no outdoor access, owner doesn't work with soil or animals. An annual [fecal exam is reasonable](/cat-annual-wellness-exam-guide/). Routine prophylactic deworming every month isn't necessary or well-supported for this group. You're treating a problem that may not exist.
+**For adult indoor-only cats with truly minimal risk:** No fleas, no contact with other animals, no outdoor access, owner doesn't work with soil or animals. An annual [fecal exam is reasonable](/cat-annual-vet-visit-what-to-expect/). Routine prophylactic deworming every month isn't necessary or well-supported for this group. You're treating a problem that may not exist.
 
 **For adult indoor cats with any of these factors:** another pet that goes outside, a history of fleas, hunting behavior (even just insects), a new cat or kitten introduced to the home, or an owner who works in veterinary medicine, agriculture, or animal rescue. A fecal exam every six months is advisable, with a low threshold for treating if anything looks off.
 

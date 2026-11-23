@@ -15,7 +15,7 @@ slug: "new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know"
 affiliate_disclosure: true
 ---
 
-Most pet owners living in the South have never thought about screwworms. Why would they? The US eradicated New [World screwworm](/new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/) (NWS) in 1966, and for sixty years it stayed gone. That changes now. On June 3, 2026, USDA APHIS confirmed the first US detection in a calf in Zavala County, Texas, and by early July, two confirmed cases had shown up in dogs, part of more than 30 total confirmed instances across Texas and New Mexico. This is not a theoretical threat anymore. It's here, it's in pets, and if you own a dog or cat anywhere in the region, you need to know what you're actually dealing with.
+Most pet owners living in the South have never thought about screwworms. Why would they? The US eradicated New World screwworm (NWS) in 1966, and for sixty years it stayed gone. That changes now. On June 3, 2026, USDA APHIS confirmed the first US detection in a calf in Zavala County, Texas, and by early July, two confirmed cases had shown up in dogs, part of more than 30 total confirmed instances across Texas and New Mexico. This is not a theoretical threat anymore. It's here, it's in pets, and if you own a dog or cat anywhere in the region, you need to know what you're actually dealing with.
 
 Screwworm was traditionally considered a livestock problem, but veterinary and agricultural experts have increasingly identified dogs as vulnerable, particularly the kinds of dogs commonly kept or rescued in Texas and New Mexico. The outbreak is expected to continue for at least several more months, with officials deploying sterile fly releases to suppress the population.
 
@@ -31,7 +31,7 @@ That timeline matters enormously for how you respond. This is not a "watch it ov
 
 ## Who's Actually at Risk Right Now
 
-The AKC Canine Health Foundation, in a June 11, 2026 article, identified free-roaming dogs, strays, transported animals, and recently rescued dogs as carrying the highest risk, because they're more likely to have undetected wounds and less likely to have received routine preventatives. If you foster, rescue, or work with a rescue organization in Texas or New Mexico [right now](/h5n1-in-cats-what-every-owner-must-know-right-now/), this is the group you need to be most worried about.
+The AKC Canine Health Foundation, in a June 11, 2026 article, identified free-roaming dogs, strays, transported animals, and recently rescued dogs as carrying the highest risk, because they're more likely to have undetected wounds and less likely to have received routine preventatives. If you foster, rescue, or work with a rescue organization in Texas or New Mexico [right now](/h5n1-bird-flu-in-cats-what-the-first-cat-to-human-case-means/), this is the group you need to be most worried about.
 
 That said, any dog with an open wound, including a surgical incision, a tick-bite lesion, a small cut, a hot spot, or a skin fold infection, is potentially vulnerable if flies have access to them. Outdoor dogs are more exposed than indoor dogs, but the AKC guidance doesn't let indoor dogs fully off the hook if they spend time outside.
 

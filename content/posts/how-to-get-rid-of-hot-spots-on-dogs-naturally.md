@@ -46,7 +46,7 @@ Here's what most people miss: the hot spot itself isn't the actual problem. It's
 | Significant swelling, fever, lethargy, or no improvement after 3-4 days | Veterinary visit required | See vet immediately |
 | Senior dog, puppy, or immunocompromised dog with any hot spot | Veterinary visit required | See vet immediately |
 
-I need to be honest with you here: there's a version of "treating [hot spots](/dog-hot-spots-treatment/) naturally" that is genuinely responsible, and there's a version that involves putting coconut oil on a serious infection and hoping for the best. Those are not the same thing.
+I need to be honest with you here: there's a version of "treating hot spots naturally" that is genuinely responsible, and there's a version that involves putting coconut oil on a serious infection and hoping for the best. Those are not the same thing.
 
 **Reasonable candidates for home management:**
 

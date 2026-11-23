@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to protect your dog from tick-borne diseases. Essential prevention tips, symptoms to watch for, and when to seek veterinary care."
 image: "/img/heroes/4564889.jpg"
-categories: ["Parasites"]
+categories: ["Infectious Disease"]
 tags: ["tick-borne", "disease", "dogs", "guide"]
 author: "Amanda Foster"
 author_slug: "amanda-foster"

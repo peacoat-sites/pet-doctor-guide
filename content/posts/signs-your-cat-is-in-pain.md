@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn to recognize when your cat is hurting. Discover behavioral and physical signs that indicate pain and when to call your vet."
 image: "/img/heroes/6853523.jpg"
-categories: ["Pet Emergencies"]
+categories: ["Emergency Care"]
 tags: ["signs", "your", "pain"]
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"

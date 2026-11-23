@@ -1,5 +1,4 @@
 keyword,category,priority
-dog vaccinations schedule guide,Preventive Care,high
 cat annual vet visit what to expect,Preventive Care,high
 dog not eating what to do,Symptoms,high
 cat vomiting when to worry,Symptoms,high
@@ -40,7 +39,6 @@ spay neuter benefits dogs cats,Preventive Care,high
 pet microchipping explained,Preventive Care,high
 dog diabetes management,Common Conditions,high
 dog annual physical exam guide,Preventive Care,medium
-cat annual wellness exam guide,Preventive Care,medium
 blood work for dogs explained,Diagnostics,medium
 senior pet bloodwork panel,Diagnostics,medium
 dog urinalysis explained,Diagnostics,medium
@@ -66,7 +64,6 @@ mast cell tumor dogs,Common Conditions,medium
 dog hip dysplasia treatment,Orthopedic,medium
 luxating patella dogs,Orthopedic,medium
 torn ACL in dogs treatment,Orthopedic,medium
-dog cruciate surgery cost,Orthopedic,medium
 cataracts in dogs treatment,Eye Health,medium
 glaucoma in dogs,Eye Health,medium
 dog eye infection treatment,Eye Health,medium
@@ -86,7 +83,6 @@ FIV cats explained,Infectious Disease,medium
 FeLV cats prevention,Infectious Disease,medium
 ringworm in cats and dogs,Skin Conditions,medium
 mange in dogs types,Skin Conditions,medium
-dog hot spots treatment,Skin Conditions,medium
 sebaceous cyst dog,Skin Conditions,medium
 dog skin cancer signs,Skin Conditions,medium
 dog wart removal options,Skin Conditions,medium
@@ -172,10 +168,7 @@ hyperthyroidism cats treatment,Common Conditions,low
 feline infectious peritonitis FIP,Infectious Disease,low
 how often should i deworm my indoor cat,Preventive Care,high
 why is my dog throwing up white foam and not eating,Symptoms,high
-is pet insurance worth it for a healthy young dog,Pet Insurance,high
 how to stop a puppy from biting hands and ankles,Behavior,medium
-cost of professional dog teeth cleaning under anesthesia 2026,Dental Health,high
-signs of bloat in dogs and when to rush to the vet,Emergency Care,high
 how to treat a cat urinary tract infection at home,Common Conditions,medium
 best high protein dog food for weight loss,Nutrition,high
 best supplements for senior dogs with arthritis,Senior Pets,high
@@ -188,11 +181,9 @@ how to treat cloudy eyes in older dogs,Eye Health,medium
 home remedies for dog ear yeast infection,Ear Health,high
 why is my dog coughing and gagging like something is stuck,Respiratory,high
 kennel cough symptoms and how long it lasts in dogs,Infectious Disease,medium
-dog vaccination schedule by age first year chart,Vaccines,high
 how to get rid of hot spots on dogs naturally,Skin Conditions,high
 common health problems in french bulldogs,Breed Info,high
 how often should you bathe a dog with sensitive skin,Grooming,medium
-how to tell if your cat is in pain signs,General Info,medium
 how to sedate a cat for car travel safely,Travel,medium
 how to know when to euthanize a dog quality of life scale,End of Life,high
 what to check before adopting a rescue dog health,Getting a Pet,medium
@@ -209,7 +200,6 @@ why is my dog scratching so much,Dog Symptoms,high
 why is my dog panting at night,Dog Symptoms,medium
 why is my cat not eating,Cat Symptoms,high
 why is my cat sneezing,Cat Symptoms,medium
-why is my cat throwing up,Cat Symptoms,high
 why is my cat drinking so much water,Cat Symptoms,medium
 how much chocolate is toxic to dogs,Is It Safe,high
 are grapes toxic to dogs,Is It Safe,medium

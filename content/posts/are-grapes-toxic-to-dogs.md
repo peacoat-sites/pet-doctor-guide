@@ -4,7 +4,7 @@ date: 2026-11-22T21:51:24.654301+00:00
 draft: false
 description: "Learn why grapes are dangerous for dogs, what symptoms to watch for, and what to do if your dog eats them."
 image: "/img/heroes/5529562.jpg"
-categories: ["Is It Safe"]
+categories: ["Behavior"]
 tags: ["grapes", "toxic", "dogs"]
 author: "Rachel Sanders"
 author_slug: "rachel-sanders"

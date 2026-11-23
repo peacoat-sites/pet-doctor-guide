@@ -26,7 +26,7 @@ faqs:
     a: "A 1:10 bleach-to-water solution is the most accessible effective option for hard surfaces. Accelerated hydrogen peroxide products (such as Rescue disinfectant, which specifies kill claims for dermatophytes on the label) also work. Standard household cleaners and most disinfectant sprays without specific antifungal labeling are not reliable against fungal spores. Carpets and porous materials are genuinely hard to decontaminate; restriction to hard-floored areas during active infection is the most practical approach."
 ---
 
-Ringworm is one of those diagnoses that makes [pet owners](/new-world-screwworm-is-back-in-the-us-what-pet-owners-must-know/) visibly relax when I say the name, because it sounds manageable. Then I tell them it's a fungal infection that can live on surfaces in their home for 18 months and spreads readily to humans, and the relaxation disappears fast.
+Ringworm is one of those diagnoses that makes [pet owners](/new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/) visibly relax when I say the name, because it sounds manageable. Then I tell them it's a fungal infection that can live on surfaces in their home for 18 months and spreads readily to humans, and the relaxation disappears fast.
 
 Good. It should. Not because ringworm is deadly (it's not), but because the casual attitude most people have about it leads to drawn-out, expensive treatment courses and entire households getting infected. The more you understand about how this thing actually behaves, the faster you'll get through it.
 
@@ -90,7 +90,7 @@ Spores shed in the environment remain infective for a long time, up to 18 months
 
 Grooming tools should either be soaked in dilute bleach between uses or discarded. I know that sounds extreme for a $15 brush, but it's cheaper than treating a second round.
 
-If you have multiple pets, isolating the infected individual matters. Healthy adult cats and dogs with intact immune systems often resist infection, but kittens, elderly animals, and immunocompromised [pets are](/new-world-screwworm-is-back-in-the-us-and-pets-are-at-risk/) at real risk. Test and culture all animals in the household regardless of symptoms.
+If you have multiple pets, isolating the infected individual matters. Healthy adult cats and dogs with intact immune systems often resist infection, but kittens, elderly animals, and immunocompromised [pets are](/new-world-screwworm-in-us-pets-what-dog-and-cat-owners-must-know/) at real risk. Test and culture all animals in the household regardless of symptoms.
 
 ## The Zoonotic Reality
 

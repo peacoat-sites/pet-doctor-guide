@@ -77,7 +77,7 @@ The management isn't dramatically different from any other cat. The gap shows up
 | Progressive immune decline | Variable; not all cats reach this | Recurrent infections, weight loss, dental disease, neurological signs |
 | Terminal AIDS-like stage | Some cats never reach this | Severe immunosuppression, cancer, organ failure |
 
-The asymptomatic phase is long. Most [pet owners](/raaw-energy-recall-what-pet-owners-must-know-about-raw-food-safety/) who adopt an FIV cat will spend the majority of that cat's life in the middle column of that table, dealing with a cat that seems totally normal. That's not denial, it's just the actual disease progression.
+The asymptomatic phase is long. Most [pet owners](/raw-pet-food-recalls-are-piling-up-what-owners-need-to-know/) who adopt an FIV cat will spend the majority of that cat's life in the middle column of that table, dealing with a cat that seems totally normal. That's not denial, it's just the actual disease progression.
 
 ## Real Examples
 
