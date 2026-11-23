@@ -2,7 +2,7 @@
 title: "Foods Toxic to Dogs: The Complete Safety Guide (35+ Items)"
 description: "A comprehensive, searchable reference of foods toxic to dogs, with toxic compounds, symptoms, and what to do in each case. Backed by veterinary toxicology."
 date: 2026-06-10
-author: "Becca Hamlin"
+author: "Amanda Foster"
 slug: "foods-toxic-to-dogs"
 categories: ["Pet Safety"]
 tags: ["dog safety", "toxic foods", "pet poison", "what dogs can't eat"]

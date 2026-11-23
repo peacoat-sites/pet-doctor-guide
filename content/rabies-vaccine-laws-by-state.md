@@ -2,8 +2,8 @@
 title: "Dog Rabies Vaccine Laws by State (2026): Requirements, 1-Year vs 3-Year, and Exemptions"
 slug: "rabies-vaccine-laws-by-state"
 date: 2026-07-19
-author: "Dr. Amanda Foster"
-author_slug: "dr-amanda-foster"
+author: "Amanda Foster"
+author_slug: "amanda-foster"
 author_title: "Veterinary Reviewer"
 description: "Whether rabies vaccination is required for dogs in your state, how often boosters are legally due (1-year vs 3-year), and whether a medical exemption is allowed, for all 50 states plus DC."
 categories: ["Preventive Care"]

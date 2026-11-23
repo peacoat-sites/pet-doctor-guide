@@ -5,7 +5,7 @@ slug: "dog-cat-vaccine-schedule"
 description: "Complete dog and cat vaccination schedules based on AAHA 2022 and AAFP 2020 guidelines. See exactly which vaccines your pet needs, at what age, and how often, with cost estimates."
 categories: ["Pet Health"]
 tags: ["dog vaccines", "cat vaccines", "pet vaccination", "puppy shots", "kitten shots"]
-author: "Becca Hamlin"
+author: "Amanda Foster"
 image: ""
 ---
 
