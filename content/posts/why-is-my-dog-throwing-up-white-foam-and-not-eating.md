@@ -34,7 +34,7 @@ White foam is almost always mucus and saliva that's been mixed with air, either 
 Dogs vomit white foam for a pretty wide range of reasons. The most common ones I see in practice are:
 
 - Bilious vomiting syndrome (essentially an empty stomach that's become irritated by bile)
-- Bloat (GDV, gastric dilatation-volvulus) -- a true emergency
+- Bloat (GDV, gastric dilatation-volvulus), a true emergency
 - Kennel cough or other upper respiratory issues
 - Acid reflux
 - Eating grass, dirt, or something irritating

@@ -114,9 +114,9 @@ One more thing: board-and-train programs for reactivity. I get asked about these
 
 - [PetMD Veterinary Resource Library](https://www.petmd.com/): Behavioral guidance on reactivity, desensitization, and counter-conditioning reviewed by licensed veterinarians.
 - Overall KL, "Manual of Clinical Behavioral Medicine for Dogs and Cats" (Mosby, 2013): Primary clinical reference for DS/CC protocols in fear-based reactivity.
-- AAHA Canine and Feline Behavior Management Guidelines (2015, updated guidance ongoing): [aaha.org](https://www.aaha.org/) -- covers tool selection, humane methods, and behavioral wellness standards.
+- AAHA Canine and Feline Behavior Management Guidelines (2015, updated guidance ongoing): [aaha.org](https://www.aaha.org/), covers tool selection, humane methods, and behavioral wellness standards.
 - Herron ME, Shofer FS, Reisner IR, "Survey of the use and outcome of confrontational and non-confrontational training methods in client-owned dogs showing undesired behaviors" (Applied Animal Behaviour Science, 2009): Found that aversive methods increased aggression and fear responses in a significant percentage of dogs studied.
-- IAABC (International Association of Animal Behavior Consultants): [iaabc.org](https://iaabc.org/) -- credentialing body for CBCC-KA certified behavior consultants.
+- IAABC (International Association of Animal Behavior Consultants): [iaabc.org](https://iaabc.org/), credentialing body for CBCC-KA certified behavior consultants.
 
 ---
 

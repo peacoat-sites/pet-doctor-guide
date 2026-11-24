@@ -37,7 +37,7 @@ A condition is generally pre-existing if it showed clinical signs, was diagnosed
 
 ## What "curable" vs. "incurable" actually means for your wallet
 
-Here's where most guides gloss over the detail that matters. When an insurer calls a condition "curable," they mean it can be fully resolved with no residual disease. Ear infections, mild digestive upsets, [kennel cough](/dog-kennel-cough-treatment/) -- these generally qualify. If your dog had a single UTI two years ago and has been symptom-free since, some insurers will cover future UTIs after their lookback period clears.
+Here's where most guides gloss over the detail that matters. When an insurer calls a condition "curable," they mean it can be fully resolved with no residual disease. Ear infections, mild digestive upsets, [kennel cough](/dog-kennel-cough-treatment/), these generally qualify. If your dog had a single UTI two years ago and has been symptom-free since, some insurers will cover future UTIs after their lookback period clears.
 
 Incurable conditions are another story. Allergies, epilepsy, cancer, orthopedic disease, heart disease, diabetes, these are lifetime exclusions at most companies. Some insurers also classify ligament injuries (like a torn CCL) as incurable, even when surgery is "successful," because the joint is considered permanently compromised.
 

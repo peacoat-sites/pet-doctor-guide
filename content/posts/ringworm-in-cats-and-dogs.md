@@ -111,7 +111,7 @@ When a puppy in a litter tests positive, prophylactic treatment of the entire li
 ## Sources
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/): Dermatophytosis guidelines and zoonotic disease fact sheets
-- [Moriello KA, et al. (2017), Veterinary Dermatology](https://onlinelibrary.wiley.com/journal/13653164): "Diagnosis and treatment of dermatophytosis in dogs and cats" -- the current clinical consensus paper, still the most-cited reference in this area
+- [Moriello KA, et al. (2017), Veterinary Dermatology](https://onlinelibrary.wiley.com/journal/13653164): "Diagnosis and treatment of dermatophytosis in dogs and cats", the current clinical consensus paper, still the most-cited reference in this area
 - [PetMD veterinary resource library](https://www.petmd.com/): Ringworm transmission and household management overview, reviewed by licensed veterinarians
 - [Sparkes AH, et al., Journal of Small Animal Practice](https://onlinelibrary.wiley.com/journal/17485827): Studies on itraconazole pharmacokinetics in cats and treatment duration
 - [Cornell Feline Health Center](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center): Practical feline ringworm resources with shelter-specific protocols

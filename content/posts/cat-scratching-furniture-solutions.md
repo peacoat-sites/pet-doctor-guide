@@ -87,7 +87,7 @@ If you've done all of this, placed posts correctly, covered the furniture, trimm
 
 Cats that are under-stimulated also tend to scratch more. Puzzle feeders, scheduled interactive play, and vertical space (cat trees, window perches) reduce overall stress behaviors. A bored cat is a destructive cat. This is one of those cases where the scratching is a symptom, and the real problem is enrichment.
 
-**Worked example:** An owner of two young Bengal cats (if you know Bengals, you already see where this is going) came to me after losing an entire sectional armrest. Both cats were indoor-only, no puzzle feeders, no play schedule. We added two 15-minute wand toy sessions daily, a puzzle feeder for morning kibble, and two additional tall sisal posts. Three months later: furniture damage had dropped noticeably, and both cats were using the posts consistently. The behavioral shift was bigger than any physical deterrent she'd tried.
+**Worked example:** Indoor cats without adequate enrichment often destroy furniture out of boredom and excess energy. Adding two 15-minute wand toy sessions daily, a puzzle feeder for morning kibble, and two additional tall sisal posts can produce measurable results. Within three months, furniture damage typically drops noticeably, and cats use the posts consistently. Behavioral enrichment often outperforms physical deterrents alone.
 
 ---
 

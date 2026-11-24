@@ -29,7 +29,7 @@ Your small dog has been slowing down a little. Maybe they used to meet you at th
 
 You're not being paranoid. And the fact that you're paying attention might genuinely matter.
 
-Small breed dogs have a complicated relationship with their hearts. Cavalier King Charles Spaniels, Dachshunds, Chihuahuas, Poodles, Shih Tzus, Maltese -- these dogs are disproportionately affected by a condition called Myxomatous Mitral Valve Disease (MMVD), which accounts for roughly 75% of all heart disease cases in dogs. It's the number one cardiac condition in veterinary practice, and in small breeds, it tends to show up earlier and progress faster than it does in larger dogs. The American College of Veterinary Internal Medicine updated its MMVD consensus guidelines in 2019, and one thing those guidelines made very clear: early detection changes outcomes.
+Small breed dogs have a complicated relationship with their hearts. Cavalier King Charles Spaniels, Dachshunds, Chihuahuas, Poodles, Shih Tzus, Maltese, these dogs are disproportionately affected by a condition called Myxomatous Mitral Valve Disease (MMVD), which accounts for roughly 75% of all heart disease cases in dogs. It's the number one cardiac condition in veterinary practice, and in small breeds, it tends to show up earlier and progress faster than it does in larger dogs. The American College of Veterinary Internal Medicine updated its MMVD consensus guidelines in 2019, and one thing those guidelines made very clear: early detection changes outcomes.
 
 Here's what I tell people when they come in worried about their dog's heart: the signs you can spot at home are real, they're specific, and knowing them is worth your time.
 
@@ -49,7 +49,7 @@ Exercise intolerance is probably the one I watch most closely. If your dog used 
 
 Faster resting respiratory rate. This one is actually something you can monitor at home, and I genuinely think more people should. Count your dog's breaths per minute while they're completely relaxed and sleeping. Normal is between 15 and 30. Anything consistently above 30, or a sudden jump from their baseline, is a red flag. There are free apps like Cardalis and Cardiakin that let you log this over time. If you have a small breed with a known murmur, tracking their resting respiratory rate is one of the most useful things you can do between vet visits.
 
-Behavioral shifts, too. Restlessness at night, reluctance to lie flat, preferring to sleep propped up or sitting upright -- these can indicate discomfort from fluid buildup. Your dog isn't going to tell you their chest feels tight. But they will start sleeping differently.
+Behavioral shifts, too. Restlessness at night, reluctance to lie flat, preferring to sleep propped up or sitting upright, these can indicate discomfort from fluid buildup. Your dog isn't going to tell you their chest feels tight. But they will start sleeping differently.
 
 Fainting or collapse (syncope) is a more serious sign that warrants same-day emergency care, not a scheduled appointment. This happens when the heart can't maintain adequate output during exertion. It's scary to watch. If it happens once, your dog needs to be seen immediately.
 

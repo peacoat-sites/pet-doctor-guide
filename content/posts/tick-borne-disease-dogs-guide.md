@@ -96,7 +96,7 @@ A common mistake is assuming the Lyme vaccine means tick preventive use can be r
 
 - [CAPC Parasite Prevalence Maps](https://capcvet.org/maps/): Real-time tracking of tick-borne disease positive rates by county across the U.S., updated continuously.
 - AVMA Tick-Borne Disease Resources: Clinical summaries and treatment guidance from the [American Veterinary Medical Association](https://www.avma.org/).
-- Littman MP et al. (2018): "ACVIM consensus update on Lyme borreliosis in dogs and cats," *Journal of Veterinary Internal Medicine* -- the primary clinical reference for Lyme management protocols.
+- Littman MP et al. (2018): "ACVIM consensus update on Lyme borreliosis in dogs and cats," *Journal of Veterinary Internal Medicine*, the primary clinical reference for Lyme management protocols.
 - IDEXX Laboratories 4Dx Plus test data: Seroprevalence reporting from the largest veterinary diagnostic network in North America.
 - Waner T, Harrus S (2000, updated citations ongoing): Canine monocytic ehrlichiosis, foundational research on subclinical phase duration and bone marrow effects.
 

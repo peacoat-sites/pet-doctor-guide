@@ -100,7 +100,7 @@ If you receive flowers, check them against the table above before bringing them 
 - [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control): Searchable toxic plant database and 24/7 poison hotline; primary reference for lily toxicity classifications.
 - [PetMD Veterinary Resource Library](https://www.petmd.com/): Peer-reviewed species-specific toxicity profiles, including *Lilium* nephrotoxicity mechanisms.
 - [AAHA (American Animal Hospital Association)](https://www.aaha.org/): Hospital accreditation standards and clinical protocols for toxin exposure and emergency care.
-- Fitzgerald, K.T. (Journal of Veterinary Emergency and Critical Care, 2010): "Lily Toxicity in the Cat" -- one of the more cited clinical reviews on the nephrotoxic mechanism and treatment windows.
+- Fitzgerald, K.T. (Journal of Veterinary Emergency and Critical Care, 2010): "Lily Toxicity in the Cat", one of the more cited clinical reviews on the nephrotoxic mechanism and treatment windows.
 - [Cornell University College of Veterinary Medicine](https://www.vet.cornell.edu/): Plant toxicity resources and general feline nephrology references.
 
 *Photo: [Birkant  Cakar](https://www.pexels.com/@birkant-cakar-282193416) via Pexels*

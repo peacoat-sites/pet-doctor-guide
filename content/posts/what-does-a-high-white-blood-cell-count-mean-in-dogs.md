@@ -28,7 +28,7 @@ faqs:
 
 Your dog just had bloodwork done, and somewhere in that printout is a number that's higher than the reference range. The vet mentioned leukocytosis, or maybe they said "elevated white blood cells," and now you're home, staring at that sheet, trying to figure out what it actually means.
 
-That's exactly where most people are when they find this article. And I want to give you something more useful than "talk to your vet about it" -- because you probably already know that, and what you actually need right now is context.
+That's exactly where most people are when they find this article. And I want to give you something more useful than "talk to your vet about it", because you probably already know that, and what you actually need right now is context.
 
 ## What white blood cells do (and why the count matters)
 
@@ -67,7 +67,7 @@ If you've got the actual lab report in front of you, look for the section labele
 | Eosinophils | Parasites, allergies, some GI disorders | Check for heartworm, skin disease, GI parasites |
 | Basophils | Parasites, hypersensitivity, rare disorders | Elevation here is uncommon |
 
-A "left shift" -- when you see band neutrophils (immature cells) alongside elevated mature neutrophils, is one of those findings that makes vets move faster. It means the bone marrow is being pushed hard to produce cells quickly, which usually signals serious, active infection.
+A "left shift", when you see band neutrophils (immature cells) alongside elevated mature neutrophils, is one of those findings that makes vets move faster. It means the bone marrow is being pushed hard to produce cells quickly, which usually signals serious, active infection.
 
 ## Real cases: what the outcomes actually looked like
 
@@ -93,7 +93,7 @@ If there's any question about toxin exposure alongside abnormal bloodwork, [the 
 
 ## Sources
 
-- Merck Veterinary Manual: "Leukocyte Disorders in Dogs and Cats" -- comprehensive clinical reference on WBC interpretation
+- Merck Veterinary Manual: "Leukocyte Disorders in Dogs and Cats", comprehensive clinical reference on WBC interpretation
 - Ettinger & Feldman, *Textbook of Veterinary Internal Medicine* (8th ed.): Hematology chapters covering differential interpretation and bone marrow response
 - ASPCA Animal Poison Control Center: Clinical toxicology resource for veterinary professionals and pet owners
 - Vaden, Knoll, Smith & Tilley, *Blackwell's Five-Minute Veterinary Consult*: Quick-reference differential diagnosis for leukocytosis

@@ -104,9 +104,9 @@ Never combine Rimadyl with other NSAIDs (including aspirin) or with corticostero
 ## Sources
 
 - Zoetis Rimadyl (carprofen) prescribing information (current label): Full pharmacological data, dosing guidelines, and labeled indications for carprofen in dogs.
-- AAHA Canine Life Stage Guidelines and Pain Management Resources: [aaha.org](https://www.aaha.org/) -- Includes recommendations for monitoring protocols in dogs on chronic NSAID therapy.
+- AAHA Canine Life Stage Guidelines and Pain Management Resources: [aaha.org](https://www.aaha.org/), Includes recommendations for monitoring protocols in dogs on chronic NSAID therapy.
 - KuKanich, B. et al., "Clinical pharmacology of nonsteroidal anti-inflammatory drugs in dogs," *Veterinary Anaesthesia and Analgesia* (2012): Foundational research on COX inhibition and hepatotoxicity risk in canine patients.
-- PetMD Veterinary Resource Library: [petmd.com](https://www.petmd.com/) -- Accessible, vet-reviewed overviews of carprofen and NSAID alternatives including grapiprant.
+- PetMD Veterinary Resource Library: [petmd.com](https://www.petmd.com/), Accessible, vet-reviewed overviews of carprofen and NSAID alternatives including grapiprant.
 - FDA Freedom of Information Summary for Rimadyl: Available through the FDA's veterinary drug database; includes adverse event reporting data from original approval process.
 
 ---

@@ -85,11 +85,11 @@ Speaking of omega-3s: fish oil is often recommended for its anti-inflammatory pr
 
 ## Sources
 
-- Xenoulis, P.G. & Steiner, J.M. (2010): "Lipid metabolism and hyperlipidemia in dogs," *The Veterinary Journal* -- foundational work on triglycerides and pancreatitis risk in dogs
-- Mansfield, C. & Beths, T. (2015): "Management of acute pancreatitis in dogs," *In Practice* -- covers early enteral nutrition guidance that shifted the field away from strict food withdrawal
+- Xenoulis, P.G. & Steiner, J.M. (2010): "Lipid metabolism and hyperlipidemia in dogs," *The Veterinary Journal*, foundational work on triglycerides and pancreatitis risk in dogs
+- Mansfield, C. & Beths, T. (2015): "Management of acute pancreatitis in dogs," *In Practice*, covers early enteral nutrition guidance that shifted the field away from strict food withdrawal
 - [Tufts Cummings School of Veterinary Medicine Clinical Nutrition Service](https://vetnutrition.tufts.edu): board-certified nutritionist consultations for custom diet formulation
 - [AAHA Canine Life Stage Guidelines](https://www.aaha.org/): references for nutritional management standards in clinical practice
-- Pápa, K. et al. (2011): "Occurrence, clinical features and outcome of canine pancreatitis," *Acta Veterinaria Hungarica* -- epidemiological data on breed predispositions and dietary triggers
+- Pápa, K. et al. (2011): "Occurrence, clinical features and outcome of canine pancreatitis," *Acta Veterinaria Hungarica*, epidemiological data on breed predispositions and dietary triggers
 
 ---
 
