@@ -20,9 +20,7 @@ What surprised me about this one, and what makes it genuinely different from the
 
 The "yet" matters. These cans contain sharp metal and plastic fragments. The real risks here are choking, lacerations to the gastrointestinal tract, and intestinal blockages. Those aren't theoretical. A piece of metal in soft tissue can cause bleeding, infection, or perforation that requires emergency surgery.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Two specific lot codes are affected: 613C3KKCFC and 613C1KKCFC, 13.2 oz cans only.</li><li style="margin:5px 0">Contamination includes sharp metal and plastic fragments; risks include GI lacerations and blockages.</li><li style="margin:5px 0">Products were condemned and meant for destruction before being fraudulently resold nationwide.</li><li style="margin:5px 0">No injuries reported as of July 2, 2026, but do not feed or discard, return for refund.</li><li style="margin:5px 0">No other Pedigree or Mars Petcare US products are part of this recall.</li></ul></div>
-
 
 ## The Contamination Risk Is More Serious Than a Typical Recall
 
@@ -81,4 +79,3 @@ Check your cans. Watch your dog. Call your vet if anything seems off. That's the
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

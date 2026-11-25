@@ -77,16 +77,7 @@ If cost is a concern (and it often is, this is real not shameful), say so direct
 
 ## Sources
 
-- [The Pioneer Pet Raindrop fountain](https://www.amazon.com/s?k=Pioneer+Pet+Raindrop+cat+water+fountain&tag=contentportfo-20)
-- [Something like this puzzle feeder](https://www.amazon.com/s?k=cat+puzzle+feeder&tag=contentportfo-20)
-- [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-- [Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)
 - [SaL your PaL](https://www.pexels.com/@sal-your-pal-17123104)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
 ---
 
@@ -102,4 +93,3 @@ If cost is a concern (and it often is, this is real not shameful), say so direct
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

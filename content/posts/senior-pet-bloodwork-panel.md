@@ -119,16 +119,6 @@ Senior bloodwork isn't about finding something wrong. It's about knowing your pe
 ## Sources
 
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
-- [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
-- [Zesty Paws Hip and Joint Supplement Chews for Dogs](https://www.amazon.com/dp/B07RJJ5RCG?tag=contentportfo-20)
-- [PetSafe Easy Walk No-Pull Dog Harness](https://www.amazon.com/dp/B07CNDMQ65?tag=contentportfo-20)
-- [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 
 ---
 
@@ -139,4 +129,3 @@ Senior bloodwork isn't about finding something wrong. It's about knowing your pe
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-

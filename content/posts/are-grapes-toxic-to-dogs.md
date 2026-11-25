@@ -29,9 +29,7 @@ Yes, grapes are toxic to dogs. All forms: fresh grapes, raisins, currants, grape
 
 The mechanism isn't fully understood even now. For years, researchers suspected pesticides or a fungal contaminant, but neither theory held up consistently. The leading hypothesis as of 2026 points to tartaric acid, which is naturally present in grapes and raisins in high concentrations. Dogs appear to metabolize it poorly. But because the science isn't settled, there's no way to calculate a "safe" amount the way you can with, say, xylitol or chocolate. When something is this unpredictable, the only defensible rule is zero tolerance.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Grapes, raisins, and currants are all toxic to dogs with no known safe dose.</li><li style="margin:5px 0">Even a single raisin can cause acute kidney failure in some dogs.</li><li style="margin:5px 0">Symptoms can begin within 6–12 hours; kidney damage may appear within 24–72 hours.</li><li style="margin:5px 0">Call ASPCA Poison Control (888-426-4435) or your vet immediately if your dog ate any amount.</li><li style="margin:5px 0">Do not wait for symptoms before seeking help, early treatment dramatically improves outcomes.</li></ul></div>
-
 
 ## What Happens Inside Your Dog's Body
 
@@ -94,7 +92,6 @@ The honest answer about cost: emergency vet care with hospitalization and IV flu
 
 ---
 
-
 *Photo: [Zen Chung](https://www.pexels.com/@zen-chung) via Pexels*
 
 ---
@@ -109,4 +106,3 @@ The honest answer about cost: emergency vet care with hospitalization and IV flu
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

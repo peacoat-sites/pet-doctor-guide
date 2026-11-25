@@ -110,18 +110,7 @@ Your dog can't tell you where it hurts or whether the supplements are helping. T
 
 ## Sources
 
-- [You can find it on Amazon](https://www.amazon.com/s?k=Cosequin+DS+for+dogs&tag=contentportfo-20)
-- [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
-- [Check it on Amazon](https://www.amazon.com/s?k=green+lipped+mussel+dog+supplement&tag=contentportfo-20)
 - [ASPCA's Animal Poison Control resources](https://www.aspca.org/pet-care/animal-poison-control)
-- [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 
@@ -132,4 +121,3 @@ Your dog can't tell you where it hurts or whether the supplements are helping. T
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-

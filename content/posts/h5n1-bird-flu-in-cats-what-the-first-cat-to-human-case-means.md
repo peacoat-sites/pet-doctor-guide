@@ -20,9 +20,7 @@ The details matter here. The LA cluster involved 19 cats across five households 
 
 The AVMA has been tracking H5N1 in cats across 18 countries, and the fatality picture is grim: over half of infected cats have died from the virus. There's no available vaccine for cats. This isn't a distant agricultural problem anymore. It arrived in people's living rooms.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The first confirmed cat-to-human H5N1 transmission was documented by the CDC on May 7, 2026, in Los Angeles.</li><li style="margin:5px 0">14 of 19 exposed cats in the LA cluster died; all had eaten commercially purchased raw animal products.</li><li style="margin:5px 0">Only 1 of 25 exposed humans tested positive, but that person performed unprotected high-exposure procedures.</li><li style="margin:5px 0">H5N1 has been confirmed in cats across 18 countries; over half of infected cats have died.</li><li style="margin:5px 0">No H5N1 vaccine is currently available for domestic cats.</li></ul></div>
-
 
 ## What Actually Happened in Los Angeles, and Why It's a First
 
@@ -90,4 +88,3 @@ The honest reality is that H5N1 in cats is still a relatively rare event for mos
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

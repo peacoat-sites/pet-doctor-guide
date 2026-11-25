@@ -78,8 +78,6 @@ If you're considering a [pet first aid kit](https://www.amazon.com/s?k=pet+first
 
 ---
 
----
-
 For example, consider a scenario where an indoor/outdoor cat is exposed when an owner adopts a second cat whose FeLV status was never confirmed by the rescue. In such a case, if the resident cat tests negative, vaccinating immediately and transitioning to indoor-only life are the right next steps. The FeLV-positive cat would ideally be placed with a rescue that specializes in FeLV cats. Things can work out, but outcomes can easily go the other way. A test and a vaccine before the second cat came home would have prevented a great deal of fear and uncertainty. That's the whole point.
 
 ---
@@ -90,16 +88,7 @@ For example, consider a scenario where an indoor/outdoor cat is exposed when an 
 
 ## Sources
 
-- [Rayco First Aid Kit for Dogs and Cats](https://www.amazon.com/dp/B09L3GS3L2?tag=contentportfo-20)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-- [pet first aid kit](https://www.amazon.com/s?k=pet+first+aid+kit+cats&tag=contentportfo-20)
-- [Thundershirt Classic Dog Anxiety Jacket](https://www.amazon.com/dp/B01BMKAGP2?tag=contentportfo-20)
-- [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
 ---
 
@@ -109,4 +98,3 @@ For example, consider a scenario where an indoor/outdoor cat is exposed when an 
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

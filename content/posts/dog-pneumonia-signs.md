@@ -29,9 +29,7 @@ Pneumonia in dogs can turn life-threatening within 48 hours. If your dog is brea
 
 That said, recognizing pneumonia early is genuinely hard. The early signs overlap with simple kennel cough, allergies, and even [heart disease](/a-cheaper-generic-for-dogs-with-heart-disease-is-now-available/). Here's how to tell the difference, what to watch at home, and exactly when to escalate.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Breathing effort (not just coughing) is the most reliable emergency sign in dogs with pneumonia.</li><li style="margin:5px 0">Fever above 104°F with respiratory symptoms = same-day vet visit, no exceptions.</li><li style="margin:5px 0">Aspiration pneumonia (from vomiting or anesthesia) can develop within hours; don't wait to see if it clears.</li><li style="margin:5px 0">Puppies, seniors, and immunocompromised dogs get critically ill faster than healthy adults.</li><li style="margin:5px 0">Antibiotics must be prescribed by a vet; there's nothing safe or effective to give at home.</li></ul></div>
-
 
 ## What Pneumonia Actually Does in a Dog's Body
 
@@ -103,7 +101,6 @@ For dogs recovering from pneumonia at home, keeping a [pet first aid kit](https:
 
 ---
 
-
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
@@ -118,4 +115,3 @@ For dogs recovering from pneumonia at home, keeping a [pet first aid kit](https:
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

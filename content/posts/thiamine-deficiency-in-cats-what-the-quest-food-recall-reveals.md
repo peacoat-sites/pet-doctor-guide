@@ -20,9 +20,7 @@ Starting in February 2026, Go Raw LLC began recalling its Quest Cat Food product
 
 This is still an active, evolving situation. If you have any of these products in your home, stop feeding them now.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Go Raw LLC recalled Quest Cat Food starting February 17, 2026; all Quest sales were halted by February 26.</li><li style="margin:5px 0">FDA found 8 lots below AAFCO's minimum thiamine standard of 5.6 mg/kg; Go Raw only recalled 3 as of March 13.</li><li style="margin:5px 0">Steve's Real Food Chicken Recipe lot C26022 (best-by Jan 22, 2028) was added to the recall on June 9, 2026.</li><li style="margin:5px 0">Thiamine deficiency causes seizures and neck drooping in cats but is typically reversible with prompt treatment.</li><li style="margin:5px 0">Check your bags now: product names, lot codes, and best-by dates are the only reliable way to confirm affected food.</li></ul></div>
-
 
 ## Why Thiamine Deficiency Is So Dangerous for Cats
 
@@ -95,4 +93,3 @@ The cats who got sick from Quest food had owners who thought they were doing som
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

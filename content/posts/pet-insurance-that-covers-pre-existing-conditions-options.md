@@ -31,9 +31,7 @@ The key is understanding exactly what insurers mean by "pre-existing," because t
 
 A condition is generally pre-existing if it showed clinical signs, was diagnosed, or was treated before your policy's effective date. Some insurers even flag conditions that appeared during a waiting period as pre-existing. The distinction that matters most is whether the condition is **curable** or **incurable**. A curable condition (think ear infections, urinary tract infections, certain respiratory illnesses) can sometimes qualify for coverage after a symptom-free waiting period, usually 12 months. An incurable one (diabetes, Addison's disease, hip dysplasia already diagnosed) is typically excluded for the life of the policy, full stop.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most pet insurers permanently exclude incurable pre-existing conditions; curable ones may qualify after a 12-month symptom-free period.</li><li style="margin:5px 0">A handful of insurers, including ASPCA Pet Health Insurance and Embrace, offer some coverage pathways for curable pre-existing conditions.</li><li style="margin:5px 0">Bilateral conditions (affecting both sides of the body) are often excluded even when only one side has been diagnosed yet.</li><li style="margin:5px 0">Waiting periods can reset or extend if you switch insurers, making early enrollment important even if your pet is healthy now.</li><li style="margin:5px 0">No insurer in the U.S. currently covers chronic, incurable pre-existing conditions under a standard policy; programs vary widely on definitions.</li></ul></div>
-
 
 ## What "curable" vs. "incurable" actually means for your wallet
 
@@ -94,7 +92,6 @@ A pet first aid kit won't manage a chronic disease, but having one on hand for u
 
 ---
 
-
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
@@ -110,4 +107,3 @@ A pet first aid kit won't manage a chronic disease, but having one on hand for u
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-

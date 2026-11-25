@@ -20,9 +20,7 @@ Here's what makes this especially urgent: the two recalled lots, lot numbers 336
 
 As of the recall announcement, no adverse events had been reported, which is genuinely reassuring. But "no reports yet" doesn't mean "no risk." The FDA lists the potential consequences of injecting a glass-contaminated product as local irritation, swelling, inflammation, injection-site pain, infection, or abscess formation. Those are not small things, especially in a dog who's already dealing with joint pain.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Recalled lots are 3369 (distributed May 22, 2024) and 25011 (distributed April 14, 2025).</li><li style="margin:5px 0">Both are 100 mg/mL, 5-mL multidose vials of Adequan Canine Injection.</li><li style="margin:5px 0">Glass fiber contamination can cause injection-site infection, swelling, or abscess in dogs.</li><li style="margin:5px 0">No adverse events had been reported as of July 31, 2026, but the recall extends to pet owners' homes.</li><li style="margin:5px 0">Stop using affected vials immediately and contact your vet or the manufacturer before the next dose.</li></ul></div>
-
 
 ## How to Check Your Vials Right Now
 
@@ -81,4 +79,3 @@ The recall is unsettling, particularly for people who've built a careful routine
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

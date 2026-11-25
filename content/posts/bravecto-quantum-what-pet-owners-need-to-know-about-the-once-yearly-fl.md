@@ -19,9 +19,7 @@ Bravecto Quantum received its initial FDA approval on July 10, 2025, making it t
 
 The timing of that label expansion matters more than it might seem at first glance. Both the Asian longhorned tick and the Gulf Coast tick have been spreading steadily across the U.S. over the past several years, and a lot of pet owners don't realize their dogs may now be exposed to species that weren't local five years ago. According to Merck Animal Health's March 2026 news release, the expanded label means the injection now addresses five tick species total, and that coverage kicks in from a single vet visit.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Bravecto Quantum is the first FDA-approved single-injection parasiticide offering 12-month flea and tick protection for dogs.</li><li style="margin:5px 0">As of March 18, 2026, the label covers five tick species, including the Asian longhorned tick and Gulf Coast tick.</li><li style="margin:5px 0">It's approved for dogs and puppies 6 months and older; it is NOT approved for cats.</li><li style="margin:5px 0">Dogs with a history of seizures or neurological disorders need a careful vet conversation before this drug is considered.</li><li style="margin:5px 0">Protection against lone star ticks lasts 8 months, not the full 12, so ask your vet if that species is common in your area.</li></ul></div>
-
 
 ## What Actually Makes This Different From Oral and Topical Options
 
@@ -88,4 +86,3 @@ If your dog is healthy, at least 6 months old, and you've been frustrated by gap
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
 - **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price, 6-month supply.
-

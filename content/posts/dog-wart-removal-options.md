@@ -29,9 +29,7 @@ Most dog warts don't need to be removed at all. That's the starting point, and s
 
 Canine warts are caused by canine papillomavirus (CPV), and the great majority of them resolve on their own within one to five months as the dog's immune system catches up. Young dogs and immunocompromised dogs are most susceptible. The growths typically look like small, cauliflower-textured bumps, most commonly around the mouth, lips, and eyes, though they can appear anywhere. Single, smooth wart-like growths in older dogs are more often sebaceous cysts or papillomas with a different cause, so getting a confirmed diagnosis before deciding on a removal approach actually matters here.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most canine papillomavirus warts resolve without treatment within 1-5 months.</li><li style="margin:5px 0">Surgical removal is the most reliable option when removal is genuinely needed; cost typically runs $200-$500+ depending on location and anesthesia.</li><li style="margin:5px 0">Multiple warts spreading rapidly, any wart bleeding repeatedly or growing past 1 cm, or warts interfering with eating or breathing warrant a prompt vet visit.</li><li style="margin:5px 0">Never try to cut, tie off, or freeze a wart at home, the risk of infection and scarring outweighs any benefit.</li><li style="margin:5px 0">Older dogs with a single wart-like growth may have something other than a papillomavirus wart; biopsy can confirm.</li></ul></div>
-
 
 ## When to Actually Worry
 
@@ -90,7 +88,6 @@ Knowing your dog's age in relation to their immune maturity can be useful contex
 
 ---
 
-
 *Photo: [Gabriel Frank](https://www.pexels.com/@gabriel-frank-104295448) via Pexels*
 
 ---
@@ -105,4 +102,3 @@ Knowing your dog's age in relation to their immune maturity can be useful contex
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

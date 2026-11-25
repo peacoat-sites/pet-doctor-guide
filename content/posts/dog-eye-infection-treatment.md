@@ -82,8 +82,6 @@ Large, floppy-eared dogs and those with lots of facial skin folds (Basset Hounds
 
 ---
 
----
-
 The good news is that most dog eye infections, caught at a reasonable stage and treated properly, resolve completely and quickly. The key is knowing what warrants urgency, what to do while you wait, and how to actually get those drops in correctly once you have them. You've got all three now.
 
 ---
@@ -95,15 +93,7 @@ The good news is that most dog eye infections, caught at a reasonable stage and 
 ## Sources
 
 - [American Veterinary Medical Association](https://www.avma.org/)
-- [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
-- [pet eye wash like Vetericyn Plus](https://www.amazon.com/s?k=vetericyn+plus+eye+wash+for+dogs&tag=contentportfo-20)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-- [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
 ---
 
@@ -113,4 +103,3 @@ The good news is that most dog eye infections, caught at a reasonable stage and 
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

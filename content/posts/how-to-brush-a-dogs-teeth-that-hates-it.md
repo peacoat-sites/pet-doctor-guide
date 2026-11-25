@@ -83,15 +83,7 @@ You've got this. Just go slower than you think you need to.
 ## Sources
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
-- [Vet's Best Finger Toothbrush](https://www.amazon.com/s?k=finger+toothbrush+for+dogs)
 - [AVMA](https://www.avma.org/)
-- [Greenies are easy to find on Amazon](https://www.amazon.com/s?k=greenies+dental+chews+for+dogs)
-- [Catit Flower Fountain, Cat Water Fountain](https://www.amazon.com/dp/B0091MOQVS?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
 ---
 
@@ -102,4 +94,3 @@ You've got this. Just go slower than you think you need to.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
-

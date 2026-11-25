@@ -88,24 +88,14 @@ For giant breeds: consider a prophylactic gastropexy at the time of spay or neut
 
 ---
 
----
-
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
 
 ---
 
 ## Sources
 
-- [Arm & Hammer Dog Dental Spray, No Brush Needed](https://www.amazon.com/dp/B07FZBKKDQ?tag=contentportfo-20)
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
-- [Nylabone Power Chew Durable Dog Chew Toys](https://www.amazon.com/dp/B082PXQXJ1?tag=contentportfo-20)
-- [Purina Pro Plan Veterinary Supplements FortiFlora Probiotic](https://www.amazon.com/dp/B08KGQP5TH?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 
 ---
 
@@ -115,4 +105,3 @@ For giant breeds: consider a prophylactic gastropexy at the time of spay or neut
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

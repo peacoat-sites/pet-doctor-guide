@@ -86,8 +86,6 @@ Small breeds sometimes lose teeth so gradually that owners don't notice until th
 
 ---
 
----
-
 If your small dog is middle-aged and has never had a professional dental cleaning, I'd genuinely encourage you to ask your vet to do a thorough oral exam at the next visit, not just a quick look. There's a good chance something is already brewing that you can't see from the outside. The good news is that dogs respond well once the problem is addressed, and most bounce back from even significant dental disease. You just have to catch it, and then stay on it.
 
 ---
@@ -99,16 +97,7 @@ If your small dog is middle-aged and has never had a professional dental cleanin
 ## Sources
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
-- [FRONTLINE Plus Flea and Tick Treatment for Dogs](https://www.amazon.com/dp/B00XNGNQ58?tag=contentportfo-20)
-- [quality enzymatic dental chew](https://www.amazon.com/s?k=enzymatic+dental+chews+small+dogs&tag=contentportfo-20)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-- [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
 
 ---
 
@@ -119,4 +108,3 @@ If your small dog is middle-aged and has never had a professional dental cleanin
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
-

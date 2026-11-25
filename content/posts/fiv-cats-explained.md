@@ -97,8 +97,6 @@ One more: a 7-year-old FIV cat came in last spring with a third bout of [upper r
 
 ---
 
----
-
 FIV cats are not broken cats. They're cats with a condition that requires slightly more attention than average, and they repay that attention the same way any cat does: by being completely indifferent to your feelings while somehow making your life better.
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
@@ -115,4 +113,3 @@ FIV cats are not broken cats. They're cats with a condition that requires slight
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

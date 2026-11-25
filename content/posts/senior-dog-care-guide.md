@@ -33,9 +33,7 @@ Dogs are generally considered senior at 7 years old, though size matters a lot h
 
 **"Grain-free is always healthier for senior dogs"**: Most pet owners assume grain-free diets are superior, often choosing them to avoid fillers or perceived digestive issues. But research tells a different story. A 2018 FDA investigation found no scientific evidence linking grains to health problems in dogs, while a 2021 study in *Frontiers in Veterinary Science* showed grain-inclusive diets were just as digestible as grain-free alternatives. More concerning: grain-free diets high in legumes have been linked to dilated cardiomyopathy (DCM) in some breeds. For senior dogs especially, a balanced diet with quality grains (brown rice, oats) provides fiber and B vitamins that support aging joints and cognition. The best diet isn't grain-free, it's one formulated by a veterinary nutritionist for your dog's specific health needs.
 
-
 **"Grain-free is always better for dogs"**: Most pet owners believe grain-free diets are superior, often assuming grains are harmful fillers. However, the FDA investigated a potential link between grain-free foods and dilated cardiomyopathy (DCM) in dogs, finding no causal relationship but identifying taurine deficiency as a concern in some formulations. A 2021 study in *PLOS ONE* showed that grain-inclusive diets were actually associated with better heart health markers in senior dogs. For aging dogs, whole grains like oats and barley provide digestible fiber and B vitamins that support cognitive function and gut health, benefits grain-free alternatives often lack. The key isn't grain-free; it's nutritional completeness and appropriate taurine levels, regardless of grain content.
-
 
 Aging isn't a disease. It's a collection of gradual physiological changes happening simultaneously, and understanding them helps you make smarter decisions.
 
@@ -132,18 +130,8 @@ The dogs who age most gracefully aren't necessarily the ones with the best genet
 
 ## Sources
 
-- [Midwest Homes Folding Metal Dog Crate](https://www.amazon.com/dp/B01LYNYJSC?tag=contentportfo-20)
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
-- [Veterinary-grade dental chews and joint supplements are available on Amazon](https://www.amazon.com/)
-- [Orthopedic dog beds and joint support supplements are widely available on Amazon](https://www.amazon.com/)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 
 ---
 
@@ -154,4 +142,3 @@ The dogs who age most gracefully aren't necessarily the ones with the best genet
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
-

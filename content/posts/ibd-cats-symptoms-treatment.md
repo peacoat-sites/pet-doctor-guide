@@ -95,8 +95,6 @@ That last one frustrates me a little, to be honest. Eighteen months. That cat wa
 
 ---
 
----
-
 If your cat has been vomiting regularly for more than a few weeks and you've been told it's probably hairballs or "sensitive stomach," please push for more answers. A full workup, including B12/folate levels and abdominal ultrasound, is a reasonable next step, and if the ultrasound shows anything abnormal, biopsy is worth the conversation. You know your cat. Chronic discomfort is not something they should just live with.
 
 *(This article contains Amazon affiliate links; the site may earn a small commission if you purchase through them at no extra cost to you. Always consult your veterinarian before starting any new treatment or supplement.)*
@@ -115,4 +113,3 @@ If your cat has been vomiting regularly for more than a few weeks and you've bee
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

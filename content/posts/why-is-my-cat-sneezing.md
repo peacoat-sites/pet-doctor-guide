@@ -29,9 +29,7 @@ A single sneeze means almost nothing. A cat who sneezes repeatedly over several 
 
 Here's how to tell the difference.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most cat sneezing is caused by upper respiratory infections (URIs), and many mild cases resolve in 7-10 days.</li><li style="margin:5px 0">Yellow or green nasal discharge, eye involvement, or loss of appetite means a vet visit shouldn't wait past 24-48 hours.</li><li style="margin:5px 0">Chronic sneezing (lasting more than 2-3 weeks) warrants a full workup, rhinoscopy and imaging may be needed to rule out polyps or nasal tumors.</li><li style="margin:5px 0">Feline herpesvirus (FHV-1) is the single most common cause of recurrent sneezing in cats, and it's not curable, but it is manageable.</li><li style="margin:5px 0">Household irritants (candles, cleaning sprays, plug-in air fresheners) cause sneezing more often than most owners realize, and they're easy to rule out.</li></ul></div>
-
 
 ## The Most Likely Culprit: Upper Respiratory Infections
 
@@ -108,7 +106,6 @@ Having a [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+a
 
 ---
 
-
 *Photo: [Tyan Sevara](https://www.pexels.com/@tyan-sevara-1308233022) via Pexels*
 
 ---
@@ -123,4 +120,3 @@ Having a [well-stocked pet first aid kit](https://www.amazon.com/s?k=pet+first+a
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

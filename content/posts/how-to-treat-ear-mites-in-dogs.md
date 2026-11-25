@@ -31,9 +31,7 @@ Ear mites (the species is *Otodectes cynotis*) are tiny parasitic arachnids that
 
 Before you treat, confirm you're actually dealing with mites and not a bacterial or yeast infection, both of which cause similar symptoms and need completely different treatment. If the discharge is yellow, greenish, or has a strongly foul smell, that's more likely an infection. If your dog's ear canal looks swollen or red and painful to the touch, don't put anything in the ear until a vet has looked at it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ear mites cause dark, coffee-ground discharge and intense scratching; infections cause yellow/green discharge.</li><li style="margin:5px 0">Full treatment takes 3-4 weeks minimum to cover the entire mite life cycle.</li><li style="margin:5px 0">Over-the-counter options (Revolution, Tresaderm, etc.) work, but prescription options clear mites faster.</li><li style="margin:5px 0">Treat all pets in the household simultaneously or reinfestation is almost guaranteed.</li><li style="margin:5px 0">A vet visit is needed if the ear looks swollen, painful, or if OTC treatment fails after 3 weeks.</li></ul></div>
-
 
 ## What you're actually dealing with
 
@@ -119,7 +117,6 @@ Once you've cleared the mites, keep your dog on a monthly parasite prevention pr
 
 ---
 
-
 *Photo: [Rachel Claire](https://www.pexels.com/@rachel-claire) via Pexels*
 
 ---
@@ -134,4 +131,3 @@ Once you've cleared the mites, keep your dog on a monthly parasite prevention pr
 
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

@@ -122,11 +122,7 @@ One last thing worth knowing: if your puppy is drawing blood consistently after 
 
 ---
 
----
-
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
 
 ---
 
@@ -138,4 +134,3 @@ One last thing worth knowing: if your puppy is drawing blood consistently after 
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
-
