@@ -1,6 +1,7 @@
 ---
 title: "Is Your Dog Showing Early Signs Of Lyme Disease?"
 date: 2026-06-28T18:20:25.680334+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn to recognize Lyme disease symptoms in dogs including lameness, fever, fatigue, and joint swelling so you can get your pup treated fast."
 image: "/img/heroes/6604130.jpg"
@@ -127,12 +128,3 @@ If you're ever unsure whether something your dog ingested or was exposed to is d
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

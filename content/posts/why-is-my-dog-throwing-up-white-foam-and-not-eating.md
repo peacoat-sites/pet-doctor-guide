@@ -1,6 +1,7 @@
 ---
 title: "Dog Throwing Up White Foam and Not Eating: What It Means"
 date: 2026-06-09T19:31:37.688939+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover why your dog is vomiting white foam and refusing food. Learn common causes, warning signs, and when to seek urgent veterinary care for your pet."
 image: "/img/heroes/30763315.jpg"
@@ -104,14 +105,3 @@ Most of the time, this symptom resolves on its own or with simple management. Bu
 
 - [AVMA](https://www.avma.org/)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
-- **[Nutramax Proviable Probiotics for Dogs & Cats (80ct)](https://www.amazon.com/dp/B001O3UE9E/?tag=contentportfo-20)** (~$32), Multi-strain probiotic for both dogs and cats, supports digestive health and immune function.

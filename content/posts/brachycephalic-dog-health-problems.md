@@ -1,6 +1,7 @@
 ---
 title: "Brachycephalic Dog Health Problems: What Owners Must Know"
 date: 2026-06-19T19:12:45.896901+00:00
+googlebot_noindex: true
 draft: false
 description: "Brachycephalic dogs face serious breathing and health issues. Learn what causes these problems and how to keep your flat-faced dog healthy and comfortable."
 image: "/img/heroes/32104935.jpg"
@@ -101,12 +102,3 @@ One more angle worth mentioning: because brachycephalic dogs are already working
 
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
 - [ASPCA Animal Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

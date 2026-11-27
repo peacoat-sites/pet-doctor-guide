@@ -1,6 +1,7 @@
 ---
 title: "What Your Vet Sees During A Pet Ultrasound"
 date: 2026-05-19T20:17:34.788910+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how pet ultrasound works, what to expect during the procedure, and how this safe, painless imaging tool helps vets diagnose your animals health issues."
 image: "/img/heroes/7089291.jpg"
@@ -107,12 +108,3 @@ The goal of any diagnostic tool, ultrasound included, is simply to get you bette
 
 - [AAHA accreditation standards](https://www.aaha.org/)
 - [American Veterinary Medical Association](https://www.avma.org/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

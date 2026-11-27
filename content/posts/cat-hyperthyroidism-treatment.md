@@ -1,6 +1,7 @@
 ---
 title: "Managing Feline Hyperthyroidism: Treatment Options That Work"
 date: 2026-06-13T18:47:18.188714+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover effective cat hyperthyroidism treatments including medication, radioactive iodine therapy, surgery, and dietary options to help your cat live a longer,"
 image: "/img/heroes/20548841.jpg"
@@ -92,12 +93,3 @@ Most cats will find the loophole. The margin for error is small.
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
 - [Singlár Zsuzsa](https://www.pexels.com/@singlar-zsuzsa-413077990)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

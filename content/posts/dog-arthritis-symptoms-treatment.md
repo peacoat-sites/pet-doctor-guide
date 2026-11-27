@@ -1,6 +1,7 @@
 ---
 title: "Dog Arthritis Symptoms and Treatment: A Practical Guide"
 date: 2026-05-21T00:43:16.741117+00:00
+googlebot_noindex: true
 draft: false
 description: "Dog arthritis can cause limping, stiffness, and reduced mobility in older pets. Learn about common symptoms, pain management options, and treatments to improve "
 image: "/img/heroes/15977118.jpg"
@@ -133,12 +134,3 @@ Managing a dog with arthritis is a long game. There will be medication adjustmen
 
 - [American Animal Hospital Association (AAHA)](https://www.aaha.org/)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

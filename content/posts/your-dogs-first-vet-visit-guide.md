@@ -1,6 +1,7 @@
 ---
 title: "Your Dog's First Vet Visit: What to Expect and How to Prepare"
 date: 2026-05-20T00:51:18.359252+00:00
+googlebot_noindex: true
 slug: "your-dogs-first-vet-visit-guide"
 description: "Whether you have a new puppy or a newly adopted adult dog, here's exactly what happens at the first vet appointment and how to make it stress-free."
 image: "/img/heroes/4074727.jpg"
@@ -68,13 +69,3 @@ The vet will also discuss [heartworm prevention](/dog-heartworm-prevention-guide
 Don't leave without a clear answer on the next appointment. Preventive care is where you actually save money by avoiding expensive problems later.
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Always consult a licensed veterinarian for guidance specific to your pet.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.

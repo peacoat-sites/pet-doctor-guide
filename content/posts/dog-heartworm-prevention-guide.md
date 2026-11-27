@@ -1,6 +1,7 @@
 ---
 title: "Stop Heartworm Before It Starts: A Dog Owner's Guide"
 date: 2026-05-18T16:44:41.801462+00:00
+googlebot_noindex: true
 draft: false
 description: "Protect your dog from deadly heartworms with our complete prevention guide. Learn about medications, treatment options, and how to keep your pet safe year-round"
 image: "/img/heroes/16299046.jpg"
@@ -123,14 +124,3 @@ Heartworm prevention is one of the simplest, most impactful things you can do fo
 
 - [Heartgard Plus chewables are available on Amazon](https://amzn.to/heartworm-prevention)
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[PetArmor Plus Flea & Tick Prevention, Small Dogs (6 doses)](https://www.amazon.com/dp/B01N0BZUXO/?tag=contentportfo-20)** (~$32), Same active ingredient as Frontline Plus at a lower price, waterproof topical flea and tick prevention.
-- **[PetArmor Plus Flea & Tick Prevention, Medium Dogs (6 doses)](https://www.amazon.com/dp/B01N03Q8Q1/?tag=contentportfo-20)** (~$32), Vet-quality flea and tick prevention for dogs 23–44 lbs at a fraction of the prescription price, 6-month supply.

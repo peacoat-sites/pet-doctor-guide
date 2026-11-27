@@ -1,6 +1,7 @@
 ---
 title: "What's Really in Your Pet's Food Bowl"
 date: 2026-05-18T21:30:48.342579+00:00
+googlebot_noindex: true
 draft: false
 description: "Pet food ingredients guide: Learn what's in your pet's food, how to read labels, and choose nutritious options for your dog or cat's health and wellness."
 image: "/img/heroes/7086030.jpg"
@@ -115,12 +116,3 @@ Pet food marketing is loud, and it's designed to make you feel certain choices a
 ## Sources
 
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

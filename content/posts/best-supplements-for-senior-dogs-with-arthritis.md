@@ -1,6 +1,7 @@
 ---
 title: "Help Your Senior Dog Move Better: Top Joint Supplements"
 date: 2026-06-06T18:42:01.125828+00:00
+googlebot_noindex: true
 draft: false
 description: "Help your aging dog move comfortably again. Discover the best supplements for senior dogs with arthritis, including glucosamine, fish oil, and more vet-recommen"
 image: "/img/heroes/35127942.jpg"
@@ -111,13 +112,3 @@ Your dog can't tell you where it hurts or whether the supplements are helping. T
 ## Sources
 
 - [ASPCA's Animal Poison Control resources](https://www.aspca.org/pet-care/animal-poison-control)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.

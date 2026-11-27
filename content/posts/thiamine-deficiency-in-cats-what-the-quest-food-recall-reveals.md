@@ -1,6 +1,7 @@
 ---
 title: "Thiamine Deficiency in Cats: What the Quest Food Recall Reveals"
 date: 2026-07-16T18:37:34.472276+00:00
+googlebot_noindex: true
 draft: false
 description: "Thiamine deficiency in cats explained: Learn what the Quest food recall reveals about this critical vitamin deficiency, symptoms, and how to keep your cat safe."
 image: "/img/heroes/26612978.jpg"
@@ -84,12 +85,3 @@ The cats who got sick from Quest food had owners who thought they were doing som
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

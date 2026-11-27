@@ -1,6 +1,7 @@
 ---
 title: "Feline Asthma Explained: Symptoms, Diagnosis, and Treatment"
 date: 2026-06-15T20:35:41.069940+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover what feline asthma is, what causes it, how to spot the signs in your cat, and the treatment options vets recommend to keep your cat breathing easy."
 image: "/img/heroes/35316211.jpg"
@@ -92,12 +93,3 @@ Have a rescue plan. Talk to your vet about what to do if your cat has a severe e
 
 - [PetMD's veterinary resource library](https://www.petmd.com/)
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

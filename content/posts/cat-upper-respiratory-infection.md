@@ -1,6 +1,7 @@
 ---
 title: "Signs Your Cat Has an Upper Respiratory Infection"
 date: 2026-06-18T19:37:56.760807+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to recognize and treat cat upper respiratory infections, including common symptoms, causes, home care tips, and when to see a vet."
 image: "/img/heroes/4491602.jpg"
@@ -94,11 +95,6 @@ Almost nothing in your medicine cabinet is safe for cats. No Sudafed, no Benadry
 
 ---
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-
 *Photo: [Aleksandr Nadyojin](https://www.pexels.com/@aleksandr-nadyojin-2954845) via Pexels*
 
 ---
@@ -108,12 +104,3 @@ Almost nothing in your medicine cabinet is safe for cats. No Sudafed, no Benadry
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
 - [Aleksandr Nadyojin](https://www.pexels.com/@aleksandr-nadyojin-2954845)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

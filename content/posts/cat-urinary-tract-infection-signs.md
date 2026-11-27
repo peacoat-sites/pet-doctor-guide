@@ -1,6 +1,7 @@
 ---
 title: "Cat Urinary Tract Infection Signs and What to Do Next"
 date: 2026-05-19T09:44:42.122535+00:00
+googlebot_noindex: true
 draft: false
 description: "Cat urinary tract infection signs include frequent urination, straining, blood in urine, and behavioral changes. Learn symptoms and when to see a vet."
 image: "/img/heroes/17602393.jpg"
@@ -136,7 +137,6 @@ Urinary problems in cats sit in that frustrating space where some cases can legi
 
 ---
 
-**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 *Photo: [Felix Maltz](https://www.pexels.com/@ektra) via Pexels*
 
@@ -145,12 +145,3 @@ Urinary problems in cats sit in that frustrating space where some cases can legi
 ## Sources
 
 - [Felix Maltz](https://www.pexels.com/@ektra)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

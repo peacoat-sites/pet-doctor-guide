@@ -1,6 +1,7 @@
 ---
 title: "Cat Obesity Health Risks Every Owner Should Take Seriously"
 date: 2026-05-26T16:22:56.740443+00:00
+googlebot_noindex: true
 draft: false
 description: "Cat obesity increases risks of diabetes, joint problems, heart disease, and shortened lifespan. Learn how to keep your cat healthy and at ideal weight."
 image: "/img/heroes/32198599.jpg"
@@ -107,12 +108,3 @@ Helping a cat lose weight is a long game, typically six months to a year for mea
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

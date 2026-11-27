@@ -1,6 +1,7 @@
 ---
 title: "How To Clear Your Dog's Eye Infection Safely"
 date: 2026-06-25T19:21:36.971864+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to treat dog eye infections at home and when to see a vet. Discover symptoms, causes, and safe treatment options for your dogs eyes."
 image: "/img/heroes/35511914.jpg"
@@ -94,12 +95,3 @@ The good news is that most dog eye infections, caught at a reasonable stage and 
 
 - [American Veterinary Medical Association](https://www.avma.org/)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

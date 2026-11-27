@@ -1,6 +1,7 @@
 ---
 title: "Natural Relief For Hot Spots On Dogs"
 date: 2026-06-06T18:44:06.967306+00:00
+googlebot_noindex: true
 draft: false
 description: "Help your dog find relief with natural hot spot remedies. Learn gentle, effective treatments using ingredients from home to soothe irritated skin and promote he"
 image: "/img/heroes/30160750.jpg"
@@ -125,12 +126,3 @@ For example, a Lab mix treated with this approach had the hot spot clipped, clea
 
 - [ASPCA Poison Control Center](https://www.aspca.org/pet-care/animal-poison-control)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

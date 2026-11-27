@@ -1,6 +1,7 @@
 ---
 title: "Stop Furniture Damage: Why Cats Scratch And How To Stop It"
 date: 2026-07-04T18:15:19.457588+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover effective cat scratching furniture solutions to protect your home. Learn why cats scratch and how to redirect this natural behavior today."
 image: "/img/heroes/38321659.jpg"
@@ -102,12 +103,3 @@ Cats that are under-stimulated also tend to scratch more. Puzzle feeders, schedu
 ---
 
 *This article is for general informational purposes only and does not constitute veterinary advice. Pet health symptoms can have many causes and require professional evaluation. Always consult a licensed veterinarian for diagnosis and treatment specific to your pet.*
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

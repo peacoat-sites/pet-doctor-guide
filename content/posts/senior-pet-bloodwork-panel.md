@@ -1,6 +1,7 @@
 ---
 title: "Senior Pet Bloodwork Panel: What It Tests and Why"
 date: 2026-05-26T12:40:07.675552+00:00
+googlebot_noindex: true
 draft: false
 description: "Regular bloodwork panels help detect hidden health issues in aging pets early. Learn what tests are included, what they reveal, and how often seniors should be "
 image: "/img/heroes/6285363.jpg"
@@ -119,13 +120,3 @@ Senior bloodwork isn't about finding something wrong. It's about knowing your pe
 ## Sources
 
 - [AAHA hospital accreditation standards](https://www.aaha.org/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.

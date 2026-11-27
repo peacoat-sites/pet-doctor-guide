@@ -1,6 +1,7 @@
 ---
 title: "Why Your Vet Wants Blood Work For Your Dog"
 date: 2026-05-20T23:06:45.296745+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn what blood work for dogs reveals about their health, why vets recommend it, and how to understand your dog's test results with confidence."
 image: "/img/heroes/4040561.jpg"
@@ -115,12 +116,3 @@ Blood work isn't something to dread. It's one of the kindest things you can do f
 
 - [American Veterinary Medical Association (AVMA)](https://www.avma.org/)
 - [PetMD's veterinary resource library](https://www.petmd.com/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

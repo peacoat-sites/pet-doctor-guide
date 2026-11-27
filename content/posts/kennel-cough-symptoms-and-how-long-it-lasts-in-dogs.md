@@ -1,6 +1,7 @@
 ---
 title: "Kennel Cough in Dogs: Symptoms, Duration, and Recovery"
 date: 2026-06-12T19:26:36.669068+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn to spot kennel cough symptoms in dogs, including honking cough and runny nose, and find out how long it typically lasts before your dog fully recovers."
 image: "/img/heroes/13239223.jpg"
@@ -96,12 +97,3 @@ Most boarding facilities require it anyway, which is the most common reason dogs
 ## Sources
 
 - [Alexander Nadrilyanski](https://www.pexels.com/@aleksandar069)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.

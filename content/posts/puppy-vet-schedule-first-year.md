@@ -1,6 +1,7 @@
 ---
 title: "Your Puppy's First Year Vet Visits: The Complete Schedule"
 date: 2026-05-22T01:53:57.162204+00:00
+googlebot_noindex: true
 draft: false
 description: "Help your puppy thrive with our complete first-year vet schedule guide. Learn which vaccines, checkups, and treatments your pup needs and when to book them."
 image: "/img/heroes/37173533.jpg"
@@ -109,14 +110,3 @@ Your puppy's first year is a sprint. It's more vet visits, more decisions, and m
 ## Sources
 
 - [AAHA](https://www.aaha.org/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
